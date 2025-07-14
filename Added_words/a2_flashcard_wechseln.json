@@ -1,0 +1,208 @@
+[
+  {
+    "id": "4eb39fb8-fe04-4a41-8ea0-4409941d2401",
+    "deWord": "wechseln - wechselte - gewechselt",
+    "translateWord": "менять (что-либо, wechseln + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "a01c6d3a-969e-44c3-af51-6edf9e77c32a",
+        "deExample": "Ich wechsle meine Schuhe.",
+        "translateExample": "Я меняю свою обувь.",
+        "collocations": [
+          "Schuhe"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d78df0d3-67e4-4bf4-b659-70e6fb303002",
+        "deExample": "Wechselst du oft dein Handy?",
+        "translateExample": "Ты часто меняешь свой телефон?",
+        "collocations": [
+          "Handy"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3b405927-9046-42b1-8db5-78a7a8057d8d",
+        "deExample": "Er wechselt nicht gern die Arbeit.",
+        "translateExample": "Он не любит менять работу.",
+        "collocations": [
+          "Arbeit"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5df23fd1-5102-4e52-acd4-5166ed7c6c90",
+        "deExample": "Wir haben die Wohnung gewechselt.",
+        "translateExample": "Мы сменили квартиру.",
+        "collocations": [
+          "Wohnung"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6376ce6a-576a-416f-81d4-d8ee84914bd2",
+        "deExample": "Sie will die Schule wechseln.",
+        "translateExample": "Она хочет сменить школу.",
+        "collocations": [
+          "Schule"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "bda95967-260c-4683-bad9-dcab32db6757",
+        "deExample": "Ich wechsle den Job, weil ich mehr Geld verdienen möchte.",
+        "translateExample": "Я меняю работу, потому что хочу зарабатывать больше.",
+        "collocations": [
+          "Job",
+          "Geld"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "586d66fe-774b-4502-9267-2fe1d9c9850c",
+        "deExample": "Er wird das Auto wechseln, wenn er genug Geld hat.",
+        "translateExample": "Он поменяет машину, когда у него будет достаточно денег.",
+        "collocations": [
+          "Auto",
+          "Geld"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "607089f0-4204-41ce-8c8b-548b5de7a8bc",
+        "deExample": "Der Trainer wird nächste Woche gewechselt.",
+        "translateExample": "Тренера сменят на следующей неделе.",
+        "collocations": [
+          "Trainer"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "efb7eb25-3f82-497a-9ed3-c470be27f1b2",
+        "deExample": "Sie versucht, die Richtung zu wechseln.",
+        "translateExample": "Она пытается сменить направление.",
+        "collocations": [
+          "Richtung"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e8365e94-3502-47f3-9df8-bc4f1761433b",
+        "deExample": "Hast du vor, die Bank zu wechseln?",
+        "translateExample": "Ты собираешься сменить банк?",
+        "collocations": [
+          "Bank"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8530e327-dae6-4d12-9fc6-9c0c72640a6b",
+        "deExample": "Er spart Geld, um den Computer zu wechseln.",
+        "translateExample": "Он копит деньги, чтобы сменить компьютер.",
+        "collocations": [
+          "Geld",
+          "Computer"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,221 @@
+[
+  {
+    "id": "14867cab-9781-4cf8-8052-703188cc9db4",
+    "deWord": "dran",
+    "translateWord": "быть на очереди (употребляется с глаголом 'sein')",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "79d3a93b-6550-4799-bfb4-a79a45d7a73a",
+        "deExample": "Du bist jetzt dran.",
+        "translateExample": "Теперь твоя очередь.",
+        "collocations": [
+          "jetzt",
+          "du"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "45a1b196-56ea-45cd-9a33-21245312b10c",
+        "deExample": "Bin ich schon dran?",
+        "translateExample": "Я уже на очереди?",
+        "collocations": [
+          "schon",
+          "ich"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5165e365-64b4-4dd3-b098-90a51d202608",
+        "deExample": "Er ist noch nicht dran.",
+        "translateExample": "Его очередь ещё не наступила.",
+        "collocations": [
+          "noch",
+          "er"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "551d980d-2ef7-4c07-ac33-e486fe30315a",
+        "deExample": "Ich war gestern dran.",
+        "translateExample": "Вчера была моя очередь.",
+        "collocations": [
+          "gestern",
+          "ich"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3619d451-c87f-471d-b3ea-6da60afbe96c",
+        "deExample": "Du musst dran sein, wenn dein Name aufgerufen wird.",
+        "translateExample": "Ты должен быть готов, когда назовут твоё имя.",
+        "collocations": [
+          "der Name",
+          "aufrufen",
+          "du"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a83e4b1d-adc1-4022-b3f5-8a375dde45e8",
+        "deExample": "Er freut sich, weil er bald dran ist.",
+        "translateExample": "Он радуется, потому что скоро его очередь.",
+        "collocations": [
+          "bald",
+          "er",
+          "freuen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "664cb6a4-fd3a-47ca-92f2-bc2a04c8936b",
+        "deExample": "Ich werde dran sein, wenn du fertig bist.",
+        "translateExample": "Я буду на очереди, когда ты закончишь.",
+        "collocations": [
+          "fertig",
+          "du"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "000a57f3-a59b-41f4-8dd9-ee5e256340eb",
+        "deExample": "Es wird gesagt, dass ich gleich dran bin.",
+        "translateExample": "Говорят, что я сейчас на очереди.",
+        "collocations": [
+          "gleich",
+          "ich",
+          "sagen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "84ea4e68-3fc0-4be2-83a8-1755587a1dfa",
+        "deExample": "Ich versuche, immer pünktlich dran zu sein.",
+        "translateExample": "Я стараюсь всегда быть вовремя на очереди.",
+        "collocations": [
+          "versuchen",
+          "pünktlich",
+          "immer"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2b2c3bc0-57ef-477f-8691-33e654726ffa",
+        "deExample": "Wie kann ich lernen, geduldig dran zu sein?",
+        "translateExample": "Как я могу научиться терпеливо ждать своей очереди?",
+        "collocations": [
+          "lernen",
+          "geduldig"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3b0ca0b6-4155-43ce-b9c4-4b14a4496ae7",
+        "deExample": "Ich bleibe ruhig, um dran zu sein, wenn ich an der Reihe bin.",
+        "translateExample": "Я сохраняю спокойствие, чтобы быть готовым, когда наступит моя очередь.",
+        "collocations": [
+          "ruhig",
+          "bleiben",
+          "an der Reihe"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

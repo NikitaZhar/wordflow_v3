@@ -1,0 +1,1025 @@
+[
+  {
+    "id": "8fb4832b-18ed-4f24-91f2-29d84402a4a9",
+    "deWord": "kritisch",
+    "translateWord": "критический, критично",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "bec54edc-e905-48cf-82fd-ecbfe444c28c",
+        "deExample": "Er ist kritisch.",
+        "translateExample": "Он критичен.",
+        "collocations": [],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a6cec54d-e31f-4b5d-bfea-f6ef027290c8",
+        "deExample": "Bist du kritisch in dieser Frage?",
+        "translateExample": "Ты критичен в этом вопросе?",
+        "collocations": [
+          "Frage"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2fdf55a0-8a93-4205-bd77-543a34acc3fc",
+        "deExample": "Ich bin nicht kritisch.",
+        "translateExample": "Я не критичен.",
+        "collocations": [],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "722b5e0f-a086-4865-b0a7-b4f935bbb5e5",
+        "deExample": "Gestern war er kritisch.",
+        "translateExample": "Вчера он был критичен.",
+        "collocations": [
+          "gestern"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9c122f0a-a08f-4ef7-80ec-7b80af316b78",
+        "deExample": "Man sollte kritisch denken.",
+        "translateExample": "Нужно мыслить критически.",
+        "collocations": [
+          "denken"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "aec24329-1ea9-4bf8-b722-52e00edd06f4",
+        "deExample": "Ich höre zu, weil er kritisch ist.",
+        "translateExample": "Я слушаю, потому что он критичен.",
+        "collocations": [
+          "hören"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "36dde716-1dd8-4dfc-bfc4-38095fed9e56",
+        "deExample": "Ich werde kritisch bleiben, wenn ich die Nachrichten lese.",
+        "translateExample": "Я останусь критичным, когда читаю новости.",
+        "collocations": [
+          "Nachrichten",
+          "lesen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "23e31638-ffbf-47be-91df-629695a9b24a",
+        "deExample": "Er wird kritisch beurteilt.",
+        "translateExample": "Его оценивают критически.",
+        "collocations": [
+          "beurteilen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "efd0cba3-0bee-406c-84f0-b9e87e79a8c7",
+        "deExample": "Es ist wichtig, kritisch zu denken.",
+        "translateExample": "Важно мыслить критически.",
+        "collocations": [
+          "wichtig",
+          "denken"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c62f652e-78e0-4de4-ac56-b46a9e27842e",
+        "deExample": "Wie ist es, kritisch zu sein?",
+        "translateExample": "Как это — быть критичным?",
+        "collocations": [
+          "sein"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c96deea1-5323-43cd-b9dc-b0c3be4e2cb0",
+        "deExample": "Ich lese viel, um kritisch zu bleiben.",
+        "translateExample": "Я много читаю, чтобы оставаться критичным.",
+        "collocations": [
+          "lesen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "c8167d8b-b19a-4503-9743-ddbeea157f14",
+    "deWord": "hoffen - hoffte - gehofft",
+    "translateWord": "надеяться (auf + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "0f5e6e9a-2e1a-4f0a-9ccd-3c78f03f976b",
+        "deExample": "Ich hoffe auf gutes Wetter.",
+        "translateExample": "Я надеюсь на хорошую погоду.",
+        "collocations": [
+          "Wetter",
+          "gut"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "909b45ff-0c74-4a8f-b9c8-5426bacb5fbb",
+        "deExample": "Worauf hoffst du?",
+        "translateExample": "На что ты надеешься?",
+        "collocations": [],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "af6bc353-cc22-467a-b2d2-7bdeed09e862",
+        "deExample": "Ich hoffe nicht auf einen schnellen Erfolg.",
+        "translateExample": "Я не надеюсь на быстрый успех.",
+        "collocations": [
+          "Erfolg",
+          "schnell"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5fccb452-947a-4ce8-9c98-a555c92de283",
+        "deExample": "Ich habe auf bessere Zeiten gehofft.",
+        "translateExample": "Я надеялся на лучшие времена.",
+        "collocations": [
+          "Zeiten",
+          "besser"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "453b7754-92a8-4517-aa97-db64078f7e7e",
+        "deExample": "Man kann immer auf Hilfe hoffen.",
+        "translateExample": "Можно всегда надеяться на помощь.",
+        "collocations": [
+          "Hilfe"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "269fc3d8-6b95-45fa-95c8-51e023ffdc46",
+        "deExample": "Ich bin froh, weil ich wieder hoffen kann.",
+        "translateExample": "Я рад, потому что снова могу надеяться.",
+        "collocations": [
+          "froh"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5d47de59-10bb-43d0-8f9f-42b34460911d",
+        "deExample": "Ich werde auf Erfolg hoffen, wenn ich arbeite.",
+        "translateExample": "Я буду надеяться на успех, когда буду работать.",
+        "collocations": [
+          "Erfolg",
+          "arbeiten"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d1cf3e80-10e6-4b8c-8f49-46d0dc753d60",
+        "deExample": "Es wird auf bessere Zeiten gehofft.",
+        "translateExample": "Надеются на лучшие времена.",
+        "collocations": [
+          "Zeiten",
+          "besser"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "afa90769-14f4-4e08-981a-11dd003b1560",
+        "deExample": "Es ist wichtig, auf die Zukunft zu hoffen.",
+        "translateExample": "Важно надеяться на будущее.",
+        "collocations": [
+          "Zukunft",
+          "wichtig"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "687f300b-4fdf-4461-85e5-5b7e287c521d",
+        "deExample": "Worauf ist es gut, zu hoffen?",
+        "translateExample": "На что хорошо надеяться?",
+        "collocations": [],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5a4323e9-6a31-4f9a-94a8-f1a6ebee4bc2",
+        "deExample": "Ich arbeite hart, um auf Erfolg zu hoffen.",
+        "translateExample": "Я усердно работаю, чтобы надеяться на успех.",
+        "collocations": [
+          "arbeiten",
+          "hart",
+          "Erfolg"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "c46c49c6-d904-4451-bcd8-9d5d010c27e2",
+    "deWord": "sich fürchten - fürchtete - gefürchtet",
+    "translateWord": "бояться (vor + Dativ)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "a9110f39-9efc-4e52-8777-a7068b08f864",
+        "deExample": "Ich fürchte mich vor Spinnen.",
+        "translateExample": "Я боюсь пауков.",
+        "collocations": [
+          "Spinnen"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "da44eabe-d732-40bc-a458-d0be471b59d7",
+        "deExample": "Wovor fürchtest du dich?",
+        "translateExample": "Чего ты боишься?",
+        "collocations": [],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "eb663ca4-915e-4bf6-8f47-d77f6da8af48",
+        "deExample": "Ich fürchte mich nicht vor Dunkelheit.",
+        "translateExample": "Я не боюсь темноты.",
+        "collocations": [
+          "Dunkelheit"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "020a2465-8864-4d62-a6d1-6143aad49f9d",
+        "deExample": "Ich habe mich als Kind vor Hunden gefürchtet.",
+        "translateExample": "В детстве я боялся собак.",
+        "collocations": [
+          "Kind",
+          "Hunden"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7b922868-7e4d-4bcb-98fc-6d885bcef88f",
+        "deExample": "Man muss sich nicht vor Fehlern fürchten.",
+        "translateExample": "Не нужно бояться ошибок.",
+        "collocations": [
+          "Fehlern"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2573a5ea-9281-4302-b63e-81497c4e27c0",
+        "deExample": "Ich bin ruhig, weil ich mich nicht fürchte.",
+        "translateExample": "Я спокоен, потому что я не боюсь.",
+        "collocations": [
+          "ruhig"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f61aec98-45d7-4c9c-ab1a-fd02237c229f",
+        "deExample": "Ich werde mich nicht fürchten, wenn es dunkel wird.",
+        "translateExample": "Я не буду бояться, когда станет темно.",
+        "collocations": [
+          "dunkel"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e4bd16b1-fb04-4290-bc72-761595874e05",
+        "deExample": "Es wird sich oft vor Neuem gefürchtet.",
+        "translateExample": "Часто боятся нового.",
+        "collocations": [
+          "Neuem"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c9e246f8-2d40-40c3-af13-0639cd408aaf",
+        "deExample": "Es ist mutig, sich nicht zu fürchten.",
+        "translateExample": "Это смело — не бояться.",
+        "collocations": [
+          "mutig"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e9866c5d-ab30-4669-9976-f5ab3cbeb56d",
+        "deExample": "Wie ist es, sich vor nichts zu fürchten?",
+        "translateExample": "Как это — ничего не бояться?",
+        "collocations": [],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7396c335-7293-425d-bd2a-f978fca99593",
+        "deExample": "Ich atme tief, um mich nicht zu fürchten.",
+        "translateExample": "Я глубоко дышу, чтобы не бояться.",
+        "collocations": [
+          "atmen",
+          "tief"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "afd005ca-cc80-45d0-b010-28a823d5cb6b",
+    "deWord": "sonst",
+    "translateWord": "иначе, в противном случае, ещё",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "71a5f33c-b88f-453f-a471-d3acf7622858",
+        "deExample": "Sonst ist alles gut.",
+        "translateExample": "В остальном всё хорошо.",
+        "collocations": [
+          "gut"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "67d1224a-8bb0-4c5d-a887-600a2a7e461a",
+        "deExample": "Was machst du sonst?",
+        "translateExample": "Что ты делаешь ещё?",
+        "collocations": [
+          "machen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7446260a-32bf-4c47-b1a6-ba0b78cd92ef",
+        "deExample": "Ich brauche sonst nichts.",
+        "translateExample": "Мне больше ничего не нужно.",
+        "collocations": [
+          "brauchen"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a993b908-abf6-4c49-b26b-9da8f02872ed",
+        "deExample": "Sonst habe ich nichts gekauft.",
+        "translateExample": "Больше я ничего не купил.",
+        "collocations": [
+          "kaufen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6cdd8487-9d21-453d-93d1-1317341525de",
+        "deExample": "Du solltest das tun, sonst wird es schwierig.",
+        "translateExample": "Тебе следует это сделать, иначе будет трудно.",
+        "collocations": [
+          "tun",
+          "schwierig"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d2791f60-ffd0-47c9-b211-859b00d40f24",
+        "deExample": "Ich gehe, weil ich sonst zu spät komme.",
+        "translateExample": "Я ухожу, потому что иначе опоздаю.",
+        "collocations": [
+          "gehen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d04312fb-6f4c-4fae-b618-a778b58c0fe9",
+        "deExample": "Ich werde es jetzt machen, sonst vergesse ich es.",
+        "translateExample": "Я сделаю это сейчас, иначе забуду.",
+        "collocations": [
+          "machen",
+          "vergessen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5c84f51e-accc-42d2-ab31-fd9304573f2f",
+        "deExample": "Sonst wird nichts gesagt.",
+        "translateExample": "Иначе ничего не говорится.",
+        "collocations": [
+          "sagen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "20fdd163-52af-4aec-9a79-807fc1582bfd",
+        "deExample": "Es ist gut, sonst pünktlich zu sein.",
+        "translateExample": "Хорошо приходить вовремя в противном случае.",
+        "collocations": [
+          "gut",
+          "pünktlich"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "77bbbc0e-b2f5-4318-a8a5-c7903fc5346e",
+        "deExample": "Was muss ich sonst tun, um fertig zu sein?",
+        "translateExample": "Что мне ещё нужно сделать, чтобы закончить?",
+        "collocations": [
+          "tun",
+          "fertig"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "75f2cb21-0de5-4bd4-affa-be13f06ec042",
+        "deExample": "Ich arbeite schnell, sonst kann ich nicht rechtzeitig fertig werden.",
+        "translateExample": "Я работаю быстро, иначе не успею вовремя закончить.",
+        "collocations": [
+          "arbeiten",
+          "schnell"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "0074763b-cb39-4ef3-850c-0edd28f3960b",
+    "deWord": "zahlen - zahlte - gezahlt",
+    "translateWord": "платить",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "a196ccd9-45f9-4e9d-a48d-29e3ab57849c",
+        "deExample": "Ich zahle mit Karte.",
+        "translateExample": "Я плачу картой.",
+        "collocations": [
+          "Karte"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0da9ed64-cc45-4338-9983-9d19ccb187f2",
+        "deExample": "Wie zahlst du?",
+        "translateExample": "Как ты платишь?",
+        "collocations": [],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c6e32242-240c-4542-8038-2f7b72a9dc15",
+        "deExample": "Ich zahle heute nicht.",
+        "translateExample": "Я сегодня не плачу.",
+        "collocations": [
+          "heute"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d10b528c-b26a-4657-bdec-29318869aa35",
+        "deExample": "Gestern habe ich für das Essen gezahlt.",
+        "translateExample": "Вчера я заплатил за еду.",
+        "collocations": [
+          "gestern",
+          "Essen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "25587d06-40a8-4180-b1a7-b34cb6fa05cc",
+        "deExample": "Man kann auch bar zahlen.",
+        "translateExample": "Можно также платить наличными.",
+        "collocations": [
+          "bar"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a3558a55-928c-4743-9399-12f960fa8247",
+        "deExample": "Ich gehe, weil ich schon gezahlt habe.",
+        "translateExample": "Я ухожу, потому что я уже заплатил.",
+        "collocations": [
+          "gehen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7c2fd022-b080-41bc-b2e7-97618832a435",
+        "deExample": "Ich werde morgen zahlen, wenn ich Geld habe.",
+        "translateExample": "Я заплачу завтра, если у меня будут деньги.",
+        "collocations": [
+          "morgen",
+          "Geld"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "eb43fe60-5a2f-41f7-9d5b-8d3fff6957a3",
+        "deExample": "Die Rechnung wird heute gezahlt.",
+        "translateExample": "Счёт будет оплачен сегодня.",
+        "collocations": [
+          "Rechnung",
+          "heute"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2096ae14-eb8f-466d-933f-0ac7173b384c",
+        "deExample": "Es ist wichtig, rechtzeitig zu zahlen.",
+        "translateExample": "Важно платить вовремя.",
+        "collocations": [
+          "wichtig",
+          "rechtzeitig"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3b9409f1-1049-4575-9087-4956b54df3d9",
+        "deExample": "Wie ist es, bar zu zahlen?",
+        "translateExample": "Как это — платить наличными?",
+        "collocations": [
+          "bar"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "aedec7d4-8f71-4d36-aebb-040a7d7f6ae0",
+        "deExample": "Ich spare Geld, um später zu zahlen.",
+        "translateExample": "Я экономлю деньги, чтобы заплатить позже.",
+        "collocations": [
+          "Geld",
+          "sparen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

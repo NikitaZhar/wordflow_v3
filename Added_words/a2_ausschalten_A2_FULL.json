@@ -1,0 +1,211 @@
+[
+  {
+    "id": "2c337b1f-412e-4912-83e4-7244b79b307d",
+    "deWord": "ausschalten - schaltete aus - ausgeschaltet",
+    "translateWord": "выключать (что-л, Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "f2fa525d-8cb9-47a3-b8f0-a64879c7882e",
+        "deExample": "Ich schalte das Licht aus.",
+        "translateExample": "Я выключаю свет.",
+        "collocations": [
+          "das Licht"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e98e0380-6a45-4ca3-828b-9e534b55e3e1",
+        "deExample": "Schaltest du den Fernseher aus?",
+        "translateExample": "Ты выключаешь телевизор?",
+        "collocations": [
+          "der Fernseher"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "79c46e16-79fb-4fb3-a9e1-b51cf4781933",
+        "deExample": "Er schaltet den Computer nicht aus.",
+        "translateExample": "Он не выключает компьютер.",
+        "collocations": [
+          "der Computer"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "17ce5e7c-3f20-4b67-9368-77e06e99019d",
+        "deExample": "Wir haben die Musik ausgeschaltet.",
+        "translateExample": "Мы выключили музыку.",
+        "collocations": [
+          "die Musik"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f95dbaac-eda1-4c01-b8f8-d1866490693f",
+        "deExample": "Du kannst das Radio ausschalten.",
+        "translateExample": "Ты можешь выключить радио.",
+        "collocations": [
+          "das Radio"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "788c78db-845f-43b2-8c93-7cd91600584d",
+        "deExample": "Er geht ins Bett, weil er den Fernseher ausgeschaltet hat.",
+        "translateExample": "Он идёт спать, потому что выключил телевизор.",
+        "collocations": [
+          "ins Bett",
+          "der Fernseher"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "cfd675f5-6dd0-4535-a99e-3b07e5633fd1",
+        "deExample": "Ich werde das Licht ausschalten, wenn es hell wird.",
+        "translateExample": "Я выключу свет, когда станет светло.",
+        "collocations": [
+          "das Licht",
+          "hell"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2f307b1e-9072-4d02-9093-8f52e707fedc",
+        "deExample": "Der Computer wird ausgeschaltet.",
+        "translateExample": "Компьютер выключается.",
+        "collocations": [
+          "der Computer"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a23cdda4-8e88-4beb-a02a-00f3cbb0ed64",
+        "deExample": "Er vergisst oft, das Licht auszuschalten.",
+        "translateExample": "Он часто забывает выключить свет.",
+        "collocations": [
+          "vergessen",
+          "das Licht",
+          "oft"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b64425e8-a55c-45a2-8d63-5c76a1b4479e",
+        "deExample": "Willst du lernen, den Computer auszuschalten?",
+        "translateExample": "Ты хочешь научиться выключать компьютер?",
+        "collocations": [
+          "lernen",
+          "der Computer"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "57abc6af-406c-48ee-9dbd-a0b2f6e337b0",
+        "deExample": "Ich stehe auf, um das Radio auszuschalten.",
+        "translateExample": "Я встаю, чтобы выключить радио.",
+        "collocations": [
+          "aufstehen",
+          "das Radio"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

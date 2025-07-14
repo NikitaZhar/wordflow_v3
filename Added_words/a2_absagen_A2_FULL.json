@@ -1,0 +1,215 @@
+[
+  {
+    "id": "04c182a1-cfee-4f33-b044-9713f1c36adf",
+    "deWord": "absagen - sagte ab - abgesagt",
+    "translateWord": "отменять (что-л, Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "535da113-f5ab-4b63-bbbf-b75c827ee44f",
+        "deExample": "Ich sage den Termin heute ab.",
+        "translateExample": "Я сегодня отменяю встречу.",
+        "collocations": [
+          "der Termin",
+          "heute"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f721950f-d6ff-43da-91dd-ce8ce0d02f51",
+        "deExample": "Sagst du die Reise wirklich ab?",
+        "translateExample": "Ты действительно отменяешь поездку?",
+        "collocations": [
+          "die Reise",
+          "wirklich"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "80c34f12-f489-4143-813c-c19ca8f6685d",
+        "deExample": "Er sagt die Teilnahme nicht ab.",
+        "translateExample": "Он не отменяет участие.",
+        "collocations": [
+          "die Teilnahme"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0e5cc7b8-8c19-4b1f-8bd0-ea99e924f930",
+        "deExample": "Wir haben das Konzert abgesagt.",
+        "translateExample": "Мы отменили концерт.",
+        "collocations": [
+          "das Konzert"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "053c88b6-5f2c-4a89-8100-d6ebba58bc1d",
+        "deExample": "Du kannst den Termin jederzeit absagen.",
+        "translateExample": "Ты можешь в любое время отменить встречу.",
+        "collocations": [
+          "der Termin",
+          "jederzeit"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "982a6a5f-5171-4880-bda7-addc373688c4",
+        "deExample": "Er bleibt zu Hause, weil er den Termin abgesagt hat.",
+        "translateExample": "Он остаётся дома, потому что отменил встречу.",
+        "collocations": [
+          "zu Hause",
+          "der Termin"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b705fc86-5dd0-4f1d-a2f2-16d8da2ebf2c",
+        "deExample": "Ich werde das Meeting absagen, wenn es regnet.",
+        "translateExample": "Я отменю встречу, если пойдёт дождь.",
+        "collocations": [
+          "das Meeting",
+          "es",
+          "regnen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fa07098a-84a2-4843-b82d-c91432761f8c",
+        "deExample": "Der Termin wird abgesagt.",
+        "translateExample": "Встреча отменяется.",
+        "collocations": [
+          "der Termin"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c42a155f-c15b-47a6-8b4d-aceb3de66fff",
+        "deExample": "Er plant, den Kurs abzusagen.",
+        "translateExample": "Он планирует отменить курс.",
+        "collocations": [
+          "der Kurs",
+          "planen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f508102c-9554-4326-a3b7-6e07c232d965",
+        "deExample": "Musst du den Termin wirklich absagen?",
+        "translateExample": "Тебе действительно нужно отменить встречу?",
+        "collocations": [
+          "der Termin",
+          "wirklich",
+          "müssen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5e7de331-2faf-4846-83da-fdbbe2536e6f",
+        "deExample": "Er ruft an, um den Termin abzusagen.",
+        "translateExample": "Он звонит, чтобы отменить встречу.",
+        "collocations": [
+          "anrufen",
+          "der Termin"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

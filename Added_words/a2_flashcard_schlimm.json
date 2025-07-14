@@ -1,0 +1,200 @@
+[
+  {
+    "id": "f7b0dbd7-462c-4d8c-9f0d-db7b244dd4ba",
+    "deWord": "schlimm",
+    "translateWord": "плохой, плохо",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "9e9519c6-805a-40ec-9526-fb1b7fee157b",
+        "deExample": "Es ist schlimm.",
+        "translateExample": "Это плохо.",
+        "collocations": [],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "88f81a28-f2d2-4c34-a8ea-ca3c9b742276",
+        "deExample": "Ist es schlimm?",
+        "translateExample": "Это плохо?",
+        "collocations": [],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "011246f9-f67e-499e-9c56-61ff0a539f47",
+        "deExample": "Es ist heute nicht schlimm.",
+        "translateExample": "Сегодня это не так плохо.",
+        "collocations": [
+          "heute"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "74caf357-11f0-4b25-9a6b-a6da5f912f98",
+        "deExample": "Es war gestern schlimm.",
+        "translateExample": "Вчера это было плохо.",
+        "collocations": [
+          "gestern"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "789558e6-291c-4b5b-9058-05cd9bb552e6",
+        "deExample": "Es kann schlimm sein.",
+        "translateExample": "Это может быть плохо.",
+        "collocations": [],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0824822c-538b-4e2a-870f-6f77eaaacbd6",
+        "deExample": "Ich bleibe zu Hause, weil es schlimm ist.",
+        "translateExample": "Я остаюсь дома, потому что это плохо.",
+        "collocations": [
+          "Hause"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "38097b91-823b-475b-99a9-576031ffa400",
+        "deExample": "Es wird schlimm sein, wenn es regnet.",
+        "translateExample": "Будет плохо, если пойдет дождь.",
+        "collocations": [
+          "regnen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "93faa13f-fc6b-4093-8282-2d5fda31246f",
+        "deExample": "Es wird als schlimm empfunden.",
+        "translateExample": "Это воспринимается как плохое.",
+        "collocations": [
+          "empfinden"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5aace424-4fd7-461c-81e7-4cf33eed71d1",
+        "deExample": "Es ist schwer, schlimm zu sein.",
+        "translateExample": "Тяжело быть плохим.",
+        "collocations": [
+          "schwer"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a9260d2a-47e8-48c7-9d70-839ca1e84581",
+        "deExample": "Ist es schlimm, zu spät zu kommen?",
+        "translateExample": "Это плохо, приходить поздно?",
+        "collocations": [
+          "kommen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e0159325-6d45-439f-830d-28bb06687677",
+        "deExample": "Er arbeitet, um nicht schlimm zu leben.",
+        "translateExample": "Он работает, чтобы не жить плохо.",
+        "collocations": [
+          "arbeiten",
+          "leben"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

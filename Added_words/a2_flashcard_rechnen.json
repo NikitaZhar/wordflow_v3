@@ -1,0 +1,206 @@
+[
+  {
+    "id": "c3d41c42-4bd0-43be-93ae-3e9d6b894f5b",
+    "deWord": "rechnen - rechnete - gerechnet",
+    "translateWord": "считать, рассчитывать (rechnen)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "c6769a9b-f79a-4066-8a40-e12a2a1de38f",
+        "deExample": "Ich rechne die Aufgabe.",
+        "translateExample": "Я считаю задание.",
+        "collocations": [
+          "Aufgabe"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e492127c-9db9-4015-adeb-948f4f73805c",
+        "deExample": "Rechnest du schnell?",
+        "translateExample": "Ты быстро считаешь?",
+        "collocations": [
+          "schnell"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c878e801-708c-48f7-9da9-2dbcb26e4be7",
+        "deExample": "Er rechnet nicht richtig.",
+        "translateExample": "Он считает неправильно.",
+        "collocations": [
+          "richtig"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6c6810c0-47ba-4543-8035-89d75660139b",
+        "deExample": "Ich habe gestern gerechnet.",
+        "translateExample": "Вчера я считал.",
+        "collocations": [
+          "gestern"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d0db6344-0667-45ee-a347-dc5b0d983336",
+        "deExample": "Du kannst im Kopf rechnen.",
+        "translateExample": "Ты можешь считать в уме.",
+        "collocations": [
+          "Kopf"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "104ae6f6-7515-4304-8d35-aa6ae5cf9444",
+        "deExample": "Er rechnet, weil er die Summe wissen will.",
+        "translateExample": "Он считает, потому что хочет знать сумму.",
+        "collocations": [
+          "Summe",
+          "wissen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "14f70587-dba0-4cca-ab52-94ac1efcc408",
+        "deExample": "Ich werde rechnen, wenn ich Zeit habe.",
+        "translateExample": "Я посчитаю, когда у меня будет время.",
+        "collocations": [
+          "Zeit"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7b581898-77e3-4364-9652-a5747b8dd2e2",
+        "deExample": "Es wird im Kopf gerechnet.",
+        "translateExample": "Считается в уме.",
+        "collocations": [
+          "Kopf"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "642939a4-5294-46c4-920b-fe1ad8f38230",
+        "deExample": "Er versucht, schneller zu rechnen.",
+        "translateExample": "Он старается считать быстрее.",
+        "collocations": [
+          "schneller"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3bd2a172-996c-45fd-8b52-8aa0f8153cfd",
+        "deExample": "Willst du lernen, wie man schnell rechnet?",
+        "translateExample": "Ты хочешь узнать, как быстро считать?",
+        "collocations": [
+          "lernen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "03553db8-250f-4bd4-abe7-6c5caf01217b",
+        "deExample": "Er übt viel, um gut rechnen zu können.",
+        "translateExample": "Он много тренируется, чтобы хорошо уметь считать.",
+        "collocations": [
+          "üben"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "id": "667d6c0d-f3a9-413a-beba-3f917b8baa6b",
+    "deWord": "feiern - feierte - gefeiert",
+    "translateWord": "праздновать (feiern + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "f3e7869e-5ba0-4bd4-9549-c4c882d2efbd",
+        "deExample": "Wir feiern den Geburtstag.",
+        "translateExample": "Мы празднуем день рождения.",
+        "collocations": [
+          "Geburtstag"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9e92e586-ba30-4644-ae83-d48452f62096",
+        "deExample": "Feierst du heute?",
+        "translateExample": "Ты сегодня празднуешь?",
+        "collocations": [
+          "heute"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "73c00d02-53bc-467e-9d2a-51c088e6b671",
+        "deExample": "Wir feiern heute nicht.",
+        "translateExample": "Мы сегодня не празднуем.",
+        "collocations": [
+          "heute"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a620d4ee-8845-494a-95ed-0b8b4fc2bb61",
+        "deExample": "Wir haben gestern gefeiert.",
+        "translateExample": "Мы вчера праздновали.",
+        "collocations": [
+          "gestern"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "bd5f06b8-9c9c-4f0f-acb9-9fde76a72f3f",
+        "deExample": "Du kannst mit uns feiern.",
+        "translateExample": "Ты можешь праздновать с нами.",
+        "collocations": [
+          "mit"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a7bed154-b22b-43ff-9047-e6cb25716a35",
+        "deExample": "Wir feiern, weil er Geburtstag hat.",
+        "translateExample": "Мы празднуем, потому что у него день рождения.",
+        "collocations": [
+          "Geburtstag"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "70b59728-9eb4-4725-a236-3e472156c4cd",
+        "deExample": "Wir werden feiern, wenn alle da sind.",
+        "translateExample": "Мы будем праздновать, когда все будут здесь.",
+        "collocations": [
+          "alle"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7af6ade3-e320-41cc-aac6-0c60b1a39564",
+        "deExample": "Der Geburtstag wird gefeiert.",
+        "translateExample": "День рождения празднуется.",
+        "collocations": [
+          "Geburtstag"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5935dc15-cea0-4e9f-997d-2c6a62c386c9",
+        "deExample": "Er versucht, mit Freunden zu feiern.",
+        "translateExample": "Он старается праздновать с друзьями.",
+        "collocations": [
+          "Freunde"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b06330fd-5c0a-4996-b7fd-58a3d9ff8488",
+        "deExample": "Willst du lernen, wie man richtig feiert?",
+        "translateExample": "Ты хочешь узнать, как правильно праздновать?",
+        "collocations": [
+          "lernen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "07fd778d-a619-4ff0-b662-0fd9486a2e49",
+        "deExample": "Er spart Geld, um eine Party zu feiern.",
+        "translateExample": "Он копит деньги, чтобы устроить вечеринку.",
+        "collocations": [
+          "Geld",
+          "Party"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

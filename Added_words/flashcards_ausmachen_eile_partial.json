@@ -1,0 +1,406 @@
+[
+  {
+    "id": "3a5e0d52-b386-49fb-8d55-4877a531d7ac",
+    "deWord": "ausmachen - machte aus - ausgemacht",
+    "translateWord": "выключать (что-л, Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "336ee5fc-85a0-4c5a-b52a-025a274fb9c4",
+        "deExample": "Ich mache das Licht aus.",
+        "translateExample": "Я выключаю свет.",
+        "collocations": [
+          "Licht"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2e442014-b3cd-41ba-a5e8-f2c581492c7b",
+        "deExample": "Machst du bitte das Radio aus?",
+        "translateExample": "Ты выключишь, пожалуйста, радио?",
+        "collocations": [
+          "Radio"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b973f39a-b4f0-4486-8b98-3ffab12d0069",
+        "deExample": "Ich mache das nicht aus.",
+        "translateExample": "Я это не выключаю.",
+        "collocations": [],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0161cd7a-b19b-422b-9a7d-13739f909881",
+        "deExample": "Ich habe den Fernseher ausgemacht.",
+        "translateExample": "Я выключил телевизор.",
+        "collocations": [
+          "Fernseher"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4f13b546-4873-427f-a4a7-bab2b0b6e585",
+        "deExample": "Man kann das Gerät ausmachen.",
+        "translateExample": "Можно выключить устройство.",
+        "collocations": [
+          "Gerät"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "da068b6a-2a42-416a-a4e2-9bbc2bc20b1a",
+        "deExample": "Ich stehe auf, weil ich das Licht ausmachen will.",
+        "translateExample": "Я встаю, потому что хочу выключить свет.",
+        "collocations": [
+          "Licht"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "762d0a36-4971-450d-9e12-471a7b11f10b",
+        "deExample": "Ich werde das Licht ausmachen, wenn es hell wird.",
+        "translateExample": "Я выключу свет, когда станет светло.",
+        "collocations": [
+          "Licht"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e527f66d-2045-4873-8b58-d173a2d79cce",
+        "deExample": "Das Licht wird ausgemacht.",
+        "translateExample": "Свет выключается.",
+        "collocations": [
+          "Licht"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fde01430-edfd-47b5-a18c-3e97d8895080",
+        "deExample": "Es ist wichtig, das Licht auszumachen.",
+        "translateExample": "Важно выключить свет.",
+        "collocations": [
+          "Licht",
+          "wichtig"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2e158b2b-a7fe-4219-aaf8-b37cc6eae5c3",
+        "deExample": "Wie ist es, das Radio auszumachen?",
+        "translateExample": "Как это — выключать радио?",
+        "collocations": [
+          "Radio"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a5126370-4885-47d2-be0e-d9533a2c10bc",
+        "deExample": "Er steht auf, um das Licht auszumachen.",
+        "translateExample": "Он встаёт, чтобы выключить свет.",
+        "collocations": [
+          "Licht"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "1844a249-b9f4-47db-ac93-1e9b3ac723b7",
+    "deWord": "die Eile",
+    "translateWord": "спешка",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "8c4a98e7-b311-4e4e-899b-57c518644f1a",
+        "deExample": "Die Eile ist groß.",
+        "translateExample": "Спешка большая.",
+        "collocations": [
+          "groß"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "30c00826-3e57-489a-a96c-af595b240f29",
+        "deExample": "Ist die Eile notwendig?",
+        "translateExample": "Спешка необходима?",
+        "collocations": [
+          "notwendig"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "853aa6a3-473f-4763-8c17-34c2a34e1c0d",
+        "deExample": "Die Eile ist nicht gut.",
+        "translateExample": "Спешка не хороша.",
+        "collocations": [
+          "gut"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "18086222-5f24-4024-a8af-ccb52f7c89f4",
+        "deExample": "Wir hatten gestern Eile.",
+        "translateExample": "Мы вчера спешили.",
+        "collocations": [
+          "gestern",
+          "wir"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4be82b47-0f0e-4ca7-a724-0b7ecba2b59d",
+        "deExample": "Man kann in Eile essen.",
+        "translateExample": "Можно есть в спешке.",
+        "collocations": [
+          "essen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c478c259-a710-409e-ad0f-a4b0e57bd9bc",
+        "deExample": "Ich gehe, weil ich Eile habe.",
+        "translateExample": "Я ухожу, потому что я спешу.",
+        "collocations": [],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a3dcfbd7-5f78-40fe-a3e3-20a090e73344",
+        "deExample": "Ich werde gehen, wenn ich Eile habe.",
+        "translateExample": "Я уйду, если буду спешить.",
+        "collocations": [],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "01474148-dfda-4b6c-8572-70070c24693c",
+        "deExample": "In Eile wird oft gearbeitet.",
+        "translateExample": "Часто работают в спешке.",
+        "collocations": [
+          "arbeiten"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fe6bea13-d7b9-49ad-a8e3-654d18d6b034",
+        "deExample": "Es ist nicht gut, in Eile zu handeln.",
+        "translateExample": "Не хорошо действовать в спешке.",
+        "collocations": [
+          "handeln",
+          "gut"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3d1de935-bbe1-493a-9c0f-4870fc61b981",
+        "deExample": "Wie ist es, in Eile zu reisen?",
+        "translateExample": "Как это — путешествовать в спешке?",
+        "collocations": [
+          "reisen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a7b5be62-af2e-428c-9d09-97c77870ab14",
+        "deExample": "Er frühstückt schnell, um in Eile zu gehen.",
+        "translateExample": "Он быстро завтракает, чтобы уйти в спешке.",
+        "collocations": [
+          "frühstücken",
+          "gehen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

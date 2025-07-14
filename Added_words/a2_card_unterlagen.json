@@ -1,0 +1,209 @@
+[
+  {
+    "id": "8b67a7c3-d01f-458d-a751-8a4891263044",
+    "deWord": "die Unterlagen",
+    "translateWord": "документы",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "6f7f72a3-b7a1-4b20-899b-595f3565ea98",
+        "deExample": "Die Unterlagen sind hier.",
+        "translateExample": "Документы здесь.",
+        "collocations": [
+          "hier"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f4d55639-68fe-4d72-8dac-5193322a75b9",
+        "deExample": "Wo sind die Unterlagen?",
+        "translateExample": "Где документы?",
+        "collocations": [
+          "wo"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7eda7316-8807-4c0f-af8d-1d4ef6c9cc41",
+        "deExample": "Ich habe keine Unterlagen.",
+        "translateExample": "У меня нет документов.",
+        "collocations": [
+          "haben"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4050c079-38fa-4f7f-a18f-d486aa897ad5",
+        "deExample": "Ich habe die Unterlagen bekommen.",
+        "translateExample": "Я получил документы.",
+        "collocations": [
+          "bekommen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7d9f3c36-c49b-4254-8a34-063e667ecf38",
+        "deExample": "Du musst die Unterlagen mitbringen.",
+        "translateExample": "Ты должен принести документы с собой.",
+        "collocations": [
+          "mitbringen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "314d15b9-2101-4e54-a69c-900043a06e6a",
+        "deExample": "Er zeigt mir die Unterlagen, weil sie wichtig sind.",
+        "translateExample": "Он показывает мне документы, потому что они важны.",
+        "collocations": [
+          "zeigen",
+          "wichtig"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "faa1a9f8-4c22-4261-b0fb-ab1399e10a51",
+        "deExample": "Ich werde die Unterlagen lesen, wenn ich Zeit habe.",
+        "translateExample": "Я прочитаю документы, когда у меня будет время.",
+        "collocations": [
+          "lesen",
+          "Zeit"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0c2353cb-8dd3-476e-96cb-e735be06bd69",
+        "deExample": "Die Unterlagen werden bearbeitet.",
+        "translateExample": "Документы обрабатываются.",
+        "collocations": [
+          "bearbeiten"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "00fcc935-8064-4740-b57d-b53763a1a370",
+        "deExample": "Es ist gut, die Unterlagen zu prüfen.",
+        "translateExample": "Хорошо проверить документы.",
+        "collocations": [
+          "prüfen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "abe6af0d-3ba0-4d68-bbc6-ae94c3fd6fbf",
+        "deExample": "Kannst du die Unterlagen zu lesen anfangen?",
+        "translateExample": "Ты можешь начать читать документы?",
+        "collocations": [
+          "lesen",
+          "anfangen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "08270c3f-da4f-4877-bb04-612bed1587ee",
+        "deExample": "Ich nehme die Unterlagen, um sie zu kopieren.",
+        "translateExample": "Я беру документы, чтобы их скопировать.",
+        "collocations": [
+          "nehmen",
+          "kopieren"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

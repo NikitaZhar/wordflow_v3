@@ -1,0 +1,227 @@
+[
+  {
+    "id": "672d4039-cb1a-4c17-9bc8-508534058ebb",
+    "deWord": "erklären - erklärte - erklärt",
+    "translateWord": "объяснять (кому-л, jdm + Dat; что-л, Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "ad6d7080-a717-48da-a629-c3099fb00698",
+        "deExample": "Der Lehrer erklärt den Schülern die Aufgabe.",
+        "translateExample": "Учитель объясняет ученикам задание.",
+        "collocations": [
+          "der Lehrer",
+          "der Schüler",
+          "die Aufgabe"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4a8f50c8-77ed-4508-a4fb-373368bdee05",
+        "deExample": "Kannst du mir das bitte erklären?",
+        "translateExample": "Можешь, пожалуйста, объяснить мне это?",
+        "collocations": [
+          "du",
+          "mir",
+          "das"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "56383831-fc8a-419a-8a1b-a0b059e1dd27",
+        "deExample": "Er erklärt mir nicht die Grammatik.",
+        "translateExample": "Он мне не объясняет грамматику.",
+        "collocations": [
+          "die Grammatik",
+          "er",
+          "mir"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a655d4f5-c744-4126-997c-51b499b28815",
+        "deExample": "Mein Vater hat mir alles erklärt.",
+        "translateExample": "Мой отец мне всё объяснил.",
+        "collocations": [
+          "mein Vater",
+          "mir",
+          "alles"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3807ce5f-2814-4f20-8d5d-0a03263f3c6b",
+        "deExample": "Du musst mir das noch einmal erklären.",
+        "translateExample": "Ты должен объяснить мне это ещё раз.",
+        "collocations": [
+          "du",
+          "mir",
+          "noch einmal"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2f80ef89-6987-488d-9281-11e3f7a33a47",
+        "deExample": "Ich freue mich, weil er mir alles erklärt.",
+        "translateExample": "Я радуюсь, потому что он мне всё объясняет.",
+        "collocations": [
+          "er",
+          "mir",
+          "alles"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8884c171-33fe-45fc-8b0e-376b28e5f8b7",
+        "deExample": "Ich werde dir die Regeln erklären, wenn du Zeit hast.",
+        "translateExample": "Я объясню тебе правила, когда у тебя будет время.",
+        "collocations": [
+          "die Regeln",
+          "du",
+          "Zeit"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e40eb7f3-bc43-4bcb-8ef3-25fac17fbe5f",
+        "deExample": "Es wurde uns alles genau erklärt.",
+        "translateExample": "Нам всё подробно объяснили.",
+        "collocations": [
+          "alles",
+          "genau",
+          "uns"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "256380ea-40c2-49bb-925e-4155af3d13c6",
+        "deExample": "Er versucht, mir den Weg zu erklären.",
+        "translateExample": "Он пытается объяснить мне дорогу.",
+        "collocations": [
+          "er",
+          "mir",
+          "der Weg"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "546044d3-4571-432d-897f-255bab76f1de",
+        "deExample": "Wie kann ich lernen, anderen etwas zu erklären?",
+        "translateExample": "Как я могу научиться объяснять что-то другим?",
+        "collocations": [
+          "lernen",
+          "etwas",
+          "anderen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0bc17de1-c026-48c8-83c1-c8bbc1ec5bfc",
+        "deExample": "Ich benutze Bilder, um Kindern die Wörter zu erklären.",
+        "translateExample": "Я использую картинки, чтобы объяснить детям слова.",
+        "collocations": [
+          "die Kinder",
+          "die Wörter",
+          "Bilder"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

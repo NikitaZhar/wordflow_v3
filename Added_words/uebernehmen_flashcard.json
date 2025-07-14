@@ -1,0 +1,205 @@
+[
+  {
+    "id": "9be25b8f-6eb5-4136-81da-925b6bb29920",
+    "deWord": "übernehmen - übernahm - übernommen",
+    "translateWord": "принимать, брать на себя (что-либо, Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "c54b50c6-b50a-4e54-9172-a27d74aa325a",
+        "deExample": "Ich übernehme die Aufgabe.",
+        "translateExample": "Я беру на себя задачу.",
+        "collocations": [
+          "Aufgabe"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0eb9903e-643b-44c0-9704-0d7cf18cbd08",
+        "deExample": "Übernimmst du das Projekt?",
+        "translateExample": "Ты берёшь на себя проект?",
+        "collocations": [
+          "Projekt"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fee1fefe-e501-4797-9958-f2d5921bdcde",
+        "deExample": "Er übernimmt die Verantwortung nicht.",
+        "translateExample": "Он не берёт на себя ответственность.",
+        "collocations": [
+          "Verantwortung"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0a4b8492-d55b-4cb4-9775-374f61a83a75",
+        "deExample": "Ich habe die Arbeit übernommen.",
+        "translateExample": "Я взял на себя работу.",
+        "collocations": [
+          "Arbeit"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a52ecf3c-2c78-4e1f-82c4-8246a73a24e7",
+        "deExample": "Du sollst die Aufgabe übernehmen.",
+        "translateExample": "Тебе следует взять на себя задачу.",
+        "collocations": [
+          "Aufgabe"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b3ccd3b5-87fe-44ee-ae4e-7e81d473d215",
+        "deExample": "Ich helfe dir, weil ich die Aufgabe übernehmen kann.",
+        "translateExample": "Я помогаю тебе, потому что могу взять на себя задачу.",
+        "collocations": [
+          "Hilfe"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0395b25a-4df7-4f60-92e9-037c5cf6efac",
+        "deExample": "Ich werde das Projekt übernehmen, wenn ich Zeit habe.",
+        "translateExample": "Я возьму на себя проект, когда у меня будет время.",
+        "collocations": [
+          "Projekt"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2a6f0d24-3c51-4369-87a5-c47fb2c99baa",
+        "deExample": "Die Arbeit wird übernommen.",
+        "translateExample": "Работа берётся на себя.",
+        "collocations": [
+          "Arbeit"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b95ae0b4-ff23-4288-90bb-c38dcaffff86",
+        "deExample": "Ich plane, die Aufgabe zu übernehmen.",
+        "translateExample": "Я планирую взять на себя задачу.",
+        "collocations": [
+          "Plan"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a1a20b34-fafb-4872-b08a-9908db12059c",
+        "deExample": "Willst du die Verantwortung übernehmen?",
+        "translateExample": "Ты хочешь взять на себя ответственность?",
+        "collocations": [
+          "Verantwortung"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "15cb7ed2-384e-4857-8cf1-7c4e82b8626e",
+        "deExample": "Ich lerne, um die Aufgabe zu übernehmen.",
+        "translateExample": "Я учусь, чтобы взять на себя задачу.",
+        "collocations": [
+          "Lernen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

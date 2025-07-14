@@ -1,0 +1,205 @@
+[
+  {
+    "id": "f972e5a6-fdf9-45cb-82c0-9eaca02547c0",
+    "deWord": "die Besprechung",
+    "translateWord": "совещание, обсуждение (по чему-либо, über Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "32a368b1-1b40-4a8a-89bb-298040a2be2c",
+        "deExample": "Die Besprechung ist heute.",
+        "translateExample": "Совещание сегодня.",
+        "collocations": [
+          "heute"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3e418bf3-3c00-470d-ad15-d63f61b5f460",
+        "deExample": "Findet die Besprechung morgen statt?",
+        "translateExample": "Совещание состоится завтра?",
+        "collocations": [
+          "morgen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d82a1a4b-36ba-451f-a7f5-609efbb576e3",
+        "deExample": "Die Besprechung ist nicht lang.",
+        "translateExample": "Совещание недолгое.",
+        "collocations": [
+          "lang"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d678fb85-5552-447d-b3cc-1e0b1c05984c",
+        "deExample": "Die Besprechung hat gestern stattgefunden.",
+        "translateExample": "Совещание состоялось вчера.",
+        "collocations": [
+          "gestern"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2ea249eb-1ff6-4043-b150-3c79720d81cc",
+        "deExample": "Du sollst an der Besprechung teilnehmen.",
+        "translateExample": "Тебе следует участвовать в совещании.",
+        "collocations": [
+          "Teilnahme"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1d316eb6-26be-4e7c-8e5d-28b93bafe294",
+        "deExample": "Ich komme, weil wir eine Besprechung haben.",
+        "translateExample": "Я приду, потому что у нас совещание.",
+        "collocations": [
+          "Treffen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "df15cc30-e9ec-4bf9-9f68-06498f3566ec",
+        "deExample": "Wir werden eine Besprechung haben, wenn alle da sind.",
+        "translateExample": "У нас будет совещание, когда все будут здесь.",
+        "collocations": [
+          "alle"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e26f8b71-97f8-4645-8d9d-3173caf5e3fe",
+        "deExample": "Die Besprechung wird durchgeführt.",
+        "translateExample": "Совещание проводится.",
+        "collocations": [
+          "Durchführung"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9c7e6fcd-23dc-499c-bd1b-39a340251e4f",
+        "deExample": "Ich plane, eine Besprechung zu organisieren.",
+        "translateExample": "Я планирую организовать совещание.",
+        "collocations": [
+          "Plan"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c9a04b76-7a40-4827-bfb9-b8557e5cfb27",
+        "deExample": "Willst du an der Besprechung teilnehmen?",
+        "translateExample": "Ты хочешь участвовать в совещании?",
+        "collocations": [
+          "Teilnahme"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b2fd0a7a-890b-481e-a6a8-8fb0f76e7449",
+        "deExample": "Ich mache eine Pause, um die Besprechung vorzubereiten.",
+        "translateExample": "Я делаю паузу, чтобы подготовить совещание.",
+        "collocations": [
+          "Pause"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,1037 @@
+[
+  {
+    "id": "c1895ea0-16fc-4144-8043-ab1b4723d60e",
+    "deWord": "beziehungsweise",
+    "translateWord": "соответственно, или же",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "29304274-51bc-4def-9fd2-c60844d40c17",
+        "deExample": "Ich mag Tee beziehungsweise Kaffee.",
+        "translateExample": "Мне нравится чай или же кофе.",
+        "collocations": [
+          "Tee",
+          "Kaffee"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fed01842-6951-4cc7-ba3d-cac96ed5deaf",
+        "deExample": "Magst du Tee beziehungsweise Kaffee?",
+        "translateExample": "Тебе нравится чай или же кофе?",
+        "collocations": [
+          "Tee",
+          "Kaffee"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "25ab40ce-0bdd-4694-91b6-461a36f49c5f",
+        "deExample": "Ich mag Tee beziehungsweise keinen Kaffee.",
+        "translateExample": "Мне нравится чай, но не кофе.",
+        "collocations": [
+          "Tee",
+          "Kaffee"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6448bea4-28be-4239-af9a-c50279738e86",
+        "deExample": "Ich habe Tee beziehungsweise Kaffee getrunken.",
+        "translateExample": "Я пил чай или же кофе.",
+        "collocations": [
+          "Tee",
+          "Kaffee"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "df900591-cea0-4ae0-95c9-a3a795eb5b43",
+        "deExample": "Ich will Tee beziehungsweise Kaffee trinken.",
+        "translateExample": "Я хочу пить чай или же кофе.",
+        "collocations": [
+          "Tee",
+          "Kaffee"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8997cfef-fc32-49fe-a872-e43e699e090e",
+        "deExample": "Ich trinke Tee beziehungsweise Kaffee, weil ich müde bin.",
+        "translateExample": "Я пью чай или же кофе, потому что я устал.",
+        "collocations": [
+          "Tee",
+          "Kaffee"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "24e22298-594d-48a1-88c0-eec36922394d",
+        "deExample": "Ich werde Tee beziehungsweise Kaffee trinken, wenn ich Zeit habe.",
+        "translateExample": "Я выпью чай или же кофе, когда у меня будет время.",
+        "collocations": [
+          "Tee",
+          "Kaffee"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2560f685-33b9-460b-958c-8ffa07b4d3df",
+        "deExample": "Tee beziehungsweise Kaffee wird getrunken.",
+        "translateExample": "Чай или же кофе пьют.",
+        "collocations": [
+          "Tee",
+          "Kaffee"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b7898550-069d-4c7c-9b3a-16afbced836b",
+        "deExample": "Ich vergesse oft, Tee beziehungsweise Kaffee zu kaufen.",
+        "translateExample": "Я часто забываю купить чай или же кофе.",
+        "collocations": [
+          "Tee",
+          "Kaffee"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a026e018-c938-4269-adea-2c69c8461c6e",
+        "deExample": "Willst du Tee beziehungsweise Kaffee trinken?",
+        "translateExample": "Ты хочешь пить чай или же кофе?",
+        "collocations": [
+          "Tee",
+          "Kaffee"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8a4e0804-b190-4282-b199-77a4cc41c7bd",
+        "deExample": "Ich gehe einkaufen, um Tee beziehungsweise Kaffee zu kaufen.",
+        "translateExample": "Я иду за покупками, чтобы купить чай или же кофе.",
+        "collocations": [
+          "Tee",
+          "Kaffee"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "3cca5b79-107a-4304-9bd3-1ece49b05679",
+    "deWord": "passen - passte - gepasst",
+    "translateWord": "подходить (кому-либо, zu + Dat)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "1fa70121-1b91-4439-8c1a-9b83535e8aa0",
+        "deExample": "Das Hemd passt mir.",
+        "translateExample": "Рубашка мне подходит.",
+        "collocations": [
+          "das Hemd"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "27eb127d-44c4-4236-aed9-746db5293002",
+        "deExample": "Passt dir das Hemd?",
+        "translateExample": "Рубашка тебе подходит?",
+        "collocations": [
+          "das Hemd"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9044f11f-c365-4666-902e-e26259bfafbc",
+        "deExample": "Das Hemd passt mir nicht.",
+        "translateExample": "Рубашка мне не подходит.",
+        "collocations": [
+          "das Hemd",
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ae0bcadc-73fd-4107-b201-604d18bb92e9",
+        "deExample": "Das Hemd hat mir gepasst.",
+        "translateExample": "Рубашка мне подошла.",
+        "collocations": [
+          "das Hemd"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "da1de611-e7e3-431e-a37a-3e3d78fb440b",
+        "deExample": "Ich will sehen, ob das Hemd passt.",
+        "translateExample": "Я хочу посмотреть, подходит ли рубашка.",
+        "collocations": [
+          "das Hemd"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0f63f4b2-6fc1-4f27-90ff-e67e230db4b0",
+        "deExample": "Das Hemd passt, weil es die richtige Größe hat.",
+        "translateExample": "Рубашка подходит, потому что она нужного размера.",
+        "collocations": [
+          "das Hemd"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5623a94b-c06c-404d-ad38-f94294b25727",
+        "deExample": "Das Hemd wird passen, wenn du es kaufst.",
+        "translateExample": "Рубашка подойдёт, если ты её купишь.",
+        "collocations": [
+          "das Hemd"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "11f8814f-0eb2-416f-bfcf-bd7a39f6acc0",
+        "deExample": "Das Hemd wird angepasst.",
+        "translateExample": "Рубашка подгоняется.",
+        "collocations": [
+          "das Hemd"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fda3669d-8b6d-49ee-88f7-0f41663b124f",
+        "deExample": "Ich vergesse oft, ob das Hemd passt.",
+        "translateExample": "Я часто забываю, подходит ли рубашка.",
+        "collocations": [
+          "das Hemd"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e7912853-549d-418c-abee-6aa939d1a456",
+        "deExample": "Willst du sehen, ob das Hemd passt?",
+        "translateExample": "Ты хочешь проверить, подходит ли рубашка?",
+        "collocations": [
+          "das Hemd"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5c5a67d2-0821-4be7-a672-49d1e54b4971",
+        "deExample": "Ich gehe einkaufen, um ein Hemd zu finden, das passt.",
+        "translateExample": "Я иду за покупками, чтобы найти рубашку, которая подходит.",
+        "collocations": [
+          "das Hemd"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "0b6d1acf-e58a-424a-9784-1ae3d99f9dc5",
+    "deWord": "sich bewerben - bewarb - beworben",
+    "translateWord": "подавать заявление (на, um + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "8a76f1e8-4052-48a4-9e38-c086335e00a8",
+        "deExample": "Ich bewerbe mich um eine Stelle.",
+        "translateExample": "Я подаю заявление на работу.",
+        "collocations": [
+          "eine Stelle"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "20223512-206d-411b-91be-6e9913b04090",
+        "deExample": "Bewirbst du dich um die Stelle?",
+        "translateExample": "Ты подаёшь заявление на работу?",
+        "collocations": [
+          "die Stelle"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "98bd3d98-0e15-4255-84d2-691bb3a10616",
+        "deExample": "Er bewirbt sich nicht um diese Position.",
+        "translateExample": "Он не подаёт заявление на эту должность.",
+        "collocations": [
+          "diese Position",
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "75327d5e-3b89-437f-afbc-62e5ce95e3dd",
+        "deExample": "Ich habe mich um die Stelle beworben.",
+        "translateExample": "Я подал заявление на работу.",
+        "collocations": [
+          "die Stelle"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "521a6f68-9c2e-4ba6-a44c-3e3b7a1ff42e",
+        "deExample": "Ich will mich um diese Position bewerben.",
+        "translateExample": "Я хочу подать заявление на эту должность.",
+        "collocations": [
+          "diese Position"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "60a0710f-b6b0-4eba-a373-a998d956673a",
+        "deExample": "Ich bewerbe mich, weil ich interessiert bin.",
+        "translateExample": "Я подаю заявление, потому что мне интересно.",
+        "collocations": [
+          "interessiert"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2b65504e-5510-4b8b-98bf-fe6d379f3e00",
+        "deExample": "Ich werde mich bewerben, wenn die Stelle frei ist.",
+        "translateExample": "Я подам заявление, если место будет свободным.",
+        "collocations": [
+          "die Stelle"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f47d5f80-6c01-4318-b512-0c49521438d2",
+        "deExample": "Die Stelle wird beworben.",
+        "translateExample": "На должность подают заявления.",
+        "collocations": [
+          "die Stelle"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c9f58fdf-5369-4f05-9ea0-94eb79cb0492",
+        "deExample": "Ich vergesse oft, mich rechtzeitig zu bewerben.",
+        "translateExample": "Я часто забываю подать заявление вовремя.",
+        "collocations": [
+          "vergessen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1685a7ea-7693-4952-b042-e4ce208f4f75",
+        "deExample": "Willst du dich um die Stelle bewerben?",
+        "translateExample": "Ты хочешь подать заявление на работу?",
+        "collocations": [
+          "die Stelle"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f39c3fd6-fbb3-4918-8446-bc88524b9482",
+        "deExample": "Ich lerne, um mich besser bewerben zu können.",
+        "translateExample": "Я учусь, чтобы уметь лучше подавать заявления.",
+        "collocations": [
+          "lernen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "afddd7fd-1b15-40f0-aa4f-ecec12926733",
+    "deWord": "die Kenntnis",
+    "translateWord": "знание",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "8d930373-268b-4093-8ee4-c47edfc8033b",
+        "deExample": "Die Kenntnis ist wichtig.",
+        "translateExample": "Знание важно.",
+        "collocations": [
+          "wichtig"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f167eafd-7115-4964-bf29-6298ef14e621",
+        "deExample": "Hast du die nötige Kenntnis?",
+        "translateExample": "У тебя есть необходимые знания?",
+        "collocations": [
+          "nötig"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6ac7bfec-8bea-4552-be33-c577b0d5e569",
+        "deExample": "Die Kenntnis ist nicht vollständig.",
+        "translateExample": "Знание не полное.",
+        "collocations": [
+          "nicht",
+          "vollständig"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "04c2dd68-295b-4cd0-8d34-9223710b97e5",
+        "deExample": "Ich habe die Kenntnis erweitert.",
+        "translateExample": "Я расширил знание.",
+        "collocations": [
+          "erweitern"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "84447147-c7d0-4d3c-840a-a943061bb754",
+        "deExample": "Man kann die Kenntnis verbessern.",
+        "translateExample": "Можно улучшить знание.",
+        "collocations": [
+          "verbessern"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d11bbdd3-dbea-42db-be4f-636bfa49a5cf",
+        "deExample": "Ich lerne, weil ich meine Kenntnis erweitern will.",
+        "translateExample": "Я учусь, потому что хочу расширить свои знания.",
+        "collocations": [
+          "lernen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0d0d382a-ef30-4184-8bb3-38b7f9447911",
+        "deExample": "Deine Kenntnis wird wachsen, wenn du lernst.",
+        "translateExample": "Твои знания будут расти, если ты будешь учиться.",
+        "collocations": [
+          "lernen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "22f86874-7be8-414d-a286-38534e540fd1",
+        "deExample": "Die Kenntnis wird geschätzt.",
+        "translateExample": "Знание ценится.",
+        "collocations": [
+          "schätzen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d5fb8382-1951-4b9b-9934-f68493331809",
+        "deExample": "Ich vergesse oft, meine Kenntnis zu prüfen.",
+        "translateExample": "Я часто забываю проверять свои знания.",
+        "collocations": [
+          "vergessen",
+          "prüfen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d08e100c-24ec-4cf0-88e3-4e06b11c8d23",
+        "deExample": "Willst du deine Kenntnis verbessern?",
+        "translateExample": "Ты хочешь улучшить свои знания?",
+        "collocations": [
+          "verbessern"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "095da0de-7f3d-480e-8de9-911fbcc29319",
+        "deExample": "Ich lerne, um meine Kenntnis zu verbessern.",
+        "translateExample": "Я учусь, чтобы улучшить свои знания.",
+        "collocations": [
+          "lernen",
+          "verbessern"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "71ce33fe-caa6-4a64-8cac-0a79905ddf96",
+    "deWord": "die Erklärung",
+    "translateWord": "объяснение",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "512ec8f9-f356-4762-b4a9-4c3ba0cd77ac",
+        "deExample": "Die Erklärung ist klar.",
+        "translateExample": "Объяснение ясно.",
+        "collocations": [
+          "klar"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "349ab420-a162-4bf7-aa24-48ef59d8be4a",
+        "deExample": "Hast du eine Erklärung?",
+        "translateExample": "У тебя есть объяснение?",
+        "collocations": [
+          "haben"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "99eb363f-3fab-4a09-a799-fdbdb1f4d83c",
+        "deExample": "Die Erklärung ist nicht einfach.",
+        "translateExample": "Объяснение не простое.",
+        "collocations": [
+          "nicht",
+          "einfach"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "71913ffe-17c2-40d6-a7d8-a9af5aafb9a5",
+        "deExample": "Ich habe eine Erklärung gegeben.",
+        "translateExample": "Я дал объяснение.",
+        "collocations": [
+          "geben"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "cb1c1107-fd38-4de6-98d8-d6b936c84924",
+        "deExample": "Man kann eine Erklärung suchen.",
+        "translateExample": "Можно искать объяснение.",
+        "collocations": [
+          "suchen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2feb3a7c-ec1a-40b0-bb05-e736b8faa282",
+        "deExample": "Ich gebe eine Erklärung, weil es wichtig ist.",
+        "translateExample": "Я даю объяснение, потому что это важно.",
+        "collocations": [
+          "geben",
+          "wichtig"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7a4ace33-be9a-495f-b188-9681502a1cda",
+        "deExample": "Ich werde eine Erklärung geben, wenn es nötig ist.",
+        "translateExample": "Я дам объяснение, если это будет нужно.",
+        "collocations": [
+          "geben"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f312fa4c-5e04-48bd-8382-ffaec6fb4b3c",
+        "deExample": "Die Erklärung wird gegeben.",
+        "translateExample": "Дают объяснение.",
+        "collocations": [
+          "geben"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "719a3beb-192a-46f7-89f2-6c07ca8bddea",
+        "deExample": "Ich vergesse oft, eine Erklärung zu geben.",
+        "translateExample": "Я часто забываю дать объяснение.",
+        "collocations": [
+          "vergessen",
+          "geben"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "531233df-22ba-4b5e-aa23-d504349cc219",
+        "deExample": "Willst du eine Erklärung hören?",
+        "translateExample": "Ты хочешь услышать объяснение?",
+        "collocations": [
+          "hören"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "417f2690-8f67-42d2-9338-7cb32399eb67",
+        "deExample": "Ich lese, um eine Erklärung zu finden.",
+        "translateExample": "Я читаю, чтобы найти объяснение.",
+        "collocations": [
+          "lesen",
+          "finden"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

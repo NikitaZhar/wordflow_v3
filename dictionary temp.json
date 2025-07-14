@@ -1,0 +1,76 @@
+[ {
+  "id" : "",
+  "de_word" : "achten",
+  "translate_word" : "обращать внимание на что-то, придавать чему-то значение, уважать правила",
+  "progress" : {
+    "successCount" : 0,
+    "lastReviewDate" : "2025-06-10T20:05:17.302311"
+  },
+  "exerciseType" : "VOCAB",
+  "examples" : [ {
+    "de" : "",
+    "translation" : "",
+    "collocationsUsed" : [ "auf + Akk", "die Details" ],
+    "grammarTags" : [ "Präsens", "прилагательное" ]
+  }, {
+    "de" : "Achtest du auf deine Gesundheit?",
+    "translation" : "Ты следишь за своим здоровьем?",
+    "collocationsUsed" : [ "auf + Akk", "deine Gesundheit" ],
+    "grammarTags" : [ "Вопросительное предложение", "Präsens" ]
+  }, {
+    "de" : "Er achtet nicht auf die Regeln.",
+    "translation" : "Он не обращает внимания на правила.",
+    "collocationsUsed" : [ "auf + Akk", "die Regeln" ],
+    "grammarTags" : [ "Отрицание", "Präsens" ]
+  }, {
+    "de" : "Ich habe nie auf solche Kleinigkeiten geachtet.",
+    "translation" : "Я никогда не обращал внимания на такие мелочи.",
+    "collocationsUsed" : [ "auf + Akk", "solche Kleinigkeiten" ],
+    "grammarTags" : [ "Perfekt", "наречие" ]
+  }, {
+    "de" : "Du musst darauf achten, dass du pünktlich bist.",
+    "translation" : "Ты должен следить за тем, чтобы быть пунктуальным.",
+    "collocationsUsed" : [ "darauf achten", "dass" ],
+    "grammarTags" : [ "Модальные глаголы", "dass конструкция" ]
+  }, {
+    "de" : "Ich achte darauf, weil es wichtig ist.",
+    "translation" : "Я обращаю на это внимание, потому что это важно.",
+    "collocationsUsed" : [ "darauf achten", "weil" ],
+    "grammarTags" : [ "weil", "Придаточное предложение" ]
+  }, {
+    "de" : "Er achtet darauf, obwohl es ihm schwerfällt.",
+    "translation" : "Он обращает на это внимание, хотя ему это трудно.",
+    "collocationsUsed" : [ "darauf achten", "obwohl" ],
+    "grammarTags" : [ "obwohl", "Придаточное с obwohl" ]
+  }, {
+    "de" : "Ich werde darauf achten, wenn du mich erinnerst.",
+    "translation" : "Я буду обращать на это внимание, если ты мне напомнишь.",
+    "collocationsUsed" : [ "darauf achten", "wenn" ],
+    "grammarTags" : [ "Futur I", "wenn конструкция" ]
+  }, {
+    "de" : "Wir müssen auf die Sicherheit achten, besonders bei schlechtem Wetter.",
+    "translation" : "Мы должны обращать внимание на безопасность, особенно при плохой погоде.",
+    "collocationsUsed" : [ "auf + Akk", "die Sicherheit", "müssen" ],
+    "grammarTags" : [ "Модальные глаголы" ]
+  }, {
+    "de" : "Musst du wirklich auf alles achten?",
+    "translation" : "Ты действительно должен следить за всем?",
+    "collocationsUsed" : [ "auf + Akk", "alles", "müssen" ],
+    "grammarTags" : [ "Вопрос с модальным глаголом" ]
+  }, {
+    "de" : "Kannst du bitte kurz auf das Kind achten, während ich telefoniere?",
+    "translation" : "Можешь, пожалуйста, немного присмотреть за ребёнком, пока я говорю по телефону?",
+    "collocationsUsed" : [ "auf + Akk", "das Kind", "während", "bitte" ],
+    "grammarTags" : [ "Вопросительное предложение", "Präsens" ]
+  }, {
+    "de" : "Ist es wichtig, auf die Details zu achten?",
+    "translation" : "Важно ли обращать внимание на детали?",
+    "collocationsUsed" : [ "auf + Akk", "zu + Infinitiv" ],
+    "grammarTags" : [ "Вопросительное предложение", "zu + Infinitiv" ]
+  }, {
+    "de" : "Er hat gelernt, auf andere zu achten, um ein besserer Mensch zu sein.",
+    "translation" : "Он научился обращать внимание на других, чтобы быть лучше.",
+    "collocationsUsed" : [ "auf + Akk", "um ... zu" ],
+    "grammarTags" : [ "um...zu", "zu + Infinitiv" ]
+  } ]
+} ]

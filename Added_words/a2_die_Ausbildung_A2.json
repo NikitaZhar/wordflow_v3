@@ -1,0 +1,217 @@
+[
+  {
+    "id": "b169b1e8-5d30-4153-bd01-67b4fa23cdad",
+    "deWord": "die Ausbildung",
+    "translateWord": "обучение (по, zu + Dativ / как, als + Nominativ)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "e135e0f4-20e9-48f4-b55d-2ee549472ef0",
+        "deExample": "Die Ausbildung ist sehr wichtig für die Karriere.",
+        "translateExample": "Обучение очень важно для карьеры.",
+        "collocations": [
+          "die Karriere",
+          "wichtig"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "14254036-1993-4aa5-88b9-d9baa23d05b8",
+        "deExample": "Machst du eine Ausbildung als Elektriker?",
+        "translateExample": "Ты проходишь обучение на электрика?",
+        "collocations": [
+          "der Elektriker"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9595ae0a-fa51-48fc-8dee-bef3de4fd7dc",
+        "deExample": "Er hat keine Ausbildung im technischen Bereich.",
+        "translateExample": "У него нет образования в технической сфере.",
+        "collocations": [
+          "der Bereich",
+          "technisch"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "170d6742-7c61-4b7c-8e04-70395d54eb3a",
+        "deExample": "Ich habe meine Ausbildung letztes Jahr abgeschlossen.",
+        "translateExample": "Я закончил своё обучение в прошлом году.",
+        "collocations": [
+          "letztes Jahr",
+          "abschließen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "31fb2bbc-319d-43c8-a9ae-fcab7237617a",
+        "deExample": "Man kann eine Ausbildung zur Krankenschwester machen.",
+        "translateExample": "Можно пройти обучение на медсестру.",
+        "collocations": [
+          "die Krankenschwester",
+          "machen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1680e71d-437e-4bab-bdab-6361258f1590",
+        "deExample": "Er hat die Stelle bekommen, weil er eine gute Ausbildung hat.",
+        "translateExample": "Он получил работу, потому что у него хорошее образование.",
+        "collocations": [
+          "die Stelle",
+          "gut"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f9df5e39-7404-4e52-a253-464d3289f9d7",
+        "deExample": "Ich werde meine Ausbildung beginnen, wenn das neue Semester startet.",
+        "translateExample": "Я начну обучение, когда начнётся новый семестр.",
+        "collocations": [
+          "das Semester",
+          "beginnen",
+          "starten"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0f76f331-d027-4516-8848-1b17830d086b",
+        "deExample": "Die Ausbildung wurde von der Firma bezahlt.",
+        "translateExample": "Обучение было оплачено фирмой.",
+        "collocations": [
+          "die Firma",
+          "bezahlen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1dd1e0e8-340a-4eb9-b0e7-886f726be935",
+        "deExample": "Er plant, eine Ausbildung zum Informatiker zu machen.",
+        "translateExample": "Он планирует пройти обучение на IT-специалиста.",
+        "collocations": [
+          "der Informatiker",
+          "planen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e62a429f-794f-4062-8a40-5abaa9e4ead7",
+        "deExample": "Wie kann man lernen, eine Ausbildung erfolgreich zu beenden?",
+        "translateExample": "Как можно научиться успешно завершать обучение?",
+        "collocations": [
+          "lernen",
+          "erfolgreich"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1020abc9-919d-4505-a815-df22cc469e00",
+        "deExample": "Ich habe mich entschieden, eine Ausbildung zu machen, um später selbstständig zu arbeiten.",
+        "translateExample": "Я решил пройти обучение, чтобы позже работать самостоятельно.",
+        "collocations": [
+          "entscheiden",
+          "selbstständig",
+          "arbeiten"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

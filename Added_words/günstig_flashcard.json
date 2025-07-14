@@ -1,0 +1,205 @@
+[
+  {
+    "id": "23bb0c1f-3e92-487b-8cdf-5492691a33ad",
+    "deWord": "günstig",
+    "translateWord": "выгодный, благоприятный",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "0cbc4429-0ad4-4370-9116-814f4da26300",
+        "deExample": "Das Angebot ist günstig.",
+        "translateExample": "Это предложение выгодное.",
+        "collocations": [
+          "Angebot"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fbba8fba-78dc-46c6-be55-71960ba40714",
+        "deExample": "Ist der Preis günstig?",
+        "translateExample": "Цена выгодная?",
+        "collocations": [
+          "Preis"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f9d01bbc-022c-481f-9f59-3a3abcbaba71",
+        "deExample": "Die Wohnung ist nicht günstig.",
+        "translateExample": "Квартира невыгодная.",
+        "collocations": [
+          "Wohnung"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "34564acc-04e3-48ab-bf6b-b5a7f904f4c9",
+        "deExample": "Das Angebot war günstig.",
+        "translateExample": "Предложение было выгодным.",
+        "collocations": [
+          "Angebot"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f0aa4443-ff7b-4517-b34a-3cead91b919b",
+        "deExample": "Du sollst ein günstiges Angebot wählen.",
+        "translateExample": "Тебе следует выбрать выгодное предложение.",
+        "collocations": [
+          "Angebot"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6ed972b9-ca28-483a-ac6f-fb23efeabd91",
+        "deExample": "Ich kaufe das, weil der Preis günstig ist.",
+        "translateExample": "Я покупаю это, потому что цена выгодная.",
+        "collocations": [
+          "Preis"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c0bc45f3-3c8c-466a-82ee-48ecf485c485",
+        "deExample": "Ich werde es kaufen, wenn der Preis günstig ist.",
+        "translateExample": "Я куплю это, если цена будет выгодной.",
+        "collocations": [
+          "Preis"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "db8143ec-3cdb-43c7-9f38-3572c996af5e",
+        "deExample": "Das Produkt wird günstig verkauft.",
+        "translateExample": "Продукт продаётся по выгодной цене.",
+        "collocations": [
+          "Produkt"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "cec8db89-92f6-41ef-9a4e-358591eddc9a",
+        "deExample": "Ich versuche, günstig einzukaufen.",
+        "translateExample": "Я стараюсь покупать выгодно.",
+        "collocations": [
+          "Einkauf"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d09a24a5-d414-4ad0-bc1d-dac452788210",
+        "deExample": "Findest du das Angebot günstig?",
+        "translateExample": "Ты считаешь это предложение выгодным?",
+        "collocations": [
+          "Angebot"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "dd7faf3a-ab56-431d-8327-b560fb1fa7c2",
+        "deExample": "Ich spare Geld, um günstig einzukaufen.",
+        "translateExample": "Я коплю деньги, чтобы выгодно покупать.",
+        "collocations": [
+          "Geld"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

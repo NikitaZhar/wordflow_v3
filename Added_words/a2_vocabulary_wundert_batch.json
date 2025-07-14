@@ -1,0 +1,1036 @@
+[
+  {
+    "id": "587fe260-07c2-4200-87d9-9419d42a953e",
+    "deWord": "Es wundert mich",
+    "translateWord": "Меня удивляет",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "538159ee-0dff-406f-b694-3f30163c60f2",
+        "deExample": "Es wundert mich, dass er kommt.",
+        "translateExample": "Меня удивляет, что он приходит.",
+        "collocations": [
+          "kommen"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "44c60d07-5e88-4daf-bc37-a146b283c731",
+        "deExample": "Was wundert dich?",
+        "translateExample": "Что тебя удивляет?",
+        "collocations": [],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "cc7f71da-86c7-45ef-a2db-f69d88c2e4ce",
+        "deExample": "Es wundert mich nicht.",
+        "translateExample": "Меня это не удивляет.",
+        "collocations": [],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0eef3ba7-55f2-4816-9577-97e5111019bc",
+        "deExample": "Gestern hat es mich gewundert.",
+        "translateExample": "Вчера меня это удивило.",
+        "collocations": [
+          "gestern"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7e8af261-ee65-4784-b8aa-39ada6e278e7",
+        "deExample": "Man kann sich oft wundern.",
+        "translateExample": "Можно часто удивляться.",
+        "collocations": [],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b1a84b08-9adc-45f0-bc5a-d0088ba5705e",
+        "deExample": "Ich lache, weil es mich wundert.",
+        "translateExample": "Я смеюсь, потому что это меня удивляет.",
+        "collocations": [
+          "lachen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6481e8c6-6f00-408b-bd91-adeaaaba36ca",
+        "deExample": "Ich werde fragen, wenn es mich wundert.",
+        "translateExample": "Я спрошу, если меня это удивит.",
+        "collocations": [
+          "fragen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a853735e-673f-46a3-80e4-90709bc37110",
+        "deExample": "Es wird oft gesagt, dass es wundert.",
+        "translateExample": "Часто говорят, что это удивляет.",
+        "collocations": [
+          "sagen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "33b0809b-ccea-4a9c-ac9c-c877c8470ab5",
+        "deExample": "Es ist normal, sich zu wundern.",
+        "translateExample": "Нормально удивляться.",
+        "collocations": [
+          "normal"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ef485252-040f-48c4-8594-3c5654773c1a",
+        "deExample": "Warum ist es gut, sich zu wundern?",
+        "translateExample": "Почему хорошо удивляться?",
+        "collocations": [
+          "gut"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ca43baf9-a973-477d-abdb-db96c21e2d56",
+        "deExample": "Ich lese Nachrichten, um mich zu wundern.",
+        "translateExample": "Я читаю новости, чтобы удивляться.",
+        "collocations": [
+          "lesen",
+          "Nachrichten"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "00926d95-69c9-4bdf-99af-2373d10e6700",
+    "deWord": "mindestens",
+    "translateWord": "как минимум, по крайней мере",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "ece8bed5-2b62-4783-b7d3-46e33bbda322",
+        "deExample": "Ich brauche mindestens zehn Minuten.",
+        "translateExample": "Мне нужно как минимум десять минут.",
+        "collocations": [
+          "Minuten"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8b6a9b66-07ff-483b-8c0b-d1702d2db1d5",
+        "deExample": "Wie lange dauert es mindestens?",
+        "translateExample": "Сколько это длится как минимум?",
+        "collocations": [
+          "dauern"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8ca8d8f8-b3f9-493f-b8dd-5dfc3e2f0b50",
+        "deExample": "Ich habe nicht mindestens drei Euro.",
+        "translateExample": "У меня нет хотя бы трёх евро.",
+        "collocations": [
+          "Euro"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "be945854-5c11-458e-8595-b9ad5c34755d",
+        "deExample": "Gestern habe ich mindestens zwei Stunden gearbeitet.",
+        "translateExample": "Вчера я работал как минимум два часа.",
+        "collocations": [
+          "gestern",
+          "arbeiten",
+          "Stunden"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c489b53f-7059-4d13-83c5-da23b48f4500",
+        "deExample": "Man sollte mindestens acht Stunden schlafen.",
+        "translateExample": "Нужно спать хотя бы восемь часов.",
+        "collocations": [
+          "schlafen",
+          "Stunden"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1eb25f37-df33-4a26-9b7d-57ea67625b11",
+        "deExample": "Ich ruhe mich aus, weil ich mindestens acht Stunden geschlafen habe.",
+        "translateExample": "Я отдыхаю, потому что я спал как минимум восемь часов.",
+        "collocations": [
+          "ausruhen",
+          "schlafen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d3e7acbb-38d6-4abe-bbf0-4866e61fa649",
+        "deExample": "Ich werde mindestens eine Stunde lernen, wenn ich Zeit habe.",
+        "translateExample": "Я буду учить хотя бы час, если у меня будет время.",
+        "collocations": [
+          "lernen",
+          "Stunde"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3a8d9b00-630a-458c-a5e1-7ca4126292fe",
+        "deExample": "Mindestens acht Stunden werden empfohlen.",
+        "translateExample": "Рекомендуются хотя бы восемь часов.",
+        "collocations": [
+          "Stunden",
+          "empfehlen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8e2248fc-6eb1-49f8-8567-25b47d9463c9",
+        "deExample": "Es ist gut, mindestens einmal am Tag zu laufen.",
+        "translateExample": "Хорошо гулять хотя бы раз в день.",
+        "collocations": [
+          "laufen",
+          "gut"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a893e483-fa1b-4bf6-9a1a-0a344b951a45",
+        "deExample": "Warum ist es wichtig, mindestens eine Stunde zu lernen?",
+        "translateExample": "Почему важно учить хотя бы час?",
+        "collocations": [
+          "lernen",
+          "wichtig"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b5223652-e430-48b1-a509-1a9bdfb85c8f",
+        "deExample": "Ich stehe früh auf, um mindestens eine Stunde zu lernen.",
+        "translateExample": "Я встаю рано, чтобы учить хотя бы час.",
+        "collocations": [
+          "aufstehen",
+          "lernen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "79eaf74f-e03e-4971-ad35-cd4c2dede64f",
+    "deWord": "der Ratschlag",
+    "translateWord": "совет",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "d3af796b-a2bf-4810-8926-d30f3f891c68",
+        "deExample": "Der Ratschlag ist hilfreich.",
+        "translateExample": "Совет полезный.",
+        "collocations": [
+          "hilfreich"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ae5e1ef6-e387-4120-892f-58c657d3e26d",
+        "deExample": "Welchen Ratschlag gibst du mir?",
+        "translateExample": "Какой совет ты мне даёшь?",
+        "collocations": [
+          "geben"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b1af6433-25a6-4c07-b7f9-b00d3231f435",
+        "deExample": "Ich brauche keinen Ratschlag.",
+        "translateExample": "Мне не нужен совет.",
+        "collocations": [
+          "brauchen"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "cc8ff847-44e1-4a8b-93b3-60eaf05bf832",
+        "deExample": "Gestern habe ich einen Ratschlag bekommen.",
+        "translateExample": "Вчера я получил совет.",
+        "collocations": [
+          "gestern",
+          "bekommen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "aeca7603-2168-49f7-a0df-6ea7ec3f1e47",
+        "deExample": "Man kann immer einen guten Ratschlag geben.",
+        "translateExample": "Можно всегда дать хороший совет.",
+        "collocations": [
+          "geben",
+          "gut"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d60d8cdd-0289-4283-ad1e-3d92f86a55fb",
+        "deExample": "Ich höre zu, weil der Ratschlag wichtig ist.",
+        "translateExample": "Я слушаю, потому что совет важен.",
+        "collocations": [
+          "wichtig",
+          "zuhören"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "79d5efa5-908a-4a2b-a841-572cc6d1a72d",
+        "deExample": "Ich werde den Ratschlag befolgen, wenn er gut ist.",
+        "translateExample": "Я последую совету, если он хороший.",
+        "collocations": [
+          "befolgen",
+          "gut"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b9ad5f8c-6bcf-4d61-bef2-b17031f92e8f",
+        "deExample": "Der Ratschlag wird von vielen Menschen geschätzt.",
+        "translateExample": "Совет ценится многими людьми.",
+        "collocations": [
+          "Menschen",
+          "schätzen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8fb2cba4-c6c8-41d9-a427-fb5b1a1904f6",
+        "deExample": "Es ist gut, einen Ratschlag zu bekommen.",
+        "translateExample": "Хорошо получать совет.",
+        "collocations": [
+          "bekommen",
+          "gut"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "512cef02-4adf-428f-9d92-2006c2f3be7a",
+        "deExample": "Welchen Ratschlag ist gut zu hören?",
+        "translateExample": "Какой совет хорошо услышать?",
+        "collocations": [
+          "hören",
+          "gut"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "eba11f62-8b94-42fe-a4b2-39a43a266365",
+        "deExample": "Ich lese Bücher, um Ratschläge zu bekommen.",
+        "translateExample": "Я читаю книги, чтобы получать советы.",
+        "collocations": [
+          "lesen",
+          "Bücher"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "81ade393-a444-4b13-8da5-5c6e1f453c30",
+    "deWord": "die Dauerkarte",
+    "translateWord": "абонемент",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "4e9acd56-2228-46e1-8fa5-874132671382",
+        "deExample": "Die Dauerkarte ist praktisch.",
+        "translateExample": "Абонемент удобный.",
+        "collocations": [
+          "praktisch"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "69392265-3b0b-4ffe-8ea2-3b2d5250804f",
+        "deExample": "Wo kann ich eine Dauerkarte kaufen?",
+        "translateExample": "Где я могу купить абонемент?",
+        "collocations": [
+          "kaufen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "784505c0-bb09-40bc-85a0-f2cc2614d0af",
+        "deExample": "Ich habe keine Dauerkarte.",
+        "translateExample": "У меня нет абонемента.",
+        "collocations": [],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7c1079c9-3bb8-40c5-9f06-a63d2a530724",
+        "deExample": "Gestern habe ich eine Dauerkarte gekauft.",
+        "translateExample": "Вчера я купил абонемент.",
+        "collocations": [
+          "gestern",
+          "kaufen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "de6b9cdc-8b03-43a3-b302-869e79781358",
+        "deExample": "Man kann mit einer Dauerkarte Geld sparen.",
+        "translateExample": "С абонементом можно сэкономить деньги.",
+        "collocations": [
+          "sparen",
+          "Geld"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3344cf66-4407-45c0-b869-2b515163d04c",
+        "deExample": "Ich kaufe sie, weil die Dauerkarte günstig ist.",
+        "translateExample": "Я её покупаю, потому что абонемент недорогой.",
+        "collocations": [
+          "günstig",
+          "kaufen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1b7849b9-873f-406e-be1d-5e42b1cd9a93",
+        "deExample": "Ich werde eine Dauerkarte kaufen, wenn ich oft schwimme.",
+        "translateExample": "Я куплю абонемент, если буду часто плавать.",
+        "collocations": [
+          "kaufen",
+          "schwimmen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a74b76e3-f1a9-4316-8a6b-9b5da6e3ab8d",
+        "deExample": "Die Dauerkarte wird an der Kasse verkauft.",
+        "translateExample": "Абонемент продается на кассе.",
+        "collocations": [
+          "Kasse",
+          "verkaufen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "11bf8283-2763-4d6a-a858-8e5a3782f3e9",
+        "deExample": "Es ist gut, eine Dauerkarte zu haben.",
+        "translateExample": "Хорошо иметь абонемент.",
+        "collocations": [
+          "haben",
+          "gut"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3de9389c-92bc-47f0-bffc-7ea52915805a",
+        "deExample": "Warum ist es praktisch, eine Dauerkarte zu kaufen?",
+        "translateExample": "Почему удобно купить абонемент?",
+        "collocations": [
+          "kaufen",
+          "praktisch"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b4a8cd25-42f9-4622-a15a-35bdbf0f216f",
+        "deExample": "Ich spare Geld, um eine Dauerkarte zu kaufen.",
+        "translateExample": "Я экономлю деньги, чтобы купить абонемент.",
+        "collocations": [
+          "Geld",
+          "sparen",
+          "kaufen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "34dde079-af04-40ed-9571-79ee21aa8da9",
+    "deWord": "ausreden - redete aus - ausgeredet",
+    "translateWord": "договаривать, выговариваться",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "aa4dfbd9-f19b-41d1-bdf0-5fc6d7b1f560",
+        "deExample": "Ich lasse ihn ausreden.",
+        "translateExample": "Я даю ему договорить.",
+        "collocations": [
+          "lassen"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b86e4fe3-9fa4-40b2-a509-270b20b85c6c",
+        "deExample": "Warum lässt du mich nicht ausreden?",
+        "translateExample": "Почему ты не даёшь мне договорить?",
+        "collocations": [
+          "lassen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "44b398c7-1a01-4c31-b565-8a54515b5c65",
+        "deExample": "Ich kann nicht ausreden.",
+        "translateExample": "Я не могу договорить.",
+        "collocations": [],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2f01319d-69d9-49e1-8c67-dcc155b43dba",
+        "deExample": "Gestern habe ich endlich ausgeredet.",
+        "translateExample": "Вчера я наконец договорил.",
+        "collocations": [
+          "gestern"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0bb804d3-201c-400e-b4ef-31ce6d638c9a",
+        "deExample": "Man sollte andere ausreden lassen.",
+        "translateExample": "Нужно давать другим договорить.",
+        "collocations": [
+          "lassen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7d992fbb-e5cd-46d5-9550-96b2e480d2e1",
+        "deExample": "Ich höre zu, weil er ausreden möchte.",
+        "translateExample": "Я слушаю, потому что он хочет договорить.",
+        "collocations": [
+          "zuhören"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "de6bd156-30df-418a-aa2d-cf5470df2498",
+        "deExample": "Ich werde warten, wenn er ausredet.",
+        "translateExample": "Я подожду, если он будет договаривать.",
+        "collocations": [
+          "warten"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9a3993ed-4bbc-490e-b363-de645cfb4d12",
+        "deExample": "Der Sprecher wird ausreden gelassen.",
+        "translateExample": "Докладчику дают договорить.",
+        "collocations": [
+          "Sprecher"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "54d29e38-8f35-4ce7-96ba-5e4fa9f2a8ef",
+        "deExample": "Es ist wichtig, ausreden zu dürfen.",
+        "translateExample": "Важно иметь возможность договорить.",
+        "collocations": [
+          "wichtig"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1c40cab8-4362-469c-9323-65ef99c1d28a",
+        "deExample": "Warum ist es gut, ausreden zu lassen?",
+        "translateExample": "Почему хорошо давать договорить?",
+        "collocations": [
+          "lassen",
+          "gut"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "380626d7-5814-41a7-8d1d-9f09b0351e06",
+        "deExample": "Ich warte, um ihn ausreden zu lassen.",
+        "translateExample": "Я жду, чтобы дать ему договорить.",
+        "collocations": [
+          "warten",
+          "lassen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

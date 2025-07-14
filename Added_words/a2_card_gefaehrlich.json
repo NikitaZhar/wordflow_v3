@@ -1,0 +1,207 @@
+[
+  {
+    "id": "c8377a79-b613-464b-a010-758508f2ba2c",
+    "deWord": "gefährlich",
+    "translateWord": "опасный",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "b7070d6a-d2ef-426b-acb2-e601000c126b",
+        "deExample": "Das Messer ist gefährlich.",
+        "translateExample": "Нож опасный.",
+        "collocations": [
+          "Messer"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "70d2eb07-3aa3-4f4e-8674-3a0e62138f8e",
+        "deExample": "Ist das Tier gefährlich?",
+        "translateExample": "Это животное опасное?",
+        "collocations": [
+          "Tier"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "05273c6a-e1d5-4c11-aa27-82b6d81439ec",
+        "deExample": "Dieses Spiel ist nicht gefährlich.",
+        "translateExample": "Эта игра не опасна.",
+        "collocations": [
+          "Spiel"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ecfa37e8-ac3f-4143-83c1-8097e5fe035f",
+        "deExample": "Es ist gefährlich gewesen.",
+        "translateExample": "Это было опасно.",
+        "collocations": [
+          "sein"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "acd84bf1-507f-4562-b674-431f2fcfc8fe",
+        "deExample": "Das kann gefährlich werden.",
+        "translateExample": "Это может стать опасным.",
+        "collocations": [
+          "werden"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5f3ded26-904f-4def-a958-556b898777b8",
+        "deExample": "Er bleibt zu Hause, weil es gefährlich ist.",
+        "translateExample": "Он остаётся дома, потому что это опасно.",
+        "collocations": [
+          "zu Hause"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "04a209d8-722c-46f8-923d-e57556e2dfd2",
+        "deExample": "Ich werde vorsichtig sein, wenn es gefährlich wird.",
+        "translateExample": "Я буду осторожен, если станет опасно.",
+        "collocations": [
+          "vorsichtig"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "dad471e5-73fa-4e95-801d-6b8fe9d76f46",
+        "deExample": "Die Straße wird als gefährlich angesehen.",
+        "translateExample": "Эта улица считается опасной.",
+        "collocations": [
+          "Straße"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "47b58819-df27-4c63-9d33-43dff70d6593",
+        "deExample": "Es ist wichtig, gefährlich zu vermeiden.",
+        "translateExample": "Важно избегать опасности.",
+        "collocations": [
+          "wichtig",
+          "vermeiden"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "731d5427-cd8a-41ec-b0e0-75bb0c12336d",
+        "deExample": "Wie ist es, gefährlich zu sein?",
+        "translateExample": "Каково это - быть опасным?",
+        "collocations": [
+          "sein"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "eccacb02-5aae-4a75-b6fc-ab4ec2ee52ae",
+        "deExample": "Ich lerne, um in gefährlichen Situationen ruhig zu bleiben.",
+        "translateExample": "Я учусь, чтобы оставаться спокойным в опасных ситуациях.",
+        "collocations": [
+          "lernen",
+          "ruhig"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

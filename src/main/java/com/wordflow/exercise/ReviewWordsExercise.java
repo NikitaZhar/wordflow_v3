@@ -18,12 +18,16 @@ public class ReviewWordsExercise extends BaseExercise {
 		this.limit = getLimit();
 
 		this.cards = new ArrayList<>(
-				dictionary.findDueCards(FlashCard.FlashCardType.WORD).stream()
-				.sorted(Comparator.comparingInt(card -> card.getProgress().getReviewInterval()))
+				dictionary.findDueCards().stream()
+				.sorted(Comparator.comparingInt(card -> card.getProgress().getMinsToRepeat()))
 				.limit(limit)
 				.toList()
 				);
 	}
+	
+	public List<FlashCard> getLessonContent() {
+    	return cards;
+    }
 
 	@Override
 	public void runExercise() {
@@ -38,17 +42,10 @@ public class ReviewWordsExercise extends BaseExercise {
 		int hour = LocalTime.now().getHour();
 		return switch (hour) {
 		case 8 -> 3;
-		case 9 -> 5;
-		case 10 -> 8;
-		case 11 -> 6;
-		case 12 -> 8;
-		case 13 -> 6;
-		case 14 -> 8;
-		case 15 -> 6;
-		case 16 -> 8;
-		case 17 -> 6;
-		case 18 -> 5;
-		case 19, 20 -> 4;
+		case 9, 10, 12, 14 -> 5;
+		case 11, 13, 15, 16 -> 8;
+		case 17, 18 -> 5;
+		case 19, 20 -> 5;
 		default -> 0; 
 		};
 	}
@@ -74,7 +71,7 @@ public class ReviewWordsExercise extends BaseExercise {
 					toProgressInterval = false;
 				}
 			} while (!isCorrect);
-			card.toProgress(toProgressInterval);
+			card.registerWordProgress(toProgressInterval);
 		}
 	}
 }

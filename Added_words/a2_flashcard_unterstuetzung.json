@@ -1,0 +1,208 @@
+[
+  {
+    "id": "f170f9ff-18d2-4abb-bd20-5251870fb1df",
+    "deWord": "die Unterstützung",
+    "translateWord": "поддержка",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "1ac65bd5-226d-4219-bf69-db072246b247",
+        "deExample": "Die Unterstützung ist wichtig.",
+        "translateExample": "Поддержка важна.",
+        "collocations": [
+          "wichtig"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0706fe7a-3d27-42f4-ac57-2e75ccaa4f0e",
+        "deExample": "Brauchen Sie die Unterstützung?",
+        "translateExample": "Вам нужна поддержка?",
+        "collocations": [
+          "brauchen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6288a643-032f-4989-a67a-1bfc819df089",
+        "deExample": "Die Unterstützung ist nicht immer da.",
+        "translateExample": "Поддержка есть не всегда.",
+        "collocations": [
+          "immer"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "807adab4-4e4c-4fe2-b11a-7ccdbff72e74",
+        "deExample": "Ich habe die Unterstützung bekommen.",
+        "translateExample": "Я получил поддержку.",
+        "collocations": [
+          "bekommen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "873119e0-6118-446e-aaba-674def283223",
+        "deExample": "Ich möchte die Unterstützung geben.",
+        "translateExample": "Я хочу оказать поддержку.",
+        "collocations": [
+          "geben"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "10900e8e-18ac-4342-b435-73f641e183e4",
+        "deExample": "Ich gebe die Unterstützung, weil es nötig ist.",
+        "translateExample": "Я оказываю поддержку, потому что это нужно.",
+        "collocations": [
+          "nötig",
+          "geben"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "bff5d167-6352-41f1-ac70-5f2738b2f82a",
+        "deExample": "Ich werde die Unterstützung geben, wenn sie es braucht.",
+        "translateExample": "Я окажу поддержку, если ей это будет нужно.",
+        "collocations": [
+          "geben"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "14c8c7ed-9da7-4ac5-b00e-68b1977ec2d6",
+        "deExample": "Die Unterstützung wird gegeben.",
+        "translateExample": "Поддержка оказывается.",
+        "collocations": [
+          "geben"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c62e4137-00fa-4b08-a362-0eacae91dead",
+        "deExample": "Es ist gut, die Unterstützung zu haben.",
+        "translateExample": "Хорошо иметь поддержку.",
+        "collocations": [
+          "haben"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1253a3a8-2753-4b6c-bae5-a7e0864dc933",
+        "deExample": "Willst du lernen, die Unterstützung zu geben?",
+        "translateExample": "Ты хочешь научиться оказывать поддержку?",
+        "collocations": [
+          "lernen",
+          "geben"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "59a668a3-4fdd-4bed-8168-149b871d2985",
+        "deExample": "Ich arbeite, um die Unterstützung zu bekommen.",
+        "translateExample": "Я работаю, чтобы получить поддержку.",
+        "collocations": [
+          "arbeiten",
+          "bekommen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

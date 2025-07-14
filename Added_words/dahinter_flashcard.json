@@ -1,0 +1,205 @@
+[
+  {
+    "id": "1c4e9499-d41f-474b-86ca-96216ba5f78d",
+    "deWord": "dahinter",
+    "translateWord": "позади этого, за этим",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "5b637fbb-93da-4b55-a734-360b355426dd",
+        "deExample": "Dahinter ist der Garten.",
+        "translateExample": "За этим находится сад.",
+        "collocations": [
+          "Garten"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2283d9fd-01ee-403d-bf40-5e2cb5b362bc",
+        "deExample": "Was ist dahinter?",
+        "translateExample": "Что находится за этим?",
+        "collocations": [
+          "was"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c943dd65-3da4-4a02-a103-a0cec7955f66",
+        "deExample": "Dahinter ist nichts.",
+        "translateExample": "За этим ничего нет.",
+        "collocations": [
+          "nichts"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a818c2e5-df3c-4a2d-8c12-e9b6b5558725",
+        "deExample": "Gestern habe ich gesehen, was dahinter ist.",
+        "translateExample": "Вчера я видел, что за этим.",
+        "collocations": [
+          "sehen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a5f54ec5-3db4-4185-85b4-2f55655234a1",
+        "deExample": "Du sollst wissen, was dahinter ist.",
+        "translateExample": "Ты должен знать, что за этим.",
+        "collocations": [
+          "wissen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c4c26b7b-2099-4166-a05c-de598242404c",
+        "deExample": "Ich bleibe hier, weil ich sehen will, was dahinter ist.",
+        "translateExample": "Я остаюсь здесь, потому что хочу увидеть, что за этим.",
+        "collocations": [
+          "sehen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f90c1159-1d54-4aca-84d8-6055d3628873",
+        "deExample": "Ich werde sehen, was dahinter ist, wenn ich Zeit habe.",
+        "translateExample": "Я посмотрю, что за этим, когда у меня будет время.",
+        "collocations": [
+          "Zeit"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5803870d-4e9a-499f-acf8-cb2144b341ea",
+        "deExample": "Dahinter wird ein Haus gebaut.",
+        "translateExample": "За этим строится дом.",
+        "collocations": [
+          "Haus"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8a63a2c1-1ac4-432b-bd6a-31cace0ffafc",
+        "deExample": "Ich plane, zu sehen, was dahinter ist.",
+        "translateExample": "Я планирую посмотреть, что за этим.",
+        "collocations": [
+          "Plan"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3dde1fbb-16c0-41ac-84bb-4792a2ddb975",
+        "deExample": "Willst du wissen, was dahinter ist?",
+        "translateExample": "Ты хочешь узнать, что за этим?",
+        "collocations": [
+          "wissen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "35bee6f9-01d7-4c93-ac50-91dac9f4ecfe",
+        "deExample": "Ich gehe nach draußen, um zu sehen, was dahinter ist.",
+        "translateExample": "Я выхожу, чтобы увидеть, что за этим.",
+        "collocations": [
+          "sehen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

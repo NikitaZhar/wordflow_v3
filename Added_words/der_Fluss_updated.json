@@ -1,0 +1,214 @@
+[
+  {
+    "id": "d02e407a-eb38-4b8d-ada6-81d07e2b5b36",
+    "deWord": "der Fluss",
+    "translateWord": "река (in + Dativ); течение (von + Dativ)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "a649bb90-2d83-40fa-989f-4db636e84092",
+        "deExample": "Der Fluss ist breit und sauber.",
+        "translateExample": "Река широкая и чистая.",
+        "collocations": [
+          "breit",
+          "sauber"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "178e9354-e6a4-44f5-bb3c-5fc31a7bdc31",
+        "deExample": "Ist der Fluss gefährlich zum Schwimmen?",
+        "translateExample": "Река опасна для купания?",
+        "collocations": [
+          "gefährlich",
+          "Schwimmen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b9c9a9ad-ac22-4e26-8204-db177a5d810c",
+        "deExample": "Der Fluss ist nicht tief.",
+        "translateExample": "Река не глубокая.",
+        "collocations": [
+          "tief"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "01cbb796-862b-4da6-aa1a-62ae382223d6",
+        "deExample": "Ich habe den Fluss gestern gesehen.",
+        "translateExample": "Я видел реку вчера.",
+        "collocations": [
+          "sehen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "cb681b4d-bcc8-43ee-b393-09e15d1081e9",
+        "deExample": "Du kannst am Fluss angeln.",
+        "translateExample": "Ты можешь рыбачить на реке.",
+        "collocations": [
+          "angeln"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ecafe5fa-7cf0-4f4a-90cf-51109880ebb4",
+        "deExample": "Ich gehe spazieren, weil der Fluss ruhig ist.",
+        "translateExample": "Я иду гулять, потому что река спокойная.",
+        "collocations": [
+          "spazieren",
+          "ruhig"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "07063017-bcb7-4fcf-bc39-7fd6fa397d71",
+        "deExample": "Ich werde am Fluss sitzen, wenn die Sonne scheint.",
+        "translateExample": "Я посижу у реки, когда будет светить солнце.",
+        "collocations": [
+          "sitzen",
+          "Sonne",
+          "scheinen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2972623d-26ff-4e48-9a51-a335e5e08c12",
+        "deExample": "Der Fluss wird jeden Sommer von Touristen besucht.",
+        "translateExample": "Река посещается туристами каждое лето.",
+        "collocations": [
+          "Touristen",
+          "Sommer"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3afa8c6d-66ca-4f3e-9264-ca3d99a49144",
+        "deExample": "Es ist schön, am Fluss zu spazieren.",
+        "translateExample": "Приятно гулять у реки.",
+        "collocations": [
+          "schön",
+          "spazieren"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3a5799fe-ac2d-430c-9115-3c83cc13b8de",
+        "deExample": "Willst du lernen, wie man am Fluss zeltet?",
+        "translateExample": "Ты хочешь научиться, как ставить палатку у реки?",
+        "collocations": [
+          "lernen",
+          "zelten"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3207fbd8-21fb-4d96-bc02-eb54a4c655fd",
+        "deExample": "Ich stehe früh auf, um am Fluss zu joggen.",
+        "translateExample": "Я встаю рано, чтобы бегать у реки.",
+        "collocations": [
+          "aufstehen",
+          "joggen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "id": "40f4a7ea-fe88-4475-85ab-31698e0e894d",
+    "deWord": "berichten - berichtete - berichtet",
+    "translateWord": "сообщать, докладывать (о чём-либо, über Akk / von Dat)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "13aa97aa-ae3d-495b-b553-876f33aad464",
+        "deExample": "Ich berichte über das Ereignis.",
+        "translateExample": "Я сообщаю о событии.",
+        "collocations": [
+          "Ereignis"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f5466ec8-1ccc-4317-94fe-f7ad8c65b7f2",
+        "deExample": "Berichtest du von der Reise?",
+        "translateExample": "Ты рассказываешь о поездке?",
+        "collocations": [
+          "Reise"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "206e7f2f-21d5-496b-b900-0924fae70925",
+        "deExample": "Er berichtet nicht über den Unfall.",
+        "translateExample": "Он не сообщает об аварии.",
+        "collocations": [
+          "Unfall"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7fb7a04a-3c44-4c1e-b60d-eb3d5ba3d622",
+        "deExample": "Ich habe über das Projekt berichtet.",
+        "translateExample": "Я сообщил о проекте.",
+        "collocations": [
+          "Projekt"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "aa5f3837-dbd8-47f0-a24a-6f1de58442c8",
+        "deExample": "Du sollst über den Fortschritt berichten.",
+        "translateExample": "Тебе следует сообщать о прогрессе.",
+        "collocations": [
+          "Fortschritt"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "64b65445-d4e7-42d0-ab09-7fcea7478cad",
+        "deExample": "Ich schreibe, weil ich über das Treffen berichten möchte.",
+        "translateExample": "Я пишу, потому что хочу рассказать о встрече.",
+        "collocations": [
+          "Treffen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4d434295-012a-47f0-8511-0e0f42a8dc48",
+        "deExample": "Ich werde über den Kurs berichten, wenn ich Zeit habe.",
+        "translateExample": "Я расскажу о курсе, когда у меня будет время.",
+        "collocations": [
+          "Kurs"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d1e5c4bf-de9b-4ad2-9641-7c42996ebb95",
+        "deExample": "Es wird über das Problem berichtet.",
+        "translateExample": "О проблеме сообщается.",
+        "collocations": [
+          "Problem"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f8d3e604-b7f3-460a-9f80-6aa3b95e39c1",
+        "deExample": "Ich plane, über die Situation zu berichten.",
+        "translateExample": "Я планирую сообщить о ситуации.",
+        "collocations": [
+          "Situation"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "14da5ecf-9b44-4612-a025-9d529d3d266d",
+        "deExample": "Willst du über das Ergebnis berichten?",
+        "translateExample": "Ты хочешь рассказать о результате?",
+        "collocations": [
+          "Ergebnis"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3140a374-57eb-438d-835d-5a643bbc4252",
+        "deExample": "Ich mache Notizen, um über das Seminar zu berichten.",
+        "translateExample": "Я делаю заметки, чтобы рассказать о семинаре.",
+        "collocations": [
+          "Notizen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,605 @@
+[
+  {
+    "id": "b3738ccf-7950-4db3-86b9-858cfc491b9c",
+    "deWord": "der Erfolg",
+    "translateWord": "успех",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "9f21b8b6-f132-4ea4-abac-20530745b930",
+        "deExample": "Der Erfolg ist wichtig.",
+        "translateExample": "Успех важен.",
+        "collocations": [
+          "wichtig"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3fddfb89-e467-43b4-a4c0-2d02b039eba9",
+        "deExample": "Ist der Erfolg groß?",
+        "translateExample": "Успех большой?",
+        "collocations": [
+          "groß"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1f430e42-7ff1-4eb5-ad72-0cb7a0877976",
+        "deExample": "Der Erfolg ist nicht einfach.",
+        "translateExample": "Успех не прост.",
+        "collocations": [
+          "einfach"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f5b58ce4-2f1a-40e5-87f9-73415c48d3db",
+        "deExample": "Wir haben Erfolg gehabt.",
+        "translateExample": "Мы добились успеха.",
+        "collocations": [
+          "wir"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "76b1638e-4e0c-4433-a9ce-d82cd4763fb9",
+        "deExample": "Man kann Erfolg haben.",
+        "translateExample": "Можно добиться успеха.",
+        "collocations": [
+          "haben"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7f206a65-50de-48aa-8240-ae5b4911cd80",
+        "deExample": "Ich arbeite viel, weil Erfolg wichtig ist.",
+        "translateExample": "Я много работаю, потому что успех важен.",
+        "collocations": [
+          "arbeiten",
+          "wichtig"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6509979a-4f79-4857-9a62-ed41ee45459d",
+        "deExample": "Ich werde Erfolg haben, wenn ich fleißig bin.",
+        "translateExample": "Я добьюсь успеха, если буду старательным.",
+        "collocations": [
+          "fleißig"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9bcf0f65-6020-46aa-b4a8-38e8c0d9fbed",
+        "deExample": "Der Erfolg wird gefeiert.",
+        "translateExample": "Успех празднуют.",
+        "collocations": [
+          "feiern"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e27b914d-914f-4752-99b6-0bf3249b2c13",
+        "deExample": "Es ist schön, Erfolg zu haben.",
+        "translateExample": "Приятно иметь успех.",
+        "collocations": [
+          "schön",
+          "haben"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0f67b2a2-f301-4cbc-978d-b3510a4f9221",
+        "deExample": "Wie ist es, Erfolg zu erleben?",
+        "translateExample": "Как это — переживать успех?",
+        "collocations": [
+          "erleben"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "18bafa1b-add3-4534-90b4-296e40ed5b28",
+        "deExample": "Er lernt viel, um Erfolg zu haben.",
+        "translateExample": "Он много учится, чтобы добиться успеха.",
+        "collocations": [
+          "lernen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "c9a02eaa-584d-49b6-b031-23fd5fee2975",
+    "deWord": "sich anstrengen",
+    "translateWord": "стараться, прилагать усилия",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "4bd32544-9dbc-45b3-8d39-fa45d1a86ebd",
+        "deExample": "Ich strenge mich an.",
+        "translateExample": "Я стараюсь.",
+        "collocations": [],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fed8a72f-98d7-464a-ba8b-10cf46ddd4b7",
+        "deExample": "Strengst du dich an?",
+        "translateExample": "Ты стараешься?",
+        "collocations": [],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e36d1e7e-b1c0-48ed-a93b-df179771357a",
+        "deExample": "Ich strenge mich nicht an.",
+        "translateExample": "Я не стараюсь.",
+        "collocations": [],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4f41072b-93db-4201-a576-fb5d7cb1641e",
+        "deExample": "Ich habe mich angestrengt.",
+        "translateExample": "Я старался.",
+        "collocations": [],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "31267b89-6c22-4ac2-ac81-4bc75d3d346c",
+        "deExample": "Man muss sich anstrengen.",
+        "translateExample": "Нужно стараться.",
+        "collocations": [
+          "müssen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "01faf0a7-55b3-4f98-abfd-3ac77c1cd7d2",
+        "deExample": "Ich übe viel, weil ich mich anstrengen will.",
+        "translateExample": "Я много практикуюсь, потому что хочу стараться.",
+        "collocations": [
+          "üben"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "058498fa-91de-438d-a689-07e6723fb1bf",
+        "deExample": "Ich werde mich anstrengen, wenn es nötig ist.",
+        "translateExample": "Я буду стараться, если это нужно.",
+        "collocations": [
+          "nötig"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "71e6a36f-0773-4092-a91f-36cfef1774a8",
+        "deExample": "Es wird sich angestrengt.",
+        "translateExample": "Стараются.",
+        "collocations": [],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "811f4f1d-eca8-419a-968d-123ba4911409",
+        "deExample": "Es ist wichtig, sich anzustrengen.",
+        "translateExample": "Важно стараться.",
+        "collocations": [
+          "wichtig"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fac96635-1106-46ad-946f-9ec543afc059",
+        "deExample": "Wie ist es, sich jeden Tag anzustrengen?",
+        "translateExample": "Как это — стараться каждый день?",
+        "collocations": [
+          "jeden Tag"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c194ea3b-2a3a-483b-b185-6c0797267ed8",
+        "deExample": "Er lernt viel, um sich anzustrengen.",
+        "translateExample": "Он много учится, чтобы стараться.",
+        "collocations": [
+          "lernen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "982d088c-f977-44b1-93fb-a2c4402f6679",
+    "deWord": "verschicken - verschickte - verschickt",
+    "translateWord": "отправлять, рассылать (что-л, Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "415f691c-a774-4e57-8a40-ba949da7a6c5",
+        "deExample": "Ich verschicke einen Brief.",
+        "translateExample": "Я отправляю письмо.",
+        "collocations": [
+          "Brief"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "13655e3d-1aca-4bfc-a508-cd91e076f6a0",
+        "deExample": "Verschickst du eine E-Mail?",
+        "translateExample": "Ты отправляешь электронное письмо?",
+        "collocations": [
+          "E-Mail"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "23d62319-25bb-41a4-9353-9767de644bb2",
+        "deExample": "Ich verschicke das nicht.",
+        "translateExample": "Я это не отправляю.",
+        "collocations": [],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a0d974ae-8b8a-4d85-90e4-e837fedd9881",
+        "deExample": "Ich habe das Paket verschickt.",
+        "translateExample": "Я отправил посылку.",
+        "collocations": [
+          "Paket"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4ef0e6ca-5106-411f-9871-a88edcbb8c7b",
+        "deExample": "Man kann eine Nachricht verschicken.",
+        "translateExample": "Можно отправить сообщение.",
+        "collocations": [
+          "Nachricht"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7bce0b20-506c-4318-a067-d6e74575ba8f",
+        "deExample": "Ich bleibe zu Hause, weil ich Briefe verschicken muss.",
+        "translateExample": "Я остаюсь дома, потому что должен отправить письма.",
+        "collocations": [
+          "Haus",
+          "Briefe"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "cab1af70-b1dc-49d4-9c59-401c8dcc54e4",
+        "deExample": "Ich werde das Paket verschicken, wenn ich Zeit habe.",
+        "translateExample": "Я отправлю посылку, когда будет время.",
+        "collocations": [
+          "Paket",
+          "Zeit"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5a086a2a-1adc-4fba-8baa-0c0df13861ba",
+        "deExample": "Die Pakete werden verschickt.",
+        "translateExample": "Посылки отправляются.",
+        "collocations": [
+          "Pakete"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ec6b1ba1-bec4-4aef-a943-ff78df2110c7",
+        "deExample": "Es ist einfach, eine Nachricht zu verschicken.",
+        "translateExample": "Просто отправить сообщение.",
+        "collocations": [
+          "Nachricht",
+          "einfach"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5793d0da-de16-4db0-aebd-c7a373317581",
+        "deExample": "Wie ist es, viele E-Mails zu verschicken?",
+        "translateExample": "Как это — отправлять много электронных писем?",
+        "collocations": [
+          "E-Mails"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5ca51724-bfc7-4e80-ba62-f04e578c5290",
+        "deExample": "Er öffnet den Laptop, um E-Mails zu verschicken.",
+        "translateExample": "Он открывает ноутбук, чтобы отправить письма.",
+        "collocations": [
+          "Laptop",
+          "E-Mails"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

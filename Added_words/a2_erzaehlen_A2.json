@@ -1,0 +1,214 @@
+[
+  {
+    "id": "c3b42bee-786c-4f0d-b35a-791f10158840",
+    "deWord": "erzählen - erzählte - erzählt",
+    "translateWord": "рассказывать (кому/что, über + Akk / von + Dativ)",
+    "wordProgress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "f4e9df24-dd4b-4730-9ae9-dd7dd43e4c3a",
+        "deExample": "Ich erzähle dir eine Geschichte.",
+        "translateExample": "Я рассказываю тебе историю.",
+        "collocations": [
+          "die Geschichte"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5e8f05da-8ad4-48a0-a03b-928381848b20",
+        "deExample": "Erzählst du mir etwas über deinen Urlaub?",
+        "translateExample": "Ты расскажешь мне что-то об отпуске?",
+        "collocations": [
+          "der Urlaub"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "63ba8973-db7d-45a9-aa16-5d0792c9d47c",
+        "deExample": "Sie erzählt nicht gerne von ihren Problemen.",
+        "translateExample": "Она не любит рассказывать о своих проблемах.",
+        "collocations": [
+          "das Problem"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "13f9f54d-2c0d-4d07-b280-77444dec421c",
+        "deExample": "Wir haben viel über das Konzert erzählt.",
+        "translateExample": "Мы много рассказывали о концерте.",
+        "collocations": [
+          "das Konzert",
+          "viel"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "bed05ca7-b7d8-47c0-aa3c-a3b3b5f79fd6",
+        "deExample": "Du solltest den Kindern eine Geschichte erzählen.",
+        "translateExample": "Тебе следует рассказать детям историю.",
+        "collocations": [
+          "das Kind",
+          "die Geschichte"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "24ebde5e-9545-4957-b1ad-58d33a915c16",
+        "deExample": "Ich lache, weil er mir einen Witz erzählt hat.",
+        "translateExample": "Я смеюсь, потому что он рассказал мне шутку.",
+        "collocations": [
+          "lachen",
+          "der Witz"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5b47911c-b621-4848-9c27-4a8b656a2324",
+        "deExample": "Ich werde dir alles erzählen, wenn ich zurückkomme.",
+        "translateExample": "Я всё тебе расскажу, когда вернусь.",
+        "collocations": [
+          "alles",
+          "zurückkommen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8d30fcdf-38b1-4503-b526-8c5c204b27c5",
+        "deExample": "Von diesem Erlebnis wurde oft erzählt.",
+        "translateExample": "Об этом событии часто рассказывали.",
+        "collocations": [
+          "das Erlebnis",
+          "oft"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b624a7ae-f473-47ab-af7a-770620e7b6d4",
+        "deExample": "Er versucht, eine interessante Geschichte zu erzählen.",
+        "translateExample": "Он пытается рассказать интересную историю.",
+        "collocations": [
+          "interessant",
+          "die Geschichte"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a86d9991-bb8b-49ca-a4b1-e94e8d059ff3",
+        "deExample": "Wie kann man lernen, Geschichten spannend zu erzählen?",
+        "translateExample": "Как научиться рассказывать истории увлекательно?",
+        "collocations": [
+          "die Geschichte",
+          "spannend",
+          "lernen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ae84e140-3a6c-49b3-a620-b088a1cc3298",
+        "deExample": "Ich übe jeden Tag, um besser erzählen zu können.",
+        "translateExample": "Я практикуюсь каждый день, чтобы уметь рассказывать лучше.",
+        "collocations": [
+          "üben",
+          "besser"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

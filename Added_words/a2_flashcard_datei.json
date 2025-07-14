@@ -1,0 +1,208 @@
+[
+  {
+    "id": "0d9208fa-7e15-44da-b4e2-779644b75e1f",
+    "deWord": "die Datei",
+    "translateWord": "файл",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "9bf9010a-fce7-4aa4-80cb-4392720713b7",
+        "deExample": "Die Datei ist groß.",
+        "translateExample": "Файл большой.",
+        "collocations": [
+          "groß"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3424f12e-736f-468f-aa24-bf90cf3a334c",
+        "deExample": "Ist die Datei fertig?",
+        "translateExample": "Файл готов?",
+        "collocations": [
+          "fertig"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "71fdf750-a18b-46d1-8bbd-fd7ebeaf0ca2",
+        "deExample": "Die Datei ist nicht lesbar.",
+        "translateExample": "Файл не читается.",
+        "collocations": [
+          "lesbar"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9a727a20-e69a-44b5-8b6d-45afecc1ac36",
+        "deExample": "Ich habe die Datei geöffnet.",
+        "translateExample": "Я открыл файл.",
+        "collocations": [
+          "öffnen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "041c6667-076d-4300-8e56-e34d286a43a6",
+        "deExample": "Ich möchte die Datei speichern.",
+        "translateExample": "Я хочу сохранить файл.",
+        "collocations": [
+          "speichern"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5bb9671c-32fa-4066-8e41-43fd937ad23c",
+        "deExample": "Ich öffne die Datei, weil ich sie lesen will.",
+        "translateExample": "Я открываю файл, потому что хочу его прочитать.",
+        "collocations": [
+          "lesen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9389a66e-8b86-4516-b653-f36f272706c1",
+        "deExample": "Ich werde die Datei senden, wenn ich zu Hause bin.",
+        "translateExample": "Я отправлю файл, когда буду дома.",
+        "collocations": [
+          "senden"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "66361b56-1cfe-464a-867a-0c5c069be22a",
+        "deExample": "Die Datei wird gesendet.",
+        "translateExample": "Файл отправляется.",
+        "collocations": [
+          "senden"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2015a165-22a0-4547-b7bb-b0f6e565b04d",
+        "deExample": "Es ist wichtig, die Datei zu speichern.",
+        "translateExample": "Важно сохранить файл.",
+        "collocations": [
+          "speichern",
+          "wichtig"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c50afd3d-d83f-4a96-b10b-24471d2b05bc",
+        "deExample": "Möchten Sie versuchen, die Datei zu öffnen?",
+        "translateExample": "Вы хотите попробовать открыть файл?",
+        "collocations": [
+          "öffnen",
+          "versuchen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9e8a446a-a17e-479f-8764-1581a3f03dea",
+        "deExample": "Ich arbeite am Computer, um die Datei zu bearbeiten.",
+        "translateExample": "Я работаю за компьютером, чтобы редактировать файл.",
+        "collocations": [
+          "Computer",
+          "bearbeiten"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

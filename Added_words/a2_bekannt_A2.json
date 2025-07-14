@@ -1,0 +1,220 @@
+[
+  {
+    "id": "a8300138-cbaa-4232-9ac0-77e5f0bdebf1",
+    "deWord": "bekannt",
+    "translateWord": "известный (кому, bei + Dativ / чем, für + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "3ee765b9-09b5-4226-b4e2-3a49e3fe2fae",
+        "deExample": "Das Restaurant ist sehr bekannt.",
+        "translateExample": "Этот ресторан очень известен.",
+        "collocations": [
+          "das Restaurant",
+          "sehr"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f0c0fa46-030e-4464-9b65-c7120fa74881",
+        "deExample": "Ist dir diese Marke bekannt?",
+        "translateExample": "Тебе знаком этот бренд?",
+        "collocations": [
+          "die Marke",
+          "diese"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a84dcb07-d97d-4755-95b7-073d6483c918",
+        "deExample": "Dieses Lied ist mir nicht bekannt.",
+        "translateExample": "Эта песня мне не знакома.",
+        "collocations": [
+          "das Lied",
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f3d62bf0-8a1a-41f3-844a-05444a32fe08",
+        "deExample": "Das Problem war dem Team bereits bekannt.",
+        "translateExample": "Проблема уже была известна команде.",
+        "collocations": [
+          "das Problem",
+          "das Team",
+          "bereits"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "054c59a1-99b2-4f98-b94a-ab493101dc52",
+        "deExample": "Der Schauspieler soll international bekannt sein.",
+        "translateExample": "Говорят, актёр известен на международном уровне.",
+        "collocations": [
+          "der Schauspieler",
+          "international"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "912ebbb7-a3b7-47db-bca2-9f3c9acd7d98",
+        "deExample": "Viele kommen, weil das Café für seine Torten bekannt ist.",
+        "translateExample": "Многие приходят, потому что кафе известно своими тортами.",
+        "collocations": [
+          "das Café",
+          "die Torte",
+          "viel"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6110cce7-d494-40ab-bff8-4df3e76fcd6c",
+        "deExample": "Die Stadt wird bei Touristen bekannter, wenn neue Festivals stattfinden.",
+        "translateExample": "Город становится более известным среди туристов, если проходят новые фестивали.",
+        "collocations": [
+          "die Stadt",
+          "der Tourist",
+          "das Festival"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ad07b7a0-1638-4fa1-a41d-98a7a326dd03",
+        "deExample": "Das Unternehmen ist weltweit als innovativ bekannt.",
+        "translateExample": "Компания известна во всём мире как инновационная.",
+        "collocations": [
+          "das Unternehmen",
+          "weltweit",
+          "innovativ"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b035bf2e-727b-4aa6-92ac-3025ccc8ff55",
+        "deExample": "Sie versucht, als Expertin bekannt zu werden.",
+        "translateExample": "Она старается стать известной как эксперт.",
+        "collocations": [
+          "die Expertin",
+          "versuchen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d904ef11-8423-435c-b0ff-1f5c81c13868",
+        "deExample": "Wie kann man lernen, schnell bekannt zu werden?",
+        "translateExample": "Как можно научиться быстро становиться известным?",
+        "collocations": [
+          "lernen",
+          "schnell"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "96c7a068-b64c-4150-9dcd-0ae98e0cf5ca",
+        "deExample": "Er arbeitet hart, um in der Szene bekannt zu sein.",
+        "translateExample": "Он усердно работает, чтобы быть известным в этой сфере.",
+        "collocations": [
+          "hart",
+          "die Szene"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

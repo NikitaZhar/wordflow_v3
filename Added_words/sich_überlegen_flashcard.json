@@ -1,0 +1,205 @@
+[
+  {
+    "id": "eec426d9-8c4f-461f-8a41-4052dca01598",
+    "deWord": "sich überlegen - überlegte - überlegt",
+    "translateWord": "обдумывать (что-либо, Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "9fddeb62-411e-43a0-b149-9f25c6661145",
+        "deExample": "Ich überlege mir eine Lösung.",
+        "translateExample": "Я обдумываю решение.",
+        "collocations": [
+          "Lösung"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "92635fa7-679e-472d-94e1-738b3a3caae2",
+        "deExample": "Überlegst du dir das gut?",
+        "translateExample": "Ты хорошо это обдумываешь?",
+        "collocations": [
+          "gut"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c4d8fda8-fb78-4e59-872a-476cc1b190bd",
+        "deExample": "Ich überlege mir das nicht lange.",
+        "translateExample": "Я недолго это обдумываю.",
+        "collocations": [
+          "lange"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "448c8d59-e313-43a7-b36f-920071863ee1",
+        "deExample": "Ich habe mir das überlegt.",
+        "translateExample": "Я это обдумал.",
+        "collocations": [
+          "das"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "68e203ae-a237-4c4c-aa97-d127e40b2078",
+        "deExample": "Du sollst dir das überlegen.",
+        "translateExample": "Тебе следует это обдумать.",
+        "collocations": [
+          "das"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9ec34e54-3b75-420f-b010-071235221912",
+        "deExample": "Ich sage dir, weil ich mir das überlegt habe.",
+        "translateExample": "Я говорю тебе, потому что я это обдумал.",
+        "collocations": [
+          "das"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e02bb797-024c-4808-a47e-d8b71d836324",
+        "deExample": "Ich werde mir das überlegen, wenn ich Zeit habe.",
+        "translateExample": "Я обдумаю это, когда у меня будет время.",
+        "collocations": [
+          "Zeit"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4e33c84c-7798-4951-91f9-94909451d04d",
+        "deExample": "Das wird sich überlegt.",
+        "translateExample": "Это обдумывается.",
+        "collocations": [
+          "das"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3ece1ce6-237e-4c6b-a898-a83391ce057f",
+        "deExample": "Ich habe beschlossen, mir das zu überlegen.",
+        "translateExample": "Я решил это обдумать.",
+        "collocations": [
+          "das"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "81d5f65c-02a8-4321-8210-fdb758c9391d",
+        "deExample": "Willst du dir das überlegen?",
+        "translateExample": "Ты хочешь это обдумать?",
+        "collocations": [
+          "das"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8a3e38b3-ef5f-4d64-86d8-6cb5c8140995",
+        "deExample": "Ich lese, um mir das besser zu überlegen.",
+        "translateExample": "Я читаю, чтобы лучше это обдумать.",
+        "collocations": [
+          "Buch"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

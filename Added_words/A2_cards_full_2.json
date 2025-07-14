@@ -1,0 +1,1039 @@
+[
+  {
+    "id": "c04bab18-60ac-4f1a-9dd1-cb761f8f759d",
+    "deWord": "der Nachteil",
+    "translateWord": "недостаток, минус",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "f98f1730-d688-46d5-a6bd-172be778160e",
+        "deExample": "Der Nachteil ist klein.",
+        "translateExample": "Недостаток небольшой.",
+        "collocations": [
+          "klein"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ba4d29fc-34b0-4d84-ac8d-84c68ab29437",
+        "deExample": "Was ist der Nachteil?",
+        "translateExample": "Какой недостаток?",
+        "collocations": [
+          "was"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "64ea41e2-23db-4985-a79e-3e8a1957d9eb",
+        "deExample": "Der Nachteil ist nicht sichtbar.",
+        "translateExample": "Недостаток не виден.",
+        "collocations": [
+          "nicht",
+          "sichtbar"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "73202fe5-65f5-4193-abc2-a32fdbe391e0",
+        "deExample": "Ich habe den Nachteil akzeptiert.",
+        "translateExample": "Я принял недостаток.",
+        "collocations": [
+          "akzeptieren"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "281aedd7-5609-4748-a0b9-ce0567324c71",
+        "deExample": "Man kann den Nachteil erklären.",
+        "translateExample": "Можно объяснить недостаток.",
+        "collocations": [
+          "erklären"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fbc57505-595d-455a-a40e-175804ac3f9e",
+        "deExample": "Der Nachteil ist da, weil es teuer ist.",
+        "translateExample": "Есть недостаток, потому что это дорого.",
+        "collocations": [
+          "teuer"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0743ca17-b30f-4601-b582-53d3e03546b2",
+        "deExample": "Der Nachteil wird deutlich, wenn man testet.",
+        "translateExample": "Недостаток становится заметным, если тестировать.",
+        "collocations": [
+          "testen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "24b82698-8589-4821-ab3a-0b45dc7cb723",
+        "deExample": "Der Nachteil wird beschrieben.",
+        "translateExample": "Недостаток описывается.",
+        "collocations": [
+          "beschreiben"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6aab9ee3-04d9-4d79-aecb-a3bdce25566a",
+        "deExample": "Es ist wichtig, den Nachteil zu verstehen.",
+        "translateExample": "Важно понимать недостаток.",
+        "collocations": [
+          "wichtig",
+          "verstehen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "85e38eb0-631b-474d-9286-e2f4a0c38ebe",
+        "deExample": "Kann man den Nachteil vermeiden?",
+        "translateExample": "Можно ли избежать недостатка?",
+        "collocations": [
+          "vermeiden"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "83118a94-6b80-4532-906e-fe9e71514754",
+        "deExample": "Ich lerne, um den Nachteil zu überwinden.",
+        "translateExample": "Я учусь, чтобы преодолеть недостаток.",
+        "collocations": [
+          "lernen",
+          "überwinden"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "477c3fb3-2845-481d-85b5-5e7410a179ad",
+    "deWord": "aufgehen - ging auf - aufgegangen",
+    "translateWord": "всходить (о солнце, о тесте), открываться",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "f0bbd6ea-5fc0-45d2-a0ce-c59997e46475",
+        "deExample": "Die Sonne geht auf.",
+        "translateExample": "Солнце всходит.",
+        "collocations": [
+          "die Sonne"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "af43d6cd-1c9d-454b-b34d-5ba174c42bb5",
+        "deExample": "Geht die Sonne jetzt auf?",
+        "translateExample": "Солнце сейчас всходит?",
+        "collocations": [
+          "die Sonne",
+          "jetzt"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a32d6517-4763-4cc0-98b6-b7955a73192d",
+        "deExample": "Die Sonne geht nicht auf.",
+        "translateExample": "Солнце не всходит.",
+        "collocations": [
+          "die Sonne",
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "79da1de6-d234-45c2-b202-197b583f5fb5",
+        "deExample": "Die Sonne ist gestern aufgegangen.",
+        "translateExample": "Солнце взошло вчера.",
+        "collocations": [
+          "die Sonne",
+          "gestern"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "dd6134f0-3aba-420c-8188-422268718fd8",
+        "deExample": "Das Brot muss aufgehen.",
+        "translateExample": "Тесто должно подойти.",
+        "collocations": [
+          "das Brot"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "cecee9b2-9127-4af8-9336-40b6c8b06d75",
+        "deExample": "Die Tür geht auf, weil ich sie drücke.",
+        "translateExample": "Дверь открывается, потому что я её толкаю.",
+        "collocations": [
+          "die Tür",
+          "drücken"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "aa095fe1-638c-4439-888d-ad2fb5dcf2b2",
+        "deExample": "Die Tür wird aufgehen, wenn du klopfst.",
+        "translateExample": "Дверь откроется, если ты постучишь.",
+        "collocations": [
+          "die Tür",
+          "klopfen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "cc97970b-9723-46a3-990f-74a060a4b11d",
+        "deExample": "Die Tür wird geöffnet.",
+        "translateExample": "Дверь открывается.",
+        "collocations": [
+          "die Tür"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7d8acd35-0961-428f-a39e-1c2ffcbdfce2",
+        "deExample": "Ich versuche, die Tür aufgehen zu lassen.",
+        "translateExample": "Я пытаюсь открыть дверь.",
+        "collocations": [
+          "die Tür",
+          "lassen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2f6deccd-01a3-4616-ad83-473cf158a693",
+        "deExample": "Kannst du die Tür aufgehen lassen?",
+        "translateExample": "Ты можешь открыть дверь?",
+        "collocations": [
+          "die Tür",
+          "lassen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3d0d4549-53f3-42b0-b90d-50055adbc5f1",
+        "deExample": "Ich ziehe, um die Tür aufgehen zu lassen.",
+        "translateExample": "Я тяну, чтобы дверь открылась.",
+        "collocations": [
+          "ziehen",
+          "die Tür"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "ffc5bfcb-db55-436f-b364-232f55ef2393",
+    "deWord": "verschieben - verschob - verschoben",
+    "translateWord": "переносить (термин, встречу, на более позднее время)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "77b3875d-e8fc-4060-8a06-53ab87eab42d",
+        "deExample": "Ich verschiebe den Termin.",
+        "translateExample": "Я переношу встречу.",
+        "collocations": [
+          "der Termin"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e98e8722-0667-48eb-b6d2-b7f553fa5d3e",
+        "deExample": "Verschiebst du den Termin?",
+        "translateExample": "Ты переносишь встречу?",
+        "collocations": [
+          "der Termin"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ad120941-3d71-49ad-9fdf-62b1b182f267",
+        "deExample": "Ich verschiebe den Termin nicht.",
+        "translateExample": "Я не переношу встречу.",
+        "collocations": [
+          "der Termin",
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0672ac1e-7bbd-4da4-be57-61af4969e9a4",
+        "deExample": "Ich habe den Termin verschoben.",
+        "translateExample": "Я перенёс встречу.",
+        "collocations": [
+          "der Termin"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ea533437-89c6-4229-9a77-3c1d2ebe00b5",
+        "deExample": "Ich muss den Termin verschieben.",
+        "translateExample": "Мне нужно перенести встречу.",
+        "collocations": [
+          "der Termin"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "34a86d55-f30e-4e2b-a6df-bbb475c75080",
+        "deExample": "Ich verschiebe den Termin, weil ich krank bin.",
+        "translateExample": "Я переношу встречу, потому что я болен.",
+        "collocations": [
+          "der Termin",
+          "krank"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "dd94e2fd-946d-46ae-8e80-c7a4a4871bc9",
+        "deExample": "Ich werde den Termin verschieben, wenn du willst.",
+        "translateExample": "Я перенесу встречу, если ты хочешь.",
+        "collocations": [
+          "der Termin",
+          "wollen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9f736701-f42a-46ef-b01d-d07d0908ad00",
+        "deExample": "Der Termin wird verschoben.",
+        "translateExample": "Встреча переносится.",
+        "collocations": [
+          "der Termin"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3b065007-2eb5-4e22-b85e-11649fca7302",
+        "deExample": "Ich habe vergessen, den Termin zu verschieben.",
+        "translateExample": "Я забыл перенести встречу.",
+        "collocations": [
+          "der Termin",
+          "vergessen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fe1ca178-a1b8-48ad-bb4e-93107b1b42ae",
+        "deExample": "Willst du den Termin verschieben?",
+        "translateExample": "Ты хочешь перенести встречу?",
+        "collocations": [
+          "der Termin"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1a74c9ed-9bb5-44f2-90cc-e58b8aa12f66",
+        "deExample": "Ich plane, um den Termin zu verschieben.",
+        "translateExample": "Я планирую, чтобы перенести встречу.",
+        "collocations": [
+          "planen",
+          "der Termin"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "2fd784d1-c869-407a-882e-52d14a1c9aec",
+    "deWord": "wählen - wählte - gewählt",
+    "translateWord": "выбирать, голосовать (für + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "d400c37c-b99b-4ead-b0f8-102a0981afa2",
+        "deExample": "Ich wähle ein Buch.",
+        "translateExample": "Я выбираю книгу.",
+        "collocations": [
+          "ein Buch"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2c58ffd5-908b-4241-9beb-2060050ec6b2",
+        "deExample": "Wählst du das Auto?",
+        "translateExample": "Ты выбираешь машину?",
+        "collocations": [
+          "das Auto"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d8816a38-6de1-47b1-a5fa-32e6e923f548",
+        "deExample": "Ich wähle ihn nicht.",
+        "translateExample": "Я его не выбираю.",
+        "collocations": [
+          "ihn",
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4dd7c655-ffa0-4f5b-87df-1812dba4398e",
+        "deExample": "Ich habe ihn gewählt.",
+        "translateExample": "Я выбрал его.",
+        "collocations": [
+          "ihn"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1d68a189-7578-4a05-951d-ab74612742b0",
+        "deExample": "Ich will ein Geschenk wählen.",
+        "translateExample": "Я хочу выбрать подарок.",
+        "collocations": [
+          "ein Geschenk"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "914f606d-2fc5-4f82-a829-6556647842fa",
+        "deExample": "Ich wähle ihn, weil er freundlich ist.",
+        "translateExample": "Я выбираю его, потому что он дружелюбный.",
+        "collocations": [
+          "ihn",
+          "freundlich"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "dc7eff59-a5f0-4e2f-8153-fe501f3921e1",
+        "deExample": "Ich werde ihn wählen, wenn ich kann.",
+        "translateExample": "Я выберу его, если смогу.",
+        "collocations": [
+          "ihn",
+          "können"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a6ef2297-a0b0-41cd-aa52-003a51046ecf",
+        "deExample": "Er wird gewählt.",
+        "translateExample": "Он выбран.",
+        "collocations": [
+          "er"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "16366140-977b-4f0a-9703-0e1975710a53",
+        "deExample": "Ich versuche, das Beste zu wählen.",
+        "translateExample": "Я стараюсь выбрать лучшее.",
+        "collocations": [
+          "das Beste",
+          "versuchen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "050fedf4-a0d6-48f7-9816-6aaeb0b83fc8",
+        "deExample": "Willst du ein Kleid wählen?",
+        "translateExample": "Ты хочешь выбрать платье?",
+        "collocations": [
+          "ein Kleid"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "597820b1-fcbc-4cd2-a251-93fe57f468bd",
+        "deExample": "Ich spare, um ein Auto zu wählen.",
+        "translateExample": "Я коплю, чтобы выбрать машину.",
+        "collocations": [
+          "sparen",
+          "ein Auto"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "4e3f76de-4c0d-469d-9dfd-c5f8c821e2a5",
+    "deWord": "begeistert",
+    "translateWord": "в восторге, воодушевлённый",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "b3b4160e-d980-4a80-b972-830beb8cf1d5",
+        "deExample": "Ich bin begeistert.",
+        "translateExample": "Я в восторге.",
+        "collocations": [
+          "ich"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e00aae26-fca1-45ee-9c92-cd952965f035",
+        "deExample": "Bist du begeistert?",
+        "translateExample": "Ты в восторге?",
+        "collocations": [
+          "du"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "121ee51b-c33c-4358-b503-5becf610b88f",
+        "deExample": "Er ist nicht begeistert.",
+        "translateExample": "Он не в восторге.",
+        "collocations": [
+          "er",
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "bde6b1c0-1288-495f-b37f-519059963630",
+        "deExample": "Ich war begeistert.",
+        "translateExample": "Я был в восторге.",
+        "collocations": [
+          "ich"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ab57e39b-9bb9-4e83-a472-a00ba6e890fb",
+        "deExample": "Ich kann begeistert sein.",
+        "translateExample": "Я могу быть в восторге.",
+        "collocations": [
+          "ich"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ca834db4-57f0-4222-a237-b6cd636b60f5",
+        "deExample": "Ich bin begeistert, weil es schön ist.",
+        "translateExample": "Я в восторге, потому что это красиво.",
+        "collocations": [
+          "schön"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "dada1e97-31fc-4b5b-b52b-0371b0207a4a",
+        "deExample": "Ich werde begeistert sein, wenn ich dort bin.",
+        "translateExample": "Я буду в восторге, когда буду там.",
+        "collocations": [
+          "dort"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f4a7c64f-74fc-410a-b377-0ea274bb2c6e",
+        "deExample": "Er wird begeistert genannt.",
+        "translateExample": "Его называют воодушевлённым.",
+        "collocations": [
+          "er"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "82131cc0-412b-4283-a413-979e68fb0e14",
+        "deExample": "Ich versuche, begeistert zu bleiben.",
+        "translateExample": "Я стараюсь оставаться воодушевлённым.",
+        "collocations": [
+          "versuchen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1d586852-fa49-4045-8a44-99164035a1e1",
+        "deExample": "Bist du bereit, begeistert zu bleiben?",
+        "translateExample": "Ты готов оставаться воодушевлённым?",
+        "collocations": [
+          "bereit"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1735bdc2-d297-4acb-af40-ddb54a1782f6",
+        "deExample": "Ich arbeite, um begeistert zu bleiben.",
+        "translateExample": "Я работаю, чтобы оставаться воодушевлённым.",
+        "collocations": [
+          "arbeiten"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

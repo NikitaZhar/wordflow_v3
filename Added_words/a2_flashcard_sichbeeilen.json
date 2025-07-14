@@ -1,0 +1,197 @@
+[
+  {
+    "id": "7b1ff7d9-cc90-4f26-b897-12d69cdfb8ba",
+    "deWord": "sich beeilen - eilte - geeilt",
+    "translateWord": "спешить (sich beeilen)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "9431f39a-b228-4f86-85a7-5bc36f450570",
+        "deExample": "Ich beeile mich zur Arbeit.",
+        "translateExample": "Я спешу на работу.",
+        "collocations": [
+          "Arbeit"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ac2b3eab-6737-4606-a2c0-25f49d1b1b14",
+        "deExample": "Beeilst du dich zur Schule?",
+        "translateExample": "Ты спешишь в школу?",
+        "collocations": [
+          "Schule"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3ec58d49-e860-42b2-84c2-a43079875e8a",
+        "deExample": "Er beeilt sich nicht.",
+        "translateExample": "Он не спешит.",
+        "collocations": [],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "86fbe401-33ee-40c4-86d4-c6e802df94fa",
+        "deExample": "Wir haben uns beeilt.",
+        "translateExample": "Мы поспешили.",
+        "collocations": [],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0a825728-637a-488c-9528-888e9c442118",
+        "deExample": "Du musst dich beeilen.",
+        "translateExample": "Тебе нужно поторопиться.",
+        "collocations": [],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5e9cb182-d202-45c8-b2a4-1b7bdeb20b72",
+        "deExample": "Ich beeile mich, weil ich spät bin.",
+        "translateExample": "Я спешу, потому что опаздываю.",
+        "collocations": [
+          "spät"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "693d4fdb-88da-4188-86cf-e89e47599b49",
+        "deExample": "Ich werde mich beeilen, wenn der Bus kommt.",
+        "translateExample": "Я поспешу, когда придет автобус.",
+        "collocations": [
+          "Bus"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "39e3e870-0ea3-4bd5-af09-97c67f16e647",
+        "deExample": "Es wird sich beeilt.",
+        "translateExample": "Торопятся.",
+        "collocations": [],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "cd687558-4acb-4870-b6bb-d168a25abd02",
+        "deExample": "Er versucht, sich zu beeilen.",
+        "translateExample": "Он пытается поспешить.",
+        "collocations": [
+          "versuchen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "eb7d40bd-d8dc-4d70-b9c1-77465975f97e",
+        "deExample": "Willst du versuchen, dich zu beeilen?",
+        "translateExample": "Ты хочешь попытаться поторопиться?",
+        "collocations": [
+          "versuchen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "184f93e3-4e95-46ba-87db-3ef6b66eebcb",
+        "deExample": "Er steht früh auf, um sich zu beeilen.",
+        "translateExample": "Он встаёт рано, чтобы поторопиться.",
+        "collocations": [
+          "aufstehen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

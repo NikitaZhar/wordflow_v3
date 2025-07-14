@@ -1,0 +1,205 @@
+[
+  {
+    "id": "ff5c520d-d05d-45d2-88e7-088088987b41",
+    "deWord": "vereinbaren - vereinbarte - vereinbart",
+    "translateWord": "договариваться (о чём-либо, über Akk / mit jdm)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "85e8e18a-fbd7-4932-b81e-f5bbbec87b4f",
+        "deExample": "Wir vereinbaren einen Termin.",
+        "translateExample": "Мы договариваемся о встрече.",
+        "collocations": [
+          "Termin"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4adab73b-d938-4228-8175-bc309c1643b7",
+        "deExample": "Vereinbarst du einen Termin mit ihm?",
+        "translateExample": "Ты договоришься с ним о встрече?",
+        "collocations": [
+          "Termin"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "10fdd7b6-c1e0-4296-9ac0-0a1827ca0348",
+        "deExample": "Wir vereinbaren keinen neuen Termin.",
+        "translateExample": "Мы не договариваемся о новой встрече.",
+        "collocations": [
+          "Termin"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c3f49390-1897-486a-aa6a-b8d074f8957c",
+        "deExample": "Wir haben einen Termin vereinbart.",
+        "translateExample": "Мы договорились о встрече.",
+        "collocations": [
+          "Termin"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "668e4730-dc3a-4a84-9c50-7c20f5b894c7",
+        "deExample": "Du musst einen Termin vereinbaren.",
+        "translateExample": "Ты должен договориться о встрече.",
+        "collocations": [
+          "Termin"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a3ba8fd5-dd74-424e-900f-fcffe5633d47",
+        "deExample": "Ich rufe an, weil ich einen Termin vereinbaren möchte.",
+        "translateExample": "Я звоню, потому что хочу договориться о встрече.",
+        "collocations": [
+          "Anruf"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ad9a10d2-7141-40f5-8a7d-8265ffea18cd",
+        "deExample": "Ich werde einen Termin vereinbaren, wenn ich Zeit habe.",
+        "translateExample": "Я договорюсь о встрече, когда у меня будет время.",
+        "collocations": [
+          "Zeit"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "bd6bd817-e365-4a51-a539-06d7db2551cd",
+        "deExample": "Der Termin wird vereinbart.",
+        "translateExample": "Встреча согласовывается.",
+        "collocations": [
+          "Termin"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3bc07d0c-e10b-4e36-8841-bc088ecbe2a9",
+        "deExample": "Ich habe beschlossen, einen Termin zu vereinbaren.",
+        "translateExample": "Я решил договориться о встрече.",
+        "collocations": [
+          "Termin"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "110543ae-f17c-48c6-83d7-a5345dd256bb",
+        "deExample": "Willst du einen Termin vereinbaren?",
+        "translateExample": "Ты хочешь договориться о встрече?",
+        "collocations": [
+          "Termin"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "71e3dd70-5ee7-4a19-a036-b0acc6995fc9",
+        "deExample": "Ich rufe an, um einen Termin zu vereinbaren.",
+        "translateExample": "Я звоню, чтобы договориться о встрече.",
+        "collocations": [
+          "Anruf"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

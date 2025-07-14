@@ -1,0 +1,207 @@
+[
+  {
+    "id": "647ca1e4-c244-4242-9118-70c10094b484",
+    "deWord": "unterrichten - unterrichtete - unterrichtet",
+    "translateWord": "преподавать, обучать (unterrichten + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "3190ca91-f368-4037-8634-be817d847ca2",
+        "deExample": "Der Lehrer unterrichtet die Schüler.",
+        "translateExample": "Учитель обучает учеников.",
+        "collocations": [
+          "Lehrer",
+          "Schüler"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f623173e-2225-4433-aa88-be17b879f6c8",
+        "deExample": "Unterrichtet sie Englisch?",
+        "translateExample": "Она преподает английский?",
+        "collocations": [
+          "Englisch"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0362ed4c-3dc5-4bc6-af5f-1dda0562af6b",
+        "deExample": "Er unterrichtet heute nicht.",
+        "translateExample": "Сегодня он не преподает.",
+        "collocations": [],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "861fdd0e-429a-4e79-b220-e9227b52534b",
+        "deExample": "Der Lehrer hat viele Schüler unterrichtet.",
+        "translateExample": "Учитель обучил много учеников.",
+        "collocations": [
+          "Lehrer",
+          "Schüler"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9dd53300-31d2-490d-94eb-5db0dce859a6",
+        "deExample": "Du kannst Deutsch unterrichten.",
+        "translateExample": "Ты можешь преподавать немецкий.",
+        "collocations": [
+          "Deutsch"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "29220726-4542-4b4a-9e86-c43cd1ba9a69",
+        "deExample": "Sie unterrichtet, weil sie gerne hilft.",
+        "translateExample": "Она преподает, потому что любит помогать.",
+        "collocations": [
+          "helfen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4929f526-d1bb-4fc8-b2fc-d31d7e1e9ae2",
+        "deExample": "Er wird Mathe unterrichten, wenn er Zeit hat.",
+        "translateExample": "Он будет преподавать математику, когда у него будет время.",
+        "collocations": [
+          "Mathe",
+          "Zeit"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "94ef5674-21a1-4d83-b362-7fe4ca7eaf36",
+        "deExample": "Deutsch wird hier unterrichtet.",
+        "translateExample": "Немецкий преподается здесь.",
+        "collocations": [
+          "Deutsch"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "77aa6a4c-a0b4-4b4b-8139-43d96626a4c3",
+        "deExample": "Er versucht, Kinder zu unterrichten.",
+        "translateExample": "Он старается учить детей.",
+        "collocations": [
+          "Kinder"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "943bf501-7439-491d-a661-f30781c9111e",
+        "deExample": "Willst du lernen, Kinder zu unterrichten?",
+        "translateExample": "Ты хочешь научиться учить детей?",
+        "collocations": [
+          "lernen",
+          "Kinder"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e4807cc9-cc78-4163-bc49-2ac26bd3727c",
+        "deExample": "Er lernt viel, um besser unterrichten zu können.",
+        "translateExample": "Он много учится, чтобы лучше преподавать.",
+        "collocations": [
+          "lernen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

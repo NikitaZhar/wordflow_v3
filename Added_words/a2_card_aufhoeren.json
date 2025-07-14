@@ -1,0 +1,205 @@
+[
+  {
+    "id": "2a5652d3-e9ce-41c0-88a2-67d9c7a06b16",
+    "deWord": "aufhören - hörte auf - aufgehört",
+    "translateWord": "прекращать, переставать (что-либо делать, mit + Dativ)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "10765d96-39e2-4530-88dd-fcb7e4929bad",
+        "deExample": "Ich höre mit dem Rauchen auf.",
+        "translateExample": "Я прекращаю курить.",
+        "collocations": [
+          "Rauchen"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "af3f78fa-e54e-4e48-992f-fd225205fb78",
+        "deExample": "Hörst du mit der Arbeit auf?",
+        "translateExample": "Ты заканчиваешь работу?",
+        "collocations": [
+          "Arbeit"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d39ac590-032c-4343-ba92-9358dd0b6a8b",
+        "deExample": "Er hört nicht auf.",
+        "translateExample": "Он не прекращает.",
+        "collocations": [],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ba74c0fc-7e85-4ae5-b7d7-6b0c0a083c4a",
+        "deExample": "Ich habe mit dem Lernen aufgehört.",
+        "translateExample": "Я перестал учиться.",
+        "collocations": [
+          "Lernen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d158440a-09db-46ec-9a94-c2ced89ce05a",
+        "deExample": "Du sollst mit dem Reden aufhören.",
+        "translateExample": "Тебе следует перестать говорить.",
+        "collocations": [
+          "Reden"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7a0f8630-e810-4065-808d-f52d61a6434d",
+        "deExample": "Er hört auf, weil er müde ist.",
+        "translateExample": "Он прекращает, потому что он устал.",
+        "collocations": [
+          "müde"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1f0b6ba5-9896-4ad0-a860-ae412a4d51e0",
+        "deExample": "Ich werde aufhören, wenn ich fertig bin.",
+        "translateExample": "Я прекращу, когда закончу.",
+        "collocations": [
+          "fertig"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "dd11da2c-bfc9-4c6b-96a0-f6a6477b9f84",
+        "deExample": "Das Projekt wird aufgehört.",
+        "translateExample": "Проект прекращается.",
+        "collocations": [
+          "Projekt"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f27a5a93-e22d-4ba9-82bd-50932bc0f325",
+        "deExample": "Vergiss nicht, mit dem Lärm aufzuhören.",
+        "translateExample": "Не забудь прекратить шуметь.",
+        "collocations": [
+          "vergessen",
+          "Lärm"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "665395c9-5d75-45ff-ac50-8c4428e55bc9",
+        "deExample": "Wann hast du vor, mit der Arbeit aufzuhören?",
+        "translateExample": "Когда ты собираешься закончить работу?",
+        "collocations": [
+          "vorhaben",
+          "Arbeit"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e249f00e-f446-42d7-9279-43887599a615",
+        "deExample": "Ich arbeite, um bald aufzuhören.",
+        "translateExample": "Я работаю, чтобы вскоре прекратить.",
+        "collocations": [
+          "arbeiten"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

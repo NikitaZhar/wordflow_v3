@@ -1,0 +1,213 @@
+[
+  {
+    "id": "0c9cb129-5ee1-4b17-8e35-13431495c465",
+    "deWord": "sich konzentrieren - konzentrierte - konzentriert",
+    "translateWord": "концентрироваться (на, auf + Akk)",
+    "wordProgress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "73fc261e-4fd4-4123-9652-371ec2b2c0b7",
+        "deExample": "Ich konzentriere mich auf die Aufgabe.",
+        "translateExample": "Я концентрируюсь на задании.",
+        "collocations": [
+          "die Aufgabe"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0b8e4f1e-e0d6-4518-89e5-33536ae16701",
+        "deExample": "Konzentrierst du dich auf das Gespräch?",
+        "translateExample": "Ты концентрируешься на разговоре?",
+        "collocations": [
+          "das Gespräch"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "01493110-07a4-4446-8f6f-d8dc1f866349",
+        "deExample": "Er konzentriert sich nicht auf seine Arbeit.",
+        "translateExample": "Он не концентрируется на своей работе.",
+        "collocations": [
+          "die Arbeit"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "28259d95-d5be-4ba0-842a-e13638629725",
+        "deExample": "Wir haben uns auf das Projekt konzentriert.",
+        "translateExample": "Мы концентрировались на проекте.",
+        "collocations": [
+          "das Projekt"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "748ff3b4-6f7e-426a-a064-27356a113686",
+        "deExample": "Du musst dich besser auf das Thema konzentrieren.",
+        "translateExample": "Ты должен лучше концентрироваться на теме.",
+        "collocations": [
+          "das Thema",
+          "besser"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4fc6e43e-c27d-4539-bdc3-6d9943a42987",
+        "deExample": "Ich bleibe zu Hause, weil ich mich auf die Prüfung konzentrieren will.",
+        "translateExample": "Я остаюсь дома, потому что хочу сосредоточиться на экзамене.",
+        "collocations": [
+          "die Prüfung",
+          "zu Hause"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e2788456-b24e-47ce-8339-4d8ec0a2fd1b",
+        "deExample": "Ich werde mich auf den Vortrag konzentrieren, wenn es ruhig ist.",
+        "translateExample": "Я буду сосредотачиваться на докладе, если будет тихо.",
+        "collocations": [
+          "der Vortrag",
+          "ruhig"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "edc95fcd-bfbb-4025-9087-e862fe80b076",
+        "deExample": "Viele Schüler sind während des Tests nicht konzentriert.",
+        "translateExample": "Многие ученики не сосредоточены во время теста.",
+        "collocations": [
+          "der Schüler",
+          "der Test"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "241747ef-73aa-4a92-93ac-fd122197d34e",
+        "deExample": "Er versucht, sich voll auf das Lernen zu konzentrieren.",
+        "translateExample": "Он пытается полностью сосредоточиться на учёбе.",
+        "collocations": [
+          "das Lernen",
+          "voll"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "19333193-b0dc-4b97-90e4-7658ecd1013d",
+        "deExample": "Wie kann ich lernen, mich besser zu konzentrieren?",
+        "translateExample": "Как я могу научиться лучше концентрироваться?",
+        "collocations": [
+          "lernen",
+          "besser"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5aa0a005-a50e-484b-9081-9a3d45ac6204",
+        "deExample": "Ich mache eine Pause, um mich wieder auf die Aufgabe zu konzentrieren.",
+        "translateExample": "Я делаю перерыв, чтобы снова сосредоточиться на задании.",
+        "collocations": [
+          "die Pause",
+          "die Aufgabe",
+          "wieder"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,1045 @@
+[
+  {
+    "id": "cc773eea-bd2a-4e61-84b1-cde6b5fe1e5a",
+    "deWord": "schenken - schenkte - geschenkt",
+    "translateWord": "дарить (кому-либо, Dativ)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "c5e56d70-aede-4ff4-91ee-37cd34d3b343",
+        "deExample": "Ich schenke dir ein Buch.",
+        "translateExample": "Я дарю тебе книгу.",
+        "collocations": [
+          "dir",
+          "ein Buch"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8ab1f81d-6f14-4597-9e7a-ce6e121fd6f8",
+        "deExample": "Schenkst du ihm etwas?",
+        "translateExample": "Ты даришь ему что-то?",
+        "collocations": [
+          "ihm",
+          "etwas"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d3ceb37c-8cc0-4e45-963b-df502d13bdb8",
+        "deExample": "Ich schenke ihm nichts.",
+        "translateExample": "Я ему ничего не дарю.",
+        "collocations": [
+          "ihm",
+          "nichts"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "16c3ce77-b1ed-4b47-b54c-0e564c203103",
+        "deExample": "Ich habe ihr Blumen geschenkt.",
+        "translateExample": "Я подарил ей цветы.",
+        "collocations": [
+          "ihr",
+          "Blumen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "dfcc8cc6-9e00-4947-94dd-b044312b7f80",
+        "deExample": "Ich will ihm ein Geschenk schenken.",
+        "translateExample": "Я хочу подарить ему подарок.",
+        "collocations": [
+          "ihm",
+          "ein Geschenk"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f22c7b86-0989-46f3-a200-ba63a1da4012",
+        "deExample": "Ich schenke dir ein Buch, weil du Geburtstag hast.",
+        "translateExample": "Я дарю тебе книгу, потому что у тебя день рождения.",
+        "collocations": [
+          "dir",
+          "ein Buch",
+          "Geburtstag"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5a9415f5-247d-4626-b079-11bc74bca8ae",
+        "deExample": "Ich werde ihm etwas schenken, wenn ich Geld habe.",
+        "translateExample": "Я подарю ему что-то, когда у меня будут деньги.",
+        "collocations": [
+          "ihm",
+          "etwas",
+          "Geld"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d59743c9-d66c-4591-ade4-0fd196dada0d",
+        "deExample": "Das Geschenk wird ihm geschenkt.",
+        "translateExample": "Подарок ему дарят.",
+        "collocations": [
+          "das Geschenk",
+          "ihm"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "dc462761-0d07-45b6-8ea9-8ff9897f188d",
+        "deExample": "Ich vergesse oft, ihm etwas zu schenken.",
+        "translateExample": "Я часто забываю дарить ему что-то.",
+        "collocations": [
+          "vergessen",
+          "ihm",
+          "etwas"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "96f8d697-f235-4b22-8ba8-825060c28d1a",
+        "deExample": "Willst du ihr etwas zu Weihnachten schenken?",
+        "translateExample": "Ты хочешь подарить ей что-то на Рождество?",
+        "collocations": [
+          "ihr",
+          "etwas",
+          "Weihnachten"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4abb7c3e-628d-4724-9f9a-29a0500bfb61",
+        "deExample": "Ich spare, um ihm ein Fahrrad zu schenken.",
+        "translateExample": "Я коплю, чтобы подарить ему велосипед.",
+        "collocations": [
+          "sparen",
+          "ihm",
+          "ein Fahrrad"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "5da43f19-d695-429c-8b84-7df6e7ca22ed",
+    "deWord": "warten - wartete - gewartet",
+    "translateWord": "ждать (кого-либо, auf + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "9f308101-e9f7-4b2c-bf27-5508db1ebd49",
+        "deExample": "Ich warte auf den Bus.",
+        "translateExample": "Я жду автобус.",
+        "collocations": [
+          "der Bus"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "cd8f7b55-6eec-4410-9920-1f3fb2fb7b5a",
+        "deExample": "Wartest du auf mich?",
+        "translateExample": "Ты ждёшь меня?",
+        "collocations": [
+          "mich"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b49ad6ad-8607-4e8a-a88f-1d75e0bb6642",
+        "deExample": "Er wartet nicht auf uns.",
+        "translateExample": "Он не ждёт нас.",
+        "collocations": [
+          "uns",
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d977b708-3979-4e76-a97e-78ab1836de23",
+        "deExample": "Ich habe auf den Zug gewartet.",
+        "translateExample": "Я ждал поезд.",
+        "collocations": [
+          "der Zug"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c4f57f92-675f-4c6f-859c-8f39b144fe11",
+        "deExample": "Ich muss auf den Arzt warten.",
+        "translateExample": "Мне нужно подождать врача.",
+        "collocations": [
+          "der Arzt"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "aee6ad1f-fcbe-4b56-99df-fc16c9047753",
+        "deExample": "Ich warte auf dich, weil wir zusammen gehen.",
+        "translateExample": "Я жду тебя, потому что мы идём вместе.",
+        "collocations": [
+          "dich",
+          "zusammen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "91bac884-9a0f-4b27-8dd5-b0538bcd45f8",
+        "deExample": "Ich werde auf dich warten, wenn du später kommst.",
+        "translateExample": "Я подожду тебя, если ты придёшь позже.",
+        "collocations": [
+          "dich",
+          "später"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "26bc2e6c-9609-47ba-87c6-c3196d257966",
+        "deExample": "Auf den Bus wird gewartet.",
+        "translateExample": "Автобус ждут.",
+        "collocations": [
+          "der Bus"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c7bd002e-56c9-405e-9b7b-0c01531e3b5f",
+        "deExample": "Ich vergesse oft, auf den Brief zu warten.",
+        "translateExample": "Я часто забываю ждать письмо.",
+        "collocations": [
+          "vergessen",
+          "der Brief"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b02d8163-aca4-4fa9-9269-e1e037a32ba6",
+        "deExample": "Willst du auf den Anruf warten?",
+        "translateExample": "Ты хочешь подождать звонка?",
+        "collocations": [
+          "der Anruf"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fff3dbcf-1059-4de5-9961-e9ffd0604fe0",
+        "deExample": "Ich lese, um auf den Bus zu warten.",
+        "translateExample": "Я читаю, чтобы подождать автобус.",
+        "collocations": [
+          "lesen",
+          "der Bus"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "755c0295-1505-446c-91d7-a84497d93926",
+    "deWord": "neugierig",
+    "translateWord": "любопытный",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "7e9f203b-bdea-4436-8fdc-c0cac1e15ce8",
+        "deExample": "Er ist neugierig.",
+        "translateExample": "Он любопытный.",
+        "collocations": [
+          "er"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "81552d1b-9daa-4954-8b7e-b038e51dd9e1",
+        "deExample": "Bist du neugierig?",
+        "translateExample": "Ты любопытный?",
+        "collocations": [
+          "du"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6dff1741-909d-4cb8-834a-4c738c8e6d73",
+        "deExample": "Sie ist nicht neugierig.",
+        "translateExample": "Она не любопытная.",
+        "collocations": [
+          "sie",
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "26e653c2-f85a-4f0e-a05c-2dbbc6bcd7a5",
+        "deExample": "Ich war neugierig.",
+        "translateExample": "Я был любопытным.",
+        "collocations": [
+          "ich"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "696d0225-2206-4a83-9a70-5e907a8511cc",
+        "deExample": "Ich kann neugierig sein.",
+        "translateExample": "Я могу быть любопытным.",
+        "collocations": [
+          "ich"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c1138b0a-fbc0-485b-8930-fd89f1db8b45",
+        "deExample": "Ich bin neugierig, weil ich mehr wissen will.",
+        "translateExample": "Я любопытен, потому что хочу знать больше.",
+        "collocations": [
+          "wissen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b37a3965-4898-473c-91f1-b62abb73c83f",
+        "deExample": "Ich werde neugierig sein, wenn ich es sehe.",
+        "translateExample": "Я буду любопытным, когда увижу это.",
+        "collocations": [
+          "sehen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ee732d85-a77d-4e50-b8f1-53eb1a4cc35a",
+        "deExample": "Er wird neugierig genannt.",
+        "translateExample": "Его называют любопытным.",
+        "collocations": [
+          "er"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ee092ea0-91dc-48a3-ac3f-70865bdec4ad",
+        "deExample": "Ich versuche, neugierig zu bleiben.",
+        "translateExample": "Я стараюсь оставаться любопытным.",
+        "collocations": [
+          "versuchen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b799e549-03a8-4c5f-85b1-9799108ce57a",
+        "deExample": "Bist du bereit, neugierig zu bleiben?",
+        "translateExample": "Ты готов оставаться любопытным?",
+        "collocations": [
+          "bereit"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "54b4c23f-4462-4f78-bd68-922cafa8ebde",
+        "deExample": "Ich lerne, um neugierig zu bleiben.",
+        "translateExample": "Я учусь, чтобы оставаться любопытным.",
+        "collocations": [
+          "lernen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "a49bc365-fb92-459f-9b95-24ce8afbd9dd",
+    "deWord": "klingen - klang - geklungen",
+    "translateWord": "звучать",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "809ff874-d26a-4d65-8402-33e1b7a774e7",
+        "deExample": "Es klingt schön.",
+        "translateExample": "Это звучит красиво.",
+        "collocations": [
+          "schön"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "851a3eec-a24c-40cb-9c89-e23a4c88661f",
+        "deExample": "Klingt das gut?",
+        "translateExample": "Это звучит хорошо?",
+        "collocations": [
+          "gut"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e86cd81d-427a-44ec-b920-cf02408c0fe4",
+        "deExample": "Es klingt nicht schlecht.",
+        "translateExample": "Это звучит неплохо.",
+        "collocations": [
+          "nicht",
+          "schlecht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "43eca52e-930c-404a-8fed-ba881e269c3d",
+        "deExample": "Es hat gut geklungen.",
+        "translateExample": "Это звучало хорошо.",
+        "collocations": [
+          "gut"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e98cfd9f-10be-4246-b49b-6d1715460e92",
+        "deExample": "Es kann interessant klingen.",
+        "translateExample": "Это может звучать интересно.",
+        "collocations": [
+          "interessant"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "523d7da0-dc1f-4336-8241-78ca65b78bc2",
+        "deExample": "Es klingt gut, weil es leise ist.",
+        "translateExample": "Это звучит хорошо, потому что это тихо.",
+        "collocations": [
+          "gut",
+          "leise"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "225a2be6-e395-4a2a-866d-638fae28d9a6",
+        "deExample": "Es wird gut klingen, wenn wir zusammen singen.",
+        "translateExample": "Это будет звучать хорошо, если мы будем петь вместе.",
+        "collocations": [
+          "gut",
+          "singen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4d95165f-6209-4f79-836c-48651a682fa0",
+        "deExample": "Es wird gut geklungen.",
+        "translateExample": "Это звучало хорошо.",
+        "collocations": [
+          "gut"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "15f011ad-2b38-4a7d-ad34-974279eda3e8",
+        "deExample": "Ich hoffe, gut zu klingen.",
+        "translateExample": "Я надеюсь звучать хорошо.",
+        "collocations": [
+          "hoffen",
+          "gut"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0cd5d6d6-8e55-4656-b9b4-5c664f7d0063",
+        "deExample": "Wie kann es besser klingen?",
+        "translateExample": "Как это может звучать лучше?",
+        "collocations": [
+          "besser"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "363fb5f7-0b86-4dc3-8bfb-de0088e6a824",
+        "deExample": "Ich übe, um gut zu klingen.",
+        "translateExample": "Я тренируюсь, чтобы звучать хорошо.",
+        "collocations": [
+          "üben",
+          "gut"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "7d7e80f6-385d-43aa-aeaa-c70fab851879",
+    "deWord": "einverstanden",
+    "translateWord": "согласный, согласен",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "4915efe7-1781-4b1b-9ad0-50c6f17b3816",
+        "deExample": "Ich bin einverstanden.",
+        "translateExample": "Я согласен.",
+        "collocations": [
+          "ich"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "639ff9bd-bb0c-43df-945e-f688b5b8371c",
+        "deExample": "Bist du einverstanden?",
+        "translateExample": "Ты согласен?",
+        "collocations": [
+          "du"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4e63b2af-e8d7-446f-a829-291ebae1b2b8",
+        "deExample": "Er ist nicht einverstanden.",
+        "translateExample": "Он не согласен.",
+        "collocations": [
+          "er",
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c63ded78-09dd-4e3f-975d-8755a6ca255f",
+        "deExample": "Ich war einverstanden.",
+        "translateExample": "Я был согласен.",
+        "collocations": [
+          "ich"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "cfcf485e-7416-42de-bb45-8ab0a315eef3",
+        "deExample": "Ich kann einverstanden sein.",
+        "translateExample": "Я могу согласиться.",
+        "collocations": [
+          "ich"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7d5615da-cb4e-4bc5-bc30-1422ed49ca60",
+        "deExample": "Ich bin einverstanden, weil es gut ist.",
+        "translateExample": "Я согласен, потому что это хорошо.",
+        "collocations": [
+          "gut"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "eb377194-ed1d-456f-ae79-ad9e697e243d",
+        "deExample": "Ich werde einverstanden sein, wenn du kommst.",
+        "translateExample": "Я соглашусь, если ты придёшь.",
+        "collocations": [
+          "du"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3defffbe-c707-45f2-8bef-3f4c260c49e1",
+        "deExample": "Er wird einverstanden genannt.",
+        "translateExample": "Его называют согласным.",
+        "collocations": [
+          "er"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "89b7741d-8077-4bf3-9efd-b0df8639151d",
+        "deExample": "Ich versuche, einverstanden zu sein.",
+        "translateExample": "Я стараюсь быть согласным.",
+        "collocations": [
+          "versuchen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3cbb72e3-9dd1-4677-b1fa-7a58714d2389",
+        "deExample": "Bist du bereit, einverstanden zu sein?",
+        "translateExample": "Ты готов согласиться?",
+        "collocations": [
+          "bereit"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2c7bd4b6-07cf-4e7d-ae03-ec93d0f7a03f",
+        "deExample": "Ich höre zu, um einverstanden zu sein.",
+        "translateExample": "Я слушаю, чтобы согласиться.",
+        "collocations": [
+          "zuhören"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

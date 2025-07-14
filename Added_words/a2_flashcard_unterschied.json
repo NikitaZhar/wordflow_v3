@@ -1,0 +1,207 @@
+[
+  {
+    "id": "e2b3d084-2b29-41d3-bb6f-00043779e816",
+    "deWord": "der Unterschied",
+    "translateWord": "разница, отличие",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "2ebe7b2e-4c8b-4158-8688-aa11d51c8040",
+        "deExample": "Der Unterschied ist klar.",
+        "translateExample": "Разница очевидна.",
+        "collocations": [
+          "klar"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "19fe9d95-32a0-4d20-abc4-76094e8e61a9",
+        "deExample": "Was ist der Unterschied?",
+        "translateExample": "В чём разница?",
+        "collocations": [],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "87318ae1-5e2e-4de4-b858-af2b1701603f",
+        "deExample": "Der Unterschied ist nicht groß.",
+        "translateExample": "Разница не большая.",
+        "collocations": [
+          "groß"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ce9a13f6-97c3-40d5-a3ca-3aa996780b51",
+        "deExample": "Ich habe den Unterschied verstanden.",
+        "translateExample": "Я понял разницу.",
+        "collocations": [
+          "verstehen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "426b6b6d-c163-42f6-98d0-ecdec49929e3",
+        "deExample": "Ich möchte den Unterschied erklären.",
+        "translateExample": "Я хочу объяснить разницу.",
+        "collocations": [
+          "erklären"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "faa0eea3-3070-440d-ad5d-ab8aa14d0d3c",
+        "deExample": "Ich erkläre den Unterschied, weil er wichtig ist.",
+        "translateExample": "Я объясняю разницу, потому что она важна.",
+        "collocations": [
+          "wichtig",
+          "erklären"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3f56000c-af61-48c3-afd1-46ea695a58b7",
+        "deExample": "Ich werde den Unterschied zeigen, wenn du willst.",
+        "translateExample": "Я покажу разницу, если ты хочешь.",
+        "collocations": [
+          "zeigen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2119f253-5b90-4f06-88ce-37cf45bebc99",
+        "deExample": "Der Unterschied wird erklärt.",
+        "translateExample": "Разница объясняется.",
+        "collocations": [
+          "erklären"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6e65b296-384e-4d4d-b2de-c90b0828895d",
+        "deExample": "Es ist wichtig, den Unterschied zu kennen.",
+        "translateExample": "Важно знать разницу.",
+        "collocations": [
+          "wichtig",
+          "kennen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "35e21e29-6198-47f0-a8f2-84fbdb09b11c",
+        "deExample": "Willst du lernen, den Unterschied zu verstehen?",
+        "translateExample": "Ты хочешь научиться понимать разницу?",
+        "collocations": [
+          "lernen",
+          "verstehen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d7728774-d00a-42b8-bb1a-bec4741ab08b",
+        "deExample": "Ich übe Deutsch, um den Unterschied zu verstehen.",
+        "translateExample": "Я учу немецкий, чтобы понимать разницу.",
+        "collocations": [
+          "Deutsch",
+          "verstehen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

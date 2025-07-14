@@ -1,0 +1,201 @@
+[
+  {
+    "id": "fbb7727a-459c-4cef-bbad-fe6cdf84b0e5",
+    "deWord": "klettern - kletterte - geklettert",
+    "translateWord": "лазать, взбираться (klettern)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "7a8b7096-ef1a-4af2-bee2-2df344a47f9e",
+        "deExample": "Ich klettere auf den Baum.",
+        "translateExample": "Я лезу на дерево.",
+        "collocations": [
+          "Baum"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a8b43639-479a-4f1c-9f0c-927453bdf170",
+        "deExample": "Kletterst du gern?",
+        "translateExample": "Ты любишь лазать?",
+        "collocations": [],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "bcac49ac-b16e-4052-bfd9-ebfb6c682f30",
+        "deExample": "Er klettert heute nicht.",
+        "translateExample": "Он сегодня не лазает.",
+        "collocations": [],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5daf7825-e871-43b2-ae6d-a22a9721533a",
+        "deExample": "Wir sind gestern geklettert.",
+        "translateExample": "Мы вчера лазали.",
+        "collocations": [
+          "gestern"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5e860be6-8fa3-431f-8723-50a3b75bf930",
+        "deExample": "Du kannst mit uns klettern.",
+        "translateExample": "Ты можешь лазать с нами.",
+        "collocations": [
+          "mit"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "74199bd2-f426-4bad-87fd-47d175e43b82",
+        "deExample": "Er klettert, weil er die Natur liebt.",
+        "translateExample": "Он лазает, потому что любит природу.",
+        "collocations": [
+          "Natur"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "cefca271-1c35-4678-b7b7-9eabfe738eeb",
+        "deExample": "Wir werden klettern, wenn das Wetter gut ist.",
+        "translateExample": "Мы будем лазать, если погода будет хорошей.",
+        "collocations": [
+          "Wetter"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d95a0ba2-d413-4ac4-8ea5-cf724bc9d8b9",
+        "deExample": "Es wird viel geklettert.",
+        "translateExample": "Много лазают.",
+        "collocations": [
+          "viel"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4f6c7d6e-ee18-490a-b546-fda67cfc692b",
+        "deExample": "Er versucht, schneller zu klettern.",
+        "translateExample": "Он старается лезть быстрее.",
+        "collocations": [
+          "schneller"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "08c70da9-6746-4e89-8d6b-bd2735ba5bf9",
+        "deExample": "Willst du lernen, wie man sicher klettert?",
+        "translateExample": "Ты хочешь узнать, как лазать безопасно?",
+        "collocations": [
+          "lernen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2c6b9142-153e-4829-b367-0a26adbcdaba",
+        "deExample": "Er trainiert, um besser klettern zu können.",
+        "translateExample": "Он тренируется, чтобы уметь лучше лазать.",
+        "collocations": [
+          "trainieren"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

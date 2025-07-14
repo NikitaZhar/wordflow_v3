@@ -1,0 +1,205 @@
+[
+  {
+    "id": "e76ef80a-4199-4dc7-95a0-c51a3bd138be",
+    "deWord": "unterschreiben - unterschrieb - unterschrieben",
+    "translateWord": "подписывать (что-либо, Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "29f00c63-42f5-4ae0-b16a-a054c28c58f0",
+        "deExample": "Ich unterschreibe den Vertrag.",
+        "translateExample": "Я подписываю договор.",
+        "collocations": [
+          "Vertrag"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5c0ecd52-4429-4309-ab03-193b42fed2ba",
+        "deExample": "Unterschreibst du das Dokument?",
+        "translateExample": "Ты подписываешь документ?",
+        "collocations": [
+          "Dokument"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "26447335-f20a-4c06-be56-97e87b42c65a",
+        "deExample": "Er unterschreibt den Brief nicht.",
+        "translateExample": "Он не подписывает письмо.",
+        "collocations": [
+          "Brief"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "abe74f2c-e598-4ccd-a068-37f75dbe4783",
+        "deExample": "Ich habe das Formular unterschrieben.",
+        "translateExample": "Я подписал форму.",
+        "collocations": [
+          "Formular"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ddfd98b6-f049-4862-8069-fab2ad70b299",
+        "deExample": "Du musst den Vertrag unterschreiben.",
+        "translateExample": "Ты должен подписать договор.",
+        "collocations": [
+          "Vertrag"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0bce5dcc-87c2-437f-af68-299a363ee4fe",
+        "deExample": "Ich gehe ins Büro, weil ich den Vertrag unterschreiben muss.",
+        "translateExample": "Я иду в офис, потому что должен подписать договор.",
+        "collocations": [
+          "Büro"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "61215dbd-848a-4d0d-bd2e-5b1c37f84cef",
+        "deExample": "Ich werde das Papier unterschreiben, wenn ich Zeit habe.",
+        "translateExample": "Я подпишу бумагу, когда у меня будет время.",
+        "collocations": [
+          "Papier"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "04f18893-5c60-4e77-9acc-b32271fd6739",
+        "deExample": "Der Vertrag wird unterschrieben.",
+        "translateExample": "Договор подписывается.",
+        "collocations": [
+          "Vertrag"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "15c13951-f945-4d93-b7a9-05414c39a46c",
+        "deExample": "Ich habe beschlossen, den Vertrag zu unterschreiben.",
+        "translateExample": "Я решил подписать договор.",
+        "collocations": [
+          "Vertrag"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d9b1fc9d-befb-41d6-8a6a-dc1db0db2383",
+        "deExample": "Willst du das Dokument unterschreiben?",
+        "translateExample": "Ты хочешь подписать документ?",
+        "collocations": [
+          "Dokument"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2c1b6bf9-f877-484b-9aac-0e6b96c61e5f",
+        "deExample": "Ich gehe ins Büro, um den Vertrag zu unterschreiben.",
+        "translateExample": "Я иду в офис, чтобы подписать договор.",
+        "collocations": [
+          "Büro"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

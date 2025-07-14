@@ -1,0 +1,211 @@
+[
+  {
+    "id": "1aae2e72-956a-49b4-a555-6da83ae60437",
+    "deWord": "achten - achtete - geachtet",
+    "translateWord": "обращать внимание (на, auf + Akk)",
+    "wordProgress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "b38ecbbe-c1cd-4306-9b65-a239ce770d14",
+        "deExample": "Ich achte auf meine Ernährung.",
+        "translateExample": "Я слежу за своим питанием.",
+        "collocations": [
+          "die Ernährung"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "052ae3b9-bc9c-4983-a6fc-e284dc0cd26a",
+        "deExample": "Achten Sie auf die Verkehrsregeln?",
+        "translateExample": "Вы обращаете внимание на правила дорожного движения?",
+        "collocations": [
+          "die Verkehrsregel"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "22eba15c-38f2-4953-8221-a2647540535d",
+        "deExample": "Er achtet nicht auf Details.",
+        "translateExample": "Он не обращает внимания на детали.",
+        "collocations": [
+          "das Detail"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "07a39901-7e04-4b41-adc9-07affb1fe948",
+        "deExample": "Wir haben auf die Qualität geachtet.",
+        "translateExample": "Мы обращали внимание на качество.",
+        "collocations": [
+          "die Qualität"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ce52520d-e99e-440d-86bb-156c306274b1",
+        "deExample": "Du solltest mehr auf deine Gesundheit achten.",
+        "translateExample": "Тебе стоит больше обращать внимание на своё здоровье.",
+        "collocations": [
+          "die Gesundheit",
+          "mehr"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2bb1501c-0ec2-4cbb-9dad-2a9334fc8ab9",
+        "deExample": "Ich nehme den Bus, weil ich auf die Umwelt achten will.",
+        "translateExample": "Я езжу на автобусе, потому что хочу заботиться об окружающей среде.",
+        "collocations": [
+          "der Bus",
+          "die Umwelt"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3f67fff2-56f3-4720-8c63-6f6eee0a99b7",
+        "deExample": "Ich werde auf die Hinweise achten, wenn ich die Prüfung schreibe.",
+        "translateExample": "Я обращу внимание на указания, когда буду писать экзамен.",
+        "collocations": [
+          "der Hinweis",
+          "die Prüfung"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "dd1abfa6-9581-4061-8554-9ccc1a944dff",
+        "deExample": "Auf die Regeln wird streng geachtet.",
+        "translateExample": "Правила строго соблюдаются.",
+        "collocations": [
+          "die Regel",
+          "streng"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5202d378-ae52-40f4-940a-c3d82379085c",
+        "deExample": "Er versucht, auf die Körpersprache zu achten.",
+        "translateExample": "Он пытается следить за языком тела.",
+        "collocations": [
+          "die Körpersprache"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "26b391d1-3954-488d-aa24-ba91a4daea17",
+        "deExample": "Wie kann man lernen, besser auf andere zu achten?",
+        "translateExample": "Как можно научиться лучше обращать внимание на других?",
+        "collocations": [
+          "lernen",
+          "besser"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5d4f4523-35ef-459b-8542-beea9ff727a4",
+        "deExample": "Ich meditiere, um mehr auf meine Gedanken zu achten.",
+        "translateExample": "Я медитирую, чтобы больше обращать внимание на свои мысли.",
+        "collocations": [
+          "die Gedanken",
+          "mehr"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

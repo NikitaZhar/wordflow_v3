@@ -1,0 +1,209 @@
+[
+  {
+    "id": "49ff43a5-f854-41be-9481-bda0f6b47740",
+    "deWord": "der Vertrag",
+    "translateWord": "договор (der Vertrag)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "de1dd780-5a21-48af-a1b8-44c0f86f0682",
+        "deExample": "Der Vertrag ist wichtig.",
+        "translateExample": "Договор важен.",
+        "collocations": [
+          "wichtig"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f4bb6f2b-2d5d-456f-ba71-bde6c7bd61c3",
+        "deExample": "Ist der Vertrag fertig?",
+        "translateExample": "Договор готов?",
+        "collocations": [
+          "fertig"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "50a7f4ef-d34b-4611-9109-83855a1a807d",
+        "deExample": "Der Vertrag ist nicht gültig.",
+        "translateExample": "Договор недействителен.",
+        "collocations": [
+          "gültig"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ec295786-f8be-4ac8-9644-771291e1c640",
+        "deExample": "Wir haben den Vertrag unterschrieben.",
+        "translateExample": "Мы подписали договор.",
+        "collocations": [
+          "unterschreiben"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ada47f23-77dd-46bb-bc1c-efde843c778d",
+        "deExample": "Du kannst den Vertrag lesen.",
+        "translateExample": "Ты можешь прочитать договор.",
+        "collocations": [
+          "lesen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f5e270f9-f007-47d6-b2a5-778a412944e1",
+        "deExample": "Ich unterschreibe, weil der Vertrag wichtig ist.",
+        "translateExample": "Я подписываю, потому что договор важен.",
+        "collocations": [
+          "unterschreiben",
+          "wichtig"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "aaf88352-f633-4da8-ac1a-0ef2b4989e8f",
+        "deExample": "Ich werde den Vertrag unterschreiben, wenn ich Zeit habe.",
+        "translateExample": "Я подпишу договор, когда у меня будет время.",
+        "collocations": [
+          "unterschreiben",
+          "Zeit"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b331dab5-b9d0-4bbd-86ba-2bc22de40018",
+        "deExample": "Der Vertrag wird geprüft.",
+        "translateExample": "Договор проверяется.",
+        "collocations": [
+          "prüfen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a2d7b4f6-4101-4fe9-b4d7-dfe4b21954b3",
+        "deExample": "Er versucht, den Vertrag zu verstehen.",
+        "translateExample": "Он старается понять договор.",
+        "collocations": [
+          "verstehen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "28139393-8b24-4b88-9ce7-5b78b89400b3",
+        "deExample": "Willst du lernen, wie man einen Vertrag liest?",
+        "translateExample": "Ты хочешь узнать, как читать договор?",
+        "collocations": [
+          "lernen",
+          "lesen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d46f7bc0-d77b-465f-a02d-c750d7d42866",
+        "deExample": "Er spart Geld, um den Vertrag zu erfüllen.",
+        "translateExample": "Он копит деньги, чтобы выполнить договор.",
+        "collocations": [
+          "Geld",
+          "erfüllen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

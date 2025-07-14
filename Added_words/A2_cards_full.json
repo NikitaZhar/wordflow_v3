@@ -1,0 +1,1053 @@
+[
+  {
+    "id": "bec0651d-44b0-417b-9a28-7a658c0e1e72",
+    "deWord": "überweisen - überwies - überwiesen",
+    "translateWord": "переводить (деньги, auf + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "44825d9a-e11e-4887-b43e-b7e097b3bfda",
+        "deExample": "Ich überweise das Geld heute.",
+        "translateExample": "Я перевожу деньги сегодня.",
+        "collocations": [
+          "das Geld",
+          "heute"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f7c4ce1c-7c36-4b49-98d8-41b092626163",
+        "deExample": "Überweist du das Geld morgen?",
+        "translateExample": "Ты переведешь деньги завтра?",
+        "collocations": [
+          "das Geld",
+          "morgen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "27d622fa-edfb-4dbb-9458-cb1b9643be0b",
+        "deExample": "Er überweist das Geld nicht.",
+        "translateExample": "Он не переводит деньги.",
+        "collocations": [
+          "das Geld",
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3e575ccd-4219-4fc2-9e16-acab70e5d8af",
+        "deExample": "Ich habe das Geld gestern überwiesen.",
+        "translateExample": "Я перевел деньги вчера.",
+        "collocations": [
+          "das Geld",
+          "gestern"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "70090a44-2f9b-46fe-9353-f3beaf8ea720",
+        "deExample": "Ich muss das Geld heute überweisen.",
+        "translateExample": "Мне нужно перевести деньги сегодня.",
+        "collocations": [
+          "das Geld",
+          "heute"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8482fdf8-1b5c-4a5b-b7f1-d936f5e9f4f2",
+        "deExample": "Ich überweise das Geld, weil ich die Rechnung bekommen habe.",
+        "translateExample": "Я перевожу деньги, потому что получил счет.",
+        "collocations": [
+          "das Geld",
+          "die Rechnung"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "aa622faf-22d7-45b5-b518-9d83aa24adc6",
+        "deExample": "Ich werde das Geld überweisen, wenn ich Zeit habe.",
+        "translateExample": "Я переведу деньги, когда у меня будет время.",
+        "collocations": [
+          "das Geld",
+          "Zeit"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6bc9663f-9690-41ba-8641-42a89880bdfd",
+        "deExample": "Das Geld wird auf das Konto überwiesen.",
+        "translateExample": "Деньги переводятся на счет.",
+        "collocations": [
+          "das Konto"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c902a6d2-99dd-4f93-ba61-dd47322a4d0e",
+        "deExample": "Ich habe vergessen, das Geld zu überweisen.",
+        "translateExample": "Я забыл перевести деньги.",
+        "collocations": [
+          "das Geld",
+          "vergessen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c1caffb6-de08-4d14-ba3d-2663aacc03d5",
+        "deExample": "Hast du vor, das Geld zu überweisen?",
+        "translateExample": "Ты собираешься перевести деньги?",
+        "collocations": [
+          "das Geld"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3ae1bde2-dc7d-4990-8b75-03bb5bfa7d26",
+        "deExample": "Ich spare, um das Geld zu überweisen.",
+        "translateExample": "Я экономлю, чтобы перевести деньги.",
+        "collocations": [
+          "das Geld",
+          "sparen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "4efcfa0e-ef6d-4c32-8a0e-e3dd64d3c586",
+    "deWord": "überreden - überredete - überredet",
+    "translateWord": "уговаривать (на что-то, zu + Dat)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "c99af8fd-b213-4ed5-b99e-4888386d6241",
+        "deExample": "Er überredet mich oft leicht.",
+        "translateExample": "Он часто легко меня уговаривает.",
+        "collocations": [
+          "mich",
+          "leicht"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1aa3bfce-193d-4e61-a111-56999e482120",
+        "deExample": "Überredest du ihn jetzt?",
+        "translateExample": "Ты уговариваешь его сейчас?",
+        "collocations": [
+          "ihn",
+          "jetzt"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "07ef281d-352f-4106-9267-07e53cf74688",
+        "deExample": "Er überredet sie nicht.",
+        "translateExample": "Он её не уговаривает.",
+        "collocations": [
+          "sie",
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c2f83e69-733a-44b2-a894-1240b7220f44",
+        "deExample": "Er hat mich zum Mitkommen überredet.",
+        "translateExample": "Он уговорил меня пойти с ним.",
+        "collocations": [
+          "mich",
+          "Mitkommen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "36298d6b-d715-48e6-8e72-0bd21fc9434f",
+        "deExample": "Ich will ihn zum Lernen überreden.",
+        "translateExample": "Я хочу уговорить его учиться.",
+        "collocations": [
+          "ihn",
+          "Lernen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "dd4c2950-ae6d-4338-8271-7f1a2e5f3863",
+        "deExample": "Ich überrede ihn, weil er Angst hat.",
+        "translateExample": "Я уговариваю его, потому что он боится.",
+        "collocations": [
+          "ihn",
+          "Angst"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "67d5db68-c8fd-4894-bc2b-171f2f4bfe40",
+        "deExample": "Ich werde ihn überreden, wenn er Zeit hat.",
+        "translateExample": "Я уговорю его, когда у него будет время.",
+        "collocations": [
+          "ihn",
+          "Zeit"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2d4771c4-e371-416a-8e25-974d4eba1f2e",
+        "deExample": "Er wird zum Bleiben überredet.",
+        "translateExample": "Его уговаривают остаться.",
+        "collocations": [
+          "Bleiben"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b935edd6-4414-489b-9ae7-2f7c5e020b88",
+        "deExample": "Ich versuche, ihn zu überreden.",
+        "translateExample": "Я пытаюсь уговорить его.",
+        "collocations": [
+          "ihn",
+          "versuchen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "52b2b64d-f251-4ecc-b78b-a609f1e8b0a6",
+        "deExample": "Willst du ihn zu bleiben überreden?",
+        "translateExample": "Ты хочешь уговорить его остаться?",
+        "collocations": [
+          "ihn",
+          "bleiben"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "63d74aa2-98bd-49d8-a5b2-925f925a9590",
+        "deExample": "Ich rede lange, um ihn zu überreden.",
+        "translateExample": "Я долго говорю, чтобы его уговорить.",
+        "collocations": [
+          "lange",
+          "reden"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "0f041657-869a-49a9-80bb-7280fa2a6624",
+    "deWord": "überzeugen - überzeugte - überzeugt",
+    "translateWord": "убеждать (кого-либо, von + Dat)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "50437775-e90c-4ea3-bc1a-24b1539ab2d1",
+        "deExample": "Er überzeugt mich schnell.",
+        "translateExample": "Он быстро меня убеждает.",
+        "collocations": [
+          "mich",
+          "schnell"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "eab0b120-aa9c-458f-924b-7c4e9696c442",
+        "deExample": "Überzeugst du ihn davon?",
+        "translateExample": "Ты убеждаешь его в этом?",
+        "collocations": [
+          "ihn",
+          "davon"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3a3f0c61-1bf5-453b-b585-cfd1b192fa52",
+        "deExample": "Er überzeugt sie nicht.",
+        "translateExample": "Он её не убеждает.",
+        "collocations": [
+          "sie",
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8f7f35bb-331a-4634-bb8f-89bce1e57e11",
+        "deExample": "Er hat mich von seiner Idee überzeugt.",
+        "translateExample": "Он убедил меня в своей идее.",
+        "collocations": [
+          "mich",
+          "Idee"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "65e131e4-f9ec-420c-a1da-08debee8af49",
+        "deExample": "Ich will ihn von der Wahrheit überzeugen.",
+        "translateExample": "Я хочу убедить его в правде.",
+        "collocations": [
+          "ihn",
+          "Wahrheit"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2b10c787-16bc-4cc8-b1c5-fbaf47aec765",
+        "deExample": "Ich überzeuge ihn, weil ich Beweise habe.",
+        "translateExample": "Я убеждаю его, потому что у меня есть доказательства.",
+        "collocations": [
+          "ihn",
+          "Beweise"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f8f0be2a-d7b0-48a3-9b43-e5e7978adc39",
+        "deExample": "Ich werde ihn überzeugen, wenn er fragt.",
+        "translateExample": "Я убежу его, если он спросит.",
+        "collocations": [
+          "ihn",
+          "fragen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0b856324-15c7-4e89-86b1-2b3f3f68e0e9",
+        "deExample": "Er wird von der Wahrheit überzeugt.",
+        "translateExample": "Он убеждается в правде.",
+        "collocations": [
+          "Wahrheit"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "04761594-4981-4d6f-81bc-4ee7ddeffc70",
+        "deExample": "Ich versuche, ihn zu überzeugen.",
+        "translateExample": "Я пытаюсь его убедить.",
+        "collocations": [
+          "ihn",
+          "versuchen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8927c44c-c565-464a-92ef-473ef791e43b",
+        "deExample": "Willst du ihn zu überzeugen versuchen?",
+        "translateExample": "Ты хочешь попытаться его убедить?",
+        "collocations": [
+          "ihn",
+          "versuchen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6bd893f7-84b6-4eec-a340-a2e975b834ab",
+        "deExample": "Ich rede, um ihn zu überzeugen.",
+        "translateExample": "Я говорю, чтобы его убедить.",
+        "collocations": [
+          "reden"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "2db8e29f-c51c-448b-a6b2-ca0f659078a7",
+    "deWord": "möglich",
+    "translateWord": "возможный",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "a276ad6a-83f4-4145-ae9e-7458a3f9c4ed",
+        "deExample": "Es ist möglich.",
+        "translateExample": "Это возможно.",
+        "collocations": [
+          "es"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "acf767db-fad8-4e96-9d0b-c2e51b9f0f0c",
+        "deExample": "Ist das möglich?",
+        "translateExample": "Это возможно?",
+        "collocations": [
+          "das"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "632340f1-dea9-4e79-bdcd-2a41bb86eef5",
+        "deExample": "Es ist nicht möglich.",
+        "translateExample": "Это невозможно.",
+        "collocations": [
+          "es",
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e4b95c22-5164-4e3e-9bcd-cde2fa9d2a23",
+        "deExample": "Es war möglich.",
+        "translateExample": "Это было возможно.",
+        "collocations": [
+          "es"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "53464c64-53b0-4da9-8464-449c67bf7f81",
+        "deExample": "Es kann möglich sein.",
+        "translateExample": "Это может быть возможно.",
+        "collocations": [
+          "es"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7f8b954a-c15c-40e9-abb5-15b76f6a044a",
+        "deExample": "Es ist möglich, weil er hilft.",
+        "translateExample": "Это возможно, потому что он помогает.",
+        "collocations": [
+          "er",
+          "helfen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "42d42528-dd90-41b4-ad8b-f8baffb5ce53",
+        "deExample": "Es wird möglich sein, wenn wir arbeiten.",
+        "translateExample": "Это будет возможно, если мы будем работать.",
+        "collocations": [
+          "wir",
+          "arbeiten"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f56c1bf9-dfc4-4ec1-9954-27d94bcfa0c6",
+        "deExample": "Es wird möglich gemacht.",
+        "translateExample": "Это делается возможным.",
+        "collocations": [
+          "es"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8677fa45-f83c-4c6a-b12f-291b328b1498",
+        "deExample": "Es ist wichtig, möglich zu bleiben.",
+        "translateExample": "Важно оставаться возможным.",
+        "collocations": [
+          "wichtig",
+          "bleiben"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1a2a285e-7aa0-4572-85b3-c7041a6fd743",
+        "deExample": "Ist es möglich zu helfen?",
+        "translateExample": "Возможно помочь?",
+        "collocations": [
+          "helfen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "79c7362c-b0da-47a4-abf5-51af59b31a6d",
+        "deExample": "Ich lerne, um alles möglich zu machen.",
+        "translateExample": "Я учусь, чтобы сделать всё возможным.",
+        "collocations": [
+          "lernen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "371e4f41-e633-48ae-81a1-b4e75de57b7d",
+    "deWord": "der Vorteil",
+    "translateWord": "преимущество",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "66f32f53-49fa-4890-a22d-93c6a88371a0",
+        "deExample": "Der Vorteil ist groß.",
+        "translateExample": "Преимущество большое.",
+        "collocations": [
+          "groß"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "99f62ec8-a72d-4c78-b43d-e3df8a45faef",
+        "deExample": "Was ist der Vorteil?",
+        "translateExample": "В чем преимущество?",
+        "collocations": [
+          "was"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9914ae74-384c-4d01-8a4a-135f81ee763f",
+        "deExample": "Der Vorteil ist nicht klar.",
+        "translateExample": "Преимущество не ясно.",
+        "collocations": [
+          "nicht",
+          "klar"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "397ecce3-cb69-4544-8628-840b9604c510",
+        "deExample": "Ich habe den Vorteil genutzt.",
+        "translateExample": "Я использовал преимущество.",
+        "collocations": [
+          "nutzen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "be93e135-7610-4ad0-a0f2-9c89ba612422",
+        "deExample": "Man kann den Vorteil sehen.",
+        "translateExample": "Можно увидеть преимущество.",
+        "collocations": [
+          "sehen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c52296e3-c17f-4a26-a7d6-f245d1df8506",
+        "deExample": "Der Vorteil ist da, weil wir früh sind.",
+        "translateExample": "Есть преимущество, потому что мы рано.",
+        "collocations": [
+          "wir",
+          "früh"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9891a52b-daaa-4647-a210-6cf435aa0147",
+        "deExample": "Der Vorteil wird sichtbar, wenn man vergleicht.",
+        "translateExample": "Преимущество становится видно, если сравнить.",
+        "collocations": [
+          "vergleichen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "efaaa70d-09e3-41a7-ab1e-9aab282a4464",
+        "deExample": "Der Vorteil wird genutzt.",
+        "translateExample": "Преимущество используется.",
+        "collocations": [
+          "nutzen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5bed50e7-67fe-4f9a-ae72-9363de404e16",
+        "deExample": "Es ist wichtig, den Vorteil zu nutzen.",
+        "translateExample": "Важно использовать преимущество.",
+        "collocations": [
+          "wichtig",
+          "nutzen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "48254c16-8322-441f-afff-80178a938e07",
+        "deExample": "Wie kann man den Vorteil nutzen?",
+        "translateExample": "Как можно использовать преимущество?",
+        "collocations": [
+          "nutzen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "55312199-6efa-4e4c-a347-c80f8344a57f",
+        "deExample": "Ich lerne, um den Vorteil zu haben.",
+        "translateExample": "Я учусь, чтобы иметь преимущество.",
+        "collocations": [
+          "lernen",
+          "haben"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

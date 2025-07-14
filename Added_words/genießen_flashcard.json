@@ -1,0 +1,205 @@
+[
+  {
+    "id": "a24aaa56-28e0-479a-ad0b-2e2c837d97e4",
+    "deWord": "genießen - genoss - genossen",
+    "translateWord": "наслаждаться (чем-либо, Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "48fbc407-2b7e-4c52-8c3c-c074fdc9b2bf",
+        "deExample": "Ich genieße den Kaffee.",
+        "translateExample": "Я наслаждаюсь кофе.",
+        "collocations": [
+          "Kaffee"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b2e5a9f4-1e3d-4738-95a4-c621c3ac79e3",
+        "deExample": "Genießt du die Ruhe?",
+        "translateExample": "Ты наслаждаешься тишиной?",
+        "collocations": [
+          "Ruhe"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c706bb9a-a6f0-462e-812e-c201b28a06ef",
+        "deExample": "Er genießt das Essen nicht.",
+        "translateExample": "Он не наслаждается едой.",
+        "collocations": [
+          "Essen"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "afd43165-bfdd-4e03-935d-d2c3f1a34b0c",
+        "deExample": "Ich habe den Urlaub genossen.",
+        "translateExample": "Я насладился отпуском.",
+        "collocations": [
+          "Urlaub"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fe9e0de4-c386-4b38-b953-b1e733832efc",
+        "deExample": "Du sollst dein Leben genießen.",
+        "translateExample": "Тебе следует наслаждаться жизнью.",
+        "collocations": [
+          "Leben"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f3c454fe-ec2c-41da-bc01-70c5c3290330",
+        "deExample": "Ich bleibe hier, weil ich die Aussicht genießen möchte.",
+        "translateExample": "Я остаюсь здесь, потому что хочу насладиться видом.",
+        "collocations": [
+          "Aussicht"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a8789ccb-6eb7-43c5-9b69-e810269afb1c",
+        "deExample": "Ich werde den Abend genießen, wenn ich Zeit habe.",
+        "translateExample": "Я насладюсь вечером, когда у меня будет время.",
+        "collocations": [
+          "Abend"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0c3ba598-2a1e-4190-b5a5-18db4563a0a0",
+        "deExample": "Der Wein wird genossen.",
+        "translateExample": "Вино наслаждаются.",
+        "collocations": [
+          "Wein"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "51754561-3536-46b1-9f31-e2cb65e8065e",
+        "deExample": "Ich habe vor, den Tag zu genießen.",
+        "translateExample": "Я планирую насладиться днём.",
+        "collocations": [
+          "Tag"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0505ed74-a580-4512-ba99-304762de6dae",
+        "deExample": "Willst du das Essen genießen?",
+        "translateExample": "Ты хочешь насладиться едой?",
+        "collocations": [
+          "Essen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8ca65693-4b8d-414e-8f5b-555db5cc7c19",
+        "deExample": "Ich mache eine Pause, um den Kaffee zu genießen.",
+        "translateExample": "Я делаю паузу, чтобы насладиться кофе.",
+        "collocations": [
+          "Pause"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

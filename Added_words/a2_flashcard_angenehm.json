@@ -1,0 +1,199 @@
+[
+  {
+    "id": "dfdd9b20-a49f-40f7-93b3-6ef3ec9fe424",
+    "deWord": "angenehm",
+    "translateWord": "приятный, приятно",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "9925c42c-6b0b-48d7-912d-bf39cecd99a8",
+        "deExample": "Das Wetter ist angenehm.",
+        "translateExample": "Погода приятная.",
+        "collocations": [
+          "Wetter"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7ac4c083-447c-4e15-b31f-5ddaf2b2fa85",
+        "deExample": "Ist der Raum angenehm?",
+        "translateExample": "Комната приятная?",
+        "collocations": [
+          "Raum"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "676e4833-a1d6-49e1-ae18-fff9899ee4b2",
+        "deExample": "Es ist heute nicht angenehm.",
+        "translateExample": "Сегодня это не приятно.",
+        "collocations": [
+          "heute"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9916de15-b212-4357-8d65-182fc42f6114",
+        "deExample": "Es war gestern angenehm.",
+        "translateExample": "Вчера было приятно.",
+        "collocations": [
+          "gestern"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "83f27c52-7c49-47ea-959d-f8bbefc708a7",
+        "deExample": "Du kannst es angenehm machen.",
+        "translateExample": "Ты можешь сделать это приятным.",
+        "collocations": [],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "abd3c3f2-daf0-48de-a717-c9235b586cf3",
+        "deExample": "Ich bleibe hier, weil es angenehm ist.",
+        "translateExample": "Я остаюсь здесь, потому что здесь приятно.",
+        "collocations": [],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4360c35a-8226-46c2-93c4-d443b5791b3e",
+        "deExample": "Es wird angenehm sein, wenn wir spazieren gehen.",
+        "translateExample": "Будет приятно, если мы пойдём гулять.",
+        "collocations": [
+          "spazieren"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2eb1d002-ac28-48ac-bc2a-5a732ed7461f",
+        "deExample": "Es wird als angenehm empfunden.",
+        "translateExample": "Это воспринимается как приятное.",
+        "collocations": [],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "36891471-d162-4611-aaad-f6b4e8ecd12a",
+        "deExample": "Er versucht, die Atmosphäre angenehm zu gestalten.",
+        "translateExample": "Он старается сделать атмосферу приятной.",
+        "collocations": [
+          "Atmosphäre"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b4b81dfd-ab62-491d-99fe-ef4c280d199f",
+        "deExample": "Willst du lernen, wie man es angenehm macht?",
+        "translateExample": "Ты хочешь узнать, как сделать это приятным?",
+        "collocations": [
+          "lernen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "52c4467c-ac44-4401-be8a-23a9d37c9492",
+        "deExample": "Er arbeitet daran, um das Treffen angenehm zu gestalten.",
+        "translateExample": "Он работает над тем, чтобы сделать встречу приятной.",
+        "collocations": [
+          "Treffen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

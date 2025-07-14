@@ -1,0 +1,1041 @@
+[
+  {
+    "id": "1ca2b944-03a6-4c3b-9d9e-226baaf4f574",
+    "deWord": "unterschiedlich",
+    "translateWord": "разный, различный",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "53a7bbb8-5a4b-4b59-9ae5-40a796782607",
+        "deExample": "Die Farben sind unterschiedlich.",
+        "translateExample": "Цвета разные.",
+        "collocations": [
+          "die Farben"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "66c28acf-750d-4bf6-830a-280658b25ad0",
+        "deExample": "Sind die Meinungen unterschiedlich?",
+        "translateExample": "Мнения разные?",
+        "collocations": [
+          "die Meinungen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9120d58a-678c-42d4-957b-78f4e4186cd6",
+        "deExample": "Die Antworten sind nicht unterschiedlich.",
+        "translateExample": "Ответы не разные.",
+        "collocations": [
+          "die Antworten",
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7727f915-f6b3-4831-bff3-7ef84c28e14a",
+        "deExample": "Die Ergebnisse waren unterschiedlich.",
+        "translateExample": "Результаты были разными.",
+        "collocations": [
+          "die Ergebnisse"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "71e63ca5-9938-4498-9b3c-ce631f6d9997",
+        "deExample": "Die Farben können unterschiedlich sein.",
+        "translateExample": "Цвета могут быть разными.",
+        "collocations": [
+          "die Farben"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1259f6e0-4b95-4419-a4b1-943bcd7eaa00",
+        "deExample": "Die Meinungen sind unterschiedlich, weil die Leute verschieden sind.",
+        "translateExample": "Мнения разные, потому что люди разные.",
+        "collocations": [
+          "die Meinungen",
+          "die Leute"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "28df471d-64c0-472b-9ec5-863d2e473e7b",
+        "deExample": "Die Ergebnisse werden unterschiedlich sein, wenn wir anders arbeiten.",
+        "translateExample": "Результаты будут разными, если мы будем работать иначе.",
+        "collocations": [
+          "die Ergebnisse",
+          "arbeiten"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1262d976-e84b-45d5-8703-2da262d7af18",
+        "deExample": "Unterschiedliche Meinungen werden akzeptiert.",
+        "translateExample": "Разные мнения принимаются.",
+        "collocations": [
+          "die Meinungen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ba7facf3-ac81-4fbf-8f14-ebb95909b73d",
+        "deExample": "Ich versuche, unterschiedliche Meinungen zu verstehen.",
+        "translateExample": "Я стараюсь понять разные мнения.",
+        "collocations": [
+          "die Meinungen",
+          "verstehen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4f7a0e22-a2f0-4669-82c9-65491e0b521a",
+        "deExample": "Willst du unterschiedliche Optionen sehen?",
+        "translateExample": "Ты хочешь увидеть разные варианты?",
+        "collocations": [
+          "Optionen",
+          "sehen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "00bfe88e-e9ee-4ad7-a268-f23b4d2603aa",
+        "deExample": "Ich lese, um unterschiedliche Ideen zu lernen.",
+        "translateExample": "Я читаю, чтобы узнать разные идеи.",
+        "collocations": [
+          "lesen",
+          "Ideen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "5cd9146b-db00-4e23-b576-e09262de790a",
+    "deWord": "die Meinung",
+    "translateWord": "мнение",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "56cc3259-5e13-475e-9639-a16f7d04c1c0",
+        "deExample": "Die Meinung ist wichtig.",
+        "translateExample": "Мнение важно.",
+        "collocations": [
+          "wichtig"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "14a2805f-d09b-41c6-b33a-67167ea5f7f2",
+        "deExample": "Was ist deine Meinung?",
+        "translateExample": "Каково твоё мнение?",
+        "collocations": [
+          "deine"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a14175ce-4069-40fb-9e2e-c43b4fba22cb",
+        "deExample": "Die Meinung ist nicht klar.",
+        "translateExample": "Мнение не ясно.",
+        "collocations": [
+          "klar",
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9b60e87a-7a25-4f48-9cea-104bb4e5479f",
+        "deExample": "Ich habe meine Meinung geändert.",
+        "translateExample": "Я изменил своё мнение.",
+        "collocations": [
+          "meine"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "742b2890-6318-4a8c-8bf7-d6e6013a82a3",
+        "deExample": "Man kann eine Meinung haben.",
+        "translateExample": "Можно иметь мнение.",
+        "collocations": [
+          "haben"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fc5d56dc-e411-4098-ad97-58e96cd6507a",
+        "deExample": "Ich sage meine Meinung, weil es wichtig ist.",
+        "translateExample": "Я высказываю своё мнение, потому что это важно.",
+        "collocations": [
+          "meine",
+          "wichtig"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "87857cc0-f067-4820-a052-d775a295c521",
+        "deExample": "Ich werde meine Meinung sagen, wenn es nötig ist.",
+        "translateExample": "Я выскажу своё мнение, если это будет нужно.",
+        "collocations": [
+          "meine"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f87eae33-bf4e-4066-adcd-0970dc50a900",
+        "deExample": "Die Meinung wird respektiert.",
+        "translateExample": "Мнение уважается.",
+        "collocations": [
+          "respektieren"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1cb2e7a3-89e5-429f-9efb-f5c11768e7d1",
+        "deExample": "Ich vergesse oft, meine Meinung zu sagen.",
+        "translateExample": "Я часто забываю высказывать своё мнение.",
+        "collocations": [
+          "meine",
+          "vergessen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5976ad8f-6501-4767-a624-68dc85ba6327",
+        "deExample": "Willst du deine Meinung sagen?",
+        "translateExample": "Ты хочешь сказать своё мнение?",
+        "collocations": [
+          "deine"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7b546a1c-a1d1-4c17-9420-afe84b33496d",
+        "deExample": "Ich lerne, um meine Meinung zu verbessern.",
+        "translateExample": "Я учусь, чтобы улучшить своё мнение.",
+        "collocations": [
+          "meine",
+          "verbessern"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "9c3c06c0-6326-48c0-8fa3-47aac799489d",
+    "deWord": "die Entspannung",
+    "translateWord": "расслабление, отдых",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "f6ffc4fb-28fc-4a31-9871-378cf442447f",
+        "deExample": "Die Entspannung ist wichtig.",
+        "translateExample": "Отдых важен.",
+        "collocations": [
+          "wichtig"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "30adf561-e1c5-496d-a9ae-2ef9b0c1fa63",
+        "deExample": "Brauchen wir Entspannung?",
+        "translateExample": "Нужен ли нам отдых?",
+        "collocations": [
+          "brauchen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b03800d5-fb3e-4527-abbe-5531979dc6c3",
+        "deExample": "Die Entspannung ist nicht leicht.",
+        "translateExample": "Отдых не прост.",
+        "collocations": [
+          "leicht",
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "26c03b20-e826-4173-96aa-3910a084499b",
+        "deExample": "Ich habe Entspannung gefunden.",
+        "translateExample": "Я нашёл отдых.",
+        "collocations": [
+          "finden"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0376d803-aa55-4455-a91f-6f304f84ce36",
+        "deExample": "Man kann Entspannung finden.",
+        "translateExample": "Можно найти отдых.",
+        "collocations": [
+          "finden"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "693b959a-8830-4c5d-b6ce-d6e8c45215b3",
+        "deExample": "Ich brauche Entspannung, weil ich müde bin.",
+        "translateExample": "Мне нужен отдых, потому что я устал.",
+        "collocations": [
+          "müde"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fa8fbca0-a33b-4619-8aae-d01c41707cad",
+        "deExample": "Ich werde Entspannung finden, wenn ich Zeit habe.",
+        "translateExample": "Я найду отдых, когда у меня будет время.",
+        "collocations": [
+          "Zeit"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "cc861271-d76f-4671-a410-0d7c008ebed2",
+        "deExample": "Entspannung wird gesucht.",
+        "translateExample": "Ищется отдых.",
+        "collocations": [
+          "suchen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "29910fa5-21e6-4fd3-b4ca-e7f31c2ee658",
+        "deExample": "Ich vergesse oft, Entspannung zu suchen.",
+        "translateExample": "Я часто забываю искать отдых.",
+        "collocations": [
+          "vergessen",
+          "suchen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4fb78610-244a-4840-96ef-29eff0718d8c",
+        "deExample": "Willst du Entspannung finden?",
+        "translateExample": "Ты хочешь найти отдых?",
+        "collocations": [
+          "finden"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c2766f82-9959-4832-9074-2e399ee504b3",
+        "deExample": "Ich übe Yoga, um Entspannung zu finden.",
+        "translateExample": "Я занимаюсь йогой, чтобы найти отдых.",
+        "collocations": [
+          "Yoga",
+          "finden"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "062628ed-5897-437a-87b9-e015e54db5ca",
+    "deWord": "der Mitarbeiter",
+    "translateWord": "сотрудник",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "a9585556-7f4c-4a3d-8380-02bc9610a274",
+        "deExample": "Der Mitarbeiter ist freundlich.",
+        "translateExample": "Сотрудник дружелюбный.",
+        "collocations": [
+          "freundlich"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d40df249-fe89-4f68-8820-ff7eaeed7eeb",
+        "deExample": "Kennst du den Mitarbeiter?",
+        "translateExample": "Ты знаешь сотрудника?",
+        "collocations": [
+          "kennen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3f8fa097-9187-4a83-984d-8c59dbbcc2a1",
+        "deExample": "Der Mitarbeiter ist nicht hier.",
+        "translateExample": "Сотрудника здесь нет.",
+        "collocations": [
+          "hier",
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "75ded0ce-171f-4625-ae91-465ac2ea0602",
+        "deExample": "Ich habe den Mitarbeiter gesehen.",
+        "translateExample": "Я видел сотрудника.",
+        "collocations": [
+          "sehen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f93f6ad6-9b38-4052-a156-94c9a182ca03",
+        "deExample": "Man kann den Mitarbeiter fragen.",
+        "translateExample": "Можно спросить сотрудника.",
+        "collocations": [
+          "fragen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "82a82c7b-a0cf-4c35-a919-263e4593cf75",
+        "deExample": "Ich mag den Mitarbeiter, weil er hilfsbereit ist.",
+        "translateExample": "Мне нравится сотрудник, потому что он готов помочь.",
+        "collocations": [
+          "mögen",
+          "hilfsbereit"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "015d6c46-0139-466d-94f6-dc6352784338",
+        "deExample": "Der Mitarbeiter wird helfen, wenn du ihn fragst.",
+        "translateExample": "Сотрудник поможет, если ты его спросишь.",
+        "collocations": [
+          "helfen",
+          "fragen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d464f2c3-331f-4d77-843c-7af9cd000e90",
+        "deExample": "Der Mitarbeiter wird gesehen.",
+        "translateExample": "Сотрудника видят.",
+        "collocations": [
+          "sehen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b4bd3bc3-7452-4fe6-97c0-d71cca80eb07",
+        "deExample": "Ich vergesse oft, den Mitarbeiter zu fragen.",
+        "translateExample": "Я часто забываю спросить сотрудника.",
+        "collocations": [
+          "vergessen",
+          "fragen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e894c1ff-fc01-4710-a6be-f755c2bab0e0",
+        "deExample": "Willst du den Mitarbeiter fragen?",
+        "translateExample": "Ты хочешь спросить сотрудника?",
+        "collocations": [
+          "fragen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5347be97-2252-4bbf-8417-dd4ff5102c0d",
+        "deExample": "Ich gehe, um den Mitarbeiter zu treffen.",
+        "translateExample": "Я иду, чтобы встретить сотрудника.",
+        "collocations": [
+          "gehen",
+          "treffen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "8ccdb786-d0ee-4748-8b58-462c5f5a788c",
+    "deWord": "vor allem",
+    "translateWord": "прежде всего",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "a8bfd214-f497-475c-b27d-481a59eae02b",
+        "deExample": "Vor allem ist Gesundheit wichtig.",
+        "translateExample": "Прежде всего важна здоровье.",
+        "collocations": [
+          "Gesundheit"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "dab30a76-a94f-456b-955b-15cec8764b91",
+        "deExample": "Ist vor allem die Familie wichtig?",
+        "translateExample": "Семья важна прежде всего?",
+        "collocations": [
+          "Familie"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "078c78d3-7fef-4824-9244-f91d3880ee95",
+        "deExample": "Vor allem ist das nicht einfach.",
+        "translateExample": "Прежде всего это не просто.",
+        "collocations": [
+          "nicht",
+          "einfach"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "70395a01-cffd-46ec-818a-9ae22796dccf",
+        "deExample": "Ich habe vor allem Ruhe gesucht.",
+        "translateExample": "Я прежде всего искал покой.",
+        "collocations": [
+          "Ruhe",
+          "suchen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "828a2e40-ada7-4926-86bd-53c45064c17b",
+        "deExample": "Man kann vor allem lernen.",
+        "translateExample": "Можно прежде всего учиться.",
+        "collocations": [
+          "lernen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "85c21214-e129-4e63-8015-4f765751eb22",
+        "deExample": "Ich esse vor allem Obst, weil es gesund ist.",
+        "translateExample": "Я ем прежде всего фрукты, потому что это полезно.",
+        "collocations": [
+          "Obst",
+          "essen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1f5f3035-e1ce-4af6-8825-acc51f6ee72d",
+        "deExample": "Du wirst Erfolg haben, wenn du vor allem fleißig bist.",
+        "translateExample": "Ты добьёшься успеха, если прежде всего будешь прилежным.",
+        "collocations": [
+          "Erfolg",
+          "fleißig"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "15a9c7a5-5d22-45bd-8804-ca3505c4ff8a",
+        "deExample": "Vor allem wird gelernt.",
+        "translateExample": "Прежде всего учатся.",
+        "collocations": [
+          "lernen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fd55b7fe-8a3c-44f3-b26f-fafbcad5d10a",
+        "deExample": "Ich vergesse oft, vor allem zu üben.",
+        "translateExample": "Я часто забываю прежде всего тренироваться.",
+        "collocations": [
+          "üben",
+          "vergessen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "08083ee2-849d-4226-bfc9-85c539c9858b",
+        "deExample": "Willst du vor allem arbeiten?",
+        "translateExample": "Ты хочешь прежде всего работать?",
+        "collocations": [
+          "arbeiten"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ccf6923c-01df-48e2-9a16-93a0050cda23",
+        "deExample": "Ich stehe früh auf, um vor allem zu lernen.",
+        "translateExample": "Я встаю рано, чтобы прежде всего учиться.",
+        "collocations": [
+          "aufstehen",
+          "lernen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

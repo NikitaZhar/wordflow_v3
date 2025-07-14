@@ -1,0 +1,205 @@
+[
+  {
+    "id": "281ef658-1a38-4fb2-9b8a-943b8ab051b3",
+    "deWord": "sich befinden - befand - befunden",
+    "translateWord": "находиться (где-либо, in + Dativ)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "bbd0a951-eaa3-41aa-86c1-afa9875acf45",
+        "deExample": "Ich befinde mich in der Stadt.",
+        "translateExample": "Я нахожусь в городе.",
+        "collocations": [
+          "Stadt"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6cbea752-9ca6-4096-9711-c140ddc5b350",
+        "deExample": "Befindest du dich im Büro?",
+        "translateExample": "Ты находишься в офисе?",
+        "collocations": [
+          "Büro"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4089bbb4-bb39-41ee-b1fb-13ff260d0b3f",
+        "deExample": "Er befindet sich nicht hier.",
+        "translateExample": "Он здесь не находится.",
+        "collocations": [
+          "hier"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "32b74cd3-7179-483e-8247-9eb84bbd09bd",
+        "deExample": "Wir haben uns in Berlin befunden.",
+        "translateExample": "Мы находились в Берлине.",
+        "collocations": [
+          "Berlin"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "39df5f56-cb6b-4eb4-8426-8a9e756f1062",
+        "deExample": "Du sollst dich im Haus befinden.",
+        "translateExample": "Ты должен находиться в доме.",
+        "collocations": [
+          "Haus"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "677153b5-0972-4c5c-a8ae-4d6d68e21e9f",
+        "deExample": "Er befindet sich hier, weil er arbeitet.",
+        "translateExample": "Он находится здесь, потому что работает.",
+        "collocations": [
+          "arbeiten"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "aad366f0-820d-4161-8dec-e51b9f2dc152",
+        "deExample": "Ich werde mich im Park befinden, wenn du kommst.",
+        "translateExample": "Я буду в парке, когда ты придешь.",
+        "collocations": [
+          "Park"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "29558f42-90fa-4404-9623-c7baa92e3be7",
+        "deExample": "Das Büro wird sich im Zentrum befinden.",
+        "translateExample": "Офис будет находиться в центре.",
+        "collocations": [
+          "Zentrum"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3b1f85b6-f025-4718-889e-a23e09a43850",
+        "deExample": "Es ist wichtig, sich am richtigen Ort zu befinden.",
+        "translateExample": "Важно находиться в правильном месте.",
+        "collocations": [
+          "wichtig"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "340e125f-b27b-4cc4-ab76-807c7fe6ac97",
+        "deExample": "Wo hast du vor, dich zu befinden?",
+        "translateExample": "Где ты собираешься находиться?",
+        "collocations": [
+          "vorhaben"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6add0883-fbc8-4548-b4b3-18d458279b61",
+        "deExample": "Ich stehe früh auf, um mich rechtzeitig zu befinden.",
+        "translateExample": "Я встаю рано, чтобы находиться вовремя.",
+        "collocations": [
+          "aufstehen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

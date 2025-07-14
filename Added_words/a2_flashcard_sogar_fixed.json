@@ -1,0 +1,207 @@
+[
+  {
+    "id": "f2f61c46-4982-4fca-8520-8caf21301b8c",
+    "deWord": "sogar",
+    "translateWord": "даже",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "fd3396d3-7f55-41d3-a22b-5dfea09a765a",
+        "deExample": "Heute ist es sogar warm.",
+        "translateExample": "Сегодня даже тепло.",
+        "collocations": [
+          "warm"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c7a1f3b8-9cd2-4d4b-abb6-e6535dd19984",
+        "deExample": "Ist er sogar hier?",
+        "translateExample": "Он даже здесь?",
+        "collocations": [
+          "hier"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9f89bfc8-710d-4418-a11e-580d0315c7fb",
+        "deExample": "Heute ist er sogar nicht gekommen.",
+        "translateExample": "Сегодня он даже не пришёл.",
+        "collocations": [
+          "kommen"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c252d3ed-b23d-44ad-a825-887fc19edbbd",
+        "deExample": "Sie hat ihn sogar besucht.",
+        "translateExample": "Она даже его навестила.",
+        "collocations": [
+          "besuchen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ae76631a-ab52-4e70-8ef3-3bf2fac98287",
+        "deExample": "Du kannst sogar mitmachen.",
+        "translateExample": "Ты можешь даже участвовать.",
+        "collocations": [
+          "mitmachen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5c933456-21a3-45dc-a94a-9cfa6955474d",
+        "deExample": "Ich komme, weil er mich sogar eingeladen hat.",
+        "translateExample": "Я прихожу, потому что он даже пригласил меня.",
+        "collocations": [
+          "einladen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0e042729-8d37-4411-b247-f1a46d404942",
+        "deExample": "Ich werde sogar helfen, wenn es schwer ist.",
+        "translateExample": "Я даже помогу, если это будет трудно.",
+        "collocations": [
+          "helfen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e265d195-d1b9-4682-9627-0d99b1a37d38",
+        "deExample": "Es wird sogar oft gesagt.",
+        "translateExample": "Говорят даже часто.",
+        "collocations": [
+          "sagen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c24e3660-8ce1-4ff7-92e8-db31aeb98746",
+        "deExample": "Er versucht sogar zu singen.",
+        "translateExample": "Он даже пытается петь.",
+        "collocations": [
+          "singen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "20cffe92-e19f-4f9f-a158-b1fbdc4ce010",
+        "deExample": "Willst du sogar lernen zu tanzen?",
+        "translateExample": "Ты хочешь даже научиться танцевать?",
+        "collocations": [
+          "lernen",
+          "tanzen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4db3cca1-2434-4896-b8de-a616439e9a3e",
+        "deExample": "Er übt viel, um sogar gut spielen zu können.",
+        "translateExample": "Он много тренируется, чтобы даже хорошо уметь играть.",
+        "collocations": [
+          "üben",
+          "spielen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

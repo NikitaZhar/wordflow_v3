@@ -14,10 +14,8 @@ public class InteractionHandler {
     
 	private static final Scanner scanner = new Scanner(System.in);
 	
-//	private InteractionHandler() {
-// запрет на создание экземпляра
-//		Разобраться с этим - почему так происходит!!!!
-//    }
+	private InteractionHandler() {
+    }
 	
 	public static int getIntInputConsole(String prompt) {
 	    System.out.print(prompt + " ");
@@ -35,7 +33,7 @@ public class InteractionHandler {
 	    String input = scanner.nextLine().trim();
 
 	    while (input.isEmpty()) {
-	        System.out.print("\n" + RED + " ✘ " + RESET + " Input cannot be empty! \n\n" + prompt);
+	        System.out.print("\n" + RED + " ✘ " + RESET + " Input cannot be empty! \n\n" + prompt + " ");
 	        input = scanner.nextLine().trim();
 	    }
 	    return input;

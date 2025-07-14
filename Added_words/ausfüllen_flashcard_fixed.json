@@ -1,0 +1,205 @@
+[
+  {
+    "id": "82fa2791-ab7b-46e5-8744-e7407c6628d1",
+    "deWord": "ausfüllen - füllte aus - ausgefüllt",
+    "translateWord": "заполнять (что-либо, Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "e7d8a43f-717f-4a4e-a615-3e295ed4a423",
+        "deExample": "Ich muss das Formular ausfüllen.",
+        "translateExample": "Мне нужно заполнить форму.",
+        "collocations": [
+          "Formular"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8f13d44c-b022-4f43-9677-b78fb191d2ba",
+        "deExample": "Füllst du das Formular aus?",
+        "translateExample": "Ты заполняешь форму?",
+        "collocations": [
+          "Formular"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "17685f6f-616f-401b-8e23-4125ddbd2593",
+        "deExample": "Ich will das Formular nicht ausfüllen.",
+        "translateExample": "Я не хочу заполнять форму.",
+        "collocations": [
+          "Formular"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "602ec83a-8e8d-45de-8e06-4f2ff6053255",
+        "deExample": "Ich habe das Formular ausgefüllt.",
+        "translateExample": "Я заполнил форму.",
+        "collocations": [
+          "Formular"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0d4aeb80-ca9b-46f4-90dd-cfcadd0a3857",
+        "deExample": "Du sollst das Formular ausfüllen.",
+        "translateExample": "Ты должен заполнить форму.",
+        "collocations": [
+          "Formular"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3b9011b7-ed22-44ee-9fc1-a1dfa1869090",
+        "deExample": "Ich mache eine Pause, weil ich das Formular ausfüllen muss.",
+        "translateExample": "Я делаю перерыв, потому что мне нужно заполнить форму.",
+        "collocations": [
+          "Pause"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b3c7bc54-d724-4692-b4fb-c6066486d0e2",
+        "deExample": "Ich werde das Formular ausfüllen, wenn ich Zeit habe.",
+        "translateExample": "Я заполню форму, когда у меня будет время.",
+        "collocations": [
+          "Zeit"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5878940f-a1a0-4c5d-8703-927a69924a6f",
+        "deExample": "Das Formular wird ausgefüllt.",
+        "translateExample": "Форма заполняется.",
+        "collocations": [
+          "Formular"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e2d973e9-3fba-4c85-8efe-6657d06f7577",
+        "deExample": "Ich habe vergessen, das Formular auszufüllen.",
+        "translateExample": "Я забыл заполнить форму.",
+        "collocations": [
+          "Formular"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4342c95d-b7d8-4080-bac8-bc13d672737f",
+        "deExample": "Musst du das Formular ausfüllen?",
+        "translateExample": "Ты должен заполнить форму?",
+        "collocations": [
+          "Formular"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "900400ba-2cc8-456b-9fd5-ed3430d53f93",
+        "deExample": "Ich lerne, um das Formular richtig auszufüllen.",
+        "translateExample": "Я учусь, чтобы правильно заполнить форму.",
+        "collocations": [
+          "Formular"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

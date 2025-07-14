@@ -7,79 +7,80 @@ import com.wordflow.model.Dictionary;
 import com.wordflow.model.FlashCard;
 
 public class NewWordsExercise extends BaseExercise {
-	private static final int MAX_WORDS_TO_REVIEW = 20;
-	private List<FlashCard> cards;
-	private int limit= getLimit();
 
-	public NewWordsExercise(Dictionary dictionary) {
-		selectCards(dictionary);
-	}
-	
-	private void selectCards(Dictionary dictionary) {
-		long numberDueCards = dictionary.findDueCards(FlashCard.FlashCardType.WORD).size();
+    private static final int MAX_WORDS_TO_REVIEW = 20;
+    private final List<FlashCard> cards;
 
-		this.limit = (numberDueCards >= MAX_WORDS_TO_REVIEW) ? 0 : getLimit();
-		this.cards = dictionary.findNewCards(FlashCard.FlashCardType.WORD).stream()
-				.limit(limit)
-				.toList();
-	}
+    public NewWordsExercise(Dictionary dictionary) {
+        this.cards = selectCards(dictionary);
+    }
+    
+    public List<FlashCard> getLessonContent() {
+    	return cards;
+    }
 
-	public void runExercise() {
-		if(cards.isEmpty()) return;
-		waitForEnter("\n Learn new words. Press Enter to begin\n");
-		displayFullCards();
-		clearScreen();
-		waitForEnter("\n Review new words. Press Enter to begin\n");
-		reviewCards();
-		progressCards();
-	}
+    private List<FlashCard> selectCards(Dictionary dictionary) {
+        long dueCount = dictionary.findDueCards().stream()
+                .filter(c -> c.getExerciseType() == FlashCard.FlashCardType.VOCAB)
+                .count();
 
-	private int getLimit() {
-		int hour = LocalTime.now().getHour();
-		return switch (hour) {
-		case 8 -> 0;
-		case 9 -> 0;
-		case 10 -> 3;
-		case 11 -> 0;
-		case 12 -> 3;
-		case 13 -> 0;
-		case 14 -> 3;
-		case 15, 16, 17, 18, 19, 20 -> 1;
-		default -> 0; 
-		};
-	}
+        
+//        Добавить сообщение, что слишком много слов для повторения
+        int limit = (dueCount >= MAX_WORDS_TO_REVIEW) ? 0 : getTimeBasedLimit();
 
-	private void reviewCards() {
-		for(FlashCard card : cards) {
-			boolean isCorrect;
-			do {
-				showQuestion(card);
-				String userAnswer = getUserAnswerWithPrompt();
-				String correctAnswer = card.getCleanAnswer();
-				isCorrect = userAnswer.equals(correctAnswer);
-				if (isCorrect) {
-					messageCorrectAnswer();
-					isCorrect = true;
-				} else {
-					messageErrorAnswer();
-					clearScreen();
-					displayFullCard(card);
-					clearScreen();
-					isCorrect = false;
-				}
-			} while (!isCorrect);
-		}
-	}
+        return dictionary.findNewCards(FlashCard.FlashCardType.VOCAB)
+                         .stream()
+                         .limit(limit)
+                         .toList();
+    }
 
-	private void displayFullCards() {
-		for(FlashCard card : cards) {
-			displayFullCard(card);
-		}
-	}
+    public void runExercise() {
+        if (cards.isEmpty()) return;
+        waitForEnter("\n Learn new words. Press Enter to begin\n");
+        displayFullCards();
+        clearScreen();
+        waitForEnter("\n Review new words. Press Enter to begin\n");
+        reviewCards();
+        cardProgress();
+    }
 
-	private void progressCards() {
-		for(FlashCard card : cards) {
-			card.toProgress(true);
-		}
-	}
+    private int getTimeBasedLimit() {
+        int hour = LocalTime.now().getHour();
+        return switch (hour) {
+            case 9, 10, 12, 14 -> 3;
+            case 11, 13, 15, 16, 17, 18, 19 -> 2;
+            default -> 0;
+        };
+    }
+
+    private void reviewCards() {
+        for (FlashCard card : cards) {
+            while (true) {
+                showQuestion(card);
+                String userAnswer = getUserAnswerWithPrompt();
+                String correctAnswer = card.getCleanAnswer();
+                if (userAnswer.equalsIgnoreCase(correctAnswer)) {
+                    messageCorrectAnswer();
+                    break;
+                } else {
+                    messageErrorAnswer();
+                    clearScreen();
+                    displayFullCard(card);
+                    clearScreen();
+                }
+            }
+        }
+    }
+
+    private void displayFullCards() {
+        for (FlashCard card : cards) {
+            displayFullCard(card);
+        }
+    }
+
+    private void cardProgress() {
+        for (FlashCard card : cards) {
+            card.registerWordProgress(true);
+        }
+    }
 }

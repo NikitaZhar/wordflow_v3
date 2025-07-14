@@ -1,0 +1,216 @@
+[
+  {
+    "id": "14282938-8ca6-48e6-8ff6-7d35a70932d4",
+    "deWord": "ankommen - kam an - angekommen",
+    "translateWord": "прибывать (куда-л, in + Dat)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "124a0f6d-70a5-4f96-9fb8-142839beb67b",
+        "deExample": "Der Zug kommt pünktlich an.",
+        "translateExample": "Поезд прибывает вовремя.",
+        "collocations": [
+          "der Zug",
+          "pünktlich"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "818b22ab-1211-4f77-9b1f-edd627c4c449",
+        "deExample": "Wann kommt dein Freund an?",
+        "translateExample": "Когда прибывает твой друг?",
+        "collocations": [
+          "der Freund"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fd7c0ac4-676a-4d92-90e7-d9b753b61cbc",
+        "deExample": "Der Bus kommt heute nicht an.",
+        "translateExample": "Автобус сегодня не прибывает.",
+        "collocations": [
+          "der Bus",
+          "heute"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a8b8ddea-6517-4d7a-8f6c-d38e8f8143af",
+        "deExample": "Wir sind gestern in Berlin angekommen.",
+        "translateExample": "Мы прибыли вчера в Берлин.",
+        "collocations": [
+          "Berlin",
+          "gestern"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5613ec71-eb75-410b-a39e-3908a314ba9d",
+        "deExample": "Du kannst morgen früher ankommen.",
+        "translateExample": "Ты можешь завтра прибыть раньше.",
+        "collocations": [
+          "morgen",
+          "früh"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b2b4220c-dab0-4aef-9003-ae8928556ea0",
+        "deExample": "Ich bin müde, weil ich spät angekommen bin.",
+        "translateExample": "Я устал, потому что поздно приехал.",
+        "collocations": [
+          "müde",
+          "spät"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "035681e3-fd41-49dd-a57a-8f7cc98b1ab4",
+        "deExample": "Ich werde um 8 Uhr ankommen, wenn der Zug pünktlich ist.",
+        "translateExample": "Я прибуду в 8 часов, если поезд будет вовремя.",
+        "collocations": [
+          "8 Uhr",
+          "der Zug",
+          "pünktlich"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7369721f-0db1-419c-be0d-ec61feb09dee",
+        "deExample": "Die Gäste sind schon angekommen.",
+        "translateExample": "Гости уже прибыли.",
+        "collocations": [
+          "die Gäste",
+          "schon"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "cf67f7fa-a536-4ec7-9342-e474fae1c1b8",
+        "deExample": "Er plant, morgen früh anzukommen.",
+        "translateExample": "Он планирует прибыть завтра утром.",
+        "collocations": [
+          "morgen",
+          "früh",
+          "planen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "11bb5d73-7931-4a8e-9cb0-a37eb4cfbe65",
+        "deExample": "Möchtest du wissen, wann er ankommt?",
+        "translateExample": "Ты хочешь узнать, когда он прибывает?",
+        "collocations": [
+          "wissen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3456c78f-6ef3-477a-bfdf-2aeb19207e48",
+        "deExample": "Ich stehe früh auf, um pünktlich anzukommen.",
+        "translateExample": "Я встаю рано, чтобы прибыть вовремя.",
+        "collocations": [
+          "aufstehen",
+          "pünktlich"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "id": "e30223b5-23f7-4b13-b822-7c5e903f7d8e",
+    "deWord": "sich entspannen - entspannte - entspannt",
+    "translateWord": "расслабляться",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "be2d3c5a-a6bd-4bed-a8fb-f3a081f57438",
+        "deExample": "Ich entspanne mich am Abend.",
+        "translateExample": "Я расслабляюсь вечером.",
+        "collocations": [
+          "Abend"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5a05a5bf-f2f2-4834-adad-6f756aed41b4",
+        "deExample": "Entspannst du dich oft?",
+        "translateExample": "Ты часто расслабляешься?",
+        "collocations": [
+          "oft"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3104d91f-51cb-4e9f-82ca-a9af23ef6940",
+        "deExample": "Ich entspanne mich heute nicht.",
+        "translateExample": "Сегодня я не расслабляюсь.",
+        "collocations": [
+          "heute"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c3452dce-0962-4eb2-b168-bb8b44ac34f0",
+        "deExample": "Ich habe mich am Wochenende entspannt.",
+        "translateExample": "Я расслабился на выходных.",
+        "collocations": [
+          "Wochenende"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "461f1ac2-c7ad-4f21-9112-01f0d8a87c48",
+        "deExample": "Ich möchte mich jetzt entspannen.",
+        "translateExample": "Я хочу сейчас расслабиться.",
+        "collocations": [
+          "jetzt"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0e2df17c-364f-4dc2-8082-0f4143663ff2",
+        "deExample": "Ich entspanne mich, weil ich müde bin.",
+        "translateExample": "Я расслабляюсь, потому что я устал.",
+        "collocations": [
+          "müde"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c889c9b5-3bec-43af-a1d1-24ebee46b670",
+        "deExample": "Ich werde mich entspannen, wenn ich zu Hause bin.",
+        "translateExample": "Я расслаблюсь, когда буду дома.",
+        "collocations": [
+          "zu Hause"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b1a86a52-1a86-42bf-bc3a-6d1d9f34265c",
+        "deExample": "Am Wochenende wird sich entspannt.",
+        "translateExample": "На выходных отдыхают.",
+        "collocations": [
+          "Wochenende"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "17950f6a-8f80-4361-8e87-24df18de9260",
+        "deExample": "Es ist wichtig, sich zu entspannen.",
+        "translateExample": "Важно расслабляться.",
+        "collocations": [
+          "wichtig"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8a2a000d-2707-4d4a-bce2-9494984f5e75",
+        "deExample": "Willst du versuchen, dich zu entspannen?",
+        "translateExample": "Ты хочешь попробовать расслабиться?",
+        "collocations": [
+          "versuchen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ef6337b1-6208-43b7-87b1-6de60a30ccca",
+        "deExample": "Ich mache Yoga, um mich zu entspannen.",
+        "translateExample": "Я занимаюсь йогой, чтобы расслабиться.",
+        "collocations": [
+          "Yoga"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

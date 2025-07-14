@@ -1,0 +1,1026 @@
+[
+  {
+    "id": "e01b5f3c-9713-49c3-a0ff-9b8f31f001d5",
+    "deWord": "kennenlernen - lernte kennen - kennengelernt",
+    "translateWord": "знакомиться (с кем-л, Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "fd99b991-5bf0-4427-a113-fe94e04e6f0e",
+        "deExample": "Ich möchte neue Leute kennenlernen.",
+        "translateExample": "Я хочу познакомиться с новыми людьми.",
+        "collocations": [
+          "Leute"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "628bd7d5-d778-4131-9ce8-981a5027f250",
+        "deExample": "Willst du meine Freunde kennenlernen?",
+        "translateExample": "Ты хочешь познакомиться с моими друзьями?",
+        "collocations": [
+          "Freunde"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3176d7ff-bedc-474a-bfd4-e7d1ea0b5ad7",
+        "deExample": "Ich will sie nicht kennenlernen.",
+        "translateExample": "Я не хочу с ней знакомиться.",
+        "collocations": [
+          "sie"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "13529398-fb4b-4888-8711-f18784590d10",
+        "deExample": "Ich habe ihn gestern kennengelernt.",
+        "translateExample": "Я познакомился с ним вчера.",
+        "collocations": [
+          "ihn"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "dce9e831-39e9-4b1f-abef-f29b697df22c",
+        "deExample": "Man kann viele Menschen kennenlernen.",
+        "translateExample": "Можно познакомиться со многими людьми.",
+        "collocations": [
+          "Menschen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ae88af82-a826-41fa-95c8-d6a067777a3a",
+        "deExample": "Ich freue mich, weil ich neue Freunde kennenlernen kann.",
+        "translateExample": "Я рад, потому что могу познакомиться с новыми друзьями.",
+        "collocations": [
+          "Freunde"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d224b868-c636-4606-8af5-ae98eb35026d",
+        "deExample": "Ich werde viele Leute kennenlernen, wenn ich reise.",
+        "translateExample": "Я познакомлюсь со многими людьми, когда буду путешествовать.",
+        "collocations": [
+          "Leute",
+          "reisen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "13cbaa0d-5df5-495c-a3bb-51bfc2ff2717",
+        "deExample": "Viele Menschen werden kennengelernt.",
+        "translateExample": "Со многими людьми знакомятся.",
+        "collocations": [
+          "Menschen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "dd67348c-82ac-41d7-97d0-24122887a5dd",
+        "deExample": "Es ist schön, neue Leute kennenzulernen.",
+        "translateExample": "Приятно знакомиться с новыми людьми.",
+        "collocations": [
+          "Leute",
+          "schön"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4b4df3ab-8f9b-4d78-9cad-71bde0a87a40",
+        "deExample": "Wie ist es, neue Freunde kennenzulernen?",
+        "translateExample": "Как это — знакомиться с новыми друзьями?",
+        "collocations": [
+          "Freunde"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3d0fe352-bc25-44a4-901b-6b57c84b2729",
+        "deExample": "Er geht oft aus, um neue Leute kennenzulernen.",
+        "translateExample": "Он часто ходит куда-то, чтобы знакомиться с новыми людьми.",
+        "collocations": [
+          "Leute"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "708d1b82-8b84-4c47-82d3-ca20c917ac8d",
+    "deWord": "aufbauen - baute auf - aufgebaut",
+    "translateWord": "строить, создавать (что-л, Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "54b2fea5-df01-4181-b9d6-c00861b08b9a",
+        "deExample": "Ich baue ein Haus auf.",
+        "translateExample": "Я строю дом.",
+        "collocations": [
+          "Haus"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "39ad10dc-6bc9-4da3-bc94-b118290471ff",
+        "deExample": "Bauen sie hier etwas auf?",
+        "translateExample": "Они здесь что-то строят?",
+        "collocations": [],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "46506d0f-7b7c-417a-8282-07ca072dfde1",
+        "deExample": "Ich baue das nicht auf.",
+        "translateExample": "Я это не строю.",
+        "collocations": [],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7049f6d0-9124-4fce-ab40-9d59f0724276",
+        "deExample": "Wir haben eine Firma aufgebaut.",
+        "translateExample": "Мы построили компанию.",
+        "collocations": [
+          "Firma"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "cd1f5726-cec6-4fee-9300-f0951e267732",
+        "deExample": "Man kann eine Beziehung aufbauen.",
+        "translateExample": "Можно построить отношения.",
+        "collocations": [
+          "Beziehung"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b0168df3-3d9f-443d-822a-48430e43ad19",
+        "deExample": "Ich bleibe, weil ich etwas aufbauen will.",
+        "translateExample": "Я остаюсь, потому что хочу что-то построить.",
+        "collocations": [
+          "etwas"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a7285f6c-a7bc-44ed-b7b1-38138e6c3f1d",
+        "deExample": "Ich werde eine Karriere aufbauen, wenn ich hier bleibe.",
+        "translateExample": "Я построю карьеру, если останусь здесь.",
+        "collocations": [
+          "Karriere"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b5a32c4c-b798-4315-8693-f7ecf383f55f",
+        "deExample": "Eine Firma wird schnell aufgebaut.",
+        "translateExample": "Компания быстро строится.",
+        "collocations": [
+          "Firma"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6e2c0873-6af0-43ff-961a-f99098ded06e",
+        "deExample": "Es ist wichtig, Vertrauen aufzubauen.",
+        "translateExample": "Важно построить доверие.",
+        "collocations": [
+          "Vertrauen",
+          "wichtig"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6673e360-d028-4050-9a9c-d1f8c993524c",
+        "deExample": "Wie ist es, ein Leben aufzubauen?",
+        "translateExample": "Как это — строить жизнь?",
+        "collocations": [
+          "Leben"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fa284dde-0b93-4de7-8dfd-165ba8c08f3d",
+        "deExample": "Er arbeitet viel, um eine Zukunft aufzubauen.",
+        "translateExample": "Он много работает, чтобы построить будущее.",
+        "collocations": [
+          "Zukunft"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "2145a5d0-40b7-4ceb-8f47-0ac986e1bd5e",
+    "deWord": "spannend",
+    "translateWord": "захватывающий, увлекательный",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "0c71e9c2-1c72-4a84-b3c3-98b6477987ce",
+        "deExample": "Der Film ist spannend.",
+        "translateExample": "Фильм захватывающий.",
+        "collocations": [
+          "Film"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "638806a5-d15d-4fe0-be66-663428833360",
+        "deExample": "Ist das Buch spannend?",
+        "translateExample": "Книга захватывающая?",
+        "collocations": [
+          "Buch"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9fd8ff89-ce57-4113-b6cb-0dd426b91cba",
+        "deExample": "Der Film ist nicht spannend.",
+        "translateExample": "Фильм не захватывающий.",
+        "collocations": [
+          "Film"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5ca79c80-de80-4b72-8fb2-a50f9774bf61",
+        "deExample": "Die Geschichte war spannend.",
+        "translateExample": "История была захватывающей.",
+        "collocations": [
+          "Geschichte"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4bd88542-f22f-4053-bad2-3aa16cecd9d4",
+        "deExample": "Man kann spannende Bücher lesen.",
+        "translateExample": "Можно читать захватывающие книги.",
+        "collocations": [
+          "Bücher",
+          "lesen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3aeb5cca-91d0-4477-84db-b7315edb5cee",
+        "deExample": "Ich lese, weil das Buch spannend ist.",
+        "translateExample": "Я читаю, потому что книга захватывающая.",
+        "collocations": [
+          "Buch",
+          "lesen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7e2cd767-5ced-44f5-9b8d-4927240e5992",
+        "deExample": "Ich werde es lesen, wenn es spannend ist.",
+        "translateExample": "Я прочитаю это, если это будет захватывающим.",
+        "collocations": [
+          "lesen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ab529a0e-784a-46b3-b9ea-06db0e99923d",
+        "deExample": "Das Buch wird spannend erzählt.",
+        "translateExample": "Книга рассказывается захватывающе.",
+        "collocations": [
+          "Buch"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ae8ee6e8-ded6-4bab-b29e-581a5c3ccdd5",
+        "deExample": "Es ist schön, spannende Filme zu sehen.",
+        "translateExample": "Приятно смотреть захватывающие фильмы.",
+        "collocations": [
+          "Filme",
+          "schön"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3851850c-7dbe-444d-9821-a301ffc472fa",
+        "deExample": "Wie ist es, spannende Bücher zu lesen?",
+        "translateExample": "Как это — читать захватывающие книги?",
+        "collocations": [
+          "Bücher",
+          "lesen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4946b78f-43b2-40de-8138-5ad25258b3bb",
+        "deExample": "Er schaut Filme, um spannende Geschichten zu erleben.",
+        "translateExample": "Он смотрит фильмы, чтобы пережить захватывающие истории.",
+        "collocations": [
+          "Filme",
+          "Geschichten"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "f44f9150-5b54-4e7c-9cdf-44204b60856d",
+    "deWord": "entspannend",
+    "translateWord": "расслабляющий, успокаивающий",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "f44bcfa0-3686-40b7-be65-b4868661a214",
+        "deExample": "Die Musik ist entspannend.",
+        "translateExample": "Музыка расслабляющая.",
+        "collocations": [
+          "Musik"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4468a28b-fa43-48ba-a9d7-2ee3da3d4d0b",
+        "deExample": "Ist diese Übung entspannend?",
+        "translateExample": "Это упражнение расслабляющее?",
+        "collocations": [
+          "Übung"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "69518abf-cd83-437f-852e-e666932a2111",
+        "deExample": "Der Film ist nicht entspannend.",
+        "translateExample": "Фильм не расслабляющий.",
+        "collocations": [
+          "Film"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "18baee25-3e6d-4f53-a95e-b908ef6cd620",
+        "deExample": "Der Abend war entspannend.",
+        "translateExample": "Вечер был расслабляющим.",
+        "collocations": [
+          "Abend"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "33f584e9-545c-45fa-ba71-298b6b148aea",
+        "deExample": "Man kann entspannende Musik hören.",
+        "translateExample": "Можно слушать расслабляющую музыку.",
+        "collocations": [
+          "Musik",
+          "hören"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "de0050dc-7f1b-4441-866c-c1672639546e",
+        "deExample": "Ich bleibe zu Hause, weil es entspannend ist.",
+        "translateExample": "Я остаюсь дома, потому что это расслабляет.",
+        "collocations": [
+          "Haus"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1c690e06-84c2-4fdd-ac27-111cc2bc6919",
+        "deExample": "Ich werde lesen, wenn es entspannend ist.",
+        "translateExample": "Я почитаю, если это будет расслабляющим.",
+        "collocations": [
+          "lesen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2f1bd4c3-cbbd-4125-a895-0dfc98853ca9",
+        "deExample": "Musik wird als entspannend empfunden.",
+        "translateExample": "Музыка воспринимается как расслабляющая.",
+        "collocations": [
+          "Musik"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5a3a7f62-3b9d-42ea-8499-b137cb6503a1",
+        "deExample": "Es ist schön, entspannende Musik zu hören.",
+        "translateExample": "Приятно слушать расслабляющую музыку.",
+        "collocations": [
+          "Musik",
+          "schön"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9758ba23-b76f-467b-8658-cb5f1e5be7a6",
+        "deExample": "Wie ist es, entspannende Musik zu hören?",
+        "translateExample": "Как это — слушать расслабляющую музыку?",
+        "collocations": [
+          "Musik",
+          "hören"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8e83bb06-4017-4934-ac59-2db424425316",
+        "deExample": "Er macht Yoga, um sich zu entspannen.",
+        "translateExample": "Он занимается йогой, чтобы расслабиться.",
+        "collocations": [
+          "Yoga"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "7a50069b-e0df-4829-a852-30d455114312",
+    "deWord": "das Ufer",
+    "translateWord": "берег",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "ff9c0dde-5a5a-43fc-97dd-2f622308d814",
+        "deExample": "Das Ufer ist nah.",
+        "translateExample": "Берег близко.",
+        "collocations": [
+          "nah"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "bf1beabf-8b7b-4a16-86c6-f90a73b3c6c9",
+        "deExample": "Ist das Ufer weit?",
+        "translateExample": "Берег далеко?",
+        "collocations": [
+          "weit"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "06fcab3d-debb-4036-a785-ce78cc8f4bd2",
+        "deExample": "Das Ufer ist nicht sauber.",
+        "translateExample": "Берег не чистый.",
+        "collocations": [
+          "sauber"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9eb6a19b-6f5a-4774-8216-d59c43982483",
+        "deExample": "Wir sind am Ufer gewesen.",
+        "translateExample": "Мы были на берегу.",
+        "collocations": [
+          "wir"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5415f9f1-d141-4ddc-9857-dfa95bffcfa6",
+        "deExample": "Man kann am Ufer sitzen.",
+        "translateExample": "Можно сидеть на берегу.",
+        "collocations": [
+          "sitzen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "68189079-8472-4635-a2ae-2441b38b6ebd",
+        "deExample": "Ich gehe zum Ufer, weil ich Ruhe will.",
+        "translateExample": "Я иду к берегу, потому что хочу покоя.",
+        "collocations": [
+          "Ruhe"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a4a7bcde-2eb2-48de-a87c-ccf37ae185d3",
+        "deExample": "Ich werde am Ufer spazieren, wenn es sonnig ist.",
+        "translateExample": "Я прогуляюсь по берегу, если будет солнечно.",
+        "collocations": [
+          "spazieren",
+          "sonnig"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9605c287-b100-41f9-a77b-a254f4cb59f9",
+        "deExample": "Am Ufer wird oft gepicknickt.",
+        "translateExample": "На берегу часто устраивают пикники.",
+        "collocations": [
+          "picknicken"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4d3586cb-b624-4272-af00-82433f9400bc",
+        "deExample": "Es ist schön, am Ufer zu sitzen.",
+        "translateExample": "Приятно сидеть на берегу.",
+        "collocations": [
+          "sitzen",
+          "schön"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f35e681e-5619-4a03-b5a9-efcb4854618d",
+        "deExample": "Wie ist es, am Ufer zu entspannen?",
+        "translateExample": "Как это — отдыхать на берегу?",
+        "collocations": [
+          "entspannen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "78bef060-9358-4082-b7a0-c4bc84ed7eea",
+        "deExample": "Er fährt ans Ufer, um sich zu erholen.",
+        "translateExample": "Он едет на берег, чтобы отдохнуть.",
+        "collocations": [
+          "erholen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

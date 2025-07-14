@@ -1,0 +1,218 @@
+[
+  {
+    "id": "4322f347-b34f-4dbc-a936-00631477ee82",
+    "deWord": "der Brief",
+    "translateWord": "письмо (кому, an + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "5c097dcb-9fc5-4bda-ab2c-013c3431e959",
+        "deExample": "Der Brief ist sehr persönlich.",
+        "translateExample": "Письмо очень личное.",
+        "collocations": [
+          "persönlich",
+          "sehr"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ad999c8e-1766-48f8-bad0-4399cee5ba52",
+        "deExample": "Hast du den Brief an deine Eltern geschrieben?",
+        "translateExample": "Ты написал письмо своим родителям?",
+        "collocations": [
+          "die Eltern",
+          "schreiben"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1c57086a-89d9-4c7c-be2b-5f7027ff962e",
+        "deExample": "Ich habe keinen Brief von ihm bekommen.",
+        "translateExample": "Я не получил от него письма.",
+        "collocations": [
+          "bekommen",
+          "er"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "42a8da7f-1b34-4828-81e2-757836932e95",
+        "deExample": "Sie hat gestern einen langen Brief geschrieben.",
+        "translateExample": "Она написала длинное письмо вчера.",
+        "collocations": [
+          "gestern",
+          "lang"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0ecbb0af-0e94-43d6-b4a7-f58695285ab2",
+        "deExample": "Du musst den Brief an das Amt schicken.",
+        "translateExample": "Ты должен отправить письмо в ведомство.",
+        "collocations": [
+          "das Amt",
+          "schicken"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1fa3478a-e833-435b-a3ac-84c1f2ebb4a4",
+        "deExample": "Ich war nervös, weil ich einen wichtigen Brief erwartete.",
+        "translateExample": "Я нервничал, потому что ждал важного письма.",
+        "collocations": [
+          "nervös",
+          "wichtig",
+          "erwarten"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fded4528-078b-4a48-a456-bfe6e9d5de4d",
+        "deExample": "Ich werde den Brief schreiben, wenn ich zu Hause bin.",
+        "translateExample": "Я напишу письмо, когда буду дома.",
+        "collocations": [
+          "zu Hause",
+          "schreiben"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2ff55ad4-e499-4494-ae42-9a5b000d714a",
+        "deExample": "Der Brief wurde gestern von der Sekretärin geschrieben.",
+        "translateExample": "Письмо было написано вчера секретарём.",
+        "collocations": [
+          "die Sekretärin",
+          "gestern"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c0868261-bfb9-406d-bc99-5eeb68fe8f7f",
+        "deExample": "Er versucht, einen höflichen Brief zu formulieren.",
+        "translateExample": "Он старается вежливо сформулировать письмо.",
+        "collocations": [
+          "höflich",
+          "formulieren"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4b78c053-56bf-40c5-80a2-cec563bf3c33",
+        "deExample": "Wie kann man lernen, formelle Briefe zu schreiben?",
+        "translateExample": "Как можно научиться писать официальные письма?",
+        "collocations": [
+          "lernen",
+          "formell",
+          "schreiben"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7a268d1a-07ff-4fc4-a99c-c8722684a41f",
+        "deExample": "Ich übe jeden Tag, um bessere Briefe zu schreiben.",
+        "translateExample": "Я практикуюсь каждый день, чтобы писать лучшие письма.",
+        "collocations": [
+          "üben",
+          "besser"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

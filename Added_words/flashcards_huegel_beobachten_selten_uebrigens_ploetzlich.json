@@ -1,0 +1,1024 @@
+[
+  {
+    "id": "ef6f8065-b740-4442-8b45-e806e37de373",
+    "deWord": "der Hügel",
+    "translateWord": "холм",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "ba06bd78-cee4-413f-ab64-ea0745970f1a",
+        "deExample": "Der Hügel ist hoch.",
+        "translateExample": "Холм высокий.",
+        "collocations": [
+          "hoch"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4a9f7549-1fbd-4253-9bb4-0e5178ae1ea7",
+        "deExample": "Ist der Hügel steil?",
+        "translateExample": "Холм крутой?",
+        "collocations": [
+          "steil"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8b840293-0ca6-460f-af5f-1c921de0e4f6",
+        "deExample": "Der Hügel ist nicht weit.",
+        "translateExample": "Холм недалеко.",
+        "collocations": [
+          "weit"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7ea344b7-99fe-4539-a32d-efcdacf11a5c",
+        "deExample": "Wir waren auf dem Hügel.",
+        "translateExample": "Мы были на холме.",
+        "collocations": [
+          "wir"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8e36e845-8cbd-42ac-86e6-a12480d4ed66",
+        "deExample": "Man kann auf dem Hügel sitzen.",
+        "translateExample": "Можно сидеть на холме.",
+        "collocations": [
+          "sitzen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7955920b-f01c-40bf-8a35-f2447ff7294d",
+        "deExample": "Ich gehe, weil der Hügel schön ist.",
+        "translateExample": "Я иду, потому что холм красивый.",
+        "collocations": [
+          "schön"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1c2d2a8b-f773-492c-b9f4-8b17fe502fc2",
+        "deExample": "Ich werde klettern, wenn der Hügel nicht zu steil ist.",
+        "translateExample": "Я буду забираться, если холм не слишком крутой.",
+        "collocations": [
+          "klettern"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7b19f289-69f5-49b1-9710-1f6993758713",
+        "deExample": "Der Hügel wird oft besucht.",
+        "translateExample": "Холм часто посещают.",
+        "collocations": [
+          "besuchen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1b4c8256-3e57-428d-a5be-40ae97eea8ba",
+        "deExample": "Es ist schön, auf dem Hügel zu sitzen.",
+        "translateExample": "Приятно сидеть на холме.",
+        "collocations": [
+          "sitzen",
+          "schön"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3d611141-e6db-45ca-af6b-f0416c5b534f",
+        "deExample": "Wie ist es, auf dem Hügel zu wandern?",
+        "translateExample": "Как это — гулять по холму?",
+        "collocations": [
+          "wandern"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "084ab635-2a9c-4746-87b6-4912cffdeecf",
+        "deExample": "Er fährt dorthin, um den Hügel zu sehen.",
+        "translateExample": "Он едет туда, чтобы увидеть холм.",
+        "collocations": [
+          "sehen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "e0b8b7ab-1a30-45df-8330-95030a8d5b04",
+    "deWord": "beobachten - beobachtete - beobachtet",
+    "translateWord": "наблюдать (за кем-л, Dat / чем-л, Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "c4854202-3487-4e65-809c-fe0cd062ed53",
+        "deExample": "Ich beobachte den Vogel.",
+        "translateExample": "Я наблюдаю за птицей.",
+        "collocations": [
+          "Vogel"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "83f203ed-9793-42f7-9d86-7479d1818002",
+        "deExample": "Beobachtest du den Himmel?",
+        "translateExample": "Ты наблюдаешь за небом?",
+        "collocations": [
+          "Himmel"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a959e84f-75bb-41a9-accc-7ba0b11b8e10",
+        "deExample": "Ich beobachte das nicht.",
+        "translateExample": "Я за этим не наблюдаю.",
+        "collocations": [],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0b17539c-f06d-4bd2-9f48-fe6dec3ced76",
+        "deExample": "Ich habe die Sterne beobachtet.",
+        "translateExample": "Я наблюдал за звёздами.",
+        "collocations": [
+          "Sterne"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e2bbb721-d0b4-417d-b6ed-7bf0e4609310",
+        "deExample": "Man kann Tiere beobachten.",
+        "translateExample": "Можно наблюдать за животными.",
+        "collocations": [
+          "Tiere"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "12c65711-b97f-4a25-a7aa-2a4a32d4252f",
+        "deExample": "Ich bleibe, weil ich die Natur beobachten will.",
+        "translateExample": "Я остаюсь, потому что хочу наблюдать за природой.",
+        "collocations": [
+          "Natur"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d4e155bf-b53a-41da-89b3-87844af07b19",
+        "deExample": "Ich werde den Mond beobachten, wenn es klar ist.",
+        "translateExample": "Я буду наблюдать за луной, если будет ясно.",
+        "collocations": [
+          "Mond"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ed49c079-555b-4222-925f-93379d0dd123",
+        "deExample": "Die Vögel werden genau beobachtet.",
+        "translateExample": "Птиц внимательно наблюдают.",
+        "collocations": [
+          "Vögel"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d4b16717-827b-4e49-b1b3-9b26b42ed735",
+        "deExample": "Es ist interessant, Menschen zu beobachten.",
+        "translateExample": "Интересно наблюдать за людьми.",
+        "collocations": [
+          "Menschen",
+          "interessant"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "76677b84-ae4d-45a5-9151-ebe8f81b7b65",
+        "deExample": "Wie ist es, die Natur zu beobachten?",
+        "translateExample": "Как это — наблюдать за природой?",
+        "collocations": [
+          "Natur"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "feb76c2a-47e8-4ecc-8b67-b4958e84063a",
+        "deExample": "Er bleibt still, um die Tiere zu beobachten.",
+        "translateExample": "Он остаётся тихим, чтобы наблюдать за животными.",
+        "collocations": [
+          "Tiere"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "e6061427-46b0-4572-b188-da36f4e7cc8a",
+    "deWord": "selten",
+    "translateWord": "редко",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "19dfd693-826d-44bc-837e-c2ccdd1e0f69",
+        "deExample": "Ich sehe ihn selten.",
+        "translateExample": "Я редко его вижу.",
+        "collocations": [
+          "sehen"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c856efd4-6839-4666-8027-9441c8f0da47",
+        "deExample": "Bist du selten hier?",
+        "translateExample": "Ты редко здесь бываешь?",
+        "collocations": [
+          "hier"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f7599bb5-97d1-4bc5-bfa4-968005e33953",
+        "deExample": "Das passiert nicht selten.",
+        "translateExample": "Это происходит не редко.",
+        "collocations": [
+          "passieren"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ba83bce4-b48d-49ad-af7f-00e9a55764a0",
+        "deExample": "Ich habe ihn selten getroffen.",
+        "translateExample": "Я редко его встречал.",
+        "collocations": [
+          "treffen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f418114c-eccf-466f-b596-20348be9b466",
+        "deExample": "Man kann seltene Bücher finden.",
+        "translateExample": "Можно найти редкие книги.",
+        "collocations": [
+          "Bücher",
+          "finden"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "50accd79-c498-4457-b0f7-bbe99d5721c4",
+        "deExample": "Ich gehe, weil ich selten Zeit habe.",
+        "translateExample": "Я ухожу, потому что у меня редко есть время.",
+        "collocations": [
+          "Zeit"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "906b3b3f-b62a-4972-89c6-7714cf0a21bf",
+        "deExample": "Ich werde kommen, wenn ich selten frei habe.",
+        "translateExample": "Я приду, если у меня редко будет свободное время.",
+        "collocations": [
+          "frei"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ded5dcd3-5165-4313-921b-dc0a599fb653",
+        "deExample": "Seltene Pflanzen werden geschützt.",
+        "translateExample": "Редкие растения защищаются.",
+        "collocations": [
+          "Pflanzen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e2caa5d8-4320-47e9-8c75-3902c34c7953",
+        "deExample": "Es ist schön, seltene Orte zu besuchen.",
+        "translateExample": "Приятно посещать редкие места.",
+        "collocations": [
+          "Orte",
+          "schön"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c3733c22-5b2d-47a0-a859-af1b49653aef",
+        "deExample": "Wie ist es, seltene Bücher zu lesen?",
+        "translateExample": "Как это — читать редкие книги?",
+        "collocations": [
+          "Bücher",
+          "lesen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a1683487-7a58-4abf-8840-5eb32720f955",
+        "deExample": "Er reist, um seltene Orte zu sehen.",
+        "translateExample": "Он путешествует, чтобы увидеть редкие места.",
+        "collocations": [
+          "Orte",
+          "sehen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "213babfb-168d-40d0-87c8-17b4e3025f62",
+    "deWord": "übrigens",
+    "translateWord": "кстати",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "e868f27f-0b05-4e49-9120-ce7b2fe3f219",
+        "deExample": "Übrigens, das ist mein Freund.",
+        "translateExample": "Кстати, это мой друг.",
+        "collocations": [
+          "Freund"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3b67fdd7-fff2-4b66-955e-5e38bc7a356d",
+        "deExample": "Weißt du übrigens, wo er ist?",
+        "translateExample": "Ты, кстати, знаешь, где он?",
+        "collocations": [
+          "wissen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9e3b75bf-51ad-403a-b770-d559ccb4c785",
+        "deExample": "Übrigens, das ist nicht teuer.",
+        "translateExample": "Кстати, это не дорого.",
+        "collocations": [
+          "teuer"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b1d4f96a-9581-4e51-96c9-6ffdbbce78ea",
+        "deExample": "Übrigens, ich habe ihn gestern gesehen.",
+        "translateExample": "Кстати, я видел его вчера.",
+        "collocations": [
+          "sehen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "eaf47e2e-424d-4e29-8cc9-17567ce19ed4",
+        "deExample": "Man kann übrigens fragen.",
+        "translateExample": "Кстати, можно спросить.",
+        "collocations": [
+          "fragen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d81b7614-f841-494d-9069-6068410379e9",
+        "deExample": "Ich sage dir das, weil es übrigens wichtig ist.",
+        "translateExample": "Я тебе это говорю, потому что это, кстати, важно.",
+        "collocations": [
+          "wichtig"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1e5293d2-3e67-4c89-a78a-92bd77ca83ab",
+        "deExample": "Ich werde kommen, wenn es übrigens passt.",
+        "translateExample": "Я приду, если это, кстати, подойдёт.",
+        "collocations": [
+          "passen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2a58255d-5d01-4ba3-9d92-2421a0c187c8",
+        "deExample": "Übrigens wird das oft benutzt.",
+        "translateExample": "Кстати, это часто используется.",
+        "collocations": [
+          "benutzen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fc713a3f-93e8-4a58-8c83-23dd43fad838",
+        "deExample": "Es ist gut, übrigens zu wissen.",
+        "translateExample": "Хорошо, кстати, знать.",
+        "collocations": [
+          "wissen",
+          "gut"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "acaa6471-878b-4c88-ba39-c2d2d6cd8d4b",
+        "deExample": "Wie ist es übrigens, dort zu wohnen?",
+        "translateExample": "Как это, кстати, жить там?",
+        "collocations": [
+          "wohnen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e2064ba6-88ea-4bfd-a82a-034e39372ff7",
+        "deExample": "Er ruft an, um dir das übrigens zu sagen.",
+        "translateExample": "Он звонит, чтобы, кстати, сказать тебе это.",
+        "collocations": [
+          "sagen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "5d8f2c59-3d51-4adc-8b38-2326f4f147f5",
+    "deWord": "plötzlich",
+    "translateWord": "вдруг",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "97e005b1-9cdf-4697-8b71-5ca918d4fe51",
+        "deExample": "Plötzlich beginnt es zu regnen.",
+        "translateExample": "Вдруг начинает идти дождь.",
+        "collocations": [
+          "regnen"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "06fc04b1-4b99-46a2-9b88-9757e918ffdd",
+        "deExample": "Kommst du plötzlich?",
+        "translateExample": "Ты вдруг приходишь?",
+        "collocations": [
+          "kommen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2d43b276-e74d-4b62-8e95-922e4e83953d",
+        "deExample": "Es hört plötzlich nicht auf.",
+        "translateExample": "Это вдруг не прекращается.",
+        "collocations": [
+          "aufhören"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2f79e173-a217-48bc-bb4e-70f05a27cc81",
+        "deExample": "Plötzlich hat es geschneit.",
+        "translateExample": "Вдруг пошёл снег.",
+        "collocations": [
+          "schneien"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b910301d-b2ad-4106-92e3-71d9e0e11672",
+        "deExample": "Man kann plötzlich überrascht werden.",
+        "translateExample": "Можно быть вдруг удивлённым.",
+        "collocations": [
+          "überraschen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f25d93ef-0e4e-4ac6-b541-667e6ab152e7",
+        "deExample": "Ich bleibe, weil ich plötzlich müde bin.",
+        "translateExample": "Я остаюсь, потому что вдруг устал.",
+        "collocations": [
+          "müde"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8a314e0b-5ce0-445b-87c0-691507a6446f",
+        "deExample": "Ich werde gehen, wenn es plötzlich ruhig wird.",
+        "translateExample": "Я уйду, если вдруг станет тихо.",
+        "collocations": [
+          "ruhig"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9de90601-a3cc-4791-8fbb-29ecbca65f0b",
+        "deExample": "Plötzlich wird es dunkel.",
+        "translateExample": "Вдруг становится темно.",
+        "collocations": [
+          "dunkel"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "32464362-0cb0-4a17-91a3-9b1c1128b12d",
+        "deExample": "Es ist komisch, plötzlich aufzuwachen.",
+        "translateExample": "Странно вдруг просыпаться.",
+        "collocations": [
+          "komisch",
+          "aufwachen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5757f2de-8b96-4a22-bdac-c1a7f6ecdd47",
+        "deExample": "Wie ist es, plötzlich zu reisen?",
+        "translateExample": "Как это — вдруг поехать в путешествие?",
+        "collocations": [
+          "reisen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "08be1172-7e84-4cdb-8dec-03788f9ae701",
+        "deExample": "Er packt schnell, um plötzlich loszufahren.",
+        "translateExample": "Он быстро пакует вещи, чтобы вдруг уехать.",
+        "collocations": [
+          "losfahren",
+          "packen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

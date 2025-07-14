@@ -1,0 +1,219 @@
+[
+  {
+    "id": "04056bd6-9098-4fe1-a063-e5196b7b117c",
+    "deWord": "verlieren - verlor - verloren",
+    "translateWord": "терять (что, Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "e80ed34c-6ff8-4740-9fed-e684a45d8600",
+        "deExample": "Ich verliere oft meinen Schlüssel.",
+        "translateExample": "Я часто теряю свой ключ.",
+        "collocations": [
+          "der Schlüssel",
+          "oft",
+          "mein"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a54504f8-9b44-4900-a689-3fd8e3049d3b",
+        "deExample": "Verlierst du manchmal deine Geduld?",
+        "translateExample": "Ты иногда теряешь терпение?",
+        "collocations": [
+          "die Geduld",
+          "manchmal"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2d150e59-8712-4b60-9f7f-6597e69bd532",
+        "deExample": "Sie verliert nie ihr Ziel aus den Augen.",
+        "translateExample": "Она никогда не теряет свою цель из виду.",
+        "collocations": [
+          "das Ziel",
+          "nie",
+          "aus den Augen"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "984b71ef-8385-4a1d-941b-34a9c17700d8",
+        "deExample": "Ich habe mein Portemonnaie verloren.",
+        "translateExample": "Я потерял свой кошелёк.",
+        "collocations": [
+          "das Portemonnaie",
+          "mein"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "62740f9a-3c1e-43f4-a3c3-e9418fdfcb39",
+        "deExample": "Man darf nie den Mut verlieren.",
+        "translateExample": "Нельзя терять мужество.",
+        "collocations": [
+          "der Mut",
+          "nie"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d5bc91a0-f802-41d6-b38c-cac6c665b39f",
+        "deExample": "Ich war traurig, weil ich meinen Job verloren habe.",
+        "translateExample": "Я был расстроен, потому что потерял работу.",
+        "collocations": [
+          "der Job",
+          "traurig"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "228057be-d5cf-4cbb-8237-404a44782dd4",
+        "deExample": "Ich werde meine Angst verlieren, wenn ich mehr übe.",
+        "translateExample": "Я перестану бояться, если буду больше практиковаться.",
+        "collocations": [
+          "die Angst",
+          "üben",
+          "mehr"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "727d8fb9-a758-4c60-b8bf-118d275431b9",
+        "deExample": "Das Vertrauen wurde durch den Vorfall verloren.",
+        "translateExample": "Доверие было утрачено из-за инцидента.",
+        "collocations": [
+          "das Vertrauen",
+          "der Vorfall"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "eef31ce5-848c-49fc-9c10-170a7ad50e55",
+        "deExample": "Er versucht, nicht die Kontrolle zu verlieren.",
+        "translateExample": "Он старается не терять контроль.",
+        "collocations": [
+          "die Kontrolle",
+          "versuchen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ffda6966-cb0a-489e-b60b-cabb239fbcb9",
+        "deExample": "Wie kann man lernen, die Nerven nicht zu verlieren?",
+        "translateExample": "Как научиться не терять самообладание?",
+        "collocations": [
+          "lernen",
+          "die Nerven"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "49ba2a75-f6bb-4011-8b71-bba196a0c515",
+        "deExample": "Ich trainiere regelmäßig, um meine Fitness nicht zu verlieren.",
+        "translateExample": "Я тренируюсь регулярно, чтобы не потерять физическую форму.",
+        "collocations": [
+          "die Fitness",
+          "regelmäßig"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

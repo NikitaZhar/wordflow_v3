@@ -1,0 +1,205 @@
+[
+  {
+    "id": "266085e1-806e-4f3f-82be-5e6dbb40c5d2",
+    "deWord": "erteilen - erteilte - erteilt",
+    "translateWord": "выдавать, давать (что-либо, Akk / кому-либо, Dat)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "0905407f-639a-4af3-bc49-0b85fc15f8b2",
+        "deExample": "Ich erteile dir einen Auftrag.",
+        "translateExample": "Я выдаю тебе поручение.",
+        "collocations": [
+          "Auftrag"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "28e45063-1788-4122-9ab2-c61ddc92a199",
+        "deExample": "Erteilst du mir einen Auftrag?",
+        "translateExample": "Ты выдаешь мне поручение?",
+        "collocations": [
+          "Auftrag"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "75d5aefa-00b0-4823-ad7d-585be026d07c",
+        "deExample": "Sie erteilt keinen Auftrag.",
+        "translateExample": "Она не выдаёт поручение.",
+        "collocations": [
+          "Auftrag"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "581fb10b-dcb5-48a7-8f96-6c1e14c86eb1",
+        "deExample": "Der Chef hat mir einen Auftrag erteilt.",
+        "translateExample": "Начальник дал мне поручение.",
+        "collocations": [
+          "Chef"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "63032211-a10e-4250-ae2c-a19ca70564e4",
+        "deExample": "Du sollst den Auftrag erteilen.",
+        "translateExample": "Тебе следует выдать поручение.",
+        "collocations": [
+          "Auftrag"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7fd5ee7b-3348-408b-95ea-ccc13afcd6ac",
+        "deExample": "Ich rufe an, weil ich dir einen Auftrag erteilen möchte.",
+        "translateExample": "Я звоню, потому что хочу дать тебе поручение.",
+        "collocations": [
+          "Anruf"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2918f3d3-6b8e-456c-8dea-30e7b461aa98",
+        "deExample": "Ich werde dir einen Auftrag erteilen, wenn du bereit bist.",
+        "translateExample": "Я дам тебе поручение, когда ты будешь готов.",
+        "collocations": [
+          "Bereitschaft"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9736f982-eb8d-4145-89c6-325508ac9737",
+        "deExample": "Der Auftrag wird erteilt.",
+        "translateExample": "Поручение выдаётся.",
+        "collocations": [
+          "Auftrag"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c44d9fc2-c75b-409d-b115-8b315e70fa31",
+        "deExample": "Ich plane, dir einen Auftrag zu erteilen.",
+        "translateExample": "Я планирую выдать тебе поручение.",
+        "collocations": [
+          "Plan"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "aafa537c-d990-402f-bb78-8613e7bedfea",
+        "deExample": "Willst du mir einen Auftrag erteilen?",
+        "translateExample": "Ты хочешь выдать мне поручение?",
+        "collocations": [
+          "Auftrag"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d3fdc537-d390-48d9-a6df-10bd429af0fc",
+        "deExample": "Ich rufe an, um dir einen Auftrag zu erteilen.",
+        "translateExample": "Я звоню, чтобы выдать тебе поручение.",
+        "collocations": [
+          "Anruf"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,207 @@
+[
+  {
+    "id": "59246320-e155-4338-abaa-65efe2de3bc1",
+    "deWord": "mitnehmen - nahm mit - mitgenommen",
+    "translateWord": "брать с собой (mitnehmen + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "379c7dcb-0e75-4256-8b2d-1782e1b32c59",
+        "deExample": "Ich nehme meinen Regenschirm mit.",
+        "translateExample": "Я беру с собой мой зонт.",
+        "collocations": [
+          "Regenschirm"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a5b7722c-e7e4-4411-beba-6dfeffa592bc",
+        "deExample": "Nimmst du dein Buch mit?",
+        "translateExample": "Ты берешь с собой свою книгу?",
+        "collocations": [
+          "Buch"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4c56a3e3-c464-4efd-916e-d465b72b8539",
+        "deExample": "Er nimmt heute keinen Rucksack mit.",
+        "translateExample": "Он сегодня не берет с собой рюкзак.",
+        "collocations": [
+          "Rucksack"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c365fcd9-daf9-4100-95dd-555fbb99dd90",
+        "deExample": "Wir haben unsere Kinder mitgenommen.",
+        "translateExample": "Мы взяли с собой наших детей.",
+        "collocations": [
+          "Kinder"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6d9b4c65-c19b-4d6f-a3f8-0ac5e56de267",
+        "deExample": "Du kannst dein Fahrrad mitnehmen.",
+        "translateExample": "Ты можешь взять с собой велосипед.",
+        "collocations": [
+          "Fahrrad"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "74eba64c-02d5-459f-8501-d11d4f48e78d",
+        "deExample": "Er nimmt den Hund mit, weil er spazieren geht.",
+        "translateExample": "Он берет с собой собаку, потому что идет гулять.",
+        "collocations": [
+          "Hund",
+          "spazieren"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a82462e8-86d3-4057-84ba-44fd408220a8",
+        "deExample": "Ich werde dich mitnehmen, wenn du möchtest.",
+        "translateExample": "Я возьму тебя с собой, если ты хочешь.",
+        "collocations": [
+          "möchten"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "15ef697c-aca8-4ee6-bb68-86d4c18de31e",
+        "deExample": "Das Gepäck wird mitgenommen.",
+        "translateExample": "Багаж берется с собой.",
+        "collocations": [
+          "Gepäck"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6ac1e2d0-f565-4bf9-9fca-bf0d63b48cb8",
+        "deExample": "Er versucht, alles mitnehmen zu können.",
+        "translateExample": "Он старается уметь взять с собой всё.",
+        "collocations": [
+          "alles"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "dd4287e7-89fd-4195-a3ab-3cdec7c08081",
+        "deExample": "Willst du lernen, was man mitnehmen sollte?",
+        "translateExample": "Ты хочешь узнать, что стоит брать с собой?",
+        "collocations": [
+          "lernen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "eb112bc5-2e2b-4787-9d65-c8c1bfd6595e",
+        "deExample": "Er spart Geld, um seine Familie mitnehmen zu können.",
+        "translateExample": "Он копит деньги, чтобы иметь возможность взять с собой семью.",
+        "collocations": [
+          "Geld",
+          "Familie"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

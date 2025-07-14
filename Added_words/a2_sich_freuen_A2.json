@@ -1,0 +1,213 @@
+[
+  {
+    "id": "b7332f3d-79e3-40be-bc61-5d17a6b70390",
+    "deWord": "sich freuen - freute - gefreut",
+    "translateWord": "радоваться (о, auf + Akk / über + Akk)",
+    "wordProgress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "98367497-189b-4abf-8d28-5ae6abe40863",
+        "deExample": "Ich freue mich über dein Geschenk.",
+        "translateExample": "Я рад твоему подарку.",
+        "collocations": [
+          "das Geschenk"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ff80b827-b750-4cf4-b131-c739c627052e",
+        "deExample": "Freust du dich auf die Ferien?",
+        "translateExample": "Ты радуешься предстоящим каникулам?",
+        "collocations": [
+          "die Ferien"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "47bf80ed-8a8f-4d82-96cb-1dce90815349",
+        "deExample": "Er freut sich nicht über das Ergebnis.",
+        "translateExample": "Он не радуется результату.",
+        "collocations": [
+          "das Ergebnis"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "88d04387-045e-4ede-b09e-ee8e3ea65fa6",
+        "deExample": "Wir haben uns sehr über den Besuch gefreut.",
+        "translateExample": "Мы очень обрадовались визиту.",
+        "collocations": [
+          "der Besuch",
+          "sehr"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2b801560-7edc-4818-bcca-9ade5e837671",
+        "deExample": "Du solltest dich auf die Reise freuen.",
+        "translateExample": "Тебе стоит радоваться предстоящему путешествию.",
+        "collocations": [
+          "die Reise"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "122ae8d4-3670-4870-95e1-3ca2e7ae262e",
+        "deExample": "Ich bleibe länger, weil sich alle über die Neuigkeiten freuen.",
+        "translateExample": "Я останусь подольше, потому что все радуются новостям.",
+        "collocations": [
+          "die Neuigkeit",
+          "alle"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "01f68877-2d38-4b50-bcf5-d7bb1274bb9c",
+        "deExample": "Ich werde mich auf das Konzert freuen, wenn ich Karten bekomme.",
+        "translateExample": "Я буду радоваться концерту, если получу билеты.",
+        "collocations": [
+          "das Konzert",
+          "die Karte"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1e466ca1-7d79-47e3-af8f-cbd12834f429",
+        "deExample": "Über solche Geschenke wird sich immer gefreut.",
+        "translateExample": "Таким подаркам всегда радуются.",
+        "collocations": [
+          "das Geschenk",
+          "solche",
+          "immer"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "491d6249-30d9-4ee1-b15c-e7b624c5c671",
+        "deExample": "Er versucht, sich über kleine Dinge zu freuen.",
+        "translateExample": "Он старается радоваться мелочам.",
+        "collocations": [
+          "die Kleinigkeit"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "959f37b4-537d-4bad-ba14-3c15d0ca0485",
+        "deExample": "Wie kann man lernen, sich mehr zu freuen?",
+        "translateExample": "Как можно научиться радоваться больше?",
+        "collocations": [
+          "lernen",
+          "mehr"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "822d760d-139d-4079-84df-bfbc0398b098",
+        "deExample": "Ich schreibe Tagebuch, um mich über positive Erlebnisse zu freuen.",
+        "translateExample": "Я веду дневник, чтобы радоваться позитивным событиям.",
+        "collocations": [
+          "das Tagebuch",
+          "das Erlebnis",
+          "positiv"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "id": "ba3b158b-dd58-4dee-9b9a-2be935e53adf",
+    "deWord": "schnellstmöglich",
+    "translateWord": "как можно скорее",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "8deb4908-53af-4a4d-ab22-33cc39631928",
+        "deExample": "Ich komme schnellstmöglich zurück.",
+        "translateExample": "Я вернусь как можно скорее.",
+        "collocations": [
+          "zurückkommen"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ab3aba54-224e-4530-ab20-197786805283",
+        "deExample": "Kannst du schnellstmöglich helfen?",
+        "translateExample": "Ты можешь помочь как можно скорее?",
+        "collocations": [
+          "helfen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c596170c-2670-45ad-a173-b5cb8ac7c0b8",
+        "deExample": "Ich kann nicht schnellstmöglich arbeiten.",
+        "translateExample": "Я не могу работать как можно скорее.",
+        "collocations": [
+          "arbeiten"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b5dde425-ebec-45b4-945a-48e5d48214aa",
+        "deExample": "Wir sind schnellstmöglich gekommen.",
+        "translateExample": "Мы пришли как можно скорее.",
+        "collocations": [
+          "kommen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8737535f-339c-4236-9ef0-a4b0e94b5c5c",
+        "deExample": "Du musst schnellstmöglich handeln.",
+        "translateExample": "Ты должен действовать как можно скорее.",
+        "collocations": [
+          "handeln"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "96adfe48-e547-4c22-af9a-c0be40f7ed19",
+        "deExample": "Ich mache es sofort, weil es schnellstmöglich sein muss.",
+        "translateExample": "Я делаю это сразу, потому что это должно быть как можно скорее.",
+        "collocations": [
+          "machen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b0c4907c-ce7f-4320-8906-f588a8e93cb9",
+        "deExample": "Ich werde schnellstmöglich anrufen, wenn ich Zeit habe.",
+        "translateExample": "Я позвоню как можно скорее, когда будет время.",
+        "collocations": [
+          "anrufen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0629a212-5a70-46a6-af9b-a7ffc28f24e4",
+        "deExample": "Das Problem wird schnellstmöglich gelöst.",
+        "translateExample": "Проблема решается как можно скорее.",
+        "collocations": [
+          "lösen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2f3772cf-856b-4d52-914e-3c54ff78f45e",
+        "deExample": "Ich versuche, schnellstmöglich zu antworten.",
+        "translateExample": "Я стараюсь ответить как можно скорее.",
+        "collocations": [
+          "antworten"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5f48095e-73a0-4c6f-86ee-2d490301f841",
+        "deExample": "Kannst du versuchen, schnellstmöglich zu kommen?",
+        "translateExample": "Ты можешь постараться прийти как можно скорее?",
+        "collocations": [
+          "kommen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3f694de8-bd4c-4613-a542-e10d0f3fd67a",
+        "deExample": "Ich arbeite viel, um schnellstmöglich fertig zu werden.",
+        "translateExample": "Я много работаю, чтобы закончить как можно скорее.",
+        "collocations": [
+          "arbeiten",
+          "fertig"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

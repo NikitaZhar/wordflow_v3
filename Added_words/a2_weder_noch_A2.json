@@ -1,0 +1,221 @@
+[
+  {
+    "id": "dbf9adb9-77d5-4e7e-b5dc-12f1a58047ea",
+    "deWord": "weder noch",
+    "translateWord": "ни … ни",
+    "wordProgress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 30
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "a17e685c-9b97-410d-9a87-6976ef9f99a0",
+        "deExample": "Ich mag weder Kaffee noch Tee.",
+        "translateExample": "Я не люблю ни кофе, ни чай.",
+        "collocations": [
+          "der Kaffee",
+          "der Tee"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f355bc19-187e-42d9-be93-c81be636cb1f",
+        "deExample": "Hast du weder Zeit noch Lust?",
+        "translateExample": "У тебя нет ни времени, ни желания?",
+        "collocations": [
+          "die Zeit",
+          "die Lust"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a273d980-1c3a-4a0a-806a-e67c2c215ce6",
+        "deExample": "Er hat weder Geld noch Arbeit.",
+        "translateExample": "У него нет ни денег, ни работы.",
+        "collocations": [
+          "das Geld",
+          "die Arbeit"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5cce997c-dd6c-4e04-8719-06a7236a74b6",
+        "deExample": "Wir haben weder gegessen noch geschlafen.",
+        "translateExample": "Мы не ели и не спали.",
+        "collocations": [
+          "essen",
+          "schlafen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "15d56018-36e0-49b4-be9b-32b3bcfa32e8",
+        "deExample": "Du darfst weder lügen noch betrügen.",
+        "translateExample": "Тебе нельзя ни лгать, ни обманывать.",
+        "collocations": [
+          "lügen",
+          "betrügen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b7764fa7-f925-4b21-92c2-870831aea445",
+        "deExample": "Ich gehe nicht ins Kino, weil ich weder Zeit noch Geld habe.",
+        "translateExample": "Я не иду в кино, потому что у меня нет ни времени, ни денег.",
+        "collocations": [
+          "das Kino",
+          "die Zeit",
+          "das Geld"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7f6f3479-144a-447f-b426-489a7ef26c1f",
+        "deExample": "Ich werde weder tanzen noch singen, wenn es regnet.",
+        "translateExample": "Я не буду ни танцевать, ни петь, если пойдёт дождь.",
+        "collocations": [
+          "tanzen",
+          "singen",
+          "regnen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "54338dc8-8cf5-42e6-8442-fd470e94692f",
+        "deExample": "Weder Bücher noch Zeitungen wurden gelesen.",
+        "translateExample": "Не были прочитаны ни книги, ни газеты.",
+        "collocations": [
+          "das Buch",
+          "die Zeitung",
+          "lesen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1ec206a7-eaa4-4897-86a5-015c96f6413d",
+        "deExample": "Sie versuchte, weder zu lachen noch zu weinen.",
+        "translateExample": "Она пыталась ни смеяться, ни плакать.",
+        "collocations": [
+          "lachen",
+          "weinen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c04fe712-da3d-4841-b6e4-7e2a25beeb51",
+        "deExample": "Wie kann man weder sprechen noch zuhören lernen?",
+        "translateExample": "Как можно научиться ни говорить, ни слушать?",
+        "collocations": [
+          "sprechen",
+          "zuhören",
+          "lernen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2aa9c63f-7192-4f9b-9d0c-e410cea0ecf6",
+        "deExample": "Ich bleibe zu Hause, um weder zu frieren noch nass zu werden.",
+        "translateExample": "Я останусь дома, чтобы не замёрзнуть и не промокнуть.",
+        "collocations": [
+          "frieren",
+          "nass",
+          "werden"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

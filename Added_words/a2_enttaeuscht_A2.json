@@ -1,0 +1,210 @@
+[
+  {
+    "id": "ab49d8c0-bfb4-4c31-83ba-dc4ade26e50b",
+    "deWord": "enttäuscht",
+    "translateWord": "разочарованный (в, von + Dativ / über + Akk)",
+    "wordProgress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "94f9b397-b952-44d5-90ee-0febdf5190f0",
+        "deExample": "Ich bin enttäuscht über das Ergebnis.",
+        "translateExample": "Я разочарован результатом.",
+        "collocations": [
+          "das Ergebnis"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2daee62f-c6f3-443c-b85a-d30eb09a725d",
+        "deExample": "Bist du enttäuscht von deinen Freunden?",
+        "translateExample": "Ты разочарован в своих друзьях?",
+        "collocations": [
+          "der Freund"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "bbbb8cc8-184e-4812-a133-f725e0259989",
+        "deExample": "Sie ist nicht enttäuscht von ihrer Leistung.",
+        "translateExample": "Она не разочарована своей работой.",
+        "collocations": [
+          "die Leistung"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ba4590e6-19ae-43f8-b08a-777bb07c9dd9",
+        "deExample": "Wir waren enttäuscht über das schlechte Wetter.",
+        "translateExample": "Мы были разочарованы плохой погодой.",
+        "collocations": [
+          "das Wetter",
+          "schlecht"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5f836fa1-935d-4692-a5d2-e58a616f3266",
+        "deExample": "Man darf nicht zu schnell enttäuscht sein.",
+        "translateExample": "Не следует слишком быстро разочаровываться.",
+        "collocations": [
+          "schnell"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0ec1b821-a861-403e-abe1-91df3b8271f0",
+        "deExample": "Er ist traurig, weil er enttäuscht wurde.",
+        "translateExample": "Он грустит, потому что был разочарован.",
+        "collocations": [
+          "traurig",
+          "werden"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "009a0597-5218-499f-9f8e-69ce45f3e082",
+        "deExample": "Ich werde enttäuscht sein, wenn du nicht kommst.",
+        "translateExample": "Я буду разочарован, если ты не придёшь.",
+        "collocations": [
+          "kommen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "41a16b7c-70cc-4d14-9238-c428017fb915",
+        "deExample": "Viele Kunden sind von dem Service enttäuscht.",
+        "translateExample": "Многие клиенты разочарованы сервисом.",
+        "collocations": [
+          "der Kunde",
+          "der Service"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "73fa27f2-3e8a-4ed4-8d32-dbcb7a7b2911",
+        "deExample": "Er versucht, nicht enttäuscht zu wirken.",
+        "translateExample": "Он старается не выглядеть разочарованным.",
+        "collocations": [
+          "wirken"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5102909f-026c-4bd7-8c35-0b1d22642a70",
+        "deExample": "Wie kann man lernen, mit Enttäuschungen umzugehen?",
+        "translateExample": "Как можно научиться справляться с разочарованиями?",
+        "collocations": [
+          "lernen",
+          "die Enttäuschung",
+          "umgehen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "96aa4d47-c3ce-4cb4-94f3-07394829bc0b",
+        "deExample": "Ich meditiere, um nicht enttäuscht zu sein.",
+        "translateExample": "Я медитирую, чтобы не быть разочарованным.",
+        "collocations": [
+          "meditieren"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

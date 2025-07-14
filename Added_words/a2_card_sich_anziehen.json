@@ -1,0 +1,200 @@
+[
+  {
+    "id": "46f016d1-6655-4d35-8802-21df2c17276a",
+    "deWord": "sich anziehen - zog an - angezogen",
+    "translateWord": "одеваться (себя, sich + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "211cbbcb-b428-4c9f-af64-a73596dcdb45",
+        "deExample": "Ich ziehe mich an.",
+        "translateExample": "Я одеваюсь.",
+        "collocations": [],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "87c2ca88-7ce2-46e2-9971-f054c11f790a",
+        "deExample": "Ziehst du dich schnell an?",
+        "translateExample": "Ты быстро одеваешься?",
+        "collocations": [
+          "schnell"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0e05c087-f42d-4041-8505-1f11b423ac60",
+        "deExample": "Er zieht sich nicht an.",
+        "translateExample": "Он не одевается.",
+        "collocations": [],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "904978c7-3139-428e-998d-ea6e1c63d83a",
+        "deExample": "Ich habe mich angezogen.",
+        "translateExample": "Я оделся.",
+        "collocations": [],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4c706f6e-061b-45af-ad24-7189584d1eda",
+        "deExample": "Du sollst dich warm anziehen.",
+        "translateExample": "Ты должен одеваться тепло.",
+        "collocations": [
+          "warm"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "662f9ce6-b420-41cd-9067-f65f1ff92466",
+        "deExample": "Ich ziehe mich an, weil es kalt ist.",
+        "translateExample": "Я одеваюсь, потому что холодно.",
+        "collocations": [
+          "kalt"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7730f59a-93f8-423a-84c7-e91f5ecb0d84",
+        "deExample": "Ich werde mich anziehen, wenn ich fertig bin.",
+        "translateExample": "Я оденусь, когда закончу.",
+        "collocations": [
+          "fertig"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ab31a741-1169-47bb-a03b-fa046338f76d",
+        "deExample": "Die Kinder werden angezogen.",
+        "translateExample": "Детей одевают.",
+        "collocations": [
+          "Kind"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7ce5712d-331c-43ee-b388-b5de4c10822c",
+        "deExample": "Vergiss nicht, dich warm anzuziehen.",
+        "translateExample": "Не забудь тепло одеться.",
+        "collocations": [
+          "vergessen",
+          "warm"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3135054d-7c4b-4656-a2b5-e3335e1b0df7",
+        "deExample": "Wann hast du vor, dich anzuziehen?",
+        "translateExample": "Когда ты собираешься одеться?",
+        "collocations": [
+          "vorhaben"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c0e698e7-99b2-49ed-bd98-be1bee8b402a",
+        "deExample": "Ich stehe früh auf, um mich anzuziehen.",
+        "translateExample": "Я встаю рано, чтобы одеться.",
+        "collocations": [
+          "aufstehen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,1014 @@
+[
+  {
+    "id": "06c11d47-f9ea-4a84-986c-cfab62fcab18",
+    "deWord": "zuständig",
+    "translateWord": "ответственный (за, für + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "dfbbe389-a1e0-4bfc-a791-6bb34c74610e",
+        "deExample": "Er ist zuständig für das Projekt.",
+        "translateExample": "Он ответственный за проект.",
+        "collocations": [
+          "das Projekt"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1a310be4-2d3b-4622-91c9-7148378eeef4",
+        "deExample": "Bist du zuständig für dieses Thema?",
+        "translateExample": "Ты ответственный за эту тему?",
+        "collocations": [
+          "dieses Thema"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "31154598-4432-4507-8481-2fb9426d200e",
+        "deExample": "Er ist nicht zuständig für den Fehler.",
+        "translateExample": "Он не ответственен за ошибку.",
+        "collocations": [
+          "der Fehler",
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b6a9cbad-f07f-47ef-b131-58656af53d5d",
+        "deExample": "Ich war zuständig für die Organisation.",
+        "translateExample": "Я был ответственным за организацию.",
+        "collocations": [
+          "die Organisation"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "811e4dbd-fda4-47b8-ab8d-f56e374b7c00",
+        "deExample": "Ich kann zuständig sein.",
+        "translateExample": "Я могу быть ответственным.",
+        "collocations": [],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7f8b2fcc-621b-4caa-8aa0-603c7af1be8b",
+        "deExample": "Ich bin zuständig, weil ich Erfahrung habe.",
+        "translateExample": "Я ответственен, потому что у меня есть опыт.",
+        "collocations": [
+          "Erfahrung"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9a61382f-4256-482c-8164-6c6f691e19a7",
+        "deExample": "Ich werde zuständig sein, wenn du gehst.",
+        "translateExample": "Я буду ответственным, когда ты уйдёшь.",
+        "collocations": [],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d5fb2260-15a3-48a7-8139-a0a1a2dd9cfe",
+        "deExample": "Er wird als zuständig angesehen.",
+        "translateExample": "Он считается ответственным.",
+        "collocations": [],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e29d1c06-c230-464b-bac8-368e46615932",
+        "deExample": "Ich vergesse oft, dass ich zuständig bin.",
+        "translateExample": "Я часто забываю, что я ответственен.",
+        "collocations": [
+          "vergessen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5244a745-e10c-4a50-a8e9-9aac081ee9e4",
+        "deExample": "Willst du zuständig sein?",
+        "translateExample": "Ты хочешь быть ответственным?",
+        "collocations": [],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4c0b3380-b177-4b45-91f8-e66d9c1de88f",
+        "deExample": "Ich lerne, um zuständig zu sein.",
+        "translateExample": "Я учусь, чтобы быть ответственным.",
+        "collocations": [
+          "lernen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "3361ca24-0426-4fd2-bf7d-a2a00f798a75",
+    "deWord": "riesig",
+    "translateWord": "огромный",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "c4019507-5ca0-408f-a9cc-6a7fa51eeac3",
+        "deExample": "Der Baum ist riesig.",
+        "translateExample": "Дерево огромное.",
+        "collocations": [
+          "der Baum"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4fbdd568-6e7c-4087-90b2-8a60efc384ba",
+        "deExample": "Ist der Hund riesig?",
+        "translateExample": "Собака огромная?",
+        "collocations": [
+          "der Hund"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5440cd5f-fe3a-4de6-83ab-cd3c01f02d43",
+        "deExample": "Das Haus ist nicht riesig.",
+        "translateExample": "Дом не огромный.",
+        "collocations": [
+          "das Haus",
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f47d4657-4a29-4d2d-b2da-3bad2d7ac2d9",
+        "deExample": "Der Berg war riesig.",
+        "translateExample": "Гора была огромной.",
+        "collocations": [
+          "der Berg"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5d06dc49-963e-4bd1-b343-94d8295a28f5",
+        "deExample": "Der Hund kann riesig sein.",
+        "translateExample": "Собака может быть огромной.",
+        "collocations": [
+          "der Hund"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "26d6ba3e-a294-4862-8e89-16bcc8a3dfad",
+        "deExample": "Der Baum ist riesig, weil er alt ist.",
+        "translateExample": "Дерево огромное, потому что оно старое.",
+        "collocations": [
+          "der Baum"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "61dd30a2-ed7b-442b-9e61-6fcde3122d96",
+        "deExample": "Der Hund wird riesig sein, wenn er wächst.",
+        "translateExample": "Собака станет огромной, когда вырастет.",
+        "collocations": [
+          "der Hund"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ef93cdd8-fe81-43d3-b33e-3f31e2dff2e0",
+        "deExample": "Ein riesiger Baum wird gepflanzt.",
+        "translateExample": "Огромное дерево сажают.",
+        "collocations": [
+          "der Baum"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "35b1767d-f593-414e-ba24-bf7d1aa1bee8",
+        "deExample": "Ich vergesse oft, wie riesig die Stadt ist.",
+        "translateExample": "Я часто забываю, какая огромная город.",
+        "collocations": [
+          "vergessen",
+          "die Stadt"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4869122a-6d39-40c1-8ac5-620f96bf563d",
+        "deExample": "Findest du das Auto riesig?",
+        "translateExample": "Ты находишь машину огромной?",
+        "collocations": [
+          "das Auto"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "47039baa-0dc8-4f1d-8e6e-6e022f95d286",
+        "deExample": "Ich reise, um riesige Städte zu sehen.",
+        "translateExample": "Я путешествую, чтобы увидеть огромные города.",
+        "collocations": [
+          "reisen",
+          "Städte"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "793d756f-27f3-4f29-b98a-b2d884fb0753",
+    "deWord": "böse",
+    "translateWord": "злой",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "2aa532cb-9ef4-4747-9dc4-22bb600d8eb3",
+        "deExample": "Der Mann ist böse.",
+        "translateExample": "Мужчина злой.",
+        "collocations": [
+          "der Mann"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e4da6106-9ad8-4f08-9cd8-c2ae6e0bfd75",
+        "deExample": "Ist die Frau böse?",
+        "translateExample": "Женщина злая?",
+        "collocations": [
+          "die Frau"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ae794b4f-3088-46f5-ae12-b73dab353dbc",
+        "deExample": "Das Kind ist nicht böse.",
+        "translateExample": "Ребёнок не злой.",
+        "collocations": [
+          "das Kind",
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c8149ece-c297-42bc-9347-f33631c64186",
+        "deExample": "Der Hund war böse.",
+        "translateExample": "Собака была злой.",
+        "collocations": [
+          "der Hund"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8b916478-1a33-48ae-b236-be43d8d78db3",
+        "deExample": "Der Mann kann böse sein.",
+        "translateExample": "Мужчина может быть злым.",
+        "collocations": [
+          "der Mann"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4d1bd1e9-8573-44e0-b3c7-6ce619f8176f",
+        "deExample": "Der Mann ist böse, weil er müde ist.",
+        "translateExample": "Мужчина злой, потому что он устал.",
+        "collocations": [
+          "der Mann"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3720c383-d82d-4dc1-a863-8ee4b6445a5b",
+        "deExample": "Der Hund wird böse sein, wenn du ihn störst.",
+        "translateExample": "Собака станет злой, если ты её потревожишь.",
+        "collocations": [
+          "der Hund"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "96c72568-5fbe-4603-8243-d97982ab4ea3",
+        "deExample": "Der böse Hund wird gesehen.",
+        "translateExample": "Видят злую собаку.",
+        "collocations": [
+          "der Hund"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2f6c4403-9bef-473c-826a-1ddc30a9cd34",
+        "deExample": "Ich vergesse oft, dass er böse ist.",
+        "translateExample": "Я часто забываю, что он злой.",
+        "collocations": [
+          "vergessen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "27cea055-bae2-43ae-a512-895086698282",
+        "deExample": "Findest du ihn böse?",
+        "translateExample": "Ты считаешь его злым?",
+        "collocations": [
+          "ihn"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6183ee03-7825-420a-9139-7dea5f4634bd",
+        "deExample": "Ich spreche ruhig, um nicht böse zu sein.",
+        "translateExample": "Я говорю спокойно, чтобы не быть злым.",
+        "collocations": [
+          "sprechen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "ea097e8f-95e2-4563-829d-bb73b85cb473",
+    "deWord": "traurig",
+    "translateWord": "грустный",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "ff179ee9-c8c6-40db-b223-6362855d05dc",
+        "deExample": "Das Kind ist traurig.",
+        "translateExample": "Ребёнок грустный.",
+        "collocations": [
+          "das Kind"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5c98cb46-b334-4e33-9b71-1f7e9672b25d",
+        "deExample": "Bist du traurig?",
+        "translateExample": "Ты грустный?",
+        "collocations": [
+          "du"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "dcd532a4-9d00-4265-962d-2756e2f7bcc1",
+        "deExample": "Er ist nicht traurig.",
+        "translateExample": "Он не грустный.",
+        "collocations": [
+          "er",
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ae72a8e0-265c-421b-8d2b-267b97418f15",
+        "deExample": "Sie war traurig.",
+        "translateExample": "Она была грустной.",
+        "collocations": [
+          "sie"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "bf455858-ed80-48b1-96a4-3d9d3887c9dd",
+        "deExample": "Ich kann traurig sein.",
+        "translateExample": "Я могу быть грустным.",
+        "collocations": [
+          "ich"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ddbb5847-3bd0-4374-b775-9c7baf6468d3",
+        "deExample": "Ich bin traurig, weil ich allein bin.",
+        "translateExample": "Я грустный, потому что я один.",
+        "collocations": [
+          "ich"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9931a37b-e1ce-406c-b0d5-5beeab2948f4",
+        "deExample": "Ich werde traurig sein, wenn du gehst.",
+        "translateExample": "Мне будет грустно, когда ты уйдёшь.",
+        "collocations": [
+          "du"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "51153b3a-ce66-4f83-8ca8-13de6d07ce78",
+        "deExample": "Der traurige Mann wird gesehen.",
+        "translateExample": "Видят грустного мужчину.",
+        "collocations": [
+          "der Mann"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4ea91e5f-8021-4e70-9bb2-40ba30bc833e",
+        "deExample": "Ich vergesse oft, warum ich traurig bin.",
+        "translateExample": "Я часто забываю, почему я грустный.",
+        "collocations": [
+          "vergessen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c948c18e-7bc5-4dc3-a057-01ee0eb1fa6b",
+        "deExample": "Fühlst du dich traurig?",
+        "translateExample": "Ты чувствуешь себя грустным?",
+        "collocations": [
+          "fühlen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a8faa744-bdf1-42d4-88a1-700c57812b94",
+        "deExample": "Ich höre Musik, um nicht traurig zu sein.",
+        "translateExample": "Я слушаю музыку, чтобы не грустить.",
+        "collocations": [
+          "Musik",
+          "hören"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "6b78dc8c-39c7-4e9c-aadb-edd24d2d773a",
+    "deWord": "sich verlieben - verliebte - verliebt",
+    "translateWord": "влюбляться (в, in + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "aa25a7e1-ab57-4b06-b37c-370ada6b3890",
+        "deExample": "Ich verliebe mich in dich.",
+        "translateExample": "Я влюбляюсь в тебя.",
+        "collocations": [
+          "dich"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3b59432b-fec3-4216-9abd-169a34f33e5d",
+        "deExample": "Verliebst du dich in ihn?",
+        "translateExample": "Ты влюбляешься в него?",
+        "collocations": [
+          "ihn"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9848b458-2a9d-495f-872a-f7eba406ab73",
+        "deExample": "Sie verliebt sich nicht in ihn.",
+        "translateExample": "Она не влюбляется в него.",
+        "collocations": [
+          "ihn",
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "94df1dec-b622-4b33-a455-2db7101696d2",
+        "deExample": "Ich habe mich in sie verliebt.",
+        "translateExample": "Я влюбился в неё.",
+        "collocations": [
+          "sie"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e66a4dc1-0762-4f59-968a-a3e88cc3a447",
+        "deExample": "Ich will mich verlieben.",
+        "translateExample": "Я хочу влюбиться.",
+        "collocations": [],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "de5c7094-642b-4d46-bfe5-9f1438266723",
+        "deExample": "Ich verliebe mich, weil er nett ist.",
+        "translateExample": "Я влюбляюсь, потому что он милый.",
+        "collocations": [
+          "er"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "bc4c6ab9-9cbf-4262-a2e5-f82a930f1416",
+        "deExample": "Ich werde mich verlieben, wenn ich ihn sehe.",
+        "translateExample": "Я влюблюсь, когда увижу его.",
+        "collocations": [
+          "ihn",
+          "sehen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e6384e8a-8462-4c25-9934-017a860ad61a",
+        "deExample": "In ihn wird sich verliebt.",
+        "translateExample": "В него влюбляются.",
+        "collocations": [
+          "ihn"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "bf7c1d03-b4a9-4daf-89a2-7c8e5b0598ce",
+        "deExample": "Ich vergesse oft, dass ich mich verliebt habe.",
+        "translateExample": "Я часто забываю, что я влюбился.",
+        "collocations": [
+          "vergessen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7a2ae0bf-2bd6-4f9b-b2c9-63774948ceae",
+        "deExample": "Willst du dich verlieben?",
+        "translateExample": "Ты хочешь влюбиться?",
+        "collocations": [],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c4815a23-f7eb-4ccc-b61e-3cac58091831",
+        "deExample": "Ich reise, um mich zu verlieben.",
+        "translateExample": "Я путешествую, чтобы влюбиться.",
+        "collocations": [
+          "reisen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

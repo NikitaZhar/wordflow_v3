@@ -1,0 +1,814 @@
+[
+  {
+    "id": "bad04a40-81c5-4ec9-b221-82fb5a0d7f32",
+    "deWord": "eigentlich",
+    "translateWord": "вообще-то, собственно",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "25842aa7-2ecd-441b-904e-4a39f018524d",
+        "deExample": "Eigentlich ist das einfach.",
+        "translateExample": "Вообще-то это просто.",
+        "collocations": [
+          "einfach"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "24b54c89-a19f-4961-88a5-744a935f2287",
+        "deExample": "Was bedeutet eigentlich dieses Wort?",
+        "translateExample": "Что вообще-то значит это слово?",
+        "collocations": [
+          "Wort"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "50783c67-0b31-4c0c-89fa-4d0eede3322b",
+        "deExample": "Eigentlich brauche ich das nicht.",
+        "translateExample": "Вообще-то мне это не нужно.",
+        "collocations": [
+          "brauchen"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fb6a559c-3ff9-4a08-b9b7-a30fbbafdbd3",
+        "deExample": "Ich habe es eigentlich schon gesagt.",
+        "translateExample": "Я вообще-то уже это сказал.",
+        "collocations": [
+          "sagen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "788809d9-19fd-4085-87f9-a120aa38e31c",
+        "deExample": "Man kann es eigentlich verstehen.",
+        "translateExample": "Вообще-то это можно понять.",
+        "collocations": [
+          "verstehen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0bfcd7fe-b49a-4ce3-a706-cacf96877114",
+        "deExample": "Ich gehe, weil ich eigentlich müde bin.",
+        "translateExample": "Я ухожу, потому что я вообще-то устал.",
+        "collocations": [
+          "müde"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "119206b8-27a4-46e9-9f80-e1322087ce4c",
+        "deExample": "Ich werde es machen, wenn ich eigentlich Zeit habe.",
+        "translateExample": "Я сделаю это, если у меня вообще-то будет время.",
+        "collocations": [
+          "Zeit"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "cff5759a-e426-4b2b-88c4-93d29551e166",
+        "deExample": "Eigentlich wird das oft gemacht.",
+        "translateExample": "Вообще-то это часто делают.",
+        "collocations": [
+          "machen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a0b43659-59d9-4544-96ed-7154709fcc37",
+        "deExample": "Es ist schwer, eigentlich zu erklären.",
+        "translateExample": "Трудно вообще-то объяснить.",
+        "collocations": [
+          "erklären"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "38ed9048-eeb1-45b3-8535-7501b8f08b13",
+        "deExample": "Wie ist es, eigentlich zu lernen?",
+        "translateExample": "Как это — вообще-то учиться?",
+        "collocations": [
+          "lernen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7cdc6827-08bd-42a4-b0bc-72f7b8bebed9",
+        "deExample": "Er geht früh, um eigentlich mehr zu schaffen.",
+        "translateExample": "Он уходит рано, чтобы вообще-то больше успеть.",
+        "collocations": [
+          "früh",
+          "schaffen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "f73c5ca3-c691-4da4-bd17-0ca638f15493",
+    "deWord": "gemütlich",
+    "translateWord": "уютный, приятно",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "4ad47994-1b4d-43f9-93c2-bfdb9243e36d",
+        "deExample": "Das Zimmer ist gemütlich.",
+        "translateExample": "Комната уютная.",
+        "collocations": [
+          "Zimmer"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9f45273c-b394-41c8-a64b-130afb5373b7",
+        "deExample": "Ist dein Haus gemütlich?",
+        "translateExample": "Твой дом уютный?",
+        "collocations": [
+          "Haus"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f630dfa7-fcb0-4f1f-94d9-ad5bf2d03c0e",
+        "deExample": "Das Sofa ist nicht gemütlich.",
+        "translateExample": "Диван не уютный.",
+        "collocations": [
+          "Sofa"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0b88200f-93ed-455c-85e5-f1b0a8e6b6fa",
+        "deExample": "Der Abend war gemütlich.",
+        "translateExample": "Вечер был уютным.",
+        "collocations": [
+          "Abend"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "63f8059a-452d-40c9-b313-b97fb5c9fc93",
+        "deExample": "Man kann gemütlich sitzen.",
+        "translateExample": "Можно уютно посидеть.",
+        "collocations": [
+          "sitzen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a47239bc-b076-41f8-ad2e-1445ad45dc48",
+        "deExample": "Ich bleibe, weil es hier gemütlich ist.",
+        "translateExample": "Я остаюсь, потому что здесь уютно.",
+        "collocations": [
+          "hier"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "04dfaeb4-7d38-4899-9b97-718cfedc7f42",
+        "deExample": "Ich werde lesen, wenn es gemütlich ist.",
+        "translateExample": "Я буду читать, если будет уютно.",
+        "collocations": [
+          "lesen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c5a0b69a-644e-4042-bfb9-9cdc2f788179",
+        "deExample": "Hier wird gemütlich gegessen.",
+        "translateExample": "Здесь уютно едят.",
+        "collocations": [
+          "essen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "336f9976-1adb-4c8e-aef1-c7eff4757bd2",
+        "deExample": "Es ist schön, gemütlich zu sitzen.",
+        "translateExample": "Приятно уютно сидеть.",
+        "collocations": [
+          "schön",
+          "sitzen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7c976a59-a62c-469d-bfcb-0bf853f871ed",
+        "deExample": "Wie ist es, gemütlich zu wohnen?",
+        "translateExample": "Как это — уютно жить?",
+        "collocations": [
+          "wohnen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ef58c575-a08c-421d-a13b-a0a7742a92cb",
+        "deExample": "Er trinkt Tee, um gemütlich zu entspannen.",
+        "translateExample": "Он пьет чай, чтобы уютно расслабиться.",
+        "collocations": [
+          "Tee",
+          "entspannen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "55378138-1d75-40a4-9834-5ee11c2662f5",
+    "deWord": "ausrechnen - rechnete aus - ausgerechnet",
+    "translateWord": "вычислять, подсчитывать (что-л, Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "2d1af1df-d399-4f09-88dd-c6f5f851be56",
+        "deExample": "Ich rechne die Kosten aus.",
+        "translateExample": "Я вычисляю расходы.",
+        "collocations": [
+          "Kosten"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d08dc3db-62e2-4982-97d6-246dcfedb789",
+        "deExample": "Kannst du das ausrechnen?",
+        "translateExample": "Можешь это вычислить?",
+        "collocations": [],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "711f05eb-0382-4ac8-9b25-d15693c012fa",
+        "deExample": "Ich rechne das nicht aus.",
+        "translateExample": "Я это не вычисляю.",
+        "collocations": [],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6fea8fd7-b06c-417b-8e35-31679d95e2fb",
+        "deExample": "Ich habe den Preis ausgerechnet.",
+        "translateExample": "Я вычислил цену.",
+        "collocations": [
+          "Preis"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "33e9d6d8-27f5-467d-9745-c911d04ecdb7",
+        "deExample": "Man kann den Betrag ausrechnen.",
+        "translateExample": "Можно вычислить сумму.",
+        "collocations": [
+          "Betrag"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e950ec01-bc70-4b94-a750-b5a30d0247dd",
+        "deExample": "Ich bleibe, weil ich alles ausrechnen muss.",
+        "translateExample": "Я остаюсь, потому что мне нужно всё вычислить.",
+        "collocations": [
+          "alles"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "876a84a8-c56a-439e-9854-1f240cc6b0b5",
+        "deExample": "Ich werde es tun, wenn ich alles ausrechnen kann.",
+        "translateExample": "Я сделаю это, если смогу всё вычислить.",
+        "collocations": [
+          "alles"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "439558a6-920a-4781-9cef-80fc983346b9",
+        "deExample": "Die Summe wird genau ausgerechnet.",
+        "translateExample": "Сумма вычисляется точно.",
+        "collocations": [
+          "Summe"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6aa8629c-efdb-4a72-b506-7fbb269f9718",
+        "deExample": "Es ist wichtig, alles genau auszurechnen.",
+        "translateExample": "Важно точно всё вычислить.",
+        "collocations": [
+          "wichtig",
+          "alles"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f330bd81-1f5e-4c62-b409-716f69683508",
+        "deExample": "Wie ist es, alles auszurechnen?",
+        "translateExample": "Как это — всё вычислять?",
+        "collocations": [
+          "alles"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ff799be7-85f6-4fb1-b559-9607a6d34110",
+        "deExample": "Er bleibt länger, um alles auszurechnen.",
+        "translateExample": "Он остаётся дольше, чтобы всё вычислить.",
+        "collocations": [
+          "alles"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "5cff3872-a4db-40a8-bdee-a1e03764f2c1",
+    "deWord": "ehrlich",
+    "translateWord": "честный, откровенный",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "e9c30825-95ec-4385-a741-6c2851127338",
+        "deExample": "Er ist ehrlich.",
+        "translateExample": "Он честный.",
+        "collocations": [
+          "er"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "99a40486-689a-40e0-974c-b36b6ad314d6",
+        "deExample": "Bist du ehrlich?",
+        "translateExample": "Ты честный?",
+        "collocations": [
+          "du"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d123e6c3-879d-4d3f-8efa-d57a2f9d1c22",
+        "deExample": "Sie ist nicht ehrlich.",
+        "translateExample": "Она не честная.",
+        "collocations": [
+          "sie"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "71975036-9fdd-44b7-aa08-01de37bd7705",
+        "deExample": "Er war immer ehrlich.",
+        "translateExample": "Он всегда был честным.",
+        "collocations": [
+          "er"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "928c2203-6bd8-47b1-8c3c-f250471a2e44",
+        "deExample": "Man soll ehrlich bleiben.",
+        "translateExample": "Следует оставаться честным.",
+        "collocations": [
+          "bleiben"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7419824e-d4ba-412b-9afc-778ba17bd610",
+        "deExample": "Ich mag ihn, weil er ehrlich ist.",
+        "translateExample": "Он мне нравится, потому что он честный.",
+        "collocations": [
+          "ihn"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "327d16cb-e7c9-4d17-ba5d-3e3b6718d003",
+        "deExample": "Ich werde ihm helfen, wenn er ehrlich ist.",
+        "translateExample": "Я помогу ему, если он честный.",
+        "collocations": [
+          "ihm"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "cb883261-2d36-4e2a-b9f6-a15f6418f870",
+        "deExample": "Es wird ehrlich gesagt.",
+        "translateExample": "Говорится честно.",
+        "collocations": [
+          "sagen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4807829f-40e0-4708-8548-3fbf32324856",
+        "deExample": "Es ist wichtig, ehrlich zu sein.",
+        "translateExample": "Важно быть честным.",
+        "collocations": [
+          "wichtig"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b73481f5-9a12-45b2-b3ab-737aba98f376",
+        "deExample": "Warum ist es schwer, ehrlich zu bleiben?",
+        "translateExample": "Почему трудно оставаться честным?",
+        "collocations": [
+          "schwer"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b517dc8b-0a94-4c9c-b4e1-1197154ff05d",
+        "deExample": "Er spricht ruhig, um ehrlich zu bleiben.",
+        "translateExample": "Он говорит спокойно, чтобы оставаться честным.",
+        "collocations": [
+          "ruhig"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

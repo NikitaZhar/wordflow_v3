@@ -1,125 +1,151 @@
 package com.wordflow.repository;
 
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
+import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
+import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.time.LocalDateTime;
 import java.util.ArrayList;
-import java.util.HashSet;
 import java.util.List;
-import java.util.Scanner;
-import java.util.Set;
-
-import com.wordflow.model.Dictionary;
+import java.util.Optional;
+import com.fasterxml.jackson.databind.DeserializationFeature;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
 import com.wordflow.model.FlashCard;
-import com.wordflow.model.Progress;
+import com.wordflow.ui.InteractionHandler;
 
 public class DictionaryRepository {
-	private List<FlashCard> flashCards;
-	String inputFilePath = "dictionary.txt"; 
+	private String dictionaryFilePath;
+	private final ObjectMapper mapper;
 
-	public List<FlashCard> getDictionary() {
-		flashCards = new ArrayList<>();
-		try {
-			List<String> lines = Files.readAllLines(Paths.get(inputFilePath));
+	public DictionaryRepository(String dictionaryFilePath) {
+		this.dictionaryFilePath = dictionaryFilePath;
+		this.mapper = new ObjectMapper()
+				.registerModule(new JavaTimeModule())
+				.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
+	}
 
-			for (String line : lines) {
-				String[] parts = line.split(";");
-				flashCards.add(new FlashCard(parts[0], parts[1], 
-						FlashCard.FlashCardType.valueOf(parts[2]),
-						new Progress(Integer.parseInt(parts[3]), LocalDateTime.parse(parts[4]))));
-			}
-		} catch (IOException e) {
-			e.printStackTrace();
+	public List<FlashCard> readNewWords() {
+	    String importFilePath = InteractionHandler.getStringInput(
+	            "\n Path to JSON file with card(s):");
+	    if (!isFileExists(importFilePath)) {
+	        return new ArrayList<>();
+	    }
+	    if (!importFilePath.endsWith(".json")) {
+	        notifyUnsupportedFileType();
+	        return new ArrayList<>();
+	    }
+	    return getNewCardFromFile(importFilePath);
+	}
+
+	
+	public Optional<FlashCard> manageEditWord() {
+	    String id = InteractionHandler.getStringInput("\n Enter the ID of the card you want to edit: ");
+	    if (id == null || id.isBlank()) {
+	        InteractionHandler.waitForEnter("\n No ID provided. Edit cancelled. Press Enter to continue ... ");
+	        return Optional.empty();
+	    }
+
+	    String filePath = InteractionHandler.getStringInput("\n Enter the path to the JSON file with the updated card: ");
+	    if (filePath == null || filePath.isBlank()) {
+	        InteractionHandler.waitForEnter("\n No file path provided. Edit cancelled. Press Enter to continue ... ");
+	        return Optional.empty();
+	    }
+
+	    try {
+	        FlashCard updatedCard = getCardFromFile(filePath);
+	        updatedCard.setId(id);
+	        return Optional.of(updatedCard);
+	    } catch (RuntimeException e) {
+	        InteractionHandler.waitForEnter(e.getMessage() + "\n Edit cancelled. Press Enter to continue ... ");
+	        return Optional.empty();
+	    }
+	}
+
+	private void notifyUnsupportedFileType() {
+		InteractionHandler.waitForEnter(
+				"\n Unsupported file type. Only .json or .txt allowed. " +
+				"Press Enter to continue ... ");
+	}
+
+	private boolean isFileExists(String path) {
+		Path file = Paths.get(path);
+		if (!Files.exists(file)) {
+			InteractionHandler.waitForEnter("\n File not found: " + path +
+					". Press Enter to continue ... ");
+			return false;
 		}
-		return flashCards; 
+		return true;
 	}
 	
-	public void saveDictionary(List<FlashCard> cards) {
-	    try (BufferedWriter writer = Files.newBufferedWriter(Paths.get(inputFilePath))) {
-	        for (FlashCard card : cards) {
-	            String line = String.join(";",
-	                    card.getQuestion(),
-	                    card.getAnswer(),
-	                    card.getType().name(),
-	                    String.valueOf(card.getProgress().getReviewInterval()),
-	                    card.getProgress().getLastReviewDate().toString()
+	public FlashCard getCardFromFile(String filePath) {
+//		Метод для замены карточки
+	    try {
+	        File file = new File(filePath);
+	        if (!file.exists()) {
+	            throw new RuntimeException("\n File not found: " + filePath);
+	        }
+	        return mapper.readValue(file, FlashCard.class);
+	    } catch (IOException e) {
+	        throw new RuntimeException("\n Failed to load card from file: " + filePath, e);
+	    }
+	}
+
+	public List<FlashCard> getNewCardFromFile(String filePath) {
+	    try {
+	        File file = new File(filePath);
+	        if (!file.exists()) {
+	            System.err.println("\n️ File not found: " + filePath);
+	            return new ArrayList<>();
+	        }
+	        try {
+	            return mapper.readValue(
+	                    file,
+	                    mapper.getTypeFactory().constructCollectionType(List.class, FlashCard.class)
 	            );
-	            writer.write(line);
-	            writer.newLine();
+	        } catch (IOException e) {
+	            FlashCard card = mapper.readValue(file, FlashCard.class);
+	            List<FlashCard> singleCardList = new ArrayList<>();
+	            singleCardList.add(card);
+	            return singleCardList;
 	        }
 	    } catch (IOException e) {
-	        e.printStackTrace();
+	        throw new RuntimeException("\n Failed to load cards from file: " + filePath, e);
 	    }
 	}
-	
-	public void importDictionaryCSV() {
-		Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter name CSV file : ");
-        String fileName = scanner.nextLine().trim();
 
-        DictionaryRepository repository = new DictionaryRepository();
-        repository.importFromCsv(fileName);
-	}
-	
-	public void importFromCsv(String csvPath) {
-	    List<FlashCard> allCards = getDictionary();
-	    Set<String> existingKeys = getExistingKeys(allCards);
+//	private List<FlashCard> getCardsFromListFile(String listFilePath) {
+//		List<FlashCard> allCards = new ArrayList<>();
+//		try (Stream<String> lines = Files.lines(Paths.get(listFilePath))) {
+//			lines.map(String::trim)
+//			.filter(line -> !line.isEmpty())
+//			.forEach(path -> {
+//				try {
+//					List<FlashCard> cards = getNewCardFromFile(path);
+//					allCards.addAll(cards);
+//				} catch (Exception e) {
+//					System.err.println("⚠️ Failed to import from: " + path + ". Reason: " + e.getMessage());
+//				}
+//			});
+//		} catch (IOException e) {
+//			throw new RuntimeException("\n Failed to read list file: " + listFilePath, e);
+//		}
+//		return allCards;
+//	}
 
-	    List<FlashCard> newCards = readNewCardsFromCsv(csvPath, existingKeys);
-
-	    allCards.addAll(newCards);
-	    saveDictionary(allCards);
-	    System.out.println("Added new cards : " + newCards.size());
-	}
-	
-	private Set<String> getExistingKeys(List<FlashCard> cards) {
-	    Set<String> keys = new HashSet<>();
-	    for (FlashCard card : cards) {
-	        String key = getKey(card.getQuestion(), card.getType().name());
-	        keys.add(key);
-	    }
-	    return keys;
+	public List<FlashCard> loadDictionaryFromFile() {
+		return getNewCardFromFile(dictionaryFilePath);
 	}
 
-	private List<FlashCard> readNewCardsFromCsv(String csvPath, Set<String> existingKeys) {
-	    List<FlashCard> newCards = new ArrayList<>();
-
-	    try (BufferedReader reader = Files.newBufferedReader(Paths.get(csvPath))) {
-	        String line;
-	        while ((line = reader.readLine()) != null) {
-	            if (line.trim().isEmpty() || line.startsWith("question")) continue;
-
-	            String[] parts = line.split(";", -1);
-	            if (parts.length < 3) continue;
-
-	            String question = parts[0].trim(); // RU
-	            String answer = parts[1].trim();   // DE
-	            String typeStr = parts[2].trim().toUpperCase();
-
-	            try {
-	                FlashCard.FlashCardType type = FlashCard.FlashCardType.valueOf(typeStr);
-	                String key = getKey(question, type.name());
-	                if (!existingKeys.contains(key)) {
-	                    FlashCard card = new FlashCard(question, answer, type, new Progress());
-	                    newCards.add(card);
-	                    existingKeys.add(key);
-	                }
-	            } catch (IllegalArgumentException e) {
-	                System.err.println("❗ Unknown type: " + typeStr + " in row: " + line);
-	            }
-	        }
-	    } catch (IOException e) {
-	        e.printStackTrace();
-	    }
-	    return newCards;
+	public void saveDictionaryToFile(List<FlashCard> cards) {
+		try {
+			File file = new File(dictionaryFilePath);
+			if (!file.exists()) {
+				file.createNewFile();
+			}
+			mapper.writeValue(file, cards);
+		} catch (IOException e) {
+			throw new RuntimeException("\n Failed to save cards to file: " + dictionaryFilePath, e);
+		}
 	}
-
-	private String getKey(String question, String type) {
-	    return (question + ";" + type).toLowerCase();
-	}
-
-
 }

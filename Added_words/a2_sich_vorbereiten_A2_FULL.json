@@ -1,0 +1,206 @@
+[
+  {
+    "id": "d9ad5ae1-02a3-4983-8db3-0a2e1cd29260",
+    "deWord": "sich vorbereiten - bereitete vor - vorbereitet",
+    "translateWord": "готовиться (к, auf/für + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "fdf5bd8f-27ce-4e6a-bdd2-d9a913d56bf0",
+        "deExample": "Er bereitet sich auf die Prüfung vor.",
+        "translateExample": "Он готовится к экзамену.",
+        "collocations": [
+          "die Prüfung"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ef4288f7-3945-400f-afe6-433272227f3f",
+        "deExample": "Worauf bereitest du dich vor?",
+        "translateExample": "К чему ты готовишься?",
+        "collocations": [],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d7e1d25b-5ec2-445c-be65-aa255ae0ef24",
+        "deExample": "Er bereitet sich nicht auf den Test vor.",
+        "translateExample": "Он не готовится к тесту.",
+        "collocations": [
+          "der Test"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "55390e36-c62d-4bb2-beda-20f6b9011e7b",
+        "deExample": "Ich habe mich auf das Meeting vorbereitet.",
+        "translateExample": "Я подготовился к встрече.",
+        "collocations": [
+          "das Meeting"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "04422047-c32c-4892-9956-1136be0bb933",
+        "deExample": "Du kannst dich jetzt vorbereiten.",
+        "translateExample": "Ты можешь сейчас подготовиться.",
+        "collocations": [
+          "jetzt"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8111c8cb-77c3-4524-814e-ca973bc3b8b4",
+        "deExample": "Er bleibt zu Hause, weil er sich vorbereitet.",
+        "translateExample": "Он остается дома, потому что готовится.",
+        "collocations": [
+          "zu Hause"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1d89d141-9f28-466f-a7f0-f57c7413fcf3",
+        "deExample": "Ich werde mich vorbereiten, wenn ich Zeit habe.",
+        "translateExample": "Я подготовлюсь, если у меня будет время.",
+        "collocations": [
+          "die Zeit"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "be86a2aa-be64-4161-9baa-5e5de2f63d39",
+        "deExample": "Die Teilnehmer werden auf die Prüfung vorbereitet.",
+        "translateExample": "Участников готовят к экзамену.",
+        "collocations": [
+          "der Teilnehmer",
+          "die Prüfung"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "079b0df6-e23b-4b23-9a16-a20a42bd014d",
+        "deExample": "Er versucht, sich besser vorzubereiten.",
+        "translateExample": "Он старается лучше подготовиться.",
+        "collocations": [
+          "besser",
+          "versuchen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a65a34ca-f78f-4918-bbde-dbfaced503d2",
+        "deExample": "Willst du lernen, wie man sich vorbereitet?",
+        "translateExample": "Ты хочешь узнать, как подготовиться?",
+        "collocations": [
+          "lernen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2c3ada55-5a56-46dd-97d8-991a861f1bd3",
+        "deExample": "Er steht früh auf, um sich vorzubereiten.",
+        "translateExample": "Он встает рано, чтобы подготовиться.",
+        "collocations": [
+          "früh",
+          "aufstehen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

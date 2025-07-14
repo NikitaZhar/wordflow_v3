@@ -1,0 +1,206 @@
+[
+  {
+    "id": "8f90dec0-f7bc-4900-9948-62a6cbb389de",
+    "deWord": "furchtbar",
+    "translateWord": "ужасный",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "c0d3ac53-e344-416c-a8f7-5332458414cf",
+        "deExample": "Das Wetter ist furchtbar.",
+        "translateExample": "Погода ужасная.",
+        "collocations": [
+          "Wetter"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c9342d65-2b08-43bc-b367-d51f53a36b40",
+        "deExample": "Findest du das Essen furchtbar?",
+        "translateExample": "Ты считаешь еду ужасной?",
+        "collocations": [
+          "Essen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "bfd75d88-1f62-41ee-90c0-69cbf93533e8",
+        "deExample": "Der Film ist nicht furchtbar.",
+        "translateExample": "Фильм не ужасный.",
+        "collocations": [
+          "Film"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1503a1b3-7730-4298-a63b-f80ae19ae9ff",
+        "deExample": "Das Konzert war furchtbar laut gewesen.",
+        "translateExample": "Концерт был ужасно громким.",
+        "collocations": [
+          "Konzert"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b0178fc5-6234-4b6d-83b9-f556817092f5",
+        "deExample": "Sie kann furchtbar schnell laufen.",
+        "translateExample": "Она может бегать ужасно быстро.",
+        "collocations": [
+          "laufen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "987c4809-8768-4859-b71a-b2ed7ed3bbf0",
+        "deExample": "Ich gehe nicht raus, weil das Wetter furchtbar ist.",
+        "translateExample": "Я не выхожу, потому что погода ужасная.",
+        "collocations": [
+          "Wetter"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9a8d22e6-a1c9-4c2a-a4d4-38f2e245e448",
+        "deExample": "Es wird furchtbar kalt sein, wenn wir ankommen.",
+        "translateExample": "Будет ужасно холодно, когда мы приедем.",
+        "collocations": [
+          "kalt"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "04915b9e-d40c-4d61-b3dc-4cb89fd7eb55",
+        "deExample": "Das wird als furchtbar empfunden.",
+        "translateExample": "Это воспринимается как ужасное.",
+        "collocations": [
+          "empfinden"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d897d242-8eff-4e27-b5e7-bc33f197e917",
+        "deExample": "Es ist schwer, furchtbar zu sein.",
+        "translateExample": "Трудно быть ужасным.",
+        "collocations": [
+          "schwer"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "40e0b4ec-6abc-4a17-bf8e-d846d89b7d06",
+        "deExample": "Ist es normal, furchtbar zu denken?",
+        "translateExample": "Нормально ли думать ужасно?",
+        "collocations": [
+          "denken"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7e9acbe4-6d30-4c68-9c0d-ad8e9accbeae",
+        "deExample": "Er arbeitet viel, um nicht furchtbar arm zu bleiben.",
+        "translateExample": "Он много работает, чтобы не остаться ужасно бедным.",
+        "collocations": [
+          "arbeiten",
+          "arm"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

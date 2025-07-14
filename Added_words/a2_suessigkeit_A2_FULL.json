@@ -1,0 +1,214 @@
+[
+  {
+    "id": "ecc80712-8924-4717-9333-0c4af6e37331",
+    "deWord": "die Süßigkeit",
+    "translateWord": "сладость (Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "5c512ede-3783-477d-b38a-9c4a0a4d026c",
+        "deExample": "Die Süßigkeit ist sehr lecker.",
+        "translateExample": "Сладость очень вкусная.",
+        "collocations": [
+          "lecker",
+          "sehr"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a110d8d0-6470-4a67-b282-d459e4db984c",
+        "deExample": "Welche Süßigkeit magst du?",
+        "translateExample": "Какую сладость ты любишь?",
+        "collocations": [
+          "mögen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "be06df1c-7def-4968-bdc8-cdf932a95464",
+        "deExample": "Ich esse keine Süßigkeiten.",
+        "translateExample": "Я не ем сладости.",
+        "collocations": [
+          "essen"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a6e1f38f-1c97-4edc-918e-afeacfb01684",
+        "deExample": "Gestern habe ich viele Süßigkeiten gegessen.",
+        "translateExample": "Вчера я съел много сладостей.",
+        "collocations": [
+          "gestern",
+          "viel"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "88a769a0-ed87-418e-9cb0-46cc0a950788",
+        "deExample": "Du darfst eine Süßigkeit nehmen.",
+        "translateExample": "Ты можешь взять одну сладость.",
+        "collocations": [
+          "nehmen",
+          "eine"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d4ae106a-c220-4990-968a-014fb7581701",
+        "deExample": "Er isst oft Süßigkeiten, weil er sie mag.",
+        "translateExample": "Он часто ест сладости, потому что они ему нравятся.",
+        "collocations": [
+          "essen",
+          "mögen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6ba844ef-bf62-45da-ab0a-5c0120a27e23",
+        "deExample": "Ich werde Süßigkeiten kaufen, wenn ich Zeit habe.",
+        "translateExample": "Я куплю сладости, если у меня будет время.",
+        "collocations": [
+          "kaufen",
+          "die Zeit"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c171bc93-9ebf-4512-b4bb-f1952fae5885",
+        "deExample": "Die Süßigkeiten werden von Kindern geliebt.",
+        "translateExample": "Сладости любимы детьми.",
+        "collocations": [
+          "die Kinder",
+          "lieben"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "74d299b8-30f2-40b6-854e-ce2c1a8d586a",
+        "deExample": "Es ist schwer, keine Süßigkeiten zu essen.",
+        "translateExample": "Трудно не есть сладости.",
+        "collocations": [
+          "schwer",
+          "essen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "676da366-076f-4529-8c53-fc7fc31834e8",
+        "deExample": "Willst du lernen, weniger Süßigkeiten zu essen?",
+        "translateExample": "Ты хочешь научиться есть меньше сладостей?",
+        "collocations": [
+          "lernen",
+          "weniger"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "22790906-c16d-4b25-ba03-1b3b3a2d2f84",
+        "deExample": "Ich kaufe Obst, um weniger Süßigkeiten zu essen.",
+        "translateExample": "Я покупаю фрукты, чтобы есть меньше сладостей.",
+        "collocations": [
+          "das Obst",
+          "kaufen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,1046 @@
+[
+  {
+    "id": "c51f2b1e-d257-42e8-88b2-db744bafd902",
+    "deWord": "getrennt",
+    "translateWord": "отдельно, раздельно",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "705b19d5-f555-452d-90e7-8a5199ed746f",
+        "deExample": "Wir zahlen getrennt.",
+        "translateExample": "Мы платим раздельно.",
+        "collocations": [
+          "zahlen"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "21634305-2439-461c-b7a4-8e7d931b70c6",
+        "deExample": "Lebt ihr getrennt?",
+        "translateExample": "Вы живёте раздельно?",
+        "collocations": [
+          "leben"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9bc9651e-8534-444b-baa1-8548ffa2ba6a",
+        "deExample": "Wir wohnen nicht getrennt.",
+        "translateExample": "Мы не живём раздельно.",
+        "collocations": [
+          "wohnen"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4b364090-f448-4842-968b-317b39807b8b",
+        "deExample": "Gestern haben wir getrennt gegessen.",
+        "translateExample": "Вчера мы ели отдельно.",
+        "collocations": [
+          "gestern",
+          "essen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "74af8500-d8f1-4944-828f-1525c383f691",
+        "deExample": "Man kann getrennt reisen.",
+        "translateExample": "Можно путешествовать раздельно.",
+        "collocations": [
+          "reisen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "63985c01-70c1-4c24-a9d5-2d318fda87d4",
+        "deExample": "Ich gehe nach Hause, weil wir getrennt wohnen.",
+        "translateExample": "Я иду домой, потому что мы живём раздельно.",
+        "collocations": [
+          "nach Hause",
+          "wohnen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "bc03b340-23aa-4ae9-a1ce-4db4cc8925d1",
+        "deExample": "Wir werden getrennt essen, wenn er spät kommt.",
+        "translateExample": "Мы поедим раздельно, если он опоздает.",
+        "collocations": [
+          "essen",
+          "kommen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "bfae8668-4ecc-4fc1-90b3-e152e3bd8ef9",
+        "deExample": "Das Essen wird getrennt serviert.",
+        "translateExample": "Еда подаётся раздельно.",
+        "collocations": [
+          "Essen",
+          "servieren"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b87af12d-298c-4b99-816b-5164dc5edd17",
+        "deExample": "Es ist gut, getrennt zu bezahlen.",
+        "translateExample": "Хорошо платить раздельно.",
+        "collocations": [
+          "bezahlen",
+          "gut"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b8ecbd0c-e63b-4c7c-8f44-1d3ff0b8879e",
+        "deExample": "Wie ist es, getrennt zu leben?",
+        "translateExample": "Каково это — жить раздельно?",
+        "collocations": [
+          "leben"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2bf7d349-7ded-45f6-9eaf-2ee33c5c60f6",
+        "deExample": "Wir sprechen, um nicht getrennt zu bleiben.",
+        "translateExample": "Мы разговариваем, чтобы не оставаться раздельно.",
+        "collocations": [
+          "sprechen",
+          "bleiben"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "2ca9eac9-f06f-4605-af84-9ce8eae46356",
+    "deWord": "aufnehmen - nahm auf - aufgenommen",
+    "translateWord": "принимать, записывать",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "f5ccf473-234c-4d8c-a062-221bd96a67f0",
+        "deExample": "Die Kamera nimmt das Video auf.",
+        "translateExample": "Камера записывает видео.",
+        "collocations": [
+          "Kamera",
+          "Video"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "25104dfa-d0ba-4708-a1f9-12957d161918",
+        "deExample": "Wann nimmst du den Podcast auf?",
+        "translateExample": "Когда ты записываешь подкаст?",
+        "collocations": [
+          "Podcast"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "bdf417f2-9ebd-484b-b797-c3531e79f957",
+        "deExample": "Ich nehme heute nichts auf.",
+        "translateExample": "Сегодня я ничего не записываю.",
+        "collocations": [
+          "heute"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d18c84cc-4a28-48b4-af0e-ff2623f8f3e9",
+        "deExample": "Gestern habe ich ein Lied aufgenommen.",
+        "translateExample": "Вчера я записал песню.",
+        "collocations": [
+          "gestern",
+          "Lied"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0029fcb8-d816-46a0-897d-30c419bdd330",
+        "deExample": "Man kann ein Video mit dem Handy aufnehmen.",
+        "translateExample": "Можно записать видео на телефон.",
+        "collocations": [
+          "Video",
+          "Handy"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "36e734e6-715e-4b59-bec4-0f844e2f6457",
+        "deExample": "Ich freue mich, weil ich einen Podcast aufnehme.",
+        "translateExample": "Я рад, потому что я записываю подкаст.",
+        "collocations": [
+          "Podcast"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e36b53d7-3020-40a3-b09c-34e5630af91b",
+        "deExample": "Ich werde morgen ein Video aufnehmen, wenn es ruhig ist.",
+        "translateExample": "Я завтра запишу видео, если будет тихо.",
+        "collocations": [
+          "morgen",
+          "Video"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c7d4688c-ee17-4b40-b1f3-2c81cec1af3a",
+        "deExample": "Das Lied wird heute aufgenommen.",
+        "translateExample": "Песня будет записана сегодня.",
+        "collocations": [
+          "Lied",
+          "heute"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4833a480-76c7-48da-bea5-578eae5bb070",
+        "deExample": "Es ist wichtig, gute Qualität aufzunehmen.",
+        "translateExample": "Важно записывать в хорошем качестве.",
+        "collocations": [
+          "Qualität",
+          "gut"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ee39689b-1722-463a-8ca7-f8ebda7e6518",
+        "deExample": "Wie ist es, ein Video aufzunehmen?",
+        "translateExample": "Как это — записывать видео?",
+        "collocations": [
+          "Video"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "62837e54-96b4-42e6-b70b-71079d967df4",
+        "deExample": "Ich kaufe ein Mikrofon, um besser aufzunehmen.",
+        "translateExample": "Я покупаю микрофон, чтобы лучше записывать.",
+        "collocations": [
+          "Mikrofon"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "530896f8-62e3-4002-8bc8-a46d5894ad62",
+    "deWord": "der Augenblick",
+    "translateWord": "момент, мгновение",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "c41839ec-8824-420b-b388-2c58e5c996a8",
+        "deExample": "Der Augenblick ist schön.",
+        "translateExample": "Момент прекрасен.",
+        "collocations": [
+          "schön"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "918c2ea2-e710-4297-a261-343ad72a9dbd",
+        "deExample": "Wann ist der beste Augenblick?",
+        "translateExample": "Когда лучший момент?",
+        "collocations": [
+          "beste"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5359c00a-6689-49cb-a02f-c17bc67d8d6f",
+        "deExample": "Ich habe keinen Augenblick Zeit.",
+        "translateExample": "У меня нет ни минуты времени.",
+        "collocations": [
+          "Zeit"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9c507b8d-5a9d-4166-9a8d-ddeb3134ad3b",
+        "deExample": "Im letzten Augenblick habe ich es gesehen.",
+        "translateExample": "В последний момент я это увидел.",
+        "collocations": [
+          "sehen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "cc2162d1-4444-4387-bcff-5990b0fc2b93",
+        "deExample": "Man muss den richtigen Augenblick nutzen.",
+        "translateExample": "Нужно использовать правильный момент.",
+        "collocations": [
+          "nutzen",
+          "richtig"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "317bcf50-4b37-4f5b-bf58-b51c8bd1a099",
+        "deExample": "Ich gehe, weil der Augenblick gekommen ist.",
+        "translateExample": "Я ухожу, потому что момент настал.",
+        "collocations": [
+          "gehen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "849209d9-5a3d-4eb5-a5ed-c25bf2af55ba",
+        "deExample": "Ich werde im richtigen Augenblick sprechen, wenn es nötig ist.",
+        "translateExample": "Я заговорю в нужный момент, когда это будет нужно.",
+        "collocations": [
+          "sprechen",
+          "nötig"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9e4de712-84d5-4d4e-b537-767fe7fa2442",
+        "deExample": "Der Moment wird genutzt.",
+        "translateExample": "Момент используется.",
+        "collocations": [
+          "nutzen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "bddffe9e-44a3-45f4-b768-a3fa99f850c0",
+        "deExample": "Es ist wichtig, den Augenblick zu genießen.",
+        "translateExample": "Важно наслаждаться моментом.",
+        "collocations": [
+          "genießen",
+          "wichtig"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0617a381-7f96-4c12-a82b-056b31df85b6",
+        "deExample": "Wann ist es gut, den Augenblick zu nutzen?",
+        "translateExample": "Когда хорошо использовать момент?",
+        "collocations": [
+          "nutzen",
+          "gut"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c9ccbcb1-ad32-4a78-9013-f7ed170dd257",
+        "deExample": "Ich arbeite hart, um den richtigen Augenblick zu finden.",
+        "translateExample": "Я усердно работаю, чтобы найти подходящий момент.",
+        "collocations": [
+          "arbeiten",
+          "finden"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "12f0cd1a-aec7-4016-bbb0-15f07a7135b5",
+    "deWord": "der Supermarkt",
+    "translateWord": "супермаркет",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "264f0f64-65f4-4edc-ba28-bba52ce7d6b7",
+        "deExample": "Der Supermarkt ist groß.",
+        "translateExample": "Супермаркет большой.",
+        "collocations": [
+          "groß"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0878e9b5-3fed-4640-bffa-65b801bcc8d9",
+        "deExample": "Wo ist der nächste Supermarkt?",
+        "translateExample": "Где ближайший супермаркет?",
+        "collocations": [
+          "nächste"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1896f524-21a7-4f96-95f0-ea6b1ebcf47a",
+        "deExample": "Ich gehe heute nicht in den Supermarkt.",
+        "translateExample": "Сегодня я не иду в супермаркет.",
+        "collocations": [
+          "heute",
+          "gehen"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1dfcaaaf-f10b-4cab-be99-9b64d0283fe6",
+        "deExample": "Gestern war ich im Supermarkt.",
+        "translateExample": "Вчера я был в супермаркете.",
+        "collocations": [
+          "gestern"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f834a944-cc60-4602-9127-56ecb87b7e49",
+        "deExample": "Man kann alles im Supermarkt kaufen.",
+        "translateExample": "Можно купить всё в супермаркете.",
+        "collocations": [
+          "kaufen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f4d9d521-bcc9-4759-a3d1-eaf1a85dbaa4",
+        "deExample": "Ich gehe einkaufen, weil der Supermarkt offen ist.",
+        "translateExample": "Я иду за покупками, потому что супермаркет открыт.",
+        "collocations": [
+          "einkaufen",
+          "offen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ef596b71-856e-4b93-b1db-c9aa8562c551",
+        "deExample": "Ich werde morgen in den Supermarkt gehen, wenn ich Zeit habe.",
+        "translateExample": "Я пойду завтра в супермаркет, если у меня будет время.",
+        "collocations": [
+          "morgen",
+          "gehen",
+          "Zeit"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7c7a708a-a7ef-4288-9475-d100461ed6bb",
+        "deExample": "Viele Produkte werden im Supermarkt verkauft.",
+        "translateExample": "Многие товары продаются в супермаркете.",
+        "collocations": [
+          "Produkte",
+          "verkaufen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "192e1f50-7ec8-4386-9883-bc449e2276b9",
+        "deExample": "Es ist praktisch, im Supermarkt einzukaufen.",
+        "translateExample": "Удобно делать покупки в супермаркете.",
+        "collocations": [
+          "praktisch",
+          "einkaufen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "48658dad-7948-4e3a-8c54-86c9ddcd203c",
+        "deExample": "Was kann man im Supermarkt kaufen?",
+        "translateExample": "Что можно купить в супермаркете?",
+        "collocations": [
+          "kaufen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fef4d397-2119-4f53-bc76-e4155872f5a7",
+        "deExample": "Ich spare Geld, um im Supermarkt einzukaufen.",
+        "translateExample": "Я экономлю деньги, чтобы делать покупки в супермаркете.",
+        "collocations": [
+          "Geld",
+          "sparen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "0ec6be62-9e56-4d5b-a330-2489a3b01f66",
+    "deWord": "regelmäßig",
+    "translateWord": "регулярный, регулярно",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "0141b0bd-613a-4824-8729-5e919160a97c",
+        "deExample": "Er trainiert regelmäßig.",
+        "translateExample": "Он тренируется регулярно.",
+        "collocations": [
+          "trainieren"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6a6bd349-68e7-4f0f-8cc2-d920f50d96d4",
+        "deExample": "Machst du regelmäßig Sport?",
+        "translateExample": "Ты регулярно занимаешься спортом?",
+        "collocations": [
+          "Sport"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f9fd95fa-06a6-4762-9db1-52b67ccbdc66",
+        "deExample": "Ich esse nicht regelmäßig.",
+        "translateExample": "Я питаюсь не регулярно.",
+        "collocations": [
+          "essen"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "12b1d991-ceeb-4bd4-926f-2d2e2694f5b8",
+        "deExample": "Früher habe ich regelmäßig gelernt.",
+        "translateExample": "Раньше я учился регулярно.",
+        "collocations": [
+          "lernen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c7da4880-e6b7-43b7-8351-6880d6f2d2de",
+        "deExample": "Man sollte regelmäßig üben.",
+        "translateExample": "Нужно регулярно тренироваться.",
+        "collocations": [
+          "üben"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4d1aa21f-b4fb-406f-b369-30845030f0ba",
+        "deExample": "Ich bin gesund, weil ich regelmäßig Sport mache.",
+        "translateExample": "Я здоров, потому что регулярно занимаюсь спортом.",
+        "collocations": [
+          "gesund",
+          "Sport"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3b91c815-3d7e-4e1c-946e-709aa873da10",
+        "deExample": "Ich werde regelmäßig Deutsch lernen, wenn ich Zeit habe.",
+        "translateExample": "Я буду регулярно учить немецкий, если у меня будет время.",
+        "collocations": [
+          "Deutsch",
+          "lernen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8459d66f-50b5-4695-9ac3-efcf3396bf62",
+        "deExample": "Deutsch wird regelmäßig gesprochen.",
+        "translateExample": "Немецкий регулярно используется в речи.",
+        "collocations": [
+          "Deutsch",
+          "sprechen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "67dab6ce-5ce9-4b46-af56-acb4652d1cc0",
+        "deExample": "Es ist wichtig, regelmäßig zu lernen.",
+        "translateExample": "Важно учиться регулярно.",
+        "collocations": [
+          "wichtig",
+          "lernen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f5acf82a-a6c0-4f45-a48b-06ba408529d6",
+        "deExample": "Wie ist es, regelmäßig zu trainieren?",
+        "translateExample": "Каково это — тренироваться регулярно?",
+        "collocations": [
+          "trainieren"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "68d68a34-ffc0-44e4-bff7-0c6adf67d715",
+        "deExample": "Ich stehe früh auf, um regelmäßig Sport zu machen.",
+        "translateExample": "Я встаю рано, чтобы регулярно заниматься спортом.",
+        "collocations": [
+          "Sport",
+          "machen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

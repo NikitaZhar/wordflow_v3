@@ -1,0 +1,209 @@
+[
+  {
+    "id": "d073e792-9f84-457b-ae20-de848ed7b750",
+    "deWord": "folgend",
+    "translateWord": "следующий",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "ab5c4e93-109f-419f-840a-c84b3d4d9757",
+        "deExample": "Der folgende Tag ist wichtig.",
+        "translateExample": "Следующий день важный.",
+        "collocations": [
+          "Tag",
+          "wichtig"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "be9a42e3-8579-4a41-9e97-13d1ea61d38e",
+        "deExample": "Was ist der folgende Schritt?",
+        "translateExample": "Каков следующий шаг?",
+        "collocations": [
+          "Schritt"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6a6e44e1-2c7c-4d8b-942e-e11c1e3a0b55",
+        "deExample": "Das folgende Beispiel ist nicht schwer.",
+        "translateExample": "Следующий пример не сложный.",
+        "collocations": [
+          "Beispiel"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "943b1a93-5492-43af-9817-250a85e7edd4",
+        "deExample": "Wir haben das folgende Thema gelernt.",
+        "translateExample": "Мы выучили следующую тему.",
+        "collocations": [
+          "Thema"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7842a7dd-24ab-4e3a-961b-d88fe387abba",
+        "deExample": "Du sollst das folgende Kapitel lesen.",
+        "translateExample": "Ты должен прочитать следующую главу.",
+        "collocations": [
+          "Kapitel"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ebc01132-7491-4534-9c5d-c2ec6aa05242",
+        "deExample": "Ich erkläre es, weil das folgende wichtig ist.",
+        "translateExample": "Я объясняю это, потому что следующее важно.",
+        "collocations": [
+          "erklären",
+          "wichtig"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fb5fdb6f-0848-43ce-98e0-6652df0ac3dd",
+        "deExample": "Ich werde das folgende machen, wenn ich Zeit habe.",
+        "translateExample": "Я сделаю следующее, когда будет время.",
+        "collocations": [
+          "machen",
+          "Zeit"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9b28a78c-28e5-4fb4-83c0-be8888a836ab",
+        "deExample": "Das folgende wird erklärt.",
+        "translateExample": "Следующее объясняется.",
+        "collocations": [
+          "erklären"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7a1f635c-2456-4661-a506-3885cfd1cda3",
+        "deExample": "Es ist gut, das folgende zu wissen.",
+        "translateExample": "Хорошо знать следующее.",
+        "collocations": [
+          "wissen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0c6a8eaf-842f-4495-9fe9-7c980be1dd3c",
+        "deExample": "Musst du das folgende lernen?",
+        "translateExample": "Тебе нужно учить следующее?",
+        "collocations": [
+          "lernen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8d731d88-0674-400c-b100-d50b2ee1fddd",
+        "deExample": "Ich mache Übungen, um das folgende besser zu verstehen.",
+        "translateExample": "Я делаю упражнения, чтобы лучше понять следующее.",
+        "collocations": [
+          "Übung",
+          "verstehen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "id": "e28c9c81-b143-4968-9bef-cea5a78a91f5",
+    "deWord": "einrichten - richtete ein - eingerichtet",
+    "translateWord": "обустраивать (что-либо, Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "8c5e2db3-2b31-43a1-a9e6-b75e9eb6e72f",
+        "deExample": "Ich richte die Wohnung ein.",
+        "translateExample": "Я обустраиваю квартиру.",
+        "collocations": [
+          "Wohnung"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2e779c3e-0764-4660-8ec5-c56d46b4ebae",
+        "deExample": "Richtest du das Büro ein?",
+        "translateExample": "Ты обустраиваешь офис?",
+        "collocations": [
+          "Büro"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a5be9c48-6afe-4081-98b3-9bc8746f1bd5",
+        "deExample": "Er richtet das Zimmer nicht ein.",
+        "translateExample": "Он не обустраивает комнату.",
+        "collocations": [
+          "Zimmer"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c20e753a-0f2f-4195-bb7d-f2fa07def1c6",
+        "deExample": "Ich habe das Haus eingerichtet.",
+        "translateExample": "Я обустроил дом.",
+        "collocations": [
+          "Haus"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "25d240dd-930c-4a78-995e-1bbb7f730984",
+        "deExample": "Du sollst das Arbeitszimmer einrichten.",
+        "translateExample": "Тебе следует обустроить кабинет.",
+        "collocations": [
+          "Arbeitszimmer"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "96146ff0-4520-4534-97c7-e364c30ec5b5",
+        "deExample": "Ich bleibe hier, weil ich das Kinderzimmer einrichten möchte.",
+        "translateExample": "Я остаюсь здесь, потому что хочу обустроить детскую.",
+        "collocations": [
+          "Kinderzimmer"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "31119372-369f-42a8-99ce-9caadbc2172e",
+        "deExample": "Ich werde die Küche einrichten, wenn ich Zeit habe.",
+        "translateExample": "Я обустрою кухню, когда у меня будет время.",
+        "collocations": [
+          "Küche"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "11fc16aa-ad1b-427b-a5b0-ef3d6fd1cbfb",
+        "deExample": "Das Büro wird eingerichtet.",
+        "translateExample": "Офис обустраивается.",
+        "collocations": [
+          "Büro"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2459d003-4e05-443e-97e0-003a4f064a70",
+        "deExample": "Ich habe beschlossen, das Zimmer einzurichten.",
+        "translateExample": "Я решил обустроить комнату.",
+        "collocations": [
+          "Zimmer"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "14ffb7ac-be9d-4d40-a9dc-ecdb9cdb97e2",
+        "deExample": "Willst du das Büro einrichten?",
+        "translateExample": "Ты хочешь обустроить офис?",
+        "collocations": [
+          "Büro"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8be30a85-0d10-44a7-98cb-feaefc804fd9",
+        "deExample": "Ich spare Geld, um die Küche einzurichten.",
+        "translateExample": "Я коплю деньги, чтобы обустроить кухню.",
+        "collocations": [
+          "Geld"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

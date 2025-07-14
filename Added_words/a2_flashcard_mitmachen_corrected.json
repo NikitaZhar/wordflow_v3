@@ -1,0 +1,207 @@
+[
+  {
+    "id": "687a0621-bf22-4cb2-9df2-be74aa38cce2",
+    "deWord": "mitmachen - machte mit - mitgemacht",
+    "translateWord": "участвовать, активно вовлекаться (в, bei + Dat)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "ec6c1436-7de7-4e4a-b257-1dfe8790cd29",
+        "deExample": "Ich mache gern bei Projekten mit.",
+        "translateExample": "Я охотно участвую в проектах.",
+        "collocations": [
+          "Projekt",
+          "gern"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5c1b9aed-eb47-4e6b-8ccb-ac3348f572a8",
+        "deExample": "Machst du auch mit?",
+        "translateExample": "Ты тоже участвуешь?",
+        "collocations": [],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ea176f21-4987-465d-be73-4e7b49293d86",
+        "deExample": "Ich mache heute nicht mit.",
+        "translateExample": "Сегодня я не участвую.",
+        "collocations": [
+          "heute"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fd6e15ff-aeb9-44c2-82c8-5c6e8f670537",
+        "deExample": "Er hat beim Wettbewerb mitgemacht.",
+        "translateExample": "Он участвовал в конкурсе.",
+        "collocations": [
+          "Wettbewerb"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8d55ac9e-c6dd-4b98-96c1-76f71f2dc1b2",
+        "deExample": "Ich möchte beim Kurs mitmachen.",
+        "translateExample": "Я хочу поучаствовать в курсе.",
+        "collocations": [
+          "Kurs"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ee6fc1f7-763e-4a8e-a3da-71a6c11e0189",
+        "deExample": "Ich mache mit, weil es interessant ist.",
+        "translateExample": "Я участвую, потому что это интересно.",
+        "collocations": [
+          "interessant"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7fd043e4-52f2-43b3-997f-9b280e6c1371",
+        "deExample": "Ich werde auch mitmachen, wenn ich Zeit habe.",
+        "translateExample": "Я тоже приму участие, если у меня будет время.",
+        "collocations": [
+          "Zeit"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2a26f663-2784-443c-a7a6-37fa77a2efc9",
+        "deExample": "Beim Spiel wird mitgemacht.",
+        "translateExample": "В игре участвуют.",
+        "collocations": [
+          "Spiel"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "60acf8be-401b-4ee4-a4dd-01805cf59f28",
+        "deExample": "Es ist wichtig, bei der Diskussion mitzumachen.",
+        "translateExample": "Важно участвовать в обсуждении.",
+        "collocations": [
+          "Diskussion",
+          "wichtig"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b51e57e7-d4ea-4809-9a0d-4d8996465e36",
+        "deExample": "Möchtest du versuchen, bei dem Projekt mitzumachen?",
+        "translateExample": "Ты хочешь попробовать поучаствовать в проекте?",
+        "collocations": [
+          "Projekt",
+          "versuchen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ae6cdc86-480c-4e6f-81ff-e30ea75c54ec",
+        "deExample": "Ich lerne Deutsch, um bei der Gruppe mitzumachen.",
+        "translateExample": "Я учу немецкий, чтобы участвовать в группе.",
+        "collocations": [
+          "Deutsch",
+          "Gruppe"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

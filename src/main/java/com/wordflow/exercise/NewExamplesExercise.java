@@ -1,87 +1,118 @@
 package com.wordflow.exercise;
 
-import static com.wordflow.ui.InteractionHandler.*;
+import static com.wordflow.ui.InteractionHandler.clearScreen;
+import static com.wordflow.ui.InteractionHandler.waitForEnter;
 
 import java.time.LocalTime;
+import java.util.Collections;
 import java.util.List;
+import java.util.stream.Collectors;
+
 import com.wordflow.model.Dictionary;
+import com.wordflow.model.Example;
 import com.wordflow.model.FlashCard;
 
 public class NewExamplesExercise extends BaseExercise {
-	private static final int MAX_EXAMPLES_TO_REVIEW = 5;
-	private List<FlashCard> cards;
-	private int limit;
+//    private static final int MAX_EXAMPLES_TO_REVIEW = 5;
+    private List<Example> examplesToLearn;
+    private int limit;
+    private Dictionary dictionary;
 
-	public NewExamplesExercise(Dictionary dictionary) {
-		selectCards(dictionary);
-	}
+    public NewExamplesExercise(Dictionary dictionary) {
+    	this.dictionary = dictionary;
+        selectExamples();
+    }
+    
+    @Override
+    public List<FlashCard> getLessonContent() {
+        return examplesToLearn.stream()
+                .map(example -> dictionary.getAllCards().stream()
+                        .filter(card -> card.getExamples().contains(example))
+                        .findFirst()
+                        .orElse(null))
+                .filter(card -> card != null)
+                .collect(Collectors.toList());
+    }
 
-	private void selectCards(Dictionary dictionary) {
-		long numberDueCards = dictionary.findDueCards(FlashCard.FlashCardType.EXAMPLE).size();
+    private void selectExamples() {
+//        long numberDueCards = dictionary.findDueCards().size();
+//        this.limit = (numberDueCards >= MAX_EXAMPLES_TO_REVIEW) ? 0 : getLimit();
+        
+        this.limit = getLimit();
 
-		this.limit = (numberDueCards >= MAX_EXAMPLES_TO_REVIEW) ? 0 : getLimit();
-		this.cards = dictionary.findNewCards(FlashCard.FlashCardType.EXAMPLE).stream()
-				.limit(limit)
-				.toList();
-	}
+        if (limit == 0) {
+            this.examplesToLearn = Collections.emptyList();
+            return;
+        }
 
-	public void runExercise() {
-		if(cards.isEmpty()) return;
-		clearScreen();
-		waitForEnter("\n Learn new examples. Press Enter to begin\n");
-		displayFullCards();
-		clearScreen();
-		waitForEnter("\n Review new examples. Press Enter to begin\n");
-		reviewCards();
-		progressCards();
-	}
+        List<Example> candidateExamples = dictionary.getAllCards().stream()
+                .flatMap(card -> card.getExamples().stream())
+                .filter(ex -> Boolean.TRUE.equals(ex.getActive()))
+                .filter(ex -> ex.getProgress().getSuccessCount() == 0)
+                .collect(Collectors.toList());
 
-	private int getLimit() {
-		int hour = LocalTime.now().getHour();
-		return switch (hour) {
-		case 8 -> 0;
-		case 9 -> 0;
-		case 10 -> 1;
-		case 11 -> 1;
-		case 12 -> 0;
-		case 13 -> 1;
-		case 14, 16, 18, 20 -> 0;
-		case 15, 17, 19 -> 1;
-		default -> 0; 
-		};
-	}
+        Collections.shuffle(candidateExamples);
 
-	private void reviewCards() {
-		for(FlashCard card : cards) {
-			boolean isCorrect;
-			do {
-				showQuestion(card);
-				String userAnswer = getUserAnswerWithPrompt();
-				String correctAnswer = card.getCleanAnswer();
-				isCorrect = userAnswer.equals(correctAnswer);
-				if (isCorrect) {
-					messageCorrectAnswer();
-					isCorrect = true;
-				} else {
-					messageErrorAnswer();
-					clearScreen();
-					displayFullCard(card);
-					clearScreen();
-					isCorrect = false;
-				}
-			} while (!isCorrect);
-		}
-	}
+        this.examplesToLearn = candidateExamples.stream()
+                .limit(limit)
+                .collect(Collectors.toList());
+    }
 
-	private void displayFullCards() {
-		for(FlashCard card : cards) {
-			displayFullCard(card);
-		}
-	}
+    public void runExercise() {
+        if (examplesToLearn.isEmpty()) {
+            return;
+        }
+        clearScreen();
+        waitForEnter("\n Learn new examples. Press Enter to begin\n");
+        displayExamples();
+        clearScreen();
+        waitForEnter("\n Review new examples. Press Enter to begin\n");
+        reviewExamples();
+        updateExampleProgress();
 
-	private void progressCards() {
-		for(FlashCard card : cards) {
-			card.toProgress(true);
-		}
-	}
+    }
+
+    private int getLimit() {
+        int hour = LocalTime.now().getHour();
+        return switch (hour) {
+            case 9, 11, 13, 15, 17 -> 2;
+            case 10, 12, 14, 16, 18 -> 1;
+            default -> 1;
+        };
+    }
+
+    private void displayExamples() {
+        for (Example example : examplesToLearn) {
+            displayFullExample(example);
+        }
+    }
+
+    private void reviewExamples() {
+        for (Example example : examplesToLearn) {
+            boolean isCorrect;
+            do {
+                showQuestionExample(example);
+                String userAnswer = getUserAnswerWithPrompt();
+                String correctAnswer = example.getDeExample().trim();
+                isCorrect = userAnswer.trim().equalsIgnoreCase(correctAnswer);
+                if (isCorrect) {
+                    messageCorrectAnswer();
+                } else {
+                    messageErrorAnswer();
+                    clearScreen();
+                    displayFullExample(example);
+                    clearScreen();
+                }
+            } while (!isCorrect);
+        }
+    }
+
+    private void updateExampleProgress() {
+        for (Example example : examplesToLearn) {
+//        	System.out.printf("\n Новый пример. До обновления %s \n", example.getProgress().getSuccessCount());
+        	example.registerExampleProgress(true);
+//        	System.out.printf("\n Новый пример. После обновления %s \n", example.getProgress().getSuccessCount());
+        }
+    }
+
 }

@@ -1,0 +1,215 @@
+[
+  {
+    "id": "6a43b895-7a10-4f53-9d9b-ae0361e7343c",
+    "deWord": "sich kümmern - kümmerte - gekümmert",
+    "translateWord": "заботиться (о, um + Akk)",
+    "wordProgress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "fba1c88c-93e6-49a8-9209-d8da40c030d7",
+        "deExample": "Ich kümmere mich um die Pflanzen im Garten.",
+        "translateExample": "Я забочусь о растениях в саду.",
+        "collocations": [
+          "die Pflanze",
+          "der Garten"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4dcc785f-6776-4ebb-8a85-6a232442446f",
+        "deExample": "Kümmerst du dich um das Baby heute Abend?",
+        "translateExample": "Ты позаботишься о ребёнке сегодня вечером?",
+        "collocations": [
+          "das Baby",
+          "der Abend"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6d544c16-00e4-4981-b16d-703ce81b0a61",
+        "deExample": "Er kümmert sich nicht um seine Gesundheit.",
+        "translateExample": "Он не заботится о своём здоровье.",
+        "collocations": [
+          "die Gesundheit"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "38afdee9-984b-4ce2-ad42-bc1240ec1835",
+        "deExample": "Wir haben uns um alles gekümmert.",
+        "translateExample": "Мы обо всём позаботились.",
+        "collocations": [
+          "alles"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "aa072cf0-26ee-4f18-ae4f-1bafbbdf774a",
+        "deExample": "Du solltest dich mehr um deine Eltern kümmern.",
+        "translateExample": "Тебе стоит больше заботиться о своих родителях.",
+        "collocations": [
+          "die Eltern",
+          "mehr"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "10e11307-d65e-4a68-adf4-0d40ee5de11e",
+        "deExample": "Ich helfe ihr, weil sie sich um ihren Bruder kümmert.",
+        "translateExample": "Я помогаю ей, потому что она заботится о своём брате.",
+        "collocations": [
+          "helfen",
+          "der Bruder"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "feca7186-b1eb-4e37-8982-7dea345da20c",
+        "deExample": "Ich werde mich um die Organisation kümmern, wenn du willst.",
+        "translateExample": "Я займусь организацией, если ты хочешь.",
+        "collocations": [
+          "die Organisation",
+          "wollen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "07c49640-b7a3-42f8-bed3-3244f03446f3",
+        "deExample": "Um die Gäste wird gut gekümmert.",
+        "translateExample": "О гостях хорошо заботятся.",
+        "collocations": [
+          "der Gast",
+          "gut"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4ea46f6e-2c02-4a6a-b8bb-4a51363c2908",
+        "deExample": "Er versucht, sich um seine Familie zu kümmern.",
+        "translateExample": "Он старается заботиться о своей семье.",
+        "collocations": [
+          "die Familie"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "12f64060-442f-47aa-bfb3-13ec33ec1847",
+        "deExample": "Wie kann man lernen, sich besser um andere zu kümmern?",
+        "translateExample": "Как можно научиться лучше заботиться о других?",
+        "collocations": [
+          "lernen",
+          "besser",
+          "andere"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "384ce6b7-f340-4da5-941f-a4ac2f15d5b4",
+        "deExample": "Ich plane meine Woche, um mich um alles zu kümmern.",
+        "translateExample": "Я планирую свою неделю, чтобы позаботиться обо всём.",
+        "collocations": [
+          "planen",
+          "die Woche",
+          "alles"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

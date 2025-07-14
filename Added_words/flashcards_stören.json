@@ -1,0 +1,211 @@
+[
+  {
+    "id": "3ec465f3-2ec6-404b-bb5e-a60dad8e53de",
+    "deWord": "stören - störte - gestört",
+    "translateWord": "мешать, беспокоить (кого-л, Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "7f9da64b-eac0-4657-bea8-0eacbf0ed283",
+        "deExample": "Der Lärm stört mich.",
+        "translateExample": "Шум мешает мне.",
+        "collocations": [
+          "Lärm",
+          "mich"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a0c6207c-7cb1-4957-bd47-e8b36b54a401",
+        "deExample": "Stört dich das Geräusch?",
+        "translateExample": "Тебе мешает этот шум?",
+        "collocations": [
+          "Geräusch"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "11f9aabf-2054-4c58-8550-b9501e2f0c1d",
+        "deExample": "Das stört mich nicht.",
+        "translateExample": "Это мне не мешает.",
+        "collocations": [
+          "mich"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "710d3399-f633-44e1-bf53-c199c55ff79e",
+        "deExample": "Der Lärm hat mich gestört.",
+        "translateExample": "Шум мне мешал.",
+        "collocations": [
+          "Lärm",
+          "mich"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4b888c0a-9ecc-4ecd-b651-1469b4cf88cc",
+        "deExample": "Musik kann manchmal stören.",
+        "translateExample": "Музыка иногда может мешать.",
+        "collocations": [
+          "Musik"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9ca5e529-2170-47e7-9195-2c5e3d9881c1",
+        "deExample": "Ich bleibe zu Hause, weil mich der Lärm stört.",
+        "translateExample": "Я остаюсь дома, потому что мне мешает шум.",
+        "collocations": [
+          "Haus",
+          "Lärm",
+          "mich"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9861e3ae-880c-42ec-9158-f611d8be4e6c",
+        "deExample": "Ich werde es tun, wenn mich niemand stört.",
+        "translateExample": "Я сделаю это, если никто мне не помешает.",
+        "collocations": [
+          "niemand"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "642196bd-28f0-40ca-b408-d624216470ed",
+        "deExample": "Der Unterricht wird durch den Lärm gestört.",
+        "translateExample": "Урок прерывается из-за шума.",
+        "collocations": [
+          "Unterricht",
+          "Lärm"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "21a53095-0352-4342-9b60-8fc1aff4b7ab",
+        "deExample": "Es ist wichtig, nicht zu stören.",
+        "translateExample": "Важно не мешать.",
+        "collocations": [
+          "wichtig"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4cb6651e-3ed6-4e8a-aae5-b297d2c4da48",
+        "deExample": "Ist es schwer, leise zu sein, um nicht zu stören?",
+        "translateExample": "Трудно ли быть тихим, чтобы не мешать?",
+        "collocations": [
+          "leise"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b0efef25-1120-42a9-9ca8-2e31247ca27b",
+        "deExample": "Er spricht leise, um andere nicht zu stören.",
+        "translateExample": "Он говорит тихо, чтобы не мешать другим.",
+        "collocations": [
+          "leise",
+          "andere"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

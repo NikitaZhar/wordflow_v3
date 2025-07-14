@@ -1,0 +1,205 @@
+[
+  {
+    "id": "d76a0f7e-24ff-42f5-bb3a-bc70be5f2e4d",
+    "deWord": "einladen - lud ein - eingeladen",
+    "translateWord": "приглашать (einladen + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "08d304e0-a578-41a4-b0af-13ab8bfcd928",
+        "deExample": "Ich lade meine Freunde ein.",
+        "translateExample": "Я приглашаю своих друзей.",
+        "collocations": [
+          "Freunde"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "76279d90-3218-41b9-a647-1b1e4525c3d2",
+        "deExample": "Lädst du mich zur Party ein?",
+        "translateExample": "Ты приглашаешь меня на вечеринку?",
+        "collocations": [
+          "Party"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "405fc1b2-d937-41c9-93e1-a5cb4b9cd012",
+        "deExample": "Er lädt heute niemanden ein.",
+        "translateExample": "Он сегодня никого не приглашает.",
+        "collocations": [],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5b43d678-6f94-4f36-959a-9b4aae3334b2",
+        "deExample": "Wir haben viele Leute eingeladen.",
+        "translateExample": "Мы пригласили много людей.",
+        "collocations": [
+          "Leute"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a9226c05-b6ce-442b-814a-f411f2921522",
+        "deExample": "Du kannst deine Familie einladen.",
+        "translateExample": "Ты можешь пригласить свою семью.",
+        "collocations": [
+          "Familie"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e2e5f8ac-6a94-41ae-af5e-736333455b08",
+        "deExample": "Er lädt sie ein, weil sie Geburtstag hat.",
+        "translateExample": "Он приглашает её, потому что у неё день рождения.",
+        "collocations": [
+          "Geburtstag"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "947ab206-9a0b-4157-8804-c8a5808b8155",
+        "deExample": "Ich werde dich einladen, wenn ich Zeit habe.",
+        "translateExample": "Я приглашу тебя, когда у меня будет время.",
+        "collocations": [
+          "Zeit"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c8da73ee-3a47-49a0-a659-91861735fe5a",
+        "deExample": "Gäste werden eingeladen.",
+        "translateExample": "Гости приглашаются.",
+        "collocations": [
+          "Gäste"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2c3359bb-47d3-45a8-9341-b8921e5c2965",
+        "deExample": "Er versucht, alle Freunde einzuladen.",
+        "translateExample": "Он старается пригласить всех друзей.",
+        "collocations": [
+          "Freunde"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b510a9cd-5373-4b7d-9dbd-68d09443e812",
+        "deExample": "Willst du lernen, wie man Leute einlädt?",
+        "translateExample": "Ты хочешь узнать, как приглашать людей?",
+        "collocations": [
+          "lernen",
+          "Leute"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "84f07492-dd72-46f6-980e-3b4e587c0b3b",
+        "deExample": "Er spart Geld, um viele Gäste einzuladen.",
+        "translateExample": "Он копит деньги, чтобы пригласить много гостей.",
+        "collocations": [
+          "Geld",
+          "Gäste"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

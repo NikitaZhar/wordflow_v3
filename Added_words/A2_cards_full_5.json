@@ -1,0 +1,1030 @@
+[
+  {
+    "id": "80daa875-02e0-4812-80f2-7a4cfdefd14c",
+    "deWord": "zögernd",
+    "translateWord": "колеблющийся, нерешительный",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "19f72aa4-d234-42a3-a997-d405a767bf6e",
+        "deExample": "Er ist zögernd.",
+        "translateExample": "Он колеблется.",
+        "collocations": [
+          "er"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "86f27cb8-4647-40a1-84cc-d39039e98cd7",
+        "deExample": "Bist du zögernd?",
+        "translateExample": "Ты колеблешься?",
+        "collocations": [
+          "du"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5ce845a3-250a-429e-acb1-f9a256ba3ee2",
+        "deExample": "Er ist nicht zögernd.",
+        "translateExample": "Он не колеблется.",
+        "collocations": [
+          "er",
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2d4eb1ae-05f8-4e45-8f74-fd639749fef5",
+        "deExample": "Ich war zögernd.",
+        "translateExample": "Я колебался.",
+        "collocations": [
+          "ich"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2d4b2d6a-332f-4b21-9941-94f75557c42e",
+        "deExample": "Ich kann zögernd sein.",
+        "translateExample": "Я могу колебаться.",
+        "collocations": [
+          "ich"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6cf9e493-a044-4ef6-bd66-9a1ce7bc5c53",
+        "deExample": "Ich bin zögernd, weil ich Angst habe.",
+        "translateExample": "Я колеблюсь, потому что боюсь.",
+        "collocations": [
+          "Angst"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "21b4a8a6-ae26-46d8-8335-127cfe5a1f90",
+        "deExample": "Ich werde zögernd sein, wenn es schwer ist.",
+        "translateExample": "Я буду колебаться, если это будет трудно.",
+        "collocations": [
+          "schwer"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "29de8d89-ed28-4eac-ba38-22e3e76714eb",
+        "deExample": "Er wird zögernd genannt.",
+        "translateExample": "Его называют нерешительным.",
+        "collocations": [
+          "er"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "937671cb-7730-429d-9a0e-321e9564ef10",
+        "deExample": "Ich versuche, nicht zögernd zu sein.",
+        "translateExample": "Я стараюсь не быть нерешительным.",
+        "collocations": [
+          "versuchen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "139209d0-9ac7-4f27-90d2-a4242e96dd71",
+        "deExample": "Bist du bereit, nicht zögernd zu sein?",
+        "translateExample": "Ты готов не колебаться?",
+        "collocations": [
+          "bereit"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7559b535-a0f2-44f2-961a-a580e65144ab",
+        "deExample": "Ich lerne, um nicht zögernd zu sein.",
+        "translateExample": "Я учусь, чтобы не колебаться.",
+        "collocations": [
+          "lernen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "0ce5447e-5413-40b2-b7c0-4d1e5e47e3df",
+    "deWord": "bestimmt",
+    "translateWord": "определённо, точно",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "c34cf19f-d652-4d7c-8745-67b4da841887",
+        "deExample": "Es ist bestimmt so.",
+        "translateExample": "Это точно так.",
+        "collocations": [
+          "es"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "31a4561c-b09d-400a-a460-3aa46730577d",
+        "deExample": "Ist das bestimmt?",
+        "translateExample": "Это точно?",
+        "collocations": [
+          "das"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e89cbb20-3bc3-4160-a93f-b37abb76c1d4",
+        "deExample": "Es ist nicht bestimmt.",
+        "translateExample": "Это не точно.",
+        "collocations": [
+          "es",
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "47d74552-1064-4a2b-bc2a-acce6ef74534",
+        "deExample": "Es war bestimmt wichtig.",
+        "translateExample": "Это было точно важно.",
+        "collocations": [
+          "wichtig"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c5d2918b-31ca-493f-9304-5cec450611ea",
+        "deExample": "Es kann bestimmt helfen.",
+        "translateExample": "Это точно может помочь.",
+        "collocations": [
+          "helfen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5964a6e8-1a6b-4652-80b6-261d694fd041",
+        "deExample": "Es ist bestimmt gut, weil es funktioniert.",
+        "translateExample": "Это точно хорошо, потому что это работает.",
+        "collocations": [
+          "gut"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e9007d21-b58b-4cc1-b46b-10370fa9075f",
+        "deExample": "Es wird bestimmt helfen, wenn du lernst.",
+        "translateExample": "Это точно поможет, если ты будешь учиться.",
+        "collocations": [
+          "helfen",
+          "lernen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f199c55c-a8fc-4ee7-b8d1-6edbda82c86d",
+        "deExample": "Es wird bestimmt gesagt.",
+        "translateExample": "Это точно говорят.",
+        "collocations": [
+          "sagen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "23164b10-c7a2-4e8e-b90f-662656e382a6",
+        "deExample": "Ich hoffe, bestimmt zu sprechen.",
+        "translateExample": "Я надеюсь говорить точно.",
+        "collocations": [
+          "sprechen",
+          "hoffen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "94f24fc9-b967-4a63-881a-85febeabe138",
+        "deExample": "Kannst du bestimmt antworten?",
+        "translateExample": "Ты можешь ответить точно?",
+        "collocations": [
+          "antworten"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e9134277-4cf8-4bbe-83fd-7fbad1a77ffd",
+        "deExample": "Ich übe, um bestimmt zu sprechen.",
+        "translateExample": "Я тренируюсь, чтобы говорить точно.",
+        "collocations": [
+          "üben",
+          "sprechen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "0f2fc7f6-bcf0-4a52-9f60-32202da8efc8",
+    "deWord": "bereit",
+    "translateWord": "готовый",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "b0a56902-35b3-499b-9d6b-cf4cda3ebae0",
+        "deExample": "Ich bin bereit.",
+        "translateExample": "Я готов.",
+        "collocations": [
+          "ich"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "223113fb-9431-40c2-ba78-c529d54cd676",
+        "deExample": "Bist du bereit?",
+        "translateExample": "Ты готов?",
+        "collocations": [
+          "du"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c96dc430-b812-4598-9568-f755b8edbba0",
+        "deExample": "Er ist nicht bereit.",
+        "translateExample": "Он не готов.",
+        "collocations": [
+          "er",
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4c03a92c-a5fb-45fa-b0fb-4d99f27c8db1",
+        "deExample": "Ich war bereit.",
+        "translateExample": "Я был готов.",
+        "collocations": [
+          "ich"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "20662ce8-d77d-4c14-b240-eec16a06286e",
+        "deExample": "Ich kann bereit sein.",
+        "translateExample": "Я могу быть готов.",
+        "collocations": [
+          "ich"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "82b2a76d-095c-4545-87dc-360ebe3a857d",
+        "deExample": "Ich bin bereit, weil ich gelernt habe.",
+        "translateExample": "Я готов, потому что я учился.",
+        "collocations": [
+          "lernen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "71780661-fa2d-4fde-b05e-2d592705e3e5",
+        "deExample": "Ich werde bereit sein, wenn du rufst.",
+        "translateExample": "Я буду готов, когда ты позовёшь.",
+        "collocations": [
+          "rufen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0ec023d2-3ef9-477b-a16f-8653d5abcfff",
+        "deExample": "Er wird bereit genannt.",
+        "translateExample": "Его называют готовым.",
+        "collocations": [
+          "er"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "bcd71034-650a-4e88-becb-94d376935aa9",
+        "deExample": "Ich versuche, bereit zu sein.",
+        "translateExample": "Я стараюсь быть готовым.",
+        "collocations": [
+          "versuchen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c1cde66c-dc33-4e9b-ab0f-f8f1315b79ed",
+        "deExample": "Bist du bereit, loszugehen?",
+        "translateExample": "Ты готов идти?",
+        "collocations": [
+          "losgehen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9a5caacb-fb4f-43f8-9ed6-5a3933241d8d",
+        "deExample": "Ich trainiere, um bereit zu sein.",
+        "translateExample": "Я тренируюсь, чтобы быть готовым.",
+        "collocations": [
+          "trainieren"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "a9e4f695-3b2d-4595-b1dd-24c2fa53e7d7",
+    "deWord": "losfahren - fuhr los - losgefahren",
+    "translateWord": "отправляться (в путь)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "9e4f32ac-8444-4c08-ba66-ecc892134186",
+        "deExample": "Wir fahren jetzt los.",
+        "translateExample": "Мы сейчас отправляемся.",
+        "collocations": [
+          "wir",
+          "jetzt"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "490e8dce-64b8-4cda-bd59-8d3cf038468e",
+        "deExample": "Fährst du morgen los?",
+        "translateExample": "Ты отправляешься завтра?",
+        "collocations": [
+          "morgen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3d4556a1-1f48-4e8a-ac1e-2feb88ae5364",
+        "deExample": "Er fährt nicht los.",
+        "translateExample": "Он не отправляется.",
+        "collocations": [
+          "er",
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5b17b604-233c-4b75-8b73-8bb16ac5d17e",
+        "deExample": "Wir sind gestern losgefahren.",
+        "translateExample": "Мы вчера отправились.",
+        "collocations": [
+          "wir",
+          "gestern"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "11fad161-ef66-4d0c-9e61-2706be116353",
+        "deExample": "Wir wollen bald losfahren.",
+        "translateExample": "Мы хотим скоро отправиться.",
+        "collocations": [
+          "bald"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "72286c95-52ca-45d5-8ca4-c1033b6ed422",
+        "deExample": "Wir fahren los, weil es spät ist.",
+        "translateExample": "Мы отправляемся, потому что поздно.",
+        "collocations": [
+          "spät"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "db7c1e49-c8d5-4bef-beb4-4bdbf5ab1af4",
+        "deExample": "Wir werden losfahren, wenn alle bereit sind.",
+        "translateExample": "Мы отправимся, когда все будут готовы.",
+        "collocations": [
+          "bereit"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "81433858-7893-4386-901c-5e1a714946ea",
+        "deExample": "Es wird losgefahren.",
+        "translateExample": "Отправляются.",
+        "collocations": [],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1178f777-4b8a-4d06-a1ab-3e7884647b1a",
+        "deExample": "Ich vergesse oft, rechtzeitig loszufahren.",
+        "translateExample": "Я часто забываю отправляться вовремя.",
+        "collocations": [
+          "vergessen",
+          "rechtzeitig"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "24aa1341-098e-4dcb-ae0d-e2cbf63e44a6",
+        "deExample": "Willst du bald losfahren?",
+        "translateExample": "Ты хочешь скоро отправиться?",
+        "collocations": [
+          "bald"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "57302cc8-9097-43aa-8451-5c06ea72b69c",
+        "deExample": "Ich packe, um morgen loszufahren.",
+        "translateExample": "Я пакую вещи, чтобы завтра отправиться.",
+        "collocations": [
+          "packen",
+          "morgen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "87023149-49fe-4972-aa8d-af370b49045c",
+    "deWord": "an deiner Stelle",
+    "translateWord": "на твоём месте",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "4078cb24-27ab-4da2-8fd1-576c89d1d964",
+        "deExample": "An deiner Stelle würde ich gehen.",
+        "translateExample": "На твоём месте я бы пошёл.",
+        "collocations": [
+          "gehen"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "75d4f892-7e4d-4be5-86fe-c85dc9b98a59",
+        "deExample": "Würdest du an meiner Stelle helfen?",
+        "translateExample": "Ты бы помог на моём месте?",
+        "collocations": [
+          "helfen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9d5d4abe-35d2-4a43-a70a-79cce7670ab3",
+        "deExample": "An deiner Stelle würde ich nicht warten.",
+        "translateExample": "На твоём месте я бы не ждал.",
+        "collocations": [
+          "warten"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1109cf16-a06a-4eee-8646-394d0f44244d",
+        "deExample": "An deiner Stelle hätte ich gefragt.",
+        "translateExample": "На твоём месте я бы спросил.",
+        "collocations": [
+          "fragen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f8f47fdc-84fc-4408-81b6-683146624efa",
+        "deExample": "An deiner Stelle kann man lernen.",
+        "translateExample": "На твоём месте можно учиться.",
+        "collocations": [
+          "lernen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9425de71-e191-4ee9-99a8-16b073f4c929",
+        "deExample": "An deiner Stelle würde ich gehen, weil es wichtig ist.",
+        "translateExample": "На твоём месте я бы пошёл, потому что это важно.",
+        "collocations": [
+          "gehen",
+          "wichtig"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e2c4f5d3-e496-4564-b8a6-8c8564bbb22a",
+        "deExample": "An deiner Stelle wirst du lernen, wenn du Zeit hast.",
+        "translateExample": "На твоём месте ты будешь учиться, если у тебя будет время.",
+        "collocations": [
+          "lernen",
+          "Zeit"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "95f8a39b-7335-46c8-8ec5-dea583862c21",
+        "deExample": "An deiner Stelle wird gehandelt.",
+        "translateExample": "На твоём месте действуют.",
+        "collocations": [
+          "handeln"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0fb4ff1e-3460-48a6-99cd-c34992d0720c",
+        "deExample": "Ich vergesse, an deiner Stelle zu fragen.",
+        "translateExample": "Я забываю спросить на твоём месте.",
+        "collocations": [
+          "fragen",
+          "vergessen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2795bd1b-4769-420d-9d05-131d37960d6d",
+        "deExample": "Würdest du an meiner Stelle fragen?",
+        "translateExample": "Ты бы спросил на моём месте?",
+        "collocations": [
+          "fragen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "55ef9da1-8aa5-4242-984a-8fb861184156",
+        "deExample": "Ich lerne, um an deiner Stelle zu helfen.",
+        "translateExample": "Я учусь, чтобы помочь на твоём месте.",
+        "collocations": [
+          "lernen",
+          "helfen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

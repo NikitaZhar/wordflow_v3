@@ -1,0 +1,817 @@
+[
+  {
+    "id": "c490d3a1-2549-4d1a-af99-35bf445f3073",
+    "deWord": "sich streiten - stritt - gestritten",
+    "translateWord": "ссориться (mit + Dativ, из-за um + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "6a43532b-54e2-4518-8e02-f20694a56314",
+        "deExample": "Sie streiten sich oft laut.",
+        "translateExample": "Они часто громко ссорятся.",
+        "collocations": [
+          "oft",
+          "laut"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "76824212-b436-4f1e-9b58-d7b2cda8f038",
+        "deExample": "Warum streitest du dich mit ihm?",
+        "translateExample": "Почему ты с ним ссоришься?",
+        "collocations": [
+          "ihm"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8180326d-4e02-4a32-b663-389a0250d0c7",
+        "deExample": "Ich streite mich nicht mit meinen Freunden.",
+        "translateExample": "Я не ссорюсь со своими друзьями.",
+        "collocations": [
+          "Freunden"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d0241615-8ddb-4ec4-ab84-cf7729c7991b",
+        "deExample": "Gestern habe ich mich mit meinem Bruder gestritten.",
+        "translateExample": "Вчера я поссорился со своим братом.",
+        "collocations": [
+          "gestern",
+          "Bruder"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "568e5443-8a5a-4072-af3d-7427c602190c",
+        "deExample": "Ich will mich nicht mehr streiten.",
+        "translateExample": "Я больше не хочу ссориться.",
+        "collocations": [],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "806ed9a1-58fc-4cd1-8ee7-0469e185a7bd",
+        "deExample": "Wir streiten uns, weil wir verschiedene Meinungen haben.",
+        "translateExample": "Мы ссоримся, потому что у нас разные мнения.",
+        "collocations": [
+          "Meinungen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0f095009-6eca-49fa-985e-e978b7a4496a",
+        "deExample": "Ich werde mich mit ihm streiten, wenn er wieder lügt.",
+        "translateExample": "Я буду ссориться с ним, если он снова соврёт.",
+        "collocations": [
+          "lügt"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "44ff7e25-ec4a-4b3e-b125-ebe27554d9cc",
+        "deExample": "Es wird oft gestritten, wenn Stress zu Hause ist.",
+        "translateExample": "Часто ссорятся, когда дома стресс.",
+        "collocations": [
+          "Stress",
+          "zu Hause"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4e5a9412-9f6a-4213-9773-eb03ae8d26d4",
+        "deExample": "Es ist besser, nicht über Kleinigkeiten zu streiten.",
+        "translateExample": "Лучше не ссориться из-за мелочей.",
+        "collocations": [
+          "besser",
+          "Kleinigkeiten"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ddf10718-07e6-465e-9165-96310094720e",
+        "deExample": "Ist es notwendig, sich um alles zu streiten?",
+        "translateExample": "Необходимо ли ссориться из-за всего?",
+        "collocations": [
+          "alles"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "363cba4f-5a10-4c18-a590-a3edb33a1f7b",
+        "deExample": "Wir sprechen ruhig, um uns nicht zu streiten.",
+        "translateExample": "Мы говорим спокойно, чтобы не ссориться.",
+        "collocations": [
+          "ruhig"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "41031b92-2b48-465b-8035-d77fc9ed24c3",
+    "deWord": "sich aufregen",
+    "translateWord": "волноваться (über + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "64119d54-001f-47b1-894d-6b4999574b0f",
+        "deExample": "Ich rege mich oft auf.",
+        "translateExample": "Я часто волнуюсь.",
+        "collocations": [
+          "oft"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6d62495b-4172-42a6-ac8f-cee08463aeb3",
+        "deExample": "Warum regst du dich so auf?",
+        "translateExample": "Почему ты так волнуешься?",
+        "collocations": [],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "158b4374-34cd-44bd-a885-3851f6bb5a80",
+        "deExample": "Ich rege mich nicht über Kleinigkeiten auf.",
+        "translateExample": "Я не волнуюсь из-за мелочей.",
+        "collocations": [
+          "Kleinigkeiten"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e314398d-f9e3-4370-b9ae-43de4580bf66",
+        "deExample": "Gestern habe ich mich über die Nachricht aufgeregt.",
+        "translateExample": "Вчера я разволновался из-за новости.",
+        "collocations": [
+          "gestern",
+          "Nachricht"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2177beb0-6170-4dc8-84e7-c38e1599def1",
+        "deExample": "Ich möchte mich nicht mehr so aufregen.",
+        "translateExample": "Я больше не хочу так волноваться.",
+        "collocations": [],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "38799468-d317-4f98-be6f-c4b44fea8b82",
+        "deExample": "Er regt sich auf, weil er zu viel Arbeit hat.",
+        "translateExample": "Он волнуется, потому что у него слишком много работы.",
+        "collocations": [
+          "Arbeit"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f4521346-2406-465c-90d6-b0e5bc55fef1",
+        "deExample": "Ich werde mich nicht aufregen, wenn es regnet.",
+        "translateExample": "Я не буду волноваться, если пойдёт дождь.",
+        "collocations": [
+          "regnet"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "af47496a-05a1-40e6-a0cb-736f3d53649b",
+        "deExample": "Es wird sich oft aufgeregt, wenn es Probleme gibt.",
+        "translateExample": "Часто волнуются, когда есть проблемы.",
+        "collocations": [
+          "Probleme"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fa4ea245-9330-49af-a1c5-2c722093ce93",
+        "deExample": "Es ist nicht gut, sich über alles aufzuregen.",
+        "translateExample": "Не хорошо волноваться из-за всего.",
+        "collocations": [
+          "gut",
+          "alles"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "68fe6e2c-86ae-40b5-9e74-70e4e51fe9be",
+        "deExample": "Ist es nötig, sich über so etwas aufzuregen?",
+        "translateExample": "Необходимо ли волноваться из-за таких вещей?",
+        "collocations": [
+          "etwas"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fa19f6b3-4836-4038-b14b-27e420baa53b",
+        "deExample": "Er atmet tief, um sich nicht aufzuregen.",
+        "translateExample": "Он глубоко дышит, чтобы не волноваться.",
+        "collocations": [
+          "tief"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "45c31333-f16b-47b7-9790-1c0ff628a4ce",
+    "deWord": "ungefähr",
+    "translateWord": "примерно, приблизительно",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "7c375f08-55e7-4b63-b625-d1e260f01ea0",
+        "deExample": "Es sind ungefähr zehn Leute hier.",
+        "translateExample": "Здесь примерно десять человек.",
+        "collocations": [
+          "Leute"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b61b2617-408c-4784-adba-06246ae34469",
+        "deExample": "Wie viele Minuten dauert es ungefähr?",
+        "translateExample": "Сколько минут это примерно займёт?",
+        "collocations": [
+          "Minuten"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "912d0d03-a673-4d4d-a03b-3e5b632a684f",
+        "deExample": "Ich weiß nicht ungefähr, wann er kommt.",
+        "translateExample": "Я не знаю примерно, когда он придёт.",
+        "collocations": [],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4fe5007f-6217-40e3-b750-ec48fa558fd2",
+        "deExample": "Wir haben ungefähr eine Stunde gewartet.",
+        "translateExample": "Мы ждали примерно час.",
+        "collocations": [
+          "Stunde"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "bd81755b-d4bd-4091-b1ed-ef86749ed076",
+        "deExample": "Man kann ungefähr sagen, wie lange es dauert.",
+        "translateExample": "Можно примерно сказать, сколько это займёт.",
+        "collocations": [],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f0a169b3-452d-40d5-8738-32dbc20180c3",
+        "deExample": "Ich komme später, weil ich ungefähr um 19 Uhr fertig bin.",
+        "translateExample": "Я приду позже, потому что закончу примерно в 19 часов.",
+        "collocations": [
+          "19 Uhr"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b341d823-1b3a-45c7-9490-f3c9de6cd23b",
+        "deExample": "Ich werde ungefähr um 8 Uhr ankommen, wenn der Zug pünktlich ist.",
+        "translateExample": "Я приеду примерно в 8 часов, если поезд будет вовремя.",
+        "collocations": [
+          "8 Uhr",
+          "Zug"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f40b1121-4148-428b-8b1b-18fd4b146004",
+        "deExample": "Es wird ungefähr eine Stunde gebraucht.",
+        "translateExample": "Это займёт примерно один час.",
+        "collocations": [
+          "Stunde"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a9ae7b86-854c-49e0-81c6-6241818577f2",
+        "deExample": "Es ist wichtig, ungefähr zu planen.",
+        "translateExample": "Важно планировать примерно.",
+        "collocations": [
+          "wichtig"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "38dd507f-1a07-4470-9e33-eb6649635bdc",
+        "deExample": "Kannst du mir sagen, wie lange es ungefähr zu machen ist?",
+        "translateExample": "Можешь сказать мне, сколько это примерно займёт сделать?",
+        "collocations": [],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6e63972d-36ff-4a93-8e73-93cce0d68e61",
+        "deExample": "Ich stehe früh auf, um ungefähr um 7 Uhr fertig zu sein.",
+        "translateExample": "Я встаю рано, чтобы закончить примерно к 7 часам.",
+        "collocations": [
+          "7 Uhr"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "29f7cc42-09d2-49fe-adb4-bea4087372f1",
+    "deWord": "betragen - betrug - betragen",
+    "translateWord": "составлять (о сумме, количестве)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "1e825f71-ecf5-4971-b985-9ade1af85b17",
+        "deExample": "Die Kosten betragen 50 Euro.",
+        "translateExample": "Расходы составляют 50 евро.",
+        "collocations": [
+          "Kosten",
+          "Euro"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ef07d199-c61b-4950-802e-519d5b008590",
+        "deExample": "Wie viel beträgt der Preis?",
+        "translateExample": "Сколько составляет цена?",
+        "collocations": [
+          "Preis"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1e214707-eefa-4423-8e6d-11e52f42109a",
+        "deExample": "Die Summe beträgt nicht mehr als 100 Euro.",
+        "translateExample": "Сумма составляет не более 100 евро.",
+        "collocations": [
+          "Summe",
+          "Euro"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "58826bde-1f11-43b4-b619-c9d92baa95bc",
+        "deExample": "Die Rechnung hat 200 Euro betragen.",
+        "translateExample": "Счёт составил 200 евро.",
+        "collocations": [
+          "Rechnung",
+          "Euro"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "64888742-3013-4f86-85c4-afb55a4d68b3",
+        "deExample": "Die Miete kann mehr betragen.",
+        "translateExample": "Аренда может составлять больше.",
+        "collocations": [
+          "Miete"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6b01cac2-96f6-45ec-9997-967f7c622e97",
+        "deExample": "Ich zahle die Summe, weil sie nur 30 Euro beträgt.",
+        "translateExample": "Я плачу сумму, потому что она составляет всего 30 евро.",
+        "collocations": [
+          "Summe",
+          "Euro"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "bb496993-4206-438a-a3fe-b5e1be1559b0",
+        "deExample": "Der Preis wird 120 Euro betragen, wenn es Rabatt gibt.",
+        "translateExample": "Цена составит 120 евро, если будет скидка.",
+        "collocations": [
+          "Preis",
+          "Euro",
+          "Rabatt"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f0de8507-f0f1-424b-97de-c681bf04fe37",
+        "deExample": "Es wird ein hoher Preis betragen.",
+        "translateExample": "Будет составлять высокая цена.",
+        "collocations": [
+          "Preis"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9ef2b167-68b3-43c1-aeb3-66fa9cb25fad",
+        "deExample": "Es ist wichtig, die Kosten vorher zu betragen.",
+        "translateExample": "Важно заранее подсчитать расходы.",
+        "collocations": [
+          "wichtig",
+          "Kosten"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1047d840-593e-43cc-8a94-d256f5c27901",
+        "deExample": "Kannst du mir sagen, wie viel die Rechnung zu betragen ist?",
+        "translateExample": "Можешь сказать, сколько должен составить счёт?",
+        "collocations": [
+          "Rechnung"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "72764da7-ce93-453c-b5a5-acce083f0868",
+        "deExample": "Ich spare Geld, um die Kosten zu betragen.",
+        "translateExample": "Я экономлю деньги, чтобы покрыть расходы.",
+        "collocations": [
+          "Geld",
+          "Kosten"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

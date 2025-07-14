@@ -1,0 +1,1023 @@
+[
+  {
+    "id": "f5ef4293-3e0c-4546-bbe2-5d191cf75dfb",
+    "deWord": "niemand",
+    "translateWord": "никто",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "c74f49a6-a2fa-4bb9-8bfa-a949c629f14a",
+        "deExample": "Niemand ist hier.",
+        "translateExample": "Здесь никого нет.",
+        "collocations": [
+          "hier"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3a693b18-4e4a-4713-ba10-d181ac2717ae",
+        "deExample": "Ist niemand da?",
+        "translateExample": "Никого здесь нет?",
+        "collocations": [
+          "da"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7bf3a8a5-1e4d-4903-b3da-b4b8b1ac2c2c",
+        "deExample": "Niemand hilft mir.",
+        "translateExample": "Никто не помогает мне.",
+        "collocations": [
+          "helfen"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "52514449-7a73-47f5-9650-04919d895021",
+        "deExample": "Niemand hat angerufen.",
+        "translateExample": "Никто не позвонил.",
+        "collocations": [
+          "anrufen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "918cdc85-d815-49fb-84e3-fe5b65df4a50",
+        "deExample": "Niemand kann helfen.",
+        "translateExample": "Никто не может помочь.",
+        "collocations": [
+          "helfen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "23d78fa4-9fed-46ef-ad38-93205e809821",
+        "deExample": "Niemand kommt, weil es regnet.",
+        "translateExample": "Никто не приходит, потому что идёт дождь.",
+        "collocations": [
+          "regnen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "efa4efd6-f6cf-4e1b-9bf6-b1f7b1063e12",
+        "deExample": "Niemand wird helfen, wenn du nicht fragst.",
+        "translateExample": "Никто не поможет, если ты не попросишь.",
+        "collocations": [
+          "helfen",
+          "fragen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "50cecc33-05c6-425e-b671-0004a0d9a4c6",
+        "deExample": "Niemand wird gesehen.",
+        "translateExample": "Никого не видно.",
+        "collocations": [
+          "sehen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "26647787-5c01-4205-8693-ddefec6d235d",
+        "deExample": "Ich hoffe, niemanden zu stören.",
+        "translateExample": "Я надеюсь никому не мешать.",
+        "collocations": [
+          "stören",
+          "hoffen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e4153a30-fa07-4714-8a56-ee4c29a1b364",
+        "deExample": "Will niemand helfen?",
+        "translateExample": "Никто не хочет помочь?",
+        "collocations": [
+          "helfen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "591a544a-134c-447b-a486-cf77a6dc5c57",
+        "deExample": "Ich gehe, um niemanden zu treffen.",
+        "translateExample": "Я ухожу, чтобы никого не встретить.",
+        "collocations": [
+          "gehen",
+          "treffen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "a6ff8ab6-581e-4657-ab3a-60c9b8bfbf3b",
+    "deWord": "häufig",
+    "translateWord": "часто",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "629a4d3b-4f1a-4eb6-abf9-af6c671a221e",
+        "deExample": "Er kommt häufig hierher.",
+        "translateExample": "Он часто сюда приходит.",
+        "collocations": [
+          "kommen",
+          "hierher"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "32142c7a-2aba-41e4-8918-4f6f184e2878",
+        "deExample": "Kommst du häufig hierher?",
+        "translateExample": "Ты часто сюда приходишь?",
+        "collocations": [
+          "kommen",
+          "hierher"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "64bd311b-ce2e-46a3-a3c9-02bfb5be5231",
+        "deExample": "Er kommt nicht häufig.",
+        "translateExample": "Он не часто приходит.",
+        "collocations": [
+          "kommen",
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5b41d924-99ba-43d5-93ac-682a733917fc",
+        "deExample": "Er ist häufig gekommen.",
+        "translateExample": "Он часто приходил.",
+        "collocations": [
+          "kommen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "18d1cf9d-8531-4911-a36d-e9e9cda1e277",
+        "deExample": "Man kann häufig lernen.",
+        "translateExample": "Можно часто учиться.",
+        "collocations": [
+          "lernen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "11bad3db-20c2-4a6f-a7f4-d6bb5b0fd0f3",
+        "deExample": "Er lernt häufig, weil er fleißig ist.",
+        "translateExample": "Он часто учится, потому что он прилежный.",
+        "collocations": [
+          "lernen",
+          "fleißig"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7a2a52e6-21ef-4a84-af64-a9ca5fb656ae",
+        "deExample": "Du wirst lernen, wenn du häufig übst.",
+        "translateExample": "Ты будешь учиться, если будешь часто тренироваться.",
+        "collocations": [
+          "lernen",
+          "üben"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e1cd496c-7e2b-4d47-ae1b-1aa68afb80f1",
+        "deExample": "Häufig wird gelernt.",
+        "translateExample": "Часто учатся.",
+        "collocations": [
+          "lernen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "56319fe3-6d20-4de4-b109-064fe10faa7e",
+        "deExample": "Ich versuche, häufig zu lesen.",
+        "translateExample": "Я стараюсь часто читать.",
+        "collocations": [
+          "lesen",
+          "versuchen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8aaed49c-bd3c-486f-a71c-5f8504106650",
+        "deExample": "Willst du häufiger lernen?",
+        "translateExample": "Ты хочешь учиться чаще?",
+        "collocations": [
+          "lernen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0a5d715a-9ebc-4fd8-8b5d-be279f8bf8cc",
+        "deExample": "Ich lese, um häufig zu lernen.",
+        "translateExample": "Я читаю, чтобы часто учиться.",
+        "collocations": [
+          "lesen",
+          "lernen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "bd4daeb1-77a8-484a-ba91-993b50924146",
+    "deWord": "wiegen - wog - gewogen",
+    "translateWord": "взвешивать, весить",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "9a923802-3b8b-4b38-bdf1-dec5a751e4c3",
+        "deExample": "Das Baby wiegt 3 Kilo.",
+        "translateExample": "Ребёнок весит 3 кг.",
+        "collocations": [
+          "das Baby"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "77d075c9-666c-424d-982e-c5f7703b7e22",
+        "deExample": "Wiegt das Paket viel?",
+        "translateExample": "Посылка много весит?",
+        "collocations": [
+          "das Paket"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f6e8726c-8a52-4ab7-8563-2aa70d2f8df7",
+        "deExample": "Das Paket wiegt nicht viel.",
+        "translateExample": "Посылка не много весит.",
+        "collocations": [
+          "das Paket",
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c2ca730b-ab8a-4b9f-b042-0e8dfc4cbf17",
+        "deExample": "Das Paket hat 5 Kilo gewogen.",
+        "translateExample": "Посылка весила 5 кг.",
+        "collocations": [
+          "das Paket"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a2384928-2567-41a8-9bde-780ff9dc128e",
+        "deExample": "Ich will das Paket wiegen.",
+        "translateExample": "Я хочу взвесить посылку.",
+        "collocations": [
+          "das Paket"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "56546f34-ac61-422e-b23e-1f414b7ef88d",
+        "deExample": "Ich wiege das Paket, weil ich es verschicken will.",
+        "translateExample": "Я взвешиваю посылку, потому что хочу её отправить.",
+        "collocations": [
+          "das Paket",
+          "verschicken"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "352f47b0-b2b1-4d35-abcb-d73b801436b8",
+        "deExample": "Ich werde das Paket wiegen, wenn ich Zeit habe.",
+        "translateExample": "Я взвешу посылку, когда у меня будет время.",
+        "collocations": [
+          "das Paket",
+          "Zeit"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c2c15801-8e13-45dc-bb34-8af4164d135b",
+        "deExample": "Das Paket wird gewogen.",
+        "translateExample": "Посылку взвешивают.",
+        "collocations": [
+          "das Paket"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "387086b2-5121-4d82-8d4c-492932fe77f9",
+        "deExample": "Ich vergesse oft, das Paket zu wiegen.",
+        "translateExample": "Я часто забываю взвесить посылку.",
+        "collocations": [
+          "das Paket",
+          "vergessen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e771f9b5-8c2e-44b5-acd0-20cc9e11d9a9",
+        "deExample": "Willst du das Paket wiegen?",
+        "translateExample": "Ты хочешь взвесить посылку?",
+        "collocations": [
+          "das Paket"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "72ea5887-d3ca-4087-8c17-bcfb9a0ab1a7",
+        "deExample": "Ich arbeite, um das Paket zu wiegen.",
+        "translateExample": "Я работаю, чтобы взвесить посылку.",
+        "collocations": [
+          "arbeiten",
+          "das Paket"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "24a92067-ebab-4c83-b733-024f34dd9d07",
+    "deWord": "rudern - ruderte - gerudert",
+    "translateWord": "грести (на лодке)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "b8a02ee9-49fc-42e0-a25b-2401f9833d02",
+        "deExample": "Wir rudern auf dem See.",
+        "translateExample": "Мы гребём по озеру.",
+        "collocations": [
+          "der See"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1b1da13c-3b6f-47fd-9af6-2be95179f0c7",
+        "deExample": "Ruderst du gerne?",
+        "translateExample": "Ты любишь грести?",
+        "collocations": [],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "022d6739-2618-4e18-92c7-6809a2aa1897",
+        "deExample": "Er rudert nicht oft.",
+        "translateExample": "Он не часто гребёт.",
+        "collocations": [],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8d8e164e-10df-4b51-b905-0805d14e9556",
+        "deExample": "Wir sind gestern gerudert.",
+        "translateExample": "Мы вчера гребли.",
+        "collocations": [
+          "gestern"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "65726fe4-0bd7-44b3-9c24-560428e79b73",
+        "deExample": "Ich will morgen rudern.",
+        "translateExample": "Я хочу завтра грести.",
+        "collocations": [
+          "morgen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a417c53e-2326-403a-9c61-07a69ffe84d2",
+        "deExample": "Wir rudern, weil das Wetter schön ist.",
+        "translateExample": "Мы гребём, потому что погода хорошая.",
+        "collocations": [
+          "das Wetter"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "12c22ced-d689-4187-b3dc-665f84cac399",
+        "deExample": "Wir werden rudern, wenn es warm ist.",
+        "translateExample": "Мы будем грести, когда будет тепло.",
+        "collocations": [
+          "warm"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9c18dae6-7002-4a72-855f-830c40fae406",
+        "deExample": "Es wird gerudert.",
+        "translateExample": "Гребут.",
+        "collocations": [],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b0759157-35b1-4654-ac23-5d29fe5f9cd0",
+        "deExample": "Ich vergesse oft, zu rudern.",
+        "translateExample": "Я часто забываю грести.",
+        "collocations": [
+          "vergessen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d023014d-f2dc-4972-9fe4-eaca2837cb71",
+        "deExample": "Willst du heute rudern?",
+        "translateExample": "Ты хочешь сегодня грести?",
+        "collocations": [
+          "heute"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e7fc25b1-dc1d-45db-bafd-a612cd0776aa",
+        "deExample": "Ich trainiere, um besser zu rudern.",
+        "translateExample": "Я тренируюсь, чтобы лучше грести.",
+        "collocations": [
+          "trainieren"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "d3ba0b28-3e92-438c-a123-7adf6b9bd3bd",
+    "deWord": "tauchen - tauchte - getaucht",
+    "translateWord": "нырять",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "f182970f-9020-467c-8481-fb89d2333471",
+        "deExample": "Ich tauche im Meer.",
+        "translateExample": "Я ныряю в море.",
+        "collocations": [
+          "das Meer"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fe843d1b-90e7-478e-bb50-a87ab4c55551",
+        "deExample": "Tauchst du oft?",
+        "translateExample": "Ты часто ныряешь?",
+        "collocations": [],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "88d05d70-6778-407c-8cdc-55609c54c239",
+        "deExample": "Er taucht nicht tief.",
+        "translateExample": "Он не ныряет глубоко.",
+        "collocations": [
+          "tief"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "94542ecf-6a67-4ac9-bccb-a473e2de1197",
+        "deExample": "Ich bin gestern getaucht.",
+        "translateExample": "Я нырял вчера.",
+        "collocations": [
+          "gestern"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "be422df9-19d4-45a2-a537-41389cafbd2b",
+        "deExample": "Ich will morgen tauchen.",
+        "translateExample": "Я хочу завтра нырять.",
+        "collocations": [
+          "morgen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3e9aab96-7050-47dd-a4b3-ab7b934f31f8",
+        "deExample": "Ich tauche, weil das Wasser klar ist.",
+        "translateExample": "Я ныряю, потому что вода чистая.",
+        "collocations": [
+          "das Wasser"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ecf53d66-2466-4cd3-8f74-e299dbaea2e8",
+        "deExample": "Ich werde tauchen, wenn ich Zeit habe.",
+        "translateExample": "Я буду нырять, когда у меня будет время.",
+        "collocations": [
+          "Zeit"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "72ea5188-b577-41c6-8d56-a5ad0765afeb",
+        "deExample": "Es wird getaucht.",
+        "translateExample": "Ныряют.",
+        "collocations": [],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0e04ce95-6dd0-42a5-bdc5-aafdab097101",
+        "deExample": "Ich vergesse oft, tief zu tauchen.",
+        "translateExample": "Я часто забываю нырять глубоко.",
+        "collocations": [
+          "tief",
+          "vergessen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "42974968-d38b-4321-8f77-07dcb69331f8",
+        "deExample": "Willst du mit mir tauchen?",
+        "translateExample": "Ты хочешь нырять со мной?",
+        "collocations": [
+          "mit mir"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "773e4c7b-4564-452e-aa45-0ab9d5ad72e8",
+        "deExample": "Ich übe, um besser zu tauchen.",
+        "translateExample": "Я тренируюсь, чтобы лучше нырять.",
+        "collocations": [
+          "üben"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,208 @@
+[
+  {
+    "id": "8f5ab6a5-d163-48ed-82ab-4099c4ac8a20",
+    "deWord": "die Möglichkeit",
+    "translateWord": "возможность (для, zu + Dativ / zu + Infinitiv)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "ed6d51b4-adaa-4025-b6f0-7f6db9a9958d",
+        "deExample": "Es gibt viele Möglichkeiten hier.",
+        "translateExample": "Здесь есть много возможностей.",
+        "collocations": [
+          "hier"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "80575a4b-4be7-4f83-bcb9-fa6fdd24ceb6",
+        "deExample": "Hast du die Möglichkeit, morgen zu kommen?",
+        "translateExample": "У тебя есть возможность прийти завтра?",
+        "collocations": [
+          "kommen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "36fa1e95-ccc7-4ccc-8cb8-d367c86b54c2",
+        "deExample": "Ich habe keine Möglichkeit, das zu tun.",
+        "translateExample": "У меня нет возможности это сделать.",
+        "collocations": [
+          "tun"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9378c6b0-d01b-407c-8f27-f1ea41f8598c",
+        "deExample": "Wir haben die Möglichkeit gehabt, ihn zu sehen.",
+        "translateExample": "У нас была возможность его увидеть.",
+        "collocations": [
+          "sehen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "24401e01-781e-49bf-ae38-437158e90595",
+        "deExample": "Man kann diese Möglichkeit nutzen.",
+        "translateExample": "Можно воспользоваться этой возможностью.",
+        "collocations": [
+          "nutzen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7a262791-1363-4653-bc18-b29ce757ce86",
+        "deExample": "Ich nehme die Möglichkeit, weil sie wichtig ist.",
+        "translateExample": "Я воспользуюсь возможностью, потому что это важно.",
+        "collocations": [
+          "wichtig"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1d87c0bc-8695-4a75-9cc6-2acad2092f24",
+        "deExample": "Ich werde die Möglichkeit nutzen, wenn sie kommt.",
+        "translateExample": "Я воспользуюсь возможностью, когда она появится.",
+        "collocations": [
+          "kommen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "993aa394-ada6-4df0-ac72-120f168d325b",
+        "deExample": "Die Möglichkeit wird genutzt.",
+        "translateExample": "Возможность используется.",
+        "collocations": [
+          "nutzen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "72a2f4cc-da82-4b0f-83b2-2f385898f1ef",
+        "deExample": "Es ist wichtig, die Möglichkeit zu nutzen.",
+        "translateExample": "Важно воспользоваться возможностью.",
+        "collocations": [
+          "wichtig",
+          "nutzen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5e51eed9-3727-4d24-9be8-9717ca89804a",
+        "deExample": "Hast du vor, die Möglichkeit zu nutzen?",
+        "translateExample": "Ты планируешь воспользоваться возможностью?",
+        "collocations": [
+          "vorhaben",
+          "nutzen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "50b5f632-9f79-4c55-8c4c-5c1af444bcf8",
+        "deExample": "Ich lerne Deutsch, um bessere Möglichkeiten zu haben.",
+        "translateExample": "Я учу немецкий, чтобы иметь лучшие возможности.",
+        "collocations": [
+          "lernen",
+          "Deutsch"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

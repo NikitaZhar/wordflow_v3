@@ -1,0 +1,207 @@
+[
+  {
+    "id": "5d385cd2-1913-4688-b3ce-05ef4b5bd7ff",
+    "deWord": "unbedingt",
+    "translateWord": "обязательно",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "ee27f27a-3233-4a35-9b5b-0dca4c12c41a",
+        "deExample": "Ich muss unbedingt gehen.",
+        "translateExample": "Мне нужно обязательно идти.",
+        "collocations": [
+          "gehen"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6534fbb3-3f83-49ef-ba6f-6e9cc7fa32dc",
+        "deExample": "Muss ich unbedingt bezahlen?",
+        "translateExample": "Мне обязательно нужно платить?",
+        "collocations": [
+          "bezahlen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "33be5a17-74df-48c6-9b38-31316ece8835",
+        "deExample": "Du musst nicht unbedingt kommen.",
+        "translateExample": "Тебе не обязательно приходить.",
+        "collocations": [
+          "kommen"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "81aba090-bb4d-442f-8895-a74b4e930da2",
+        "deExample": "Ich habe es unbedingt gemacht.",
+        "translateExample": "Я сделал это обязательно.",
+        "collocations": [
+          "machen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f2e28fd6-3b2e-4dc2-bda8-63c54cd3e6bc",
+        "deExample": "Du sollst unbedingt mitkommen.",
+        "translateExample": "Тебе следует обязательно пойти с нами.",
+        "collocations": [
+          "mitkommen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "71d7e8de-f7ec-42d1-9112-e967f2666e85",
+        "deExample": "Ich gehe, weil es unbedingt wichtig ist.",
+        "translateExample": "Я иду, потому что это обязательно важно.",
+        "collocations": [
+          "wichtig"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c4bcdd74-2473-4cec-82a9-8f91ec8bedd2",
+        "deExample": "Ich werde unbedingt helfen, wenn es nötig ist.",
+        "translateExample": "Я обязательно помогу, если это будет нужно.",
+        "collocations": [
+          "helfen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7d2c3134-b70d-4416-b79a-efebd712c28e",
+        "deExample": "Es wird unbedingt gemacht.",
+        "translateExample": "Это обязательно делается.",
+        "collocations": [
+          "machen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "53f1795d-1a68-4db5-89a4-bed14ab55bf7",
+        "deExample": "Er versucht, unbedingt zu gewinnen.",
+        "translateExample": "Он старается обязательно победить.",
+        "collocations": [
+          "gewinnen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2bab045d-35da-4229-bca9-8a2f52543cb1",
+        "deExample": "Willst du lernen, unbedingt zu sprechen?",
+        "translateExample": "Ты хочешь научиться обязательно говорить?",
+        "collocations": [
+          "lernen",
+          "sprechen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "212288b8-d347-4691-afeb-b378bb4bbd8e",
+        "deExample": "Er trainiert, um unbedingt zu gewinnen.",
+        "translateExample": "Он тренируется, чтобы обязательно победить.",
+        "collocations": [
+          "trainieren",
+          "gewinnen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

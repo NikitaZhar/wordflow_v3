@@ -1,7 +1,7 @@
 /Users/nikitazharinov/eclipse-workspace/wordflow_v3/src/main/java/com/wordflow/DatabaseConnector.java
 /Users/nikitazharinov/eclipse-workspace/wordflow_v3/src/main/java/com/wordflow/WordflowApp.java
 /Users/nikitazharinov/eclipse-workspace/wordflow_v3/src/main/java/com/wordflow/config/AppDefaults.java
-/Users/nikitazharinov/eclipse-workspace/wordflow_v3/src/main/java/com/wordflow/exercise/AdjectiveDeclensionExercise.java
+/Users/nikitazharinov/eclipse-workspace/wordflow_v3/src/main/java/com/wordflow/editor/Editor.java
 /Users/nikitazharinov/eclipse-workspace/wordflow_v3/src/main/java/com/wordflow/exercise/BaseExercise.java
 /Users/nikitazharinov/eclipse-workspace/wordflow_v3/src/main/java/com/wordflow/exercise/Exercise.java
 /Users/nikitazharinov/eclipse-workspace/wordflow_v3/src/main/java/com/wordflow/exercise/NewExamplesExercise.java
@@ -9,12 +9,17 @@
 /Users/nikitazharinov/eclipse-workspace/wordflow_v3/src/main/java/com/wordflow/exercise/ReviewExamplesExercise.java
 /Users/nikitazharinov/eclipse-workspace/wordflow_v3/src/main/java/com/wordflow/exercise/ReviewWordsExercise.java
 /Users/nikitazharinov/eclipse-workspace/wordflow_v3/src/main/java/com/wordflow/model/Dictionary.java
+/Users/nikitazharinov/eclipse-workspace/wordflow_v3/src/main/java/com/wordflow/model/Example.java
 /Users/nikitazharinov/eclipse-workspace/wordflow_v3/src/main/java/com/wordflow/model/FlashCard.java
 /Users/nikitazharinov/eclipse-workspace/wordflow_v3/src/main/java/com/wordflow/model/Lesson.java
 /Users/nikitazharinov/eclipse-workspace/wordflow_v3/src/main/java/com/wordflow/model/Progress.java
 /Users/nikitazharinov/eclipse-workspace/wordflow_v3/src/main/java/com/wordflow/repository/DictionaryRepository.java
 /Users/nikitazharinov/eclipse-workspace/wordflow_v3/src/main/java/com/wordflow/ui/InteractionHandler.java
+/Users/nikitazharinov/eclipse-workspace/wordflow_v3/src/main/java/com/wordflow/ui/menu/EditorMenuController.java
+/Users/nikitazharinov/eclipse-workspace/wordflow_v3/src/main/java/com/wordflow/ui/menu/EditorMenuDisplay.java
+/Users/nikitazharinov/eclipse-workspace/wordflow_v3/src/main/java/com/wordflow/ui/menu/EditorMenuHandler.java
 /Users/nikitazharinov/eclipse-workspace/wordflow_v3/src/main/java/com/wordflow/ui/menu/MainMenuController.java
 /Users/nikitazharinov/eclipse-workspace/wordflow_v3/src/main/java/com/wordflow/ui/menu/MainMenuDisplay.java
 /Users/nikitazharinov/eclipse-workspace/wordflow_v3/src/main/java/com/wordflow/ui/menu/MainMenuHandler.java
+/Users/nikitazharinov/eclipse-workspace/wordflow_v3/src/main/java/com/wordflow/ui/statistics/CardSnapshot.java
 /Users/nikitazharinov/eclipse-workspace/wordflow_v3/src/main/java/com/wordflow/ui/statistics/Statistics.java

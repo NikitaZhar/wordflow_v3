@@ -1,0 +1,212 @@
+[
+  {
+    "id": "04be4e3d-38bc-48bf-8462-4bd2ff411f7c",
+    "deWord": "die Angst",
+    "translateWord": "страх (перед, vor + Dativ)",
+    "wordProgress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "a3afa17d-f520-4044-b8e5-ebd7823e4b5d",
+        "deExample": "Ich habe Angst vor Spinnen.",
+        "translateExample": "Я боюсь пауков.",
+        "collocations": [
+          "die Spinne"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b942d95b-0e6b-42e4-b807-b880d2b66153",
+        "deExample": "Hast du Angst vor dem Zahnarzt?",
+        "translateExample": "Ты боишься стоматолога?",
+        "collocations": [
+          "der Zahnarzt"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c9f77d6d-3001-49c2-b710-964b78372c8e",
+        "deExample": "Er hat keine Angst vor dem Fliegen.",
+        "translateExample": "Он не боится летать.",
+        "collocations": [
+          "das Fliegen"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9b5c3120-4e7a-44f9-a177-960fc6154a60",
+        "deExample": "Wir hatten große Angst vor dem Gewitter.",
+        "translateExample": "Мы сильно боялись грозы.",
+        "collocations": [
+          "das Gewitter",
+          "groß"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a6be6400-83b3-44ad-a349-de02127acde8",
+        "deExample": "Man muss keine Angst vor Fehlern haben.",
+        "translateExample": "Не нужно бояться ошибок.",
+        "collocations": [
+          "der Fehler"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f57a733f-2ea8-49aa-b635-b4f995ba78fe",
+        "deExample": "Er bleibt ruhig, obwohl er Angst vor der Prüfung hat.",
+        "translateExample": "Он остаётся спокойным, хотя боится экзамена.",
+        "collocations": [
+          "die Prüfung",
+          "ruhig"
+        ],
+        "grammarTags": [
+          "obwohl"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "494cef36-4491-47a2-98ae-0a8f6f561aab",
+        "deExample": "Ich werde keine Angst mehr haben, wenn du bei mir bist.",
+        "translateExample": "Я больше не буду бояться, если ты будешь рядом.",
+        "collocations": [
+          "mehr",
+          "bei mir"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "213d3db1-bc11-4161-abbf-bf1010546fce",
+        "deExample": "Viele Menschen sind von Angst gelähmt.",
+        "translateExample": "Многие люди парализованы страхом.",
+        "collocations": [
+          "der Mensch",
+          "lähmen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c509f18f-1227-4360-b1a6-3dd56925cb56",
+        "deExample": "Er versucht, seine Angst zu kontrollieren.",
+        "translateExample": "Он пытается контролировать свой страх.",
+        "collocations": [
+          "kontrollieren"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3fc6651c-15f1-4f83-9518-6b82f11189de",
+        "deExample": "Wie kann man lernen, mit Angst umzugehen?",
+        "translateExample": "Как можно научиться справляться со страхом?",
+        "collocations": [
+          "lernen",
+          "umgehen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "923a362a-3242-4558-b37e-54813a89cdb6",
+        "deExample": "Ich atme tief, um meine Angst zu reduzieren.",
+        "translateExample": "Я глубоко дышу, чтобы уменьшить свой страх.",
+        "collocations": [
+          "atmen",
+          "tief",
+          "reduzieren"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,199 @@
+[
+  {
+    "id": "d1ff4c76-b964-438e-bd64-a0bceb655a35",
+    "deWord": "sich beschweren - beschwerte - beschwert",
+    "translateWord": "жаловаться (на, über + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "734b977d-4dca-4ae0-aa15-f185d2457484",
+        "deExample": "Ich beschwere mich über das Essen.",
+        "translateExample": "Я жалуюсь на еду.",
+        "collocations": [
+          "Essen"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d47843d7-2962-4f26-a598-d3299d42bbb3",
+        "deExample": "Beschwerst du dich oft?",
+        "translateExample": "Ты часто жалуешься?",
+        "collocations": [
+          "oft"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6a0f8c22-0133-4070-bb62-7684a87d273c",
+        "deExample": "Er beschwert sich nicht.",
+        "translateExample": "Он не жалуется.",
+        "collocations": [],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "defb1964-c770-40a1-8aa7-4f060210fa60",
+        "deExample": "Ich habe mich gestern beschwert.",
+        "translateExample": "Я пожаловался вчера.",
+        "collocations": [
+          "gestern"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fcb08137-7a40-46a0-8e3b-c85b8ec340ba",
+        "deExample": "Du sollst dich nicht beschweren.",
+        "translateExample": "Тебе не следует жаловаться.",
+        "collocations": [],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9323fcbc-c758-4803-b1a3-6b4ad8588d81",
+        "deExample": "Er beschwert sich, weil er müde ist.",
+        "translateExample": "Он жалуется, потому что устал.",
+        "collocations": [
+          "müde"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1aa02311-9273-4558-b682-7cee1dd5aba0",
+        "deExample": "Ich werde mich beschweren, wenn es wieder passiert.",
+        "translateExample": "Я пожалуюсь, если это снова случится.",
+        "collocations": [
+          "passieren"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c72fca4e-8968-4b34-bd37-64b70a880aab",
+        "deExample": "Es wird sich oft beschwert.",
+        "translateExample": "Часто жалуются.",
+        "collocations": [],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fd3bb46c-4c0b-4fb7-a548-1467f79b5142",
+        "deExample": "Es ist wichtig, sich zu beschweren.",
+        "translateExample": "Важно жаловаться.",
+        "collocations": [
+          "wichtig"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d8e298d3-e0bd-44dd-8143-e57d241af307",
+        "deExample": "Warum hast du dich beschwert?",
+        "translateExample": "Почему ты пожаловался?",
+        "collocations": [
+          "warum"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1d7a6c1a-3647-4cfa-8e88-21f32b486701",
+        "deExample": "Ich rufe an, um mich zu beschweren.",
+        "translateExample": "Я звоню, чтобы пожаловаться.",
+        "collocations": [
+          "anrufen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

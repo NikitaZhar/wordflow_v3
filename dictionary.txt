@@ -1,226 +1,204 @@
-ни . . . ни;weder noch;WORD;12;2025-04-18T12:16:06.344397
-Моя подруга не ест ни овощи, ни фрукты;Meine Freundin isst weder Gemüse noch Obst;EXAMPLE;12;2025-04-17T10:16:07.136125
-интересоваться (чем-либо, für);sich interessieren - interessierte - interessiert;WORD;8;2025-04-19T09:22:44.242188
-Он интересуется историей, потому что она увлекательная;Er interessiert sich für Geschichte, weil sie spannend ist;EXAMPLE;8;2025-04-19T09:11:39.552056
-концентрироваться (на, auf);sich konzentrieren - konzentrierte - konzentriert;WORD;9;2025-04-19T09:22:09.435683
-Я концентрируюсь на задании;Ich konzentriere mich auf die Aufgabe;EXAMPLE;7;2025-04-19T09:07:52.024454
-вспоминать (о чем-то, an);sich erinnern - erinnerte - erinnert;WORD;5;2025-04-19T09:05:58.188233
-Мы вспоминаем поездку;Wir erinnern uns an die Reise;EXAMPLE;7;2025-04-19T09:08:27.718992
-страх;die Angst;WORD;7;2025-04-19T09:16:37.287321
-Я очень боюсь пауков;Ich habe große Angst vor Spinnen;EXAMPLE;3;2025-04-19T09:04:21.518935
-быть разочарованным (в чем-то, sein von);enttäuscht;WORD;9;2025-04-19T09:23:00.936769
-Я разочарован фильмом;Ich bin enttäuscht von dem Film;EXAMPLE;0;2025-04-18T19:01:40.028648
-быть довольным (чем-либо, sein mit);zufrieden;WORD;7;2025-04-19T09:16:21.007380
-Я доволен результатом, потому что (так как) много работал.;Ich bin zufrieden mit dem Ergebnis, denn ich habe viel gearbeitet;EXAMPLE;0;2025-04-19T09:25:39.997281
-обращать внимание (на, auf);achten - achtete - geachtet;WORD;7;2025-04-19T09:16:01.175090
-Ты должен смотреть на дорогу, чтобы избежать аварии.;Du musst auf die Straße achten, um einen Unfall zu vermeiden;EXAMPLE;0;2025-04-10T14:02:39.048851
-рассказывать (о чем-то, von);erzählen - erzählte - erzählt;WORD;12;2025-04-18T12:16:19.968279
-Мы рассказываем о нашем новом проекте;Wir erzählen von unserem neuen Projekt;EXAMPLE;0;2025-04-14T13:21:32.324976
-мечтать, видеть во сне (von etw);träumen - träumte - geträumt;WORD;7;2025-04-19T09:16:31.221365
-Я мечтаю о новой работе;Ich träume von einem neuen Job;EXAMPLE;0;2025-03-25T14:40:50.122211
-зли́ться (über jmdn./etw. на кого́-л./что-л.);sich ärgern - ärgerte - geärgert;WORD;5;2025-04-19T09:06:16.300739
-Я разозлился из-за пробки;Ich habe mich über den Stau geärgert;EXAMPLE;0;2025-03-30T11:35:52.968198
-заботиться (о ком-то, um);sich kümmern - kümmerte - gekümmert;WORD;5;2025-04-19T09:07:00.107197
-Я забочусь о брате, потому что он болеет;Ich kümmere mich um meinen Bruder, weil er krank ist;EXAMPLE;0;2025-04-10T14:02:39.048778
-радоваться (чему-то в буд - auf, чему-то в прош - über);sich freuen - freute - gefreut;WORD;5;2025-04-19T09:06:28.686865
-Я радуюсь твоему визиту;Ich freue mich auf deinen Besuch;EXAMPLE;0;2025-03-25T19:37:18.777976
-состояться, происходить (что-то где-то);stattfinden - fand statt - stattgefunden;WORD;12;2025-04-18T12:18:27.498152
-Воркшоп состоится в среду вечером;Der Workshop findet am Mittwochabend statt;EXAMPLE;12;2025-04-17T10:16:31.471221
-получать (etw + Akk);bekommen - bekam - bekommen;WORD;12;2025-04-18T12:18:50.269977
-Я получил подарок;Ich habe ein Geschenk bekommen;EXAMPLE;12;2025-04-17T10:23:14.667493
-переночевать;übernachten - übernachtete - übernachtet;WORD;12;2025-04-18T12:19:07.337066
-Я ночую у своего коллеги;Ich übernachte bei meinem Kollegen;EXAMPLE;12;2025-04-17T10:23:01.246156
-проигрывать, терять (etw + Akk);verlieren - verlor - verloren;WORD;12;2025-04-18T12:19:13.209599
-Она проиграла игру;Sie hat das Spiel verloren;EXAMPLE;11;2025-04-18T12:28:36.516511
-знаменитый, известный;bekannt;WORD;12;2025-04-18T12:18:40.719226
-Этот актёр очень известный;Dieser Schauspieler ist sehr bekannt;EXAMPLE;12;2025-04-17T13:52:10.188851
-готов, законченный;fertig;WORD;12;2025-04-18T12:18:56.008593
-Ты закончил работу?;Bist du fertig mit der Arbeit?;EXAMPLE;11;2025-04-18T12:28:50.904563
-образование;die Ausbildung;WORD;11;2025-04-18T08:15:55.402820
-Ирина учится на учителя;Irina macht eine Ausbildung zur Lehrerin;EXAMPLE;8;2025-04-19T09:11:01.291234
-письмо;der Brief;WORD;12;2025-04-18T12:19:00.958685
-Я написал письмо;Ich habe einen Brief geschrieben;EXAMPLE;12;2025-04-18T13:32:28.205802
-вообще не, нисколько;gar nicht;WORD;9;2025-04-18T08:13:33.575931
-Я совсем этого не понимаю;Ich verstehe das gar nicht;EXAMPLE;12;2025-04-18T13:31:51.912166
-действительно, на самом деле;wirklich;WORD;12;2025-04-18T12:18:33.990333
-Это действительно опасно;Das ist wirklich gefährlich;EXAMPLE;12;2025-04-18T13:32:11.376252
-просить (jmdn um etw);bitten - bat - gebeten;WORD;12;2025-04-18T12:23:30.393454
-Я прошу выключить телефоны;Ich bitte Sie die Handys auszuschalten;EXAMPLE;12;2025-04-18T14:09:44.642694
-на очереди, следующий;dran;WORD;12;2025-04-18T12:22:46.270706
-Ты следующий;Du bist dran;EXAMPLE;12;2025-04-18T14:09:50.863436
-объяснять (jmdm etw);erklären - erklärte - erklärt;WORD;12;2025-04-18T12:22:55.145637
-Учитель объясняет задание, потому что оно сложное;Der Lehrer erklärt die Aufgabe, weil sie schwer ist;EXAMPLE;12;2025-04-19T09:14:26.936130
-стараться (to try);versuchen - versuchte - versucht;WORD;12;2025-04-18T12:23:21.135989
-Она пыталась помочь;Sie hat versucht zu helfen;EXAMPLE;10;2025-04-18T12:17:18.041197
-случайно;zufällig;WORD;12;2025-04-18T12:23:08.883895
-Я случайно встретил его, потому что (так как) был в городе;Ich habe ihn zufällig getroffen, denn ich war in der Stadt;EXAMPLE;10;2025-04-18T12:16:58.500048
-отменить;absagen - sagte ab - abgesagt;WORD;12;2025-04-18T12:23:14.509061
-Он отменил встречу, потому что заболел;Er hat das Treffen abgesagt, weil er krank ist;EXAMPLE;10;2025-04-18T12:19:35.417427
-принимать (активное) участие, be involved (в чём-то, bei + Dativ);mitmachen - machte mit - mitgemacht;WORD;11;2025-04-17T10:05:44.048931
-Я поучаствовал в игре;Ich habe beim Spiel mitgemacht;EXAMPLE;10;2025-04-18T12:20:13.243667
-целый;ganz;WORD;12;2025-04-18T12:23:25.241871
-Я учился весь день, поэтому я устал;Ich habe den ganzen Tag gelernt, deshalb bin ich müde;EXAMPLE;0;2025-04-13T14:49:08.469168
-выключить (прибор, устройство);ausschalten - schaltete aus - ausgeschaltet;WORD;12;2025-04-18T12:23:02.651198
-Я выключаю свет, потому что хочу спать;Ich schalte das Licht aus, weil ich schlafen möchte;EXAMPLE;0;2025-04-13T10:42:36.499193
-выигрывать;gewinnen - gewann - gewonnen;WORD;12;2025-04-18T12:27:30.981329
+ни . . . ни;weder noch;WORD;7;2025-04-04T13:28:35.063622
+Моя подруга не ест ни овощи, ни фрукты;Meine Freundin isst weder Gemüse noch Obst;EXAMPLE;6;2025-04-06T11:20:53.732635
+состояться, происходить (что-то где-то);stattfinden - fand statt - stattgefunden;WORD;7;2025-04-04T13:34:12.888560
+Воркшоп состоится в среду вечером;Der Workshop findet am Mittwochabend statt;EXAMPLE;7;2025-04-06T11:20:53.732636
+получать;bekommen - bekam - bekommen;WORD;7;2025-04-04T13:34:12.888561
+Я получил подарок;Ich habe ein Geschenk bekommen;EXAMPLE;7;2025-04-06T11:24:21.668039
+переночевать;übernachten - übernachtete - übernachtet;WORD;7;2025-04-06T11:18:32.569631
+Я ночую у своего коллеги;Ich übernachte bei meinem Kollegen;EXAMPLE;7;2025-04-06T11:24:21.668041
+проигрывать, терять;verlieren - verlor - verloren;WORD;7;2025-04-06T11:18:32.569632
+Она проиграла игру;Sie hat das Spiel verloren;EXAMPLE;7;2025-04-06T11:24:21.668042
+знаменитый, известный;bekannt;WORD;7;2025-04-06T11:22:54.106175
+Этот актёр очень известный;Dieser Schauspieler ist sehr bekannt;EXAMPLE;7;2025-04-06T11:26:21.376074
+готов, законченный;fertig;WORD;7;2025-04-06T11:22:54.106177
+Ты закончил работу?;Bist du fertig mit der Arbeit?;EXAMPLE;2;2025-04-06T11:20:53.732633
+образование;die Ausbildung;WORD;7;2025-04-06T11:22:54.106178
+Ирина учится на учителя;Irina macht eine Ausbildung zur Lehrerin;EXAMPLE;1;2025-04-06T11:19:18.525247
+письмо;der Brief;WORD;7;2025-04-06T11:22:54.106180
+Я написал письмо;Ich habe einen Brief geschrieben;EXAMPLE;1;2025-04-06T11:23:22.680565
+вообще не, нисколько;gar nicht;WORD;7;2025-04-06T11:22:54.106181
+Я совсем этого не понимаю;Ich verstehe das gar nicht;EXAMPLE;1;2025-04-06T11:26:03.083091
+действительно, на самом деле;wirklich;WORD;7;2025-04-06T11:22:54.106183
+Это действительно опасно;Das ist wirklich gefährlich;EXAMPLE;0;2025-03-31T11:22:17.241582
+просить (jmdn um etw);bitten - bat - gebeten;WORD;7;2025-04-06T11:25:41.958219
+Я прошу выключить телефоны;Ich bitte Sie die Handys auszuschalten;EXAMPLE;0;2025-03-28T14:56:26.734661
+на очереди, следующий;dran;WORD;7;2025-04-06T11:25:41.958220
+Ты следующий;Du bist dran;EXAMPLE;0;2025-04-03T18:42:36.177767
+объяснять;erklären - erklärte - erklärt;WORD;7;2025-04-06T11:25:41.958222
+Учитель объясняет задание, потому что оно сложное;Der Lehrer erklärt die Aufgabe, weil sie schwer ist;EXAMPLE;0;2025-03-31T14:06:40.162605
+стараться (to try);versuchen - versuchte - versucht;WORD;7;2025-04-06T11:25:41.958223
+Я пытаюсь читать, не смотря на то, что шумно;Ich versuche zu lesen, obwohl es laut ist;EXAMPLE;0;2025-04-03T18:49:39.560188
+случайно;zufällig;WORD;7;2025-04-06T11:25:41.958225
+Я случайно встретил его, так как был в городе;Ich habe ihn zufällig getroffen, denn ich war in der Stadt;EXAMPLE;0;2025-03-23T17:57:18.025014
+отменить;absagen - sagte ab - abgesagt;WORD;7;2025-04-06T11:25:41.958226
+Он отменил встречу, потому что заболел;Er hat das Treffen abgesagt, weil er krank ist;EXAMPLE;0;2025-03-30T13:11:25.891539
+принимать участие, be involved;mitmachen - machte mit - mitgemacht;WORD;5;2025-04-05T19:30:32.974748
+Я участвую в соревновании, чтобы выиграть медаль;Ich nehme am Wettkampf teil, um eine Medaille zu gewinnen;EXAMPLE;0;2025-03-26T21:03:22.660727
+рассказывать;erzählen - erzählte - erzählt;WORD;4;2025-04-06T11:18:32.569626
+Моя бабушка рассказывает мне историю, чтобы я лучше заснул;Meine Oma erzählt mir eine Geschichte, damit ich besser einschlafe;EXAMPLE;0;2025-03-20T15:09:16.953001
+целый;ganz;WORD;5;2025-04-05T19:30:32.974749
+Я учился весь день, поэтому я устал;Ich habe den ganzen Tag gelernt, deshalb bin ich müde;EXAMPLE;0;2025-03-20T15:27:12.200420
+выключить (прибор, устройство);ausschalten - schaltete aus - ausgeschaltet;WORD;5;2025-04-06T11:18:32.569628
+Я выключаю свет, потому что хочу спать;Ich schalte das Licht aus, weil ich schlafen möchte;EXAMPLE;0;2025-03-29T13:12:43.986
+выигрывать;gewinnen - gewann - gewonnen;WORD;5;2025-04-06T11:18:32.569629
 Он выиграл игру, потому что хорошо тренировался;Er hat das Spiel gewonnen, weil er gut trainiert hat;EXAMPLE;0;2025-03-25T13:57:06.890439
-отчет;der Bericht;WORD;12;2025-04-18T12:27:46.225065
+отчет;der Bericht;WORD;2;2025-04-06T11:18:32.569630
 Ученик пишет отчет, потому что учитель этого потребовал;Der Schüler schreibt einen Bericht, weil der Lehrer es verlangt hat;EXAMPLE;0;2025-03-31T07:42:30.190217
-приезжать (по расписанию, in etw);ankommen - kam an - angekommen;WORD;12;2025-04-18T12:27:25.211866
+приезжать (по расписанию);ankommen - kam an - angekommen;WORD;0;2025-03-21T10:10:47.222951
 Мой поезд прибывает в 10 утра, поэтому мне нужно рано вставать;Mein Zug kommt um 10 Uhr an, deshalb muss ich früh aufstehen;EXAMPLE;0;2025-03-21T10:10:47.222951
-вставать (aus - с кровати, von - стула, стола + Dat);aufstehen - stand auf - aufgestanden;WORD;12;2025-04-18T12:27:53.943036
-Я сегодня встал поздно;Ich bin heute spät aufgestanden;EXAMPLE;0;2025-03-20T15:08:38.170571
-приводить, привозить (jmdn/etw + Akk);mitbringen - brachte mit - mitgebracht;WORD;11;2025-04-18T08:24:09.922509
+вставать;aufstehen - stand auf - aufgestanden;WORD;0;2025-03-20T15:08:38.170571
+Я встаю рано, чтобы пойти на работу;Ich stehe früh auf, um zur Arbeit zu gehen;EXAMPLE;0;2025-03-20T15:08:38.170571
+приводить, привозить;mitbringen - brachte mit - mitgebracht;WORD;0;2025-03-29T11:24:18.563316
 Я приношу торт, потому что мои друзья любят сладости;Ich bringe einen Kuchen mit, weil meine Freunde gerne Süßigkeiten essen;EXAMPLE;0;2025-03-29T11:24:18.563316
-опаздывать (куда-то / на что-то, zu + Dativ);sich verspäten - verspätete - verspätet;WORD;12;2025-04-18T12:28:12.427890
-Мы немного опаздываем;Wir verspäten uns ein bisschen;EXAMPLE;0;2025-03-21T11:48:28.853222
-сладость;die Süßigkeit;WORD;12;2025-04-18T12:28:22.587729
-На столе много сладостей;Es gibt viele Süßigkeiten auf dem Tisch;EXAMPLE;0;2025-03-21T16:35:43.115748
-участвовать, присутствовать (в чём-то, an + Dat);teilnehmen - nahm teil - teilgenommen;WORD;12;2025-04-18T12:27:40.003678
-Я принял участие в семинаре;Ich habe an dem Seminar teilgenommen;EXAMPLE;0;2025-03-21T16:37:05.411538
-подготовить (что-то, документы для подачи);vorbereiten - bereitete vor - vorbereitet;WORD;12;2025-04-18T12:28:02.731075
-Учительница готовит урок;Die Lehrerin bereitet den Unterricht vor;EXAMPLE;0;2025-03-21T18:35:40.705096
-готовиться (auf);sich vorbereiten - bereitete vor - vorbereitet;WORD;12;2025-04-18T14:09:25.256857
+опаздывать;verspäten - verspätete - verspätet;WORD;0;2025-03-21T11:48:28.853222
+Я опоздал, потому что автобус пришел поздно;Ich habe mich verspätet, weil der Bus zu spät kam;EXAMPLE;0;2025-03-21T11:48:28.853222
+сладость;die Süßigkeit;WORD;0;2025-03-21T16:35:43.115748
+Дети любят есть сладости, не смотря на то, что они не полезны;Kinder essen gern Süßigkeiten, obwohl sie nicht gesund sind;EXAMPLE;0;2025-03-21T16:35:43.115748
+участвовать (an);teilnehmen - nahm teil - teilgenommen;WORD;0;2025-03-21T16:37:05.411538
+Я участвую в курсе, потому что хочу выучить немецкий;Ich nehme am Kurs teil, weil ich Deutsch lernen möchte;EXAMPLE;0;2025-03-21T16:37:05.411538
+подготовить (что-то, документы для подачи);vorbereiten - bereitete vor - vorbereitet;WORD;0;2025-03-21T18:35:40.705096
+Учитель подготавливает материалы, чтобы ученики могли учиться;Der Lehrer bereitet die Unterlagen vor, damit die Schüler lernen können;EXAMPLE;0;2025-03-21T18:35:40.705096
+готовиться (auf);sich vorbereiten - bereitete vor - vorbereitet;WORD;0;2025-03-31T07:48:24.648632
 Я готовлюсь к экзамену, потому что он важный;Ich bereite mich auf die Prüfung vor, weil sie wichtig ist;EXAMPLE;0;2025-03-31T07:48:24.648632
-переводить (aus etw + Dat, in etw + Akk);übersetzen - übersetzte - übersetzt;WORD;11;2025-04-18T08:24:17.044668
-Как переводится это слово?;Wie übersetzt man dieses Wort?;EXAMPLE;0;2025-03-31T11:21:12.731364
-менять;wechseln - wechselte - gewechselt;WORD;10;2025-04-18T08:15:46.660026
+переводить;übersetzen - übersetzte - übersetzt;WORD;0;2025-03-31T11:21:12.731364
+Я перевожу текст, чтобы ты его понял;Ich übersetze den Text, damit du ihn verstehst;EXAMPLE;0;2025-03-31T11:21:12.731364
+менять;wechseln - wechselte - gewechselt;WORD;0;2025-03-25T19:17:59.813557
 Я меняю телефон, потому что старый сломан;Ich wechsle mein Handy, weil das alte kaputt ist;EXAMPLE;0;2025-03-25T19:17:59.813557
-ужастный;furchtbar;WORD;12;2025-04-18T14:09:14.457207
+ужастный;furchtbar;WORD;0;2025-03-29T11:38:11.275967
 Погода сегодня ужасно холодная;Das Wetter ist heute furchtbar kalt;EXAMPLE;0;2025-03-29T11:38:11.275967
-весьма, довольно;ziemlich;WORD;11;2025-04-17T10:13:02.839650
+весьма, довольно;ziemlich;WORD;0;2025-03-31T11:21:25.691070
 Это довольно тяжело;Es ist ziemlich schwer;EXAMPLE;0;2025-03-31T11:21:25.691070
-спешить;sich beeilen - eilte - geeilt;WORD;11;2025-04-17T10:12:18.230776
+спешить;sich beeilen - eilte - geeilt;WORD;0;2025-03-27T17:15:53.787702
 Мы опаздываем на митинг и должны поторопиться;Wir verspäten uns zum Meeting und müssen uns beeilen;EXAMPLE;0;2025-03-27T17:15:53.787702
-нервировать, раздражать;aufregen - regte auf - aufgeregt;WORD;11;2025-04-17T10:12:51.043542
+нервировать, раздражать;aufregen - regte auf - aufgeregt;WORD;0;2025-03-29T11:35:34.013294
 Дети иногда раздражают своих родителей;Die Kinder regen ihre Eltern manchmal auf;EXAMPLE;0;2025-03-29T11:35:34.013294
-настойчивый, срочный;dringend;WORD;11;2025-04-17T10:12:36.173865
+настойчивый, срочный;dringend;WORD;0;2025-03-31T14:06:20.916921
 Это срочно;Es ist dringend;EXAMPLE;0;2025-03-31T14:06:20.916921
-зарабатывать;verdienen - verdiente - verdient;WORD;11;2025-04-17T10:12:57.467501
+зарабатывать;verdienen - verdiente - verdient;WORD;0;2025-03-25T12:29:15.899530
 Я зарабытваю немного, поэтому я много экономлю;Ich verdiene wenig daher spare ich viel;EXAMPLE;0;2025-03-25T12:29:15.899530
-тратить;ausgeben - gab aus - ausgegeben;WORD;11;2025-04-17T10:13:08.631643
+тратить;ausgeben - gab aus - ausgegeben;WORD;0;2025-03-29T12:31:37.894729
 Тебе следовало бы меньше тратить и больше копить;Du solltest weniger ausgeben und mehr sparen;EXAMPLE;0;2025-03-29T12:31:37.894729
-копить;sparen - sparte - gespart;WORD;11;2025-04-17T10:12:31.759969
+копить;sparen - sparte - gespart;WORD;0;2025-03-20T15:09:21.358676
 Я сэкономил немного денег;Hatte ich doch etwas Geld gespart;EXAMPLE;0;2025-03-20T15:09:21.358676
-обязательно, непременно (настоятельная необходимость);unbedingt;WORD;11;2025-04-17T10:12:41.753253
+обязательно, непременно (настоятельная необходимость);unbedingt;WORD;0;2025-03-21T16:33:34.596958
 Мне обязательно нужно поговорить с тобой сейчас;Ich muss dich jetzt unbedingt sprechen;EXAMPLE;0;2025-03-21T16:33:34.596958
-даже;sogar;WORD;11;2025-04-17T10:15:22.496749
+даже;sogar;WORD;0;2025-03-21T18:45:29.251819
 Я даже три подарка купил;Ich habe sogar drei Geschenke gekauft;EXAMPLE;0;2025-03-21T18:45:29.251819
-смеяться;lachen - lachte - gelacht;WORD;11;2025-04-17T10:15:03.639154
+смеяться;lachen - lachte - gelacht;WORD;0;2025-03-21T10:17:54.291814
 Смеяться над шуткой;Über einen Witz lachen;EXAMPLE;0;2025-03-21T10:17:54.291814
-изучать, обследовать;untersuchen - untersuchte - untersucht;WORD;11;2025-04-17T10:15:08.871016
+изучать, обследовать;untersuchen - untersuchte - untersucht;WORD;0;2025-03-29T12:49:21.488718
 Врач осматривает пациента;Der Arzt untersucht den Patienten;EXAMPLE;0;2025-03-29T12:49:21.488718
-учить, преподавать;unterrichten - unterrichtete - unterrichtet;WORD;11;2025-04-17T10:15:29.432728
+учить, преподавать;unterrichten - unterrichtete - unterrichtet;WORD;0;2025-03-22T16:44:02.371303
 Она преподаёт немецкий в школе;Sie unterrichtet Deutsch in der Schule;EXAMPLE;0;2025-03-22T16:44:02.371303
-праздновать, веселиться;feiern - feierte - gefeiert;WORD;11;2025-04-17T10:15:14.008798
+праздновать, веселиться;feiern - feierte - gefeiert;WORD;0;2025-03-20T15:12:50.476996
 Тебе не следует так много веселиться;Du soltest nicht so viel feiern;EXAMPLE;0;2025-03-20T15:12:50.476996
-брать с собой;mitnehmen - nahm mit - mitgenommen;WORD;11;2025-04-17T10:15:37.841314
+брать с собой;mitnehmen - nahm mit - mitgenommen;WORD;0;2025-03-31T07:42:53.486784
 Я всегда беру с собой телефон;Ich nehme mein Handy immer mit;EXAMPLE;0;2025-03-31T07:42:53.486784
-приглашать;einladen - lud ein - eingeladen;WORD;11;2025-04-17T10:15:18.498321
+приглашать;einladen - lud ein - eingeladen;WORD;0;2025-03-20T15:11:30.270873
 Я пригласил на день рождения всех;Ich habe alle zum Geburtstag eingeladen;EXAMPLE;0;2025-03-20T15:11:30.270873
-лазить;klettern - kletterte - geklettert;WORD;11;2025-04-17T10:15:43.213779
+лазить;klettern - kletterte - geklettert;WORD;0;2025-03-31T07:47:49.201787
 Я лажу на скалодроме дважды в неделю;Ich klettere in der Kletterhalle zweimal wöchentlich;EXAMPLE;0;2025-03-31T07:47:49.201787
-серьёзно плохой, тяжёлый, опасный;schlimm;WORD;11;2025-04-17T10:21:42.585093
+серьёзно плохой, тяжёлый, опасный;schlimm;WORD;0;2025-03-30T11:33:35.751492
 Я думаю, это очень плохо;Das finde ich ganz schlimm;EXAMPLE;0;2025-03-30T11:33:35.751492
-телефонный звонок;der Anruf;WORD;11;2025-04-17T10:21:57.428090
+телефонный звонок;der Anruf;WORD;0;2025-03-21T10:09:32.310147
 Я пропустил три её звонка;Ich habe 3 Anrufe von ihr verpasst;EXAMPLE;0;2025-03-21T10:09:32.310147
-шаг;der Schritt;WORD;11;2025-04-17T10:22:12.699752
+шаг;der Schritt;WORD;0;2025-03-29T13:15:42.244461
 Я прошёл сегодня 10К шагов;Ich bin heute 10K Schritte gelaufen;EXAMPLE;0;2025-03-29T13:15:42.244461
-скучать (jmdn/etw);vermissen - vermisste - vermisst;WORD;11;2025-04-18T08:24:23.885372
+скучать;vermissen - vermisste - vermisst;WORD;0;2025-03-21T11:47:48.928198
 Я очень скучаю по семье;Ich vermisse meine Familie sehr;EXAMPLE;0;2025-03-21T11:47:48.928198
-настоящий;echt;WORD;11;2025-04-17T10:21:21.547928
+настоящий;echt;WORD;0;2025-03-31T11:21:35.613343
 Это был настоящий сюрприз;Das war eine echte Überraschung;EXAMPLE;0;2025-03-31T11:21:35.613343
-рекомендовать (jmdm etw);empfehlen - empfahl - empfohlen;WORD;11;2025-04-17T10:21:49.201551
+рекомендовать (jmdm etw);empfehlen - empfahl - empfohlen;WORD;0;2025-03-29T12:55:00.762951
 Он посоветовал мне есть больше овощей;Er hat mir empfohlen mehr Gemüse zu essen;EXAMPLE;0;2025-03-29T12:55:00.762951
-быть в отчаянии, desperate;verzweifelt;WORD;5;2025-04-19T09:10:23.480670
+быть в отчаянии, desperate;verzweifelt;WORD;0;2025-03-27T17:31:22.644914
 Я в отчаянии, я не знаю, что мне делать;Ich bin sehr verzweifelt ich weiß nicht was ich tun soll;EXAMPLE;0;2025-03-27T17:31:22.644914
-приятный, симпатичный;angenehm;WORD;11;2025-04-17T10:22:07.026301
+приятный, симпатичный;angenehm;WORD;0;2025-03-31T11:21:05.291954
 Сюрприз был приятным;Die Überraschung war sehr angenehm;EXAMPLE;0;2025-03-31T11:21:05.291954
-находиться в стрессе;gestresst;WORD;11;2025-04-17T10:22:02.613686
+находиться в стрессе;gestresst;WORD;0;2025-03-29T12:57:07.943167
 Я в стрессе;Ich bin gestresst;EXAMPLE;0;2025-03-29T12:57:07.943167
-растерянный;verloren;WORD;11;2025-04-17T12:34:06.810764
+растерянный;verloren;WORD;0;2025-03-29T12:54:00.845776
 Я чувствую себя растерянным;Ich fühle mich verloren;EXAMPLE;0;2025-03-29T12:54:00.845776
-рассчитывать (auf jmdn/etw);rechnen - rechnete - gerechnet;WORD;11;2025-04-17T12:33:00.582225
+рассчитывать (auf jmdn/etw);rechnen - rechnete - gerechnet;WORD;0;2025-03-30T19:40:56.365890
 Я не рассчитывал на такие большие расходы;Ich habe mit diesen großen Ausgaben nicht gerechnet;EXAMPLE;0;2025-03-30T19:40:56.365890
-контракт;der Vertrag;WORD;11;2025-04-17T12:33:04.894815
+контракт;der Vertrag;WORD;0;2025-03-31T07:42:12.753468
 У меня есть несколько вопросов по контракту;Ich habe ein paar Fragen zum Vertrag;EXAMPLE;0;2025-03-31T07:42:12.753468
-болтать, общаться;reden - redete - geredet;WORD;11;2025-04-17T14:52:40.758093
+болтать, общаться;reden - redete - geredet;WORD;0;2025-03-29T13:15:59.727073
 Я хотел бы с тобой кое о чём поговорить;Ich möchte mit dir über etwas reden;EXAMPLE;0;2025-03-29T13:15:59.727073
-возможность;die Möglichkeit;WORD;11;2025-04-17T14:53:44.974495
+возможность;die Möglichkeit;WORD;0;2025-03-31T14:06:56.494280
 У меня нет возможности поговорить с тобой;Ich habe keine Möglichkeit, mit dir zu sprechen;EXAMPLE;0;2025-03-31T14:06:56.494280
-как можно скорее;schnellstmöglich;WORD;8;2025-04-19T09:22:25.973065
+как можно скорее;schnellstmöglich;WORD;0;2025-03-25T12:29:55.402435
 Мы должны сделать это как можно скорее;Wir müssen das schnellstmöglich machen;EXAMPLE;0;2025-03-25T12:29:55.402435
-опасный;gefährlich;WORD;9;2025-04-18T08:15:40.834176
+опасный;gefährlich;WORD;0;2025-03-25T14:34:37.992053
 Опасно водить машину в сильный дождь;Es ist gefährlich bei starkem Regen Auto zu fahren;EXAMPLE;0;2025-03-25T14:34:37.992053
-следующий, последующий (что после чего);folgend;WORD;11;2025-04-17T14:52:24.929741
+следующий, последующий (что после чего);folgend;WORD;0;2025-03-21T16:04:08.528062
 Следующие шаги важны;Die folgenden Schritte sind wichtig;EXAMPLE;0;2025-03-21T16:04:08.528062
-документы, документация;die Unterlagen;WORD;11;2025-04-18T10:33:33.151688
+документы, документация;die Unterlagen;WORD;0;2025-03-31T07:47:17.827745
 Я забыл свои документы дома;Ich habe meine Unterlagen zu Hause vergessen;EXAMPLE;0;2025-03-31T07:47:17.827745
-закрывать, запереть;schließen - schloss - geschlossen;WORD;7;2025-04-19T09:22:16.072786
+закрывать, запереть;schließen - schloss - geschlossen;WORD;0;2025-03-27T15:01:47.496602
 Мне очень холодно, можешь закрыть окно;Mir ist sehr kalt kannst du das Fenster schließen;EXAMPLE;0;2025-03-27T15:01:47.496602
-одеваться;sich anziehen - zog an - angezogen;WORD;11;2025-04-18T10:34:08.186891
+одеваться;sich anziehen - zog an - angezogen;WORD;0;2025-03-22T17:00:19.321497
 Я одеваюсь тепло;Ich ziehe mich warm an;EXAMPLE;0;2025-03-22T17:00:19.321497
-закончить (дело, задание);erledigen - erledigte - erledigt;WORD;9;2025-04-18T16:49:46.759419
+закончить (дело, задание);erledigen - erledigte - erledigt;WORD;0;2025-03-25T13:52:43.089044
 Тебе надо выполнить задание до 15 января;Du musst bis zum 15 Januar die Aufgabe erledigen;EXAMPLE;0;2025-03-25T13:52:43.089044
-прекратить, закончить что-то делать;aufhören - hörte auf - aufgehört;WORD;11;2025-04-18T10:34:41.296624
+прекратить, закончить что-то делать;aufhören - hörte auf - aufgehört;WORD;0;2025-03-22T21:07:40.488194
 В прошлом месяце я бросил курить;Letzten Monat habe ich mit Rauchen aufhören;EXAMPLE;0;2025-03-22T21:07:40.488194
-находиться (местоположение);sich befinden - befand - befunden;WORD;11;2025-04-18T11:31:41.608113
+находиться (местоположение);sich befinden - befand - befunden;WORD;0;2025-03-30T20:14:39.740369
 Отель находится в центре города;Das Hotel befindet sich im Stadtzentrum;EXAMPLE;0;2025-03-30T20:14:39.740369
-жаловаться (bei jmdm, über jmdn);sich beschweren - beschwerte - beschwert;WORD;11;2025-04-18T12:12:29.407243
+жаловаться;sich beschweren - beschwerte - beschwert;WORD;0;2025-03-30T19:39:57.122273
 Хватит жаловаться на погоду;Hör auf, dich über das Wetter zu beschweren;EXAMPLE;0;2025-03-30T19:39:57.122273
-файл;die Datei;WORD;11;2025-04-18T12:11:36.553952
+файл;die Datei;WORD;0;2025-03-30T18:30:31.515741
 В какой папке находится этот файл?;In welchem ​​Ordner befindet sich die Datei?;EXAMPLE;0;2025-03-30T18:30:31.515741
-скачивать;herunterladen - lud herunter - heruntergeladen;WORD;11;2025-04-18T12:12:44.212654
+скачивать;herunterladen - lud herunter - heruntergeladen;WORD;0;2025-03-21T16:04:37.362264
 Можешь скачать какой-нибудь фильм на сегодняшний вечер?;Kannst du irgendeinen Film für heute Abend herunterladen?;EXAMPLE;0;2025-03-21T16:04:37.362264
-загрузить (upload);hochladen - lud hoch - hochgeladen;WORD;11;2025-04-18T12:12:06.546193
+загрузить (upload);hochladen - lud hoch - hochgeladen;WORD;0;2025-03-31T11:05:27.870774
 Можешь ты загрузить файл для домашнего задания?;Kannst du bitte die Datei für die Hausaufgabe hochladen?;EXAMPLE;0;2025-03-31T11:05:27.870774
-сохранить, запомнить;speichern - speicherte - gespeichert;WORD;11;2025-04-18T12:12:36.067777
+сохранить, запомнить;speichern - speicherte - gespeichert;WORD;0;2025-03-31T11:22:09.187756
 В какой папке ты сохранил этот файл?;In welchem Ordner du die Datei gespeichert hast?;EXAMPLE;0;2025-03-31T11:22:09.187756
-заходить (к кому-то - bei);vorbeikommen - kam vorbei - vorbeigekommen;WORD;11;2025-04-18T12:11:45.542694
+заходить (к кому-то - bei);vorbeikommen - kam vorbei - vorbeigekommen;WORD;0;2025-03-20T15:19:23.345533
 Я зайду к тебе сегодня;Ich komme heute Abend bei dir vorbei;EXAMPLE;0;2025-03-20T15:19:23.345533
-разница;der Unterschied;WORD;11;2025-04-18T12:15:28.891810
+разница;der Unterschied;WORD;0;2025-03-28T18:02:32.475853
 Какая разница между веганской и вегетарианской диетой?;Was ist der Unterschied zwischen vegan und vegetarisch?;EXAMPLE;0;2025-03-28T18:02:32.475853
-несколько;mehrmal;WORD;11;2025-04-18T12:15:22.344115
+несколько;mehrmal;WORD;0;2025-03-25T14:41:04.395260
 Он простужается несколько раз зимой;Er erkältet sich mehrmals im Winter;EXAMPLE;0;2025-03-25T14:41:04.395260
-расслабляться;sich entspannen - entspannte - entspannt;WORD;11;2025-04-18T12:15:42.829465
+расслабляться;sich entspannen - entspannte - entspannt;WORD;0;2025-03-27T15:14:21.768476
 Я не могу расслабиться после работы;Ich kann mich nach der Arbeit nicht entspannen;EXAMPLE;0;2025-03-27T15:14:21.768476
-поддержка, помощь;die Unterstützung;WORD;11;2025-04-18T12:15:16.067253
+поддержка, помощь;die Unterstützung;WORD;0;2025-03-29T11:35:12.516225
 Он искал поддержку своих друзей;Er suchte die Unterstützung seiner Freunde;EXAMPLE;0;2025-03-29T11:35:12.516225
-предложение;der Satz;WORD;11;2025-04-18T12:16:28.630970
+предложение;der Satz;WORD;0;2025-03-21T18:46:27.155298
 Предложение слишком длинное;Der Satz ist sehr lang;EXAMPLE;0;2025-03-21T18:46:27.155298
-приветствовать;begrüßen - begrüßte - begrüßt;WORD;11;2025-04-18T12:15:55.004051
+приветствовать;begrüßen - begrüßte - begrüßt;WORD;0;2025-03-21T16:37:34.188553
 Я приветствую всех участников;Ich begrüße alle Teilnehmer;EXAMPLE;0;2025-03-21T16:37:34.188553
-отдыхать (от кого/чего - von etwas);sich erholen - erholte - erholt;WORD;5;2025-04-19T09:09:56.762031
+отдыхать (от кого/чего - von etwas);sich erholen - erholte - erholt;WORD;0;2025-03-21T18:45:43.426910
 Я отдыхаю после напряжённого дня;Ich erhole mich nach dem anstrengenden Tag;EXAMPLE;0;2025-03-21T18:45:43.426910
-поправляться;sich erholen - erholte - erholt;WORD;5;2025-04-19T09:09:46.581612
+поправляться;sich erholen - erholte - erholt;WORD;0;2025-03-22T18:11:19.985424
 Ему нужно поправиться/отойти от простуды;Er muss sich von der Erkältung erholen;EXAMPLE;0;2025-03-22T18:11:19.985424
-кроме того;außerdem;WORD;5;2025-04-19T09:10:12.962324
+кроме того;außerdem;WORD;0;2025-03-31T11:06:19.598659
 Кроме того погода была очень плохая;Außerdem war das Wetter sehr schlecht;EXAMPLE;0;2025-03-31T11:06:19.598659
-никоим образом, ни в коем случае;auf keinen Fall;WORD;5;2025-04-19T09:10:06.705465
+никоим образом, ни в коем случае;auf keinen Fall;WORD;0;2025-03-25T12:31:35.329317
 Ни в коем случае не опаздывай;Auf keinen Fall solltest du zu spät kommen;EXAMPLE;0;2025-03-25T12:31:35.329317
-поиск;die Suche;WORD;4;2025-04-19T09:01:04.368221
+поиск;die Suche;WORD;0;2025-03-20T15:26:53.091566
 МЯ в поисках новой работы;Ich bin auf der Suche nach einem neuen Job;EXAMPLE;0;2025-03-20T15:26:53.091566
-заполнять;ausfüllen - füllte aus - ausgefüllt;WORD;5;2025-04-19T09:13:46.638269
+заполнять;ausfüllen - füllte aus - ausgefüllt;WORD;0;2025-03-26T17:16:03.059159
 Я должен заполнить этот формуляр;Ich muss dieses Formular ausfüllen;EXAMPLE;0;2025-03-26T17:16:03.059159
-отсылать, отправлять;abschicken - schickte ab - abgeschickt;WORD;5;2025-04-19T09:13:39.382770
+отсылать, отправлять;abschicken - schickte ab - abgeschickt;WORD;0;2025-03-20T14:17:57.590286
 Я отправил посылку сегодня по почте;Das Paket habe ich heute via Post abgeschcickt;EXAMPLE;0;2025-03-20T14:17:57.590286
-согласовать, договориться (etw mit jmdm);vereinbaren - vereinbarte - vereinbart;WORD;5;2025-04-19T09:13:32.419852
+согласовать, договориться;vereinbaren - vereinbarte - vereinbart;WORD;0;2025-03-22T16:54:41.458260
 Мы договорились о встрече в парке;Wir haben ein Treffen im Park vereinbart;EXAMPLE;0;2025-03-22T16:54:41.458260
-обдумывать (делать что-то или нет, Dat);sich überlegen - überlegte - überlegt;WORD;5;2025-04-19T09:13:57.280888
-Я долго обдумывал покупку. (в смысле покупать или нет);Ich habe mir den Kauf lange überlegt;EXAMPLE;0;2025-03-31T11:06:50.831747
-болеть (an etw, Dat);leiden - litt - gelitten;WORD;5;2025-04-19T09:13:23.296571
+обдумывать (делать что-то или нет, Dat);sich überlegen - überlegte - überlegt;WORD;0;2025-03-31T11:06:50.831747
+Я долго обдумывал покупку. (в смысле покупать или нет);ich habe mir den Kauf lange überlegt;EXAMPLE;0;2025-03-31T11:06:50.831747
+болеть (an etw, Dat);leiden - litt - gelitten;WORD;0;2025-03-25T21:33:47.876220
 Он страдает хронической головной болью;Er leidet unter chronischen Kopfschmerzen;EXAMPLE;0;2025-03-25T21:33:47.876220
-наслаждаться (etw);genießen - genoss - genossen;WORD;4;2025-04-19T09:01:32.582481
+наслаждаться (etw);genießen - genoss - genossen;WORD;0;2025-03-25T18:56:57.849406
 Я наслаждаюсь своим отпуском в горах;Ich genieße meinen Urlaub in den Bergen;EXAMPLE;0;2025-03-25T18:56:57.849406
-оборудовать, обустраивать;einrichten - richtete ein - eingerichtet;WORD;5;2025-04-19T09:16:08.386230
+оборудовать, обустраивать;einrichten - richtete ein - eingerichtet;WORD;0;2025-03-21T18:44:58.528492
 Моя кабинет очень хорошо обустроен;Mein Arbeitszimmer ist sehr gut eingerichtet;EXAMPLE;0;2025-03-21T18:44:58.528492
-выгодный, недорогой;günstig;WORD;4;2025-04-19T09:00:59.114255
+выгодный, недорогой;günstig;WORD;0;2025-03-31T07:47:26.917741
 Цена была очень выгодной;Der Preis war sehr güngstig;EXAMPLE;0;2025-03-31T07:47:26.917741
-совещание;die Besprechung;WORD;1;2025-04-19T09:07:23.156356
+совещание;die Besprechung;WORD;0;2025-03-27T15:02:10.156352
 Совещание уже началось;Die Besprechung hat bereits angefangen;EXAMPLE;0;2025-03-27T15:02:10.156352
-командировка;die Geschäftsreise;WORD;3;2025-04-19T09:01:24.730241
+командировка;die Geschäftsreise;WORD;0;2025-03-22T21:12:03.746288
 Она на данный момент в командировке;Sie ist momentan auf Geschäftsreise;EXAMPLE;0;2025-03-22T21:12:03.746288
-контактировать, общаться;kontaktieren - kontaktierte - kontaktiert;WORD;2;2025-04-19T09:01:13.986957
+контактировать, общаться;kontaktieren - kontaktierte - kontaktiert;WORD;0;2025-03-30T13:55:29.647203
 Я не общался с Клаусом в течение многих лет;Ich habe Klaus seit Jahren nicht mehr kontaktiert;EXAMPLE;0;2025-03-30T13:55:29.647203
 подписывать;unterschreiben - unterschrieb - unterschrieben;WORD;0;2025-03-22T16:46:03.053659
 Контракт уже был подписан на прошлой неделе;Der Vertrag wurde bereits letzte Woche unterschrieben;EXAMPLE;0;2025-03-22T16:46:03.053659
@@ -232,12 +210,16 @@
 Он может взять на себя эту задачу;Er kann diese Aufgabe übernehmen;EXAMPLE;0;2025-03-30T20:14:54.581242
 сообщать, докладывать;berichten - berichtete - berichtet;WORD;0;2025-03-29T12:56:56.197508
 Ты обязательно должен рассказать мне о своём отпуске;Du musst mir unbedingt von deinem Urlaub berichten;EXAMPLE;0;2025-03-29T12:56:56.197508
+страх;die Angst;WORD;0;2025-03-31T14:08:24.612565
+Я очень боюсь пауков;Ich habe große Angst vor Spinnen;EXAMPLE;0;2025-03-31T14:08:24.612565
 в то время, тогда;damals;WORD;0;2025-03-30T19:39:03.526121
 Тогда я ещё не знал немецкого;Damals konnte ich noch kein Deutsch;EXAMPLE;0;2025-03-30T19:39:03.526121
 позади этого, за этим;dahinter;WORD;0;2025-03-31T07:46:00.725658
 Сад находится за домом, а позади него — небольшой лес;Der Garten ist hinter dem Haus, und dahinter ist ein kleiner Wald;EXAMPLE;0;2025-03-31T07:46:00.725658
 пережить что-то;erleben - erlebte - erlebt;WORD;0;2025-03-31T07:40:32.634601
 Во время путешествия мы пережили много нового;Während der Reise haben wir viel Neues erlebt;EXAMPLE;0;2025-03-31T07:40:32.634601
+мечтать, видеть во сне (von etw);träumen - träumte - geträumt;WORD;0;2025-03-25T14:40:50.122211
+Я мечтаю о новой работе;Ich träume von einem neuen Job;EXAMPLE;0;2025-03-25T14:40:50.122211
 мешать;stören - störte - gestört;WORD;0;2025-03-20T15:09:27.664077
 Могу я тебя кортко прервать?;Darf ich dich kurz stören?;EXAMPLE;0;2025-03-20T15:09:27.664077
 в действительности, вообще-то;eigentlich;WORD;0;2025-03-30T13:05:07.273959
@@ -306,6 +288,8 @@
 Нам нужно перенести встречу на завтра;Wir müssen das Meeting auf morgen verschieben;EXAMPLE;0;2025-03-25T14:46:23.540444
 выбирать, набирать номер;wählen - wählte - gewählt;WORD;0;2025-03-28T12:06:19.321641
 Я хочу выбрать свою еду;Ich möchte mein Essen wählen;EXAMPLE;0;2025-03-28T12:06:19.321641
+разочарованный;enttäuscht;WORD;0;2025-03-30T13:55:56.411053
+Она была разочарована, что идет дождь;Sie war enttäuscht, dass es regnet;EXAMPLE;0;2025-03-30T13:55:56.411053
 в восторге, воодушевленный;begeistert;WORD;0;2025-03-21T16:06:16.404063
 Я в восторге от твоей идеи;Ich bin begeistert von deiner Idee;EXAMPLE;0;2025-03-21T16:06:16.404063
 дарить;schenken - schenkte - geschenkt;WORD;0;2025-03-29T11:34:11.665872
@@ -316,7 +300,7 @@
 Ребенок очень любопытный и задает много вопросов;Das Kind ist sehr neugierig und stellt viele Fragen;EXAMPLE;0;2025-03-21T11:49:14.517024
 звенеть, звучать;klingen - klang - geklungen;WORD;0;2025-03-20T14:21:08.118690
 Как звучит мое имя по-немецки?;Wie klingt mein Name auf Deutsch?;EXAMPLE;0;2025-03-20T14:21:08.118690
-согласный (с кем-то в чем-то, sein mit jmdm in etw);einverstanden;WORD;0;2025-03-29T13:14:34.855894
+согласный (mit jmdm in etw);einverstanden;WORD;0;2025-03-29T13:14:34.855894
 Я согласен с твоим предложением;Ich bin mit deinem Vorschlag einverstanden;EXAMPLE;0;2025-03-29T13:14:34.855894
 держать, останавливаться;halten - hielt - gehalten;WORD;0;2025-03-30T13:11:19.613930
 Можешь, пожалуйста, подержать дверь?;Kannst du bitte die Tür halten?;EXAMPLE;0;2025-03-30T13:11:19.613930
@@ -388,10 +372,14 @@
 Почему ты выглядишь таким грустным?;Warum siehst du so traurig aus?;EXAMPLE;0;2025-03-20T14:21:29.674487
 влюбляться (in jmdn.);sich verlieben - verliebte - verliebt;WORD;0;2025-03-30T19:00:37.286548
 Он влюбился в свою лучшую подругу;Er hat sich in seine beste Freundin verliebt;EXAMPLE;0;2025-03-30T19:00:37.286548
+радоваться (auf etw.);sich freuen - freute - gefreut;WORD;0;2025-03-25T19:37:18.777976
+Я радуюсь твоему визиту;Ich freue mich auf deinen Besuch;EXAMPLE;0;2025-03-25T19:37:18.777976
 чувствовать (себя);sich fühlen - fühlte - gefühlt;WORD;0;2025-03-29T13:16:19.797189
 Я себя сегдня не особо хорошо чувствую;Ich fühle mich heute nicht besonders gut;EXAMPLE;0;2025-03-29T13:16:19.797189
 ссориться, спорить (с кем-л.);sich streiten - stritt - gestritten;WORD;0;2025-03-27T17:24:22.210286
 Он больше не хочет ссориться с ней;Er möchte sich nicht mehr mit ihr streiten;EXAMPLE;0;2025-03-27T17:24:22.210286
+зли́ться (über jmdn./etw. на кого́-л./что-л.);sich ärgern - ärgerte - geärgert;WORD;0;2025-03-30T11:35:52.968198
+Я разозлился из-за пробки;Ich habe mich über den Stau geärgert;EXAMPLE;0;2025-03-30T11:35:52.968198
 волноваться, нервничать;sich aufregen;WORD;0;2025-03-26T17:27:33.848327
 Он расстроился из-за опоздания;Er hat sich über die Verspätung aufgeregt;EXAMPLE;0;2025-03-26T17:27:33.848327
 примерно, около;ungefähr;WORD;0;2025-03-28T13:36:23.649429
@@ -550,7 +538,7 @@
 У него пятилетний опыт работы учителем;Er hat fünf Jahre Berufserfahrung als Lehrer;EXAMPLE;0;2025-03-25T19:16:14.405449
 уловка, хитрость;der Trick;WORD;0;2025-03-21T16:04:43.415574
 У тебя есть хитрость как это решить?;Hast du einen Trick, wie man das lösen kann?;EXAMPLE;0;2025-03-21T16:04:43.415574
-ухаживать, лечить;pflegen - pflegte - gepflegt;WORD;0;2025-03-31T07:45:08.480423
+ухаживать, заботиться;pflegen - pflegte - gepflegt;WORD;0;2025-03-31T07:45:08.480423
 Я ухаживаю за своим садом каждое воскресенье;Ich pflege meinen Garten jeden Sonntag;EXAMPLE;0;2025-03-31T07:45:08.480423
 продолжительность курса;die Kursdauer;WORD;0;2025-03-31T11:21:45.263662
 Продолжительность курса составляет три месяца;Die Kursdauer beträgt drei Monate;EXAMPLE;0;2025-03-31T11:21:45.263662
@@ -637,7 +625,7 @@
 потому что (глагол в конце);weil;WORD;0;2025-03-29T12:56:45.938060
 Я ем овощи, потому что они полезные;Ich esse Gemüse, weil es gesund ist;EXAMPLE;0;2025-03-29T12:56:45.938060
 так как (порядок не меняется);denn;WORD;0;2025-03-30T18:30:12.468104
-Я учу немецкий, потому что (так как) хочу работать в Германии;Ich lerne Deutsch, denn ich möchte in Deutschland arbeiten;EXAMPLE;0;2025-03-30T18:30:12.468104
+Я учу немецкий, так как хочу работать в Германии;Ich lerne Deutsch, denn ich möchte in Deutschland arbeiten;EXAMPLE;0;2025-03-30T18:30:12.468104
 поэтому (глагол на первом месте);deshalb;WORD;0;2025-03-30T19:40:46.668037
 Он пишет каждый день, поэтому он улучшает свой немецкий;Er schreibt jeden Tag, deshalb verbessert er sein Deutsch;EXAMPLE;0;2025-03-30T19:40:46.668037
 что (глагол в конце);dass;WORD;0;2025-03-29T12:56:36.522134
@@ -773,13 +761,13 @@
 тренироваться, практиковаться;sich üben - übte - geübt;WORD;0;2025-03-03T12:25:08.362974
 Я тренируюсь в немецком каждый день;Ich übe jeden Tag Deutsch;EXAMPLE;0;2025-03-03T12:25:08.362974
 ﻿житель, жительница;der Bewohner;WORD;0;2025-03-17T11:14:42.836655
-Жители помогают друг другу, потому что (так как) они готовы помочь;Die Bewohner helfen einander, denn sie sind hilfsbereit;EXAMPLE;0;2025-03-17T11:14:42.836655
+Жители помогают друг другу, потому что они готовы помочь;Die Bewohner helfen einander, denn sie sind hilfsbereit;EXAMPLE;0;2025-03-17T11:14:42.836655
 беседа, разговор;die Unterhaltung;WORD;0;2025-03-17T11:14:42.837938
 Мы ведем беседу, потому что нам нужно решить проблему;Wir führen eine Unterhaltung, weil wir ein Problem lösen müssen;EXAMPLE;0;2025-03-17T11:14:42.837938
 готовый помочь;hilfsbereit;WORD;0;2025-03-17T11:14:42.838109
 Он очень отзывчивый, хотя у него мало времени;Er ist sehr hilfsbereit, obwohl er wenig Zeit hat;EXAMPLE;0;2025-03-17T11:14:42.838109
 задний двор;der Hinterhof;WORD;0;2025-03-17T11:14:42.838887
-Дети играют во дворе, потому что (так как) там много места;Kinder spielen im Hinterhof, denn dort gibt es viel Platz;EXAMPLE;0;2025-03-17T11:14:42.838887
+Дети играют во дворе, потому что там много места;Kinder spielen im Hinterhof, denn dort gibt es viel Platz;EXAMPLE;0;2025-03-17T11:14:42.838887
 покупка, покупки;der Einkauf;WORD;0;2025-03-17T11:14:42.839060
 Я делаю покупки, потому что мой холодильник пуст;Ich mache einen Einkauf, weil mein Kühlschrank leer ist;EXAMPLE;0;2025-03-17T11:14:42.839060
 вверх, наверх;rauf;WORD;0;2025-03-17T11:14:42.839259
@@ -793,7 +781,7 @@
 ящик;die Kiste;WORD;0;2025-03-17T11:14:42.839899
 Потому что ящик тяжелый, я не могу нести его один;Weil die Kiste schwer ist, kann ich sie nicht alleine tragen;EXAMPLE;0;2025-03-17T11:14:42.839899
 мастерская;die Werkstatt;WORD;0;2025-03-17T11:14:42.840042
-Он идет в мастерскую, потому что (так как) его машина сломалась;Er geht in die Werkstatt, denn sein Auto ist kaputt;EXAMPLE;0;2025-03-17T11:14:42.840042
+Он идет в мастерскую, потому что его машина сломалась;Er geht in die Werkstatt, denn sein Auto ist kaputt;EXAMPLE;0;2025-03-17T11:14:42.840042
 инструмент;das Werkzeug;WORD;0;2025-03-17T11:14:42.840218
 Мне нужен инструмент, чтобы починить велосипед;Ich brauche das Werkzeug, um das Fahrrad zu reparieren;EXAMPLE;0;2025-03-17T11:14:42.840218
 Это зависит от нее;Es hängt von ihr ab;WORD;0;2025-03-17T11:14:42.840464
@@ -811,7 +799,7 @@
 вечеринка;die Party;WORD;0;2025-03-17T11:14:42.842279
 Я иду на вечеринку, хотя я устал;Ich gehe zur Party, obwohl ich müde bin;EXAMPLE;0;2025-03-17T11:14:42.842279
 свидание;das Date;WORD;0;2025-03-17T11:14:42.842558
-Она радуется свиданию, потому что (так как) он ей очень нравится;Sie freut sich auf das Date, denn sie mag ihn sehr;EXAMPLE;0;2025-03-17T11:14:42.842558
+Она радуется свиданию, потому что он ей очень нравится;Sie freut sich auf das Date, denn sie mag ihn sehr;EXAMPLE;0;2025-03-17T11:14:42.842558
 элегантный;elegant;WORD;0;2025-03-17T11:14:42.842706
 Он носит элегантную одежду, чтобы произвести хорошее впечатление;Er trägt elegante Kleidung, um einen guten Eindruck zu machen;EXAMPLE;0;2025-03-17T11:14:42.842706
 применяться, считаться;gelten – galt – hat gegolten;WORD;0;2025-03-17T11:14:42.843018
@@ -819,7 +807,7 @@
 шикарный;schick;WORD;0;2025-03-17T11:14:42.843264
 Она носит шикарное платье, потому что идет на праздник;Sie trägt ein schickes Kleid, weil sie auf eine Feier geht;EXAMPLE;0;2025-03-17T11:14:42.843264
 эксперимент;das Experiment;WORD;0;2025-03-17T11:14:42.843458
-Эксперимент был успешным, потому что (так как) результаты были хорошими;Das Experiment war erfolgreich, denn die Ergebnisse waren gut;EXAMPLE;0;2025-03-17T11:14:42.843458
+Эксперимент был успешным, потому что результаты были хорошими;Das Experiment war erfolgreich, denn die Ergebnisse waren gut;EXAMPLE;0;2025-03-17T11:14:42.843458
 милый, красивый;hübsch;WORD;0;2025-03-17T11:14:42.843665
 Она очень красивая, хотя она в это не верит;Sie ist sehr hübsch, obwohl sie das nicht glaubt;EXAMPLE;0;2025-03-17T11:14:42.843665
 улыбка;das Lächeln;WORD;0;2025-03-17T11:14:42.843838
@@ -827,7 +815,7 @@
 правило;die Regel;WORD;0;2025-03-17T11:14:42.843956
 Есть много правил, чтобы поддерживать порядок;Es gibt viele Regeln, um Ordnung zu halten;EXAMPLE;0;2025-03-17T11:14:42.843956
 ритуал;das Ritual;WORD;0;2025-03-17T11:14:42.844126
-Каждое утро я пью кофе, потому что (так как) это мой ритуал;Jeden Morgen trinke ich Kaffee, denn das ist mein Ritual;EXAMPLE;0;2025-03-17T11:14:42.844126
+Каждое утро я пью кофе, потому что это мой ритуал;Jeden Morgen trinke ich Kaffee, denn das ist mein Ritual;EXAMPLE;0;2025-03-17T11:14:42.844126
 обращаться на ты;duzen – duzte – hat geduzt;WORD;0;2025-03-17T11:14:42.844359
 Мы обращаемся друг к другу на ты, потому что мы хорошие друзья;Wir duzen uns, weil wir gute Freunde sind;EXAMPLE;0;2025-03-17T11:14:42.844359
 противоположность;das Gegenteil;WORD;0;2025-03-17T11:14:42.844542
@@ -893,7 +881,7 @@
 сотрудничество;die Zusammenarbeit;WORD;0;2025-03-17T11:14:42.848781
 Хорошее сотрудничество важно, чтобы быть успешным.;Gute Zusammenarbeit ist wichtig, um erfolgreich zu sein.;EXAMPLE;0;2025-03-17T11:14:42.848781
 атмосфера, настроение;die Stimmung;WORD;0;2025-03-17T11:14:42.849041
-Настроение на вечеринке было отличное, потому что (так как) все танцевали.;Die Stimmung auf der Party war super, denn alle haben getanzt.;EXAMPLE;0;2025-03-17T11:14:42.849041
+Настроение на вечеринке было отличное, потому что все танцевали.;Die Stimmung auf der Party war super, denn alle haben getanzt.;EXAMPLE;0;2025-03-17T11:14:42.849041
 увидеть снова;wiedersehen – sah wieder – hat wiedergesehen;WORD;0;2025-03-17T11:14:42.849258
 Я рад, что снова вижу своих друзей.;Ich freue mich, dass ich meine Freunde wiedersehe.;EXAMPLE;0;2025-03-17T11:14:42.849258
 настроение;die Laune;WORD;0;2025-03-17T11:14:42.849468
@@ -923,7 +911,7 @@
 проводить (время);verbringen - verbrachte - verbracht;WORD;0;2025-03-17T11:14:42.851547
 Я провожу много времени за учебой, потому что хочу сдать экзамен;Ich verbringe viel Zeit mit Lernen, weil ich die Prüfung bestehen will;EXAMPLE;0;2025-03-17T11:14:42.851547
 понимать, ладить;verstehen - verstand - verstanden;WORD;0;2025-03-17T11:14:42.851711
-Мы хорошо ладим, потому что (так как) у нас одинаковые интересы;Wir verstehen uns gut, denn wir haben die gleichen Interessen;EXAMPLE;0;2025-03-17T11:14:42.851711
+Мы хорошо ладим, потому что у нас одинаковые интересы;Wir verstehen uns gut, denn wir haben die gleichen Interessen;EXAMPLE;0;2025-03-17T11:14:42.851711
 извиняться;sich entschuldigen – entschuldigte – entschuldigt;WORD;0;2025-03-17T11:14:42.851907
 Он извиняется, потому что опоздал;Er entschuldigt sich, weil er zu spät gekommen ist;EXAMPLE;0;2025-03-17T11:14:42.851907
 беспокойство, проблема;die Sorge;WORD;0;2025-03-17T11:14:42.852119
@@ -937,7 +925,7 @@
 детективный;kriminal;WORD;0;2025-03-17T11:14:42.852634
 Он любит смотреть детективные фильмы, потому что они захватывающие;Er sieht gerne Kriminalfilme, weil sie spannend sind;EXAMPLE;0;2025-03-17T11:14:42.852634
 детектив-инспектор;der Kommissar;WORD;0;2025-03-17T11:14:42.852764
-Инспектор расследует дело, потому что (так как) появились новые доказательства;Der Kommissar untersucht den Fall, denn es gibt neue Beweise;EXAMPLE;0;2025-03-17T11:14:42.852764
+Инспектор расследует дело, потому что появились новые доказательства;Der Kommissar untersucht den Fall, denn es gibt neue Beweise;EXAMPLE;0;2025-03-17T11:14:42.852764
 персонаж;die Figur;WORD;0;2025-03-17T11:14:42.852877
 Персонаж в книге очень интересен, потому что у него много тайн;Die Figur im Buch ist sehr interessant, weil sie viele Geheimnisse hat;EXAMPLE;0;2025-03-17T11:14:42.852877
 убийство;der Mord;WORD;0;2025-03-17T11:14:42.853046
@@ -955,273 +943,10 @@
 раздражающий;nervig;WORD;0;2025-03-17T11:14:42.853872
 Шум раздражает, потому что мне нужно учиться;Der Lärm ist nervig, weil ich lernen muss;EXAMPLE;0;2025-03-17T11:14:42.853872
 логичный;logisch;WORD;0;2025-03-17T11:14:42.853984
-Его объяснение логично, потому что (так как) в нем есть хорошие аргументы;Seine Erklärung ist logisch, denn sie hat gute Argumente;EXAMPLE;0;2025-03-17T11:14:42.853984
+Его объяснение логично, потому что в нем есть хорошие аргументы;Seine Erklärung ist logisch, denn sie hat gute Argumente;EXAMPLE;0;2025-03-17T11:14:42.853984
 в целом;insgesamt;WORD;0;2025-03-17T11:14:42.854094
 В целом поездка была хорошей, хотя погода была плохая;Insgesamt war die Reise schön, obwohl das Wetter schlecht war;EXAMPLE;0;2025-03-17T11:14:42.854094
 частный;privat;WORD;0;2025-03-17T11:14:42.854259
 Это мое личное дело, поэтому я не говорю об этом;Das ist meine private Angelegenheit, deshalb spreche ich nicht darüber;EXAMPLE;0;2025-03-17T11:14:42.854259
 договориться о встрече;sich verabreden - verabredete - verabredet;WORD;0;2025-03-25T14:32:34.445780
 Я договорился с Анной о встрече;Ich habe mich mit Anna verabredet;EXAMPLE;0;2025-03-25T14:32:34.445780
-﻿Молодой турист фотографирует замок;_Der junge_Tourist fotografiert das Schloss (jung);ADJECTDECLIN;6;2025-04-16T09:21:14.347823
-Новый студент задаёт вопрос;_Der neue_Student stellt eine Frage (neu);ADJECTDECLIN;2;2025-04-16T15:07:06.021748
-Старый художник рисует картину;_Der alte_Künstler malt ein Bild (alt);ADJECTDECLIN;2;2025-04-16T15:23:29.227180
-Хороший спортсмен тренируется каждый день;_Der gute_Sportler trainiert jeden Tag (gut);ADJECTDECLIN;2;2025-04-16T15:23:49.460712
-Сильный пациент быстро выздоравливает;_Der starke_Patient wird schnell gesund (stark);ADJECTDECLIN;2;2025-04-17T08:36:33.987860
-Короткий текст был понятен;_Der kurze_Brief war verständlich (kurz);ADJECTDECLIN;2;2025-04-17T08:36:24.421924
-Следующий шаг был очевиден;_Der nächste_Schritt war offensichtlich (nächste);ADJECTDECLIN;2;2025-04-17T08:37:05.831825
-Старый контракт был расторгнут;_Der alte_Vertrag wurde gekündigt (alt);ADJECTDECLIN;2;2025-04-17T08:36:41.860005
-Новый заказ уже поступил;_Der neue_Auftrag ist schon angekommen (neu);ADJECTDECLIN;2;2025-04-17T08:38:08.022701
-Зелёный холм покрыт деревьями;_Der grüne_Hügel ist mit Bäumen bedeckt (grün);ADJECTDECLIN;2;2025-04-17T08:37:45.838159
-готовый, согласный (на что-то, zu etw Dat);bereit;WORD;0;2025-04-16T16:05:18.951636
-﻿Маленький щенок играет с мячом;_Der kleine_Welpe spielt mit dem Ball (klein);ADJECTDECLIN;2;2025-04-17T08:37:52.416372
-Старый профессор читает книгу;_Der alte_Professor liest das Buch (alt);ADJECTDECLIN;2;2025-04-17T08:38:13.239821
-Молодой врач помогает пациенту;_Der junge_Arzt hilft dem Patienten (jung);ADJECTDECLIN;2;2025-04-17T09:39:01.603222
-Высокий мужчина открывает дверь;_Der große_Mann öffnet die Tür (groß);ADJECTDECLIN;2;2025-04-17T09:39:11.593428
-Добрый учитель объясняет правило;_Der nette_Lehrer erklärt die Regel (nett);ADJECTDECLIN;2;2025-04-17T09:38:53.594687
-Красивая женщина поёт песню;_Die schöne_Frau singt ein Lied (schön);ADJECTDECLIN;2;2025-04-17T09:38:40.860454
-Умная студентка сдает экзамен;_Die kluge_Studentin besteht die Prüfung (klug);ADJECTDECLIN;2;2025-04-17T09:41:09.983666
-Молодая медсестра помогает врачу;_Die junge_Krankenschwester hilft dem Arzt (jung);ADJECTDECLIN;2;2025-04-17T09:41:23.315252
-Старая дама читает газету;_Die alte_Dame liest die Zeitung (alt);ADJECTDECLIN;2;2025-04-17T09:41:01.901533
-Веселая девочка играет на улице;_Das fröhliche_Mädchen spielt auf der Straße (fröhlich);ADJECTDECLIN;2;2025-04-17T09:41:53.680855
-Маленькое дитя спит в кровати;_Das kleine_Kind schläft im Bett (klein);ADJECTDECLIN;2;2025-04-17T10:11:42.153717
-Новое здание открыто;_Das neue_Gebäude ist geöffnet (neu);ADJECTDECLIN;2;2025-04-17T10:11:57.437450
-Красивое платье висит в шкафу;_Das schöne_Kleid hängt im Schrank (schön);ADJECTDECLIN;2;2025-04-17T10:12:06.458691
-Старое радио всё ещё работает;_Das alte_Radio funktioniert noch (alt);ADJECTDECLIN;2;2025-04-17T10:11:29.447186
-Свежее яйцо на столе;_Das frische_Ei liegt auf dem Tisch (frisch);ADJECTDECLIN;2;2025-04-17T10:14:43.317276
-Маленькие дети играют в парке;_Die kleinen_Kinder spielen im Park (klein);ADJECTDECLIN;2;2025-04-17T10:14:17.038867
-Новые книги лежат на полке;_Die neuen_Bücher liegen im Regal (neu);ADJECTDECLIN;2;2025-04-17T10:14:51.502913
-Старые дома находятся в центре;_Die alten_Häuser stehen im Zentrum (alt);ADJECTDECLIN;2;2025-04-17T10:14:28.396971
-Красивые цветы растут в саду;_Die schönen_Blumen wachsen im Garten (schön);ADJECTDECLIN;2;2025-04-17T10:17:29.213229
-Умные ученики слушают учителя;_Die klugen_Schüler hören dem Lehrer zu (klug);ADJECTDECLIN;2;2025-04-17T10:16:39.866685
-Это не старый стол;Das ist_kein alter_Tisch (alt);ADJECTDECLIN;2;2025-04-17T10:17:10.980243
-Это не добрый человек;Das ist_kein netter_Mensch (nett);ADJECTDECLIN;2;2025-04-17T10:17:20.442732
-Это не умный парень;Das ist_kein kluger_Junge (klug);ADJECTDECLIN;2;2025-04-17T10:23:48.263398
-Это не молодой водитель;Das ist_kein junger_Fahrer (jung);ADJECTDECLIN;2;2025-04-17T10:23:57.617016
-Это не высокий мужчина;Das ist_kein großer_Mann (groß);ADJECTDECLIN;2;2025-04-17T10:23:40.302095
-Это не красивая девушка;Das ist_keine schöne_Frau (schön);ADJECTDECLIN;2;2025-04-17T10:24:07.809501
-Это не старая книга;Das ist_kein altes_Buch (alt);ADJECTDECLIN;2;2025-04-17T12:35:26.970029
-Это не добрая мама;Das ist_keine nette_Mutter (nett);ADJECTDECLIN;2;2025-04-17T12:36:00.319949
-Это не веселая подруга;Das ist_keine fröhliche_Freundin (fröhlich);ADJECTDECLIN;2;2025-04-17T12:35:51.978958
-Это не умная ученица;Das ist_keine kluge_Schülerin (klug);ADJECTDECLIN;2;2025-04-17T12:35:36.682045
-Это не новое окно;Das ist_kein neues_Fenster (neu);ADJECTDECLIN;2;2025-04-17T13:53:39.908452
-Это не красивое платье;Das ist_kein schönes_Kleid (schön);ADJECTDECLIN;2;2025-04-17T13:53:10.952189
-Это не маленькое животное;Das ist_kein kleines_Tier (klein);ADJECTDECLIN;2;2025-04-17T13:54:14.958252
-Это не старое здание;Das ist_kein altes_Gebäude (alt);ADJECTDECLIN;2;2025-04-17T13:53:21.408848
-Это не свежее яйцо;Das ist_kein frisches_Ei (frisch);ADJECTDECLIN;1;2025-04-16T20:34:32.456236
-Это не умные дети;Das sind_keine klugen_Kinder (klug);ADJECTDECLIN;1;2025-04-16T20:33:38.140044
-Это не новые дома;Das sind_keine neuen_Häuser (neu);ADJECTDECLIN;1;2025-04-17T08:34:47.343028
-Это не красивые цветы;Das sind_keine schönen_Blumen (schön);ADJECTDECLIN;1;2025-04-17T08:35:11.900807
-Это не старые машины;Das sind_keine alten_Autos (alt);ADJECTDECLIN;1;2025-04-17T08:34:58.540560
-Это не веселые люди;Das sind_keine fröhlichen_Leute (fröhlich);ADJECTDECLIN;1;2025-04-17T08:35:29.135316
-﻿Один добрый учитель помогает;_Ein netter_Lehrer hilft (nett);ADJECTDECLIN;1;2025-04-17T18:01:17.458035
-Один молодой парень идёт домой;_Ein junger_Junge geht nach Hause (jung);ADJECTDECLIN;1;2025-04-17T18:01:02.721454
-Один высокий мужчина стоит у двери;_Ein großer_Mann steht an der Tür (groß);ADJECTDECLIN;1;2025-04-17T18:00:55.215961
-Один умный студент отвечает;_Ein kluger_Student antwortet (klug);ADJECTDECLIN;1;2025-04-17T18:01:28.468876
-Один старый профессор объясняет;_Ein alter_Professor erklärt die Regel (alt);ADJECTDECLIN;1;2025-04-17T18:05:30.834861
-Одна красивая женщина поёт;_Eine schöne_Frau singt (schön);ADJECTDECLIN;1;2025-04-17T18:04:54.192009
-Одна старая дама читает;_Eine alte_Dame liest (alt);ADJECTDECLIN;1;2025-04-17T18:04:44.864513
-Одна веселая подруга танцует;_Eine fröhliche_Freundin tanzt (fröhlich);ADJECTDECLIN;1;2025-04-17T18:05:17.956040
-Одна добрая мама готовит;_Eine nette_Mutter kocht (nett);ADJECTDECLIN;1;2025-04-17T18:07:42.254296
-Одна умная ученица пишет тест;_Eine kluge_Schülerin schreibt den Test (klug);ADJECTDECLIN;1;2025-04-17T18:08:20.574553
-Одно маленькое дитя спит;_Ein kleines_Kind schläft (klein);ADJECTDECLIN;1;2025-04-17T18:08:06.913567
-Одно красивое платье висит в шкафу;_Ein schönes_Kleid hängt im Schrank (schön);ADJECTDECLIN;1;2025-04-17T18:07:34.108682
-Одно старое радио работает;_Ein altes_Radio funktioniert (alt);ADJECTDECLIN;1;2025-04-17T18:17:07.713386
-Одно новое здание построено;_Ein neues_Gebäude ist gebaut (neu);ADJECTDECLIN;1;2025-04-17T18:17:44.091566
-Одно свежее яйцо на столе;_Ein frisches_Ei liegt auf dem Tisch (frisch);ADJECTDECLIN;1;2025-04-17T18:16:55.052654
-Высокий мужчина идёт по улице;_Großer_Mann geht die Straße entlang (groß);ADJECTDECLIN;1;2025-04-17T18:17:27.241685
-Молодой водитель паркуется;_Junger_Fahrer parkt das Auto (jung);ADJECTDECLIN;1;2025-04-17T18:18:29.847019
-Добрый доктор помогает пациенту;_Netter_Arzt hilft dem Patienten (nett);ADJECTDECLIN;1;2025-04-17T18:18:35.789952
-Старый друг приезжает;_Alter_Freund kommt zu Besuch (alt);ADJECTDECLIN;1;2025-04-17T18:18:23.753349
-Умный студент сдает экзамен;_Kluger_Student besteht die Prüfung (klug);ADJECTDECLIN;1;2025-04-17T18:18:14.956351
-Красивая женщина читает книгу;_Schöne_Frau liest ein Buch (schön);ADJECTDECLIN;1;2025-04-17T18:19:30.001826
-Весёлая подруга звонит;_Fröhliche_Freundin ruft an (fröhlich);ADJECTDECLIN;1;2025-04-17T18:19:16.011230
-Молодая актриса выходит на сцену;_Junge_Schauspielerin betritt die Bühne (jung);ADJECTDECLIN;1;2025-04-17T18:19:36.770887
-Старая учительница объясняет правило;_Alte_Lehrerin erklärt die Regel (alt);ADJECTDECLIN;1;2025-04-17T18:19:07.119669
-Умная девушка отвечает правильно;_Kluges_Mädchen antwortet richtig (klug);ADJECTDECLIN;1;2025-04-17T18:20:48.416017
-Маленькое дитя смеётся;_Kleines_Kind lacht laut (klein);ADJECTDECLIN;1;2025-04-17T18:20:35.234537
-Старое радио работает;_Altes_Radio funktioniert gut (alt);ADJECTDECLIN;1;2025-04-17T18:20:58.979297
-Свежее яйцо лежит на столе;_Frisches_Ei liegt auf dem Tisch (frisch);ADJECTDECLIN;1;2025-04-17T18:20:42.050564
-Маленькие дети бегают во дворе;_Kleine_Kinder rennen im Hof (klein);ADJECTDECLIN;1;2025-04-17T19:49:45.369748
-Новые книги лежат на столе;_Neue_Bücher liegen auf dem Tisch (neu);ADJECTDECLIN;1;2025-04-17T19:50:20.833568
-Весёлые гости танцуют;_Fröhliche_Gäste tanzen (fröhlich);ADJECTDECLIN;1;2025-04-17T19:50:15.548464
-Старые дома стоят рядом;_Alte_Häuser stehen nebeneinander (alt);ADJECTDECLIN;1;2025-04-17T19:50:30.487354
-Умные ученики отвечают;_Kluge_Schüler antworten (klug);ADJECTDECLIN;1;2025-04-17T19:52:40.206495
-﻿Я вижу старого учителя;Ich sehe_den alten_Lehrer (alt);ADJECTDECLIN;1;2025-04-17T19:53:12.474288
-Мы слышим молодого певца;Wir hören_den jungen_Sänger (jung);ADJECTDECLIN;1;2025-04-17T19:53:38.556177
-Она встречает высокого мужчину;Sie trifft_den großen_Mann (groß);ADJECTDECLIN;1;2025-04-17T19:53:26.921851
-Я знаю доброго врача;Ich kenne_den netten_Arzt (nett);ADJECTDECLIN;1;2025-04-17T19:55:27.557141
-Ты нашёл умного студента;Du hast_den klugen_Studenten gefunden (klug);ADJECTDECLIN;1;2025-04-17T19:55:58.222171
-Я вижу красивую женщину;Ich sehe_die schöne_Frau (schön);ADJECTDECLIN;1;2025-04-17T19:55:42.206102
-Он встречает старую подругу;Er trifft_die alte_Freundin (alt);ADJECTDECLIN;1;2025-04-17T19:55:13.457585
-Мы знаем добрую маму;Wir kennen_die nette_Mutter (nett);ADJECTDECLIN;1;2025-04-18T08:06:28.251671
-Ты пригласил молодую девушку;Du hast_die junge_Frau eingeladen (jung);ADJECTDECLIN;1;2025-04-18T08:05:13.998119
-Она слышит весёлую девочку;Sie hört_das fröhliche_Mädchen (fröhlich);ADJECTDECLIN;1;2025-04-18T08:06:19.387833
-Я вижу маленькое дитя;Ich sehe_das kleine_Kind (klein);ADJECTDECLIN;1;2025-04-18T08:06:37.432857
-Она покупает красивое платье;Sie kauft_das schöne_Kleid (schön);ADJECTDECLIN;1;2025-04-18T08:10:28.313264
-Мы слышим старое радио;Wir hören_das alte_Radio (alt);ADJECTDECLIN;1;2025-04-18T08:10:19.099577
-Ты открыл новое окно;Du hast_das neue_Fenster geöffnet (neu);ADJECTDECLIN;1;2025-04-18T08:10:00.076248
-Я разбил свежее яйцо;Ich habe_das frische_Ei zerbrochen (frisch);ADJECTDECLIN;1;2025-04-18T08:10:11.459473
-Я вижу маленьких детей;Ich sehe_die kleinen_Kinder (klein);ADJECTDECLIN;1;2025-04-18T08:12:07.953209
-Мы слышим умных студентов;Wir hören_die klugen_Studenten (klug);ADJECTDECLIN;1;2025-04-18T08:12:44.616760
-Она покупает новые книги;Sie kauft_die neuen_Bücher (neu);ADJECTDECLIN;1;2025-04-18T08:12:32.352236
-Ты знаешь весёлых людей;Du kennst_die fröhlichen_Leute (fröhlich);ADJECTDECLIN;1;2025-04-18T08:13:02.391423
-Я вижу красивые цветы;Ich sehe_die schönen_Blumen (schön);ADJECTDECLIN;1;2025-04-18T08:13:55.108186
-Я не вижу старого учителя;Ich sehe_keinen alten_Lehrer (alt);ADJECTDECLIN;1;2025-04-18T08:14:52.628074
-Мы не слышим высокого мужчину;Wir hören_keinen großen_Mann (groß);ADJECTDECLIN;1;2025-04-18T08:14:39.600312
-Она не встречает доброго врача;Sie trifft_keinen netten_Arzt (nett);ADJECTDECLIN;1;2025-04-18T08:14:22.479382
-Ты не понимаешь умного ученика;Du verstehst_keinen klugen_Schüler (klug);ADJECTDECLIN;1;2025-04-18T08:17:04.632699
-Я не знаю молодого человека;Ich kenne_keinen jungen_Mann (jung);ADJECTDECLIN;1;2025-04-18T08:16:33.821093
-Я не вижу красивую женщину;Ich sehe_keine schöne_Frau (schön);ADJECTDECLIN;1;2025-04-18T08:16:51.112224
-Он не слышит старую подругу;Er hört_keine alte_Freundin (alt);ADJECTDECLIN;1;2025-04-18T08:16:23.021415
-Мы не встречаем добрую маму;Wir treffen_keine nette_Mutter (nett);ADJECTDECLIN;1;2025-04-18T08:24:41.028165
-Ты не видишь молодую студентку;Du siehst_keine junge_Studentin (jung);ADJECTDECLIN;1;2025-04-18T08:26:01.239394
-Она не видит старое здание;Sie sieht_kein altes_Gebäude (alt);ADJECTDECLIN;1;2025-04-18T08:25:49.586661
-Я не вижу маленькое дитя;Ich sehe_kein kleines_Kind (klein);ADJECTDECLIN;1;2025-04-18T08:26:52.574430
-Мы не слышим старое радио;Wir hören_kein altes_Radio (alt);ADJECTDECLIN;1;2025-04-18T08:35:35.969831
-Она не открывает новое окно;Sie öffnet_kein neues_Fenster (neu);ADJECTDECLIN;1;2025-04-18T08:36:21.113623
-Ты не покупаешь красивое платье;Du kaufst_kein schönes_Kleid (schön);ADJECTDECLIN;1;2025-04-18T08:35:48.882921
-Я не разбил свежее яйцо;Ich habe_kein frisches_Ei zerbrochen (frisch);ADJECTDECLIN;1;2025-04-18T08:36:05.161236
-Я не вижу маленьких детей;Ich sehe_keine kleinen_Kinder (klein);ADJECTDECLIN;1;2025-04-18T10:36:43.932969
-Мы не слышим умных студентов;Wir hören_keine klugen_Studenten (klug);ADJECTDECLIN;1;2025-04-18T10:36:21.501045
-Она не покупает новые книги;Sie kauft_keine neuen_Bücher (neu);ADJECTDECLIN;1;2025-04-18T10:36:31.783127
-Ты не знаешь весёлых людей;Du kennst_keine fröhlichen_Leute (fröhlich);ADJECTDECLIN;1;2025-04-18T10:36:10.599475
-Я не вижу красивые цветы;Ich sehe_keine schönen_Blumen (schön);ADJECTDECLIN;1;2025-04-18T11:38:16.559209
-﻿Я вижу одного высокого мужчину;Ich sehe_einen großen_Mann (groß);ADJECTDECLIN;1;2025-04-18T11:36:25.332484
-Мы слышим одного молодого певца;Wir hören_einen jungen_Sänger (jung);ADJECTDECLIN;1;2025-04-18T11:37:16.878543
-Она встречает одного доброго врача;Sie trifft_einen netten_Arzt (nett);ADJECTDECLIN;1;2025-04-18T11:38:01.900777
-Ты знаешь одного умного студента;Du kennst_einen klugen_Studenten (klug);ADJECTDECLIN;1;2025-04-18T12:14:55.354106
-Я нанимаю одного старого учителя;Ich stelle_einen alten_Lehrer ein (alt);ADJECTDECLIN;1;2025-04-18T12:14:41.843689
-Я вижу одну красивую женщину;Ich sehe_eine schöne_Frau (schön);ADJECTDECLIN;1;2025-04-18T12:14:11.401194
-Он встречает одну весёлую подругу;Er trifft_eine fröhliche_Freundin (fröhlich);ADJECTDECLIN;1;2025-04-18T12:14:00.500362
-Мы слышим одну добрую маму;Wir hören_eine nette_Mutter (nett);ADJECTDECLIN;1;2025-04-18T12:17:43.343460
-Ты узнаешь одну умную ученицу;Du erkennst_eine kluge_Schülerin (klug);ADJECTDECLIN;1;2025-04-18T12:17:54.233724
-Я провожаю одну молодую актрису;Ich begleite_eine junge_Schauspielerin (jung);ADJECTDECLIN;1;2025-04-18T12:18:06.933054
-Я вижу одно маленькое дитя;Ich sehe_ein kleines_Kind (klein);ADJECTDECLIN;1;2025-04-18T12:17:33.713
-Она открывает одно новое окно;Sie öffnet_ein neues_Fenster (neu);ADJECTDECLIN;1;2025-04-18T12:20:32.052611
-Мы покупаем одно красивое платье;Wir kaufen_ein schönes_Kleid (schön);ADJECTDECLIN;1;2025-04-18T12:20:54.228670
-Ты слушаешь одно старое радио;Du hörst_ein altes_Radio (alt);ADJECTDECLIN;1;2025-04-18T12:21:01.564384
-Он разбивает одно свежее яйцо;Er zerbricht_ein frisches_Ei (frisch);ADJECTDECLIN;1;2025-04-18T12:20:42.247467
-Мы не слышим новых учеников;Wir hören_keine neuen_Schüler (neu);ADJECTDECLIN;1;2025-04-18T12:26:01.464290
-Она не встречает добрых гостей;Sie trifft_keine netten_Gäste (nett);ADJECTDECLIN;1;2025-04-18T12:25:08.371552
-Ты не покупаешь красивые цветы;Du kaufst_keine schönen_Blumen (schön);ADJECTDECLIN;1;2025-04-18T12:24:58.608337
-Я не несу свежие фрукты;Ich bringe_keine frischen_Früchte (frisch);ADJECTDECLIN;1;2025-04-18T12:25:22.279386
-Я вижу высокого мужчину;Ich sehe_großen_Mann (groß);ADJECTDECLIN;1;2025-04-18T12:30:07.867093
-Она встречает доброго врача;Sie trifft_netten_Arzt (nett);ADJECTDECLIN;1;2025-04-18T12:30:15.529814
-Ты знаешь умного студента;Du kennst_klugen_Studenten (klug);ADJECTDECLIN;1;2025-04-18T12:30:22.730317
-Я нанимаю старого учителя;Ich stelle_alten_Lehrer ein (alt);ADJECTDECLIN;1;2025-04-18T12:29:35.241596
-Он встречает весёлую подругу;Er trifft_fröhliche_Freundin (fröhlich);ADJECTDECLIN;1;2025-04-18T13:33:15.601706
-Мы слышим добрую маму;Wir hören_nette_Mutter (nett);ADJECTDECLIN;1;2025-04-18T13:33:21.034481
-Ты узнаешь умную ученицу;Du erkennst_kluge_Schülerin (klug);ADJECTDECLIN;1;2025-04-18T13:32:48.613561
-Я провожаю молодую актрису;Ich begleite_junge_Schauspielerin (jung);ADJECTDECLIN;1;2025-04-18T13:33:28.449868
-Она открывает новое окно;Sie öffnet_neues_Fenster (neu);ADJECTDECLIN;1;2025-04-18T14:07:28.415439
-Мы покупаем красивое платье;Wir kaufen_schönes_Kleid (schön);ADJECTDECLIN;1;2025-04-18T14:07:36.370155
-Ты слушаешь старое радио;Du hörst_altes_Radio (alt);ADJECTDECLIN;1;2025-04-18T14:07:19.631273
-Он разбивает свежее яйцо;Er zerbricht_frisches_Ei (frisch);ADJECTDECLIN;1;2025-04-18T14:07:13.984323
-Мы слышим новых учеников;Wir hören_neue_Schüler (neu);ADJECTDECLIN;1;2025-04-18T14:10:36.211587
-Она встречает добрых гостей;Sie trifft_nette_Gäste (nett);ADJECTDECLIN;1;2025-04-18T14:10:30.789189
-Ты покупаешь красивые цветы;Du kaufst_schöne_Blumen (schön);ADJECTDECLIN;1;2025-04-18T14:10:19.380778
-Я несу свежие фрукты;Ich bringe_frische_Früchte (frisch);ADJECTDECLIN;1;2025-04-18T14:10:09.572384
-﻿Я не вижу высокого мужчину;Ich sehe_ keinen großen_Mann (groß);ADJECTDECLIN;1;2025-04-18T14:12:15.671535
-Мы не слышим молодого певца;Wir hören_keinen jungen_Sänger (jung);ADJECTDECLIN;1;2025-04-18T14:12:25.785499
-Ты не знаешь умного студента;Du kennst_keinen klugen_Studenten (klug);ADJECTDECLIN;1;2025-04-18T14:11:54.881345
-Я не нанимаю старого учителя;Ich stelle_keinen alten_Lehrer ein (alt);ADJECTDECLIN;1;2025-04-18T14:12:05.590443
-Он не встречает весёлую подругу;Er triff_ keine fröhliche_Freundin (fröhlich);ADJECTDECLIN;1;2025-04-18T15:36:02.787914
-Мы не слышим добрую маму;Wir hören_keine nette_Mutter (nett);ADJECTDECLIN;1;2025-04-18T15:35:16.485044
-Ты не узнаёшь умную ученицу;Du erkenns_ keine kluge_Schülerin (klug);ADJECTDECLIN;1;2025-04-18T15:35:33.549390
-Я не провожаю молодую актрису;Ich begleite_keine junge_Schauspielerin (jung);ADJECTDECLIN;1;2025-04-18T15:35:03.445439
-Мы не покупаем красивое платье;Wir kaufen_kein schönes_Kleid (schön);ADJECTDECLIN;1;2025-04-18T15:39:24.913456
-Ты не слушаешь старое радио;Du hörst_kein altes_Radio (alt);ADJECTDECLIN;1;2025-04-18T15:38:40.511782
-Он не разбивает свежее яйцо;Er zerbricht_kein frisches_Ei (frisch);ADJECTDECLIN;1;2025-04-18T15:38:52.986916
-﻿Я помогаю старому учителю;Ich helfe_dem alten_Lehrer (alt);ADJECTDECLIN;1;2025-04-18T15:39:12.934601
-Мы доверяем доброму врачу;Wir vertrauen_dem netten_Arzt (nett);ADJECTDECLIN;1;2025-04-18T16:13:49.776479
-Он отвечает молодому студенту;Er antwortet_dem jungen_Studenten (jung);ADJECTDECLIN;1;2025-04-18T16:14:52.234640
-Я благодарю высокого мужчину;Ich danke_dem großen_Mann (groß);ADJECTDECLIN;1;2025-04-18T16:13:31.293864
-Ты звонишь умному другу;Du rufst_dem klugen_Freund an (klug);ADJECTDECLIN;1;2025-04-18T16:14:28.947942
-Я помогаю старой учительнице;Ich helfe_der alten_Lehrerin (alt);ADJECTDECLIN;1;2025-04-18T16:45:39.882284
-Мы доверяем доброй маме;Wir vertrauen_der netten_Mutter (nett);ADJECTDECLIN;1;2025-04-18T16:45:11.622675
-Он отвечает молодой актрисе;Er antwortet_der jungen_Schauspielerin (jung);ADJECTDECLIN;1;2025-04-18T16:46:03.438862
-Ты благодаришь красивую женщину;Du dankst_der schönen_Frau (schön);ADJECTDECLIN;1;2025-04-18T16:44:15.654554
-Я пишу умной ученице;Ich schreibe_der klugen_Schülerin (klug);ADJECTDECLIN;1;2025-04-18T16:54:36.915403
-Я дарю книгу маленькому ребёнку;Ich schenke_dem kleinen_Kind ein Buch (klein);ADJECTDECLIN;1;2025-04-18T16:58:05.310281
-Мы рассказываем историю новому ребёнку;Wir erzählen_dem neuen_Kind eine Geschichte (neu);ADJECTDECLIN;1;2025-04-18T16:58:38.633005
-Она показывает фото красивому ребёнку;Sie zeigt_dem schönen_Kind ein Foto (schön);ADJECTDECLIN;1;2025-04-18T16:55:13.712256
-Он объясняет правило старому радио;Er erklärt_dem alten_Radio die Regel (alt);ADJECTDECLIN;1;2025-04-18T18:14:59.076837
-Она спит в тёплом доме;Sie schläft in_dem warmen_Haus (warm);ADJECTDECLIN;1;2025-04-18T18:15:37.112573
-Я помогаю маленьким детям;Ich helfe_den kleinen_Kindern (klein);ADJECTDECLIN;1;2025-04-18T18:15:22.262532
-Мы объясняем правило умным студентам;Wir erklären_den klugen_Studenten die Regel (klug);ADJECTDECLIN;1;2025-04-18T18:15:12.677861
-Она даёт книги новым ученикам;Sie gibt_den neuen_Schülern Bücher (neu);ADJECTDECLIN;1;2025-04-18T18:19:07.035745
-Ты благодаришь добрых гостей;Du dankst_den netten_Gästen (nett);ADJECTDECLIN;1;2025-04-18T18:18:54.277936
-Я рассказываю историю весёлым людям;Ich erzähle_den fröhlichen_Leuten eine Geschichte (fröhlich);ADJECTDECLIN;1;2025-04-18T18:18:41.700337
-Я не помогаю старому учителю;Ich helfe_keinem alten_Lehrer (alt);ADJECTDECLIN;1;2025-04-18T18:19:27.959978
-Мы не доверяем доброму врачу;Wir vertrauen_keinem netten_Arzt (nett);ADJECTDECLIN;1;2025-04-18T19:04:35.526614
-Он не отвечает молодому студенту;Er antwortet_keinem jungen_Studenten (jung);ADJECTDECLIN;1;2025-04-19T08:58:55.322033
-Ты не благодаришь высокого мужчину;Du dankst_keinem großen_Mann (groß);ADJECTDECLIN;1;2025-04-19T08:58:41.576154
-Я не звоню умному другу;Ich rufe_keinen klugen_Freund an (klug);ADJECTDECLIN;1;2025-04-19T09:00:40.406301
-Я не помогаю старой женщине;Ich helfe_keiner alten_Frau (alt);ADJECTDECLIN;1;2025-04-19T09:04:52.827863
-Мы не доверяем доброй маме;Wir vertrauen_keiner netten_Mutter (nett);ADJECTDECLIN;1;2025-04-19T09:05:40.740358
-Он не отвечает молодой актрисе;Er antwortet_keiner jungen_Schauspielerin (jung);ADJECTDECLIN;1;2025-04-19T09:05:24.416859
-Ты не благодаришь красивую подругу;Du dankst_keiner schönen_Freundin (schön);ADJECTDECLIN;1;2025-04-19T09:05:08.206655
-Я не пишу умной ученице;Ich schreibe_keiner klugen_Schülerin (klug);ADJECTDECLIN;1;2025-04-19T09:08:42.176425
-Я не даю игрушку маленькому ребёнку;Ich gebe_keinem kleinen_Kind ein Spielzeug (klein);ADJECTDECLIN;1;2025-04-19T09:09:31.933976
-Мы не показываем фото новому ребёнку;Wir zeigen_keinem neuen_Kind ein Foto (neu);ADJECTDECLIN;1;2025-04-19T09:09:17.433126
-Она не дарит подарок красивому ребёнку;Sie schenkt_keinem schönen_Kind ein Geschenk (schön);ADJECTDECLIN;1;2025-04-19T09:09:03.157179
-Он не объясняет правило старому радио;Er erklärt_keinem alten_Radio die Regel (alt);ADJECTDECLIN;1;2025-04-19T09:12:34.122898
-Ты не следуешь чужому совету;Du folgst_keinem fremden_Ratschlag (fremd);ADJECTDECLIN;1;2025-04-19T09:12:50.086941
-Я не помогаю маленьким детям;Ich helfe_keinen kleinen_Kindern (klein);ADJECTDECLIN;1;2025-04-19T09:12:12.916537
-Мы не объясняем правило умным студентам;Wir erklären_keinen klugen_Studenten die Regel (klug);ADJECTDECLIN;1;2025-04-19T09:11:55.166273
-Она не даёт книги новым ученикам;Sie gibt_keinen neuen_Schülern Bücher (neu);ADJECTDECLIN;1;2025-04-19T09:14:45.869368
-Ты не благодаришь добрых гостей;Du dankst_keinen netten_Gästen (nett);ADJECTDECLIN;1;2025-04-19T09:14:56.512163
-Я не рассказываю историю весёлым людям;Ich erzähle_keinen fröhlichen_Leuten eine Geschichte (fröhlich);ADJECTDECLIN;1;2025-04-19T09:15:47.158001
-Мы спим в уютном отеле;Wir schlafen in_dem gemütlichen_Hotel (gemütlich);ADJECTDECLIN;1;2025-04-19T09:15:30.452612
-Я лежу на мягкой кровати;Ich liege auf_dem weichen_Bett (weich);ADJECTDECLIN;1;2025-04-19T09:17:26.403213
-Они разговаривают о холодном море;Sie sprechen über_dem kalten_Meer (kalt);ADJECTDECLIN;1;2025-04-19T09:17:43.019543
-﻿Я звоню одному старому другу;Ich rufe_einem alten_Freund an (alt);ADJECTDECLIN;1;2025-04-19T09:18:09.714855
-Мы благодарим одного доброго учителя;Wir danken_einem netten_Lehrer (nett);ADJECTDECLIN;1;2025-04-19T09:19:17.640880
-Он помогает одному молодому соседу;Er hilft_einem jungen_Nachbarn (jung);ADJECTDECLIN;1;2025-04-19T09:29:32.449048
-Я отвечаю одному вежливому продавцу;Ich antworte_einem höflichen_Verkäufer (höflich);ADJECTDECLIN;1;2025-04-19T09:26:07.986238
-Она доверяет одному честному мужчине;Sie vertraut_einem ehrlichen_Mann (ehrlich);ADJECTDECLIN;1;2025-04-19T09:29:14.619940
-Я помогаю одной пожилой женщине;Ich helfe_einer älteren_Frau (alt);ADJECTDECLIN;1;2025-04-19T09:28:57.497804
-Мы доверяем одной надёжной коллеге;Wir vertrauen_einer zuverlässigen_Kollegin (zuverlässig);ADJECTDECLIN;0;2025-04-17T22:06:19.177054
-Он отвечает одной доброй учительнице;Er antwortet_einer netten_Lehrerin (nett);ADJECTDECLIN;0;2025-04-17T22:06:19.177063
-Ты звонишь одной весёлой подруге;Du rufst_einer fröhlichen_Freundin an (fröhlich);ADJECTDECLIN;0;2025-04-17T22:06:19.177075
-Я благодарю одной внимательной матери;Ich danke_einer aufmerksamen_Mutter (aufmerksam);ADJECTDECLIN;0;2025-04-17T22:06:19.177091
-Он работает за одним новым компьютером;Er arbeitet an_einem neuen_Computer (neu);ADJECTDECLIN;0;2025-04-17T22:06:19.177105
-Мы спим в одном уютном отеле;Wir schlafen in_einem gemütlichen_Hotel (gemütlich);ADJECTDECLIN;0;2025-04-17T22:06:19.177119
-Ты сидишь на одном удобном кресле;Du sitzt auf_einem bequemen_Sofa (bequem);ADJECTDECLIN;0;2025-04-17T22:06:19.177128
-Я играю с одним старым Handy;Ich spiele mit_einem alten_Handy (alt);ADJECTDECLIN;0;2025-04-17T22:06:19.177137
-Она говорит о одном интересном Thema;Sie spricht über_einem interessanten_Thema (interessant);ADJECTDECLIN;0;2025-04-17T22:06:19.177148
-Я не помогаю никаким незнакомым людям;Ich helfe_keinen fremden_Leuten (fremd);ADJECTDECLIN;0;2025-04-17T22:06:19.177157
-Мы не доверяем никаким сомнительным источникам;Wir vertrauen_keinen zweifelhaften_Quellen (zweifelhaft);ADJECTDECLIN;0;2025-04-17T22:06:19.177166
-Она не пишет никаким ленивым ученикам;Sie schreibt_keinen faulen_Schülern (faul);ADJECTDECLIN;0;2025-04-17T22:06:19.177177
-Ты не отвечаешь никаким старым сообщениям;Du antwortest_keinen alten_Nachrichten (alt);ADJECTDECLIN;0;2025-04-17T22:06:19.177186
-Я не говорю с никакими грубыми гостями;Ich spreche mit_keinen unhöflichen_Gästen (unhöflich);ADJECTDECLIN;0;2025-04-17T22:06:19.177195
-Я пишу старому другу сообщение;Ich schreibe_altem_Freund eine Nachricht (alt);ADJECTDECLIN;0;2025-04-17T22:06:19.177207
-Он помогает доброму учителю;Er hilft_nettem_Lehrer (nett);ADJECTDECLIN;0;2025-04-17T22:06:19.177215
-Мы звоним молодому соседу;Wir rufen_jungem_Nachbarn an (jung);ADJECTDECLIN;0;2025-04-17T22:06:19.177236
-Ты благодаришь опытному водителю;Du dankst_erfahrenem_Fahrer (erfahren);ADJECTDECLIN;0;2025-04-17T22:06:19.177249
-Она отвечает строгому тренеру;Sie antwortet_strengem_Trainer (streng);ADJECTDECLIN;0;2025-04-17T22:06:19.177258
-Я помогаю старой женщине;Ich helfe_alter_Frau (alt);ADJECTDECLIN;0;2025-04-17T22:06:19.177268
-Он звонит весёлой подруге;Er ruft_fröhlicher_Freundin an (fröhlich);ADJECTDECLIN;0;2025-04-17T22:06:19.177276
-Мы благодарим доброй учительнице;Wir danken_netter_Lehrerin (nett);ADJECTDECLIN;0;2025-04-17T22:06:19.177288
-Ты доверяешь опытной коллеге;Du vertraust_erfahrener_Kollegin (erfahren);ADJECTDECLIN;0;2025-04-17T22:06:19.177297
-Она отвечает заботливой маме;Sie antwortet_liebevoller_Mutter (liebevoll);ADJECTDECLIN;0;2025-04-17T22:06:19.177305
-Он работает на новом компьютере;Er arbeitet an_neuem_Computer (neu);ADJECTDECLIN;0;2025-04-17T22:06:19.177316
-Мы сидим в уютном кафе;Wir sitzen in_gemütlichem_Café (gemütlich);ADJECTDECLIN;0;2025-04-17T22:06:19.177325
-Ты отдыхаешь на чистом пляже;Du entspannst dich an_sauberem_Strand (sauber);ADJECTDECLIN;0;2025-04-17T22:06:19.177333
-Я играю с умным роботом;Ich spiele mit_intelligentem_Roboter (intelligent);ADJECTDECLIN;0;2025-04-17T22:06:19.177344
-Она едет к закрытому зданию;Sie fährt zu_geschlossenem_Gebäude (geschlossen);ADJECTDECLIN;0;2025-04-17T22:06:19.177353
-Я не доверяю шумным соседям;Ich vertraue_lauten_Nachbarn nicht (laut);ADJECTDECLIN;0;2025-04-17T22:06:19.177362
-Он отвечает внимательным ученикам;Er antwortet_aufmerksamen_Schülern (aufmerksam);ADJECTDECLIN;0;2025-04-17T22:06:19.177372
-Мы благодарим гостеприимным хозяевам;Wir danken_gastfreundlichen_Gastgebern (gastfreundlich);ADJECTDECLIN;0;2025-04-17T22:06:19.177381
-Ты помогаешь пожилым людям;Du hilfst_älteren_Leuten (alt);ADJECTDECLIN;0;2025-04-17T22:06:19.177391
-Она разговаривает с весёлыми гостями;Sie spricht mit_fröhlichen_Gästen (fröhlich);ADJECTDECLIN;0;2025-04-17T22:06:19.177402
-Новые дома строятся быстро;_Neue_Häuser werden schnell gebaut (neu);ADJECTDECLIN;0;2025-04-17T22:06:19.177411
-Маленькие дети играют в саду;_Kleine_Kinder spielen im Garten (klein);ADJECTDECLIN;0;2025-04-17T22:06:19.177420
-Умные ученики отвечают правильно;_Kluge_Schüler antworten richtig (klug);ADJECTDECLIN;0;2025-04-17T22:06:19.177428
-Красивые подарки лежат под ёлкой;_Schöne_Geschenke liegen unter dem Baum (schön);ADJECTDECLIN;0;2025-04-17T22:06:19.177439
-Старые компьютеры работают медленно;_Alte_Computer arbeiten langsam (alt);ADJECTDECLIN;0;2025-04-17T22:06:19.177448
-Я вижу маленьких детей в парке;Ich sehe _kleine_Kinder im Park (klein);ADJECTDECLIN;0;2025-04-17T22:06:19.177456
-Мы покупаем новые книги;Wir kaufen_neue_Bücher (neu);ADJECTDECLIN;0;2025-04-17T22:06:19.177467
-Она кормит голодных животных;Sie füttert_hungrige_Tiere (hungrig);ADJECTDECLIN;0;2025-04-17T22:06:19.177475
-Ты ремонтируешь старые компьютеры;Du reparierst_alte_Computer (alt);ADJECTDECLIN;0;2025-04-17T22:06:19.177483
-Я вижу красивые платья в витрине;Ich sehe_schöne_Kleider im Schaufenster (schön);ADJECTDECLIN;0;2025-04-17T22:06:19.177534

@@ -1,0 +1,1027 @@
+[
+  {
+    "id": "847f13c5-8fea-4be4-aea4-ac8bdc6364b5",
+    "deWord": "peinlich",
+    "translateWord": "неловкий, неудобный, стыдный",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "8499f41c-9637-41a2-a558-adb1ae02dff7",
+        "deExample": "Die Situation ist peinlich.",
+        "translateExample": "Ситуация неловкая.",
+        "collocations": [
+          "Situation"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ff33fb21-faf9-4184-b7b0-393145fc6928",
+        "deExample": "Findest du das peinlich?",
+        "translateExample": "Ты считаешь это неловким?",
+        "collocations": [],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7eca9fd8-60cd-4709-97c1-26d900abcb1d",
+        "deExample": "Es ist mir nicht peinlich.",
+        "translateExample": "Мне не стыдно.",
+        "collocations": [],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "22263ccd-ba43-4732-a7a9-79476b0a4875",
+        "deExample": "Gestern war es mir peinlich.",
+        "translateExample": "Вчера мне было неловко.",
+        "collocations": [
+          "gestern"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "360404db-66e0-4eaf-a789-76e7a4fbc919",
+        "deExample": "Man sollte nicht alles peinlich finden.",
+        "translateExample": "Не нужно всё считать неловким.",
+        "collocations": [],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "befb570e-cfb1-4b4b-bd12-065e4b5269c7",
+        "deExample": "Ich lache, weil es peinlich ist.",
+        "translateExample": "Я смеюсь, потому что это неловко.",
+        "collocations": [
+          "lachen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5c23d0c2-db5a-43ef-8dda-726e62e831c6",
+        "deExample": "Ich werde ruhig bleiben, wenn es peinlich wird.",
+        "translateExample": "Я останусь спокойным, если станет неловко.",
+        "collocations": [
+          "ruhig"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "be0db4f9-1e64-4998-87f8-b4ccd88e617e",
+        "deExample": "Es wird oft als peinlich empfunden.",
+        "translateExample": "Это часто воспринимается как неловко.",
+        "collocations": [],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fdf9b3b0-1248-4d30-8c44-76c86f1292de",
+        "deExample": "Es ist schwer, wenn etwas peinlich zu erklären ist.",
+        "translateExample": "Тяжело, когда что-то стыдно объяснять.",
+        "collocations": [
+          "erklären",
+          "schwer"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0334d041-859b-4992-a317-153e902f06a3",
+        "deExample": "Was ist peinlich zu sagen?",
+        "translateExample": "Что стыдно говорить?",
+        "collocations": [
+          "sagen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "03be84c7-9c63-4e04-8cf4-64b4a83e1289",
+        "deExample": "Ich übe, um mich in peinlichen Situationen sicher zu fühlen.",
+        "translateExample": "Я тренируюсь, чтобы чувствовать себя уверенно в неловких ситуациях.",
+        "collocations": [
+          "üben",
+          "fühlen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "b20ebd8b-77b6-4ef1-8585-8b581c833038",
+    "deWord": "entfernen - entfernte - entfernt",
+    "translateWord": "удалять, устранять",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "473000c1-94cb-4631-8153-f3a1dacbe1b1",
+        "deExample": "Ich entferne den Fleck.",
+        "translateExample": "Я удаляю пятно.",
+        "collocations": [
+          "Fleck"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3b7dd4ee-064e-4467-a09b-27d0716bee88",
+        "deExample": "Wie entfernt man einen Fleck?",
+        "translateExample": "Как удалить пятно?",
+        "collocations": [
+          "Fleck"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "effdb0e8-cc3d-412d-931b-83060facdf74",
+        "deExample": "Ich kann den Fleck nicht entfernen.",
+        "translateExample": "Я не могу удалить пятно.",
+        "collocations": [
+          "Fleck"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "bcf17c01-7f4c-4a12-9be8-a25efe096494",
+        "deExample": "Gestern habe ich den Fleck entfernt.",
+        "translateExample": "Вчера я удалил пятно.",
+        "collocations": [
+          "gestern",
+          "Fleck"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6eea5a50-3968-4821-bc7d-c3e3054eae53",
+        "deExample": "Man kann Staub leicht entfernen.",
+        "translateExample": "Можно легко удалить пыль.",
+        "collocations": [
+          "Staub",
+          "leicht"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "cdcf487c-f5cb-4f51-b15b-4a86a3c3e4eb",
+        "deExample": "Ich putze, weil ich den Schmutz entfernen will.",
+        "translateExample": "Я убираюсь, потому что хочу удалить грязь.",
+        "collocations": [
+          "putzen",
+          "Schmutz"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b80cfc43-7cfd-43bd-b6a3-e48f799ffc2a",
+        "deExample": "Ich werde den Staub entfernen, wenn ich Zeit habe.",
+        "translateExample": "Я удалю пыль, когда у меня будет время.",
+        "collocations": [
+          "Staub",
+          "Zeit"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "64e12ef8-810b-4ed9-a5cf-4b775923ff51",
+        "deExample": "Der Fleck wird entfernt.",
+        "translateExample": "Пятно удаляется.",
+        "collocations": [
+          "Fleck"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e1c1d8bd-1d69-41e4-8a8d-3ee853b583da",
+        "deExample": "Es ist wichtig, den Schmutz zu entfernen.",
+        "translateExample": "Важно удалить грязь.",
+        "collocations": [
+          "Schmutz",
+          "wichtig"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "87a32743-f41d-4fc0-af4c-f7c162764990",
+        "deExample": "Wie ist es, einen Fleck zu entfernen?",
+        "translateExample": "Как это — удалить пятно?",
+        "collocations": [
+          "Fleck"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8636747b-1f07-4481-92fb-e66a0ea3612f",
+        "deExample": "Ich kaufe einen Schwamm, um den Fleck zu entfernen.",
+        "translateExample": "Я покупаю губку, чтобы удалить пятно.",
+        "collocations": [
+          "Schwamm",
+          "kaufen",
+          "Fleck"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "813a48a8-86f3-4031-9110-f2a2898b5873",
+    "deWord": "dorthin",
+    "translateWord": "туда",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "04c06d24-5ef2-4fa3-b4a1-4cff50272183",
+        "deExample": "Ich gehe dorthin.",
+        "translateExample": "Я иду туда.",
+        "collocations": [
+          "gehen"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "85b55e0e-a3ea-41fd-a550-ef5048dc1dd4",
+        "deExample": "Wohin gehst du dorthin?",
+        "translateExample": "Зачем ты туда идёшь?",
+        "collocations": [
+          "gehen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0a452c80-c20b-4def-9084-4ddf617db9aa",
+        "deExample": "Ich gehe heute nicht dorthin.",
+        "translateExample": "Я сегодня туда не иду.",
+        "collocations": [
+          "heute",
+          "gehen"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "11b273e2-84da-4bf1-b87a-d3ba9cb08f77",
+        "deExample": "Gestern bin ich dorthin gegangen.",
+        "translateExample": "Вчера я туда ходил.",
+        "collocations": [
+          "gestern",
+          "gehen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "87bf31fa-8c4d-4601-a227-11d96f531d40",
+        "deExample": "Man kann dorthin fahren.",
+        "translateExample": "Можно туда поехать.",
+        "collocations": [
+          "fahren"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "49791099-4275-456e-8af8-69ada87c9fba",
+        "deExample": "Ich gehe dorthin, weil meine Freunde dort sind.",
+        "translateExample": "Я иду туда, потому что мои друзья там.",
+        "collocations": [
+          "Freunde"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "acae2aed-7aad-42e2-9cd5-9efb46bb686a",
+        "deExample": "Ich werde morgen dorthin gehen, wenn ich Zeit habe.",
+        "translateExample": "Я пойду туда завтра, если у меня будет время.",
+        "collocations": [
+          "morgen",
+          "gehen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "089a2236-72e4-4cbf-b44f-4b2288cdb62c",
+        "deExample": "Pakete werden dorthin geschickt.",
+        "translateExample": "Посылки отправляют туда.",
+        "collocations": [
+          "Pakete",
+          "schicken"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0291dd12-0fc5-427e-aaae-cc325ba61e75",
+        "deExample": "Es ist gut, dorthin zu reisen.",
+        "translateExample": "Хорошо путешествовать туда.",
+        "collocations": [
+          "reisen",
+          "gut"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7f83e814-fdc9-41a6-8c7d-6231bb316591",
+        "deExample": "Warum ist es interessant, dorthin zu gehen?",
+        "translateExample": "Почему интересно туда пойти?",
+        "collocations": [
+          "gehen",
+          "interessant"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c5f58519-4ddd-465a-9ceb-a006b0d24232",
+        "deExample": "Ich spare Geld, um dorthin zu reisen.",
+        "translateExample": "Я экономлю деньги, чтобы поехать туда.",
+        "collocations": [
+          "Geld",
+          "sparen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "f9914309-7ca5-40fd-90e2-b6dc0d3205a0",
+    "deWord": "das Unternehmen",
+    "translateWord": "предприятие, фирма",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "9a49935f-4879-453f-81bc-56e66e1f3d2c",
+        "deExample": "Das Unternehmen ist groß.",
+        "translateExample": "Предприятие большое.",
+        "collocations": [
+          "groß"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f05af7c2-a674-42d4-a47a-a0786c78ec95",
+        "deExample": "Wie heißt das Unternehmen?",
+        "translateExample": "Как называется предприятие?",
+        "collocations": [
+          "heißen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1376ab2c-58ab-473f-a241-b2bd221917fa",
+        "deExample": "Ich arbeite nicht in diesem Unternehmen.",
+        "translateExample": "Я не работаю в этой компании.",
+        "collocations": [
+          "arbeiten"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "65805ff7-4827-47b1-bb89-f78bcb8ff1f2",
+        "deExample": "Gestern hat das Unternehmen ein neues Produkt vorgestellt.",
+        "translateExample": "Вчера компания представила новый продукт.",
+        "collocations": [
+          "gestern",
+          "Produkt"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9589944c-c036-464b-9d89-92ba70cd84b1",
+        "deExample": "Man kann in diesem Unternehmen viel lernen.",
+        "translateExample": "В этой компании можно многому научиться.",
+        "collocations": [
+          "lernen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "cd0e75e4-d068-495e-978a-adaa61c09249",
+        "deExample": "Ich arbeite dort, weil das Unternehmen modern ist.",
+        "translateExample": "Я там работаю, потому что компания современная.",
+        "collocations": [
+          "modern"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2c1cc0ac-59b2-47c6-978b-fabf1d533fff",
+        "deExample": "Ich werde im Unternehmen arbeiten, wenn ich das Studium beende.",
+        "translateExample": "Я буду работать в компании, когда закончу учёбу.",
+        "collocations": [
+          "arbeiten",
+          "Studium"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "42011875-34de-4555-9f90-39fe3d995e9e",
+        "deExample": "Viele Produkte werden von dem Unternehmen verkauft.",
+        "translateExample": "Многие товары продаются компанией.",
+        "collocations": [
+          "Produkte",
+          "verkaufen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "25f3dd7d-6365-4b61-8b13-4fdf8a6c1628",
+        "deExample": "Es ist gut, in einem Unternehmen zu arbeiten.",
+        "translateExample": "Хорошо работать в компании.",
+        "collocations": [
+          "arbeiten",
+          "gut"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4958766f-9c14-495c-808d-3bf7dc4fe522",
+        "deExample": "Warum ist es interessant, in diesem Unternehmen zu arbeiten?",
+        "translateExample": "Почему интересно работать в этой компании?",
+        "collocations": [
+          "arbeiten",
+          "interessant"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c8c04f11-93f2-43c4-9422-1c7f19a4bbbb",
+        "deExample": "Ich lerne viel, um im Unternehmen erfolgreich zu sein.",
+        "translateExample": "Я много учусь, чтобы быть успешным в компании.",
+        "collocations": [
+          "lernen",
+          "erfolgreich"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "f53e5893-efeb-4a35-8a8a-7a4e5051398b",
+    "deWord": "seltsam",
+    "translateWord": "странный, странно",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "e9476f80-2327-4bc4-aae2-8086fa9321f8",
+        "deExample": "Die Situation ist seltsam.",
+        "translateExample": "Ситуация странная.",
+        "collocations": [
+          "Situation"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1113789c-40bd-48a0-929f-e111d7256352",
+        "deExample": "Findest du das seltsam?",
+        "translateExample": "Ты считаешь это странным?",
+        "collocations": [],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "dff8f603-b6dc-4bad-ae17-e40b5ded10cb",
+        "deExample": "Ich finde das nicht seltsam.",
+        "translateExample": "Я не нахожу это странным.",
+        "collocations": [],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3c33998d-5eb1-43a2-be40-8a76a63d6792",
+        "deExample": "Gestern war es seltsam.",
+        "translateExample": "Вчера это было странно.",
+        "collocations": [
+          "gestern"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e90b6852-7440-4d24-82a7-33c02b87043c",
+        "deExample": "Man kann das Verhalten seltsam finden.",
+        "translateExample": "Можно считать поведение странным.",
+        "collocations": [
+          "Verhalten"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1077ed75-c084-4827-a3bc-862b7d63a28b",
+        "deExample": "Ich lache, weil es seltsam ist.",
+        "translateExample": "Я смеюсь, потому что это странно.",
+        "collocations": [
+          "lachen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c3c898f5-04a3-4623-b6b9-11ae79b63e7b",
+        "deExample": "Ich werde ruhig bleiben, wenn es seltsam wird.",
+        "translateExample": "Я останусь спокойным, если станет странно.",
+        "collocations": [
+          "ruhig"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f2ef6c0a-f34d-463e-95f6-6c5257946e31",
+        "deExample": "Es wird oft als seltsam empfunden.",
+        "translateExample": "Это часто воспринимается как странное.",
+        "collocations": [],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2464af80-af62-4f18-9605-3d411d6f6c0c",
+        "deExample": "Es ist schwer, seltsam zu sein.",
+        "translateExample": "Тяжело быть странным.",
+        "collocations": [
+          "schwer",
+          "sein"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "31ae1ee3-a0a5-41e2-b3ac-9c78ae28747e",
+        "deExample": "Was ist seltsam zu sagen?",
+        "translateExample": "Что странно говорить?",
+        "collocations": [
+          "sagen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "312721a8-d519-4520-9d85-89bf202faeb3",
+        "deExample": "Ich spreche mehr, um nicht seltsam zu wirken.",
+        "translateExample": "Я больше говорю, чтобы не казаться странным.",
+        "collocations": [
+          "sprechen",
+          "wirken"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

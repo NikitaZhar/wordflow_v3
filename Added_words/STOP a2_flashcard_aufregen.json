@@ -1,0 +1,199 @@
+[
+  {
+    "id": "7fb8bd05-8653-4622-bb4a-3785ebe31dad",
+    "deWord": "aufregen - regte auf - aufgeregt",
+    "translateWord": "злиться, раздражаться (aufregen)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "f4b8b509-bc52-43ff-b628-1975aab6fbdc",
+        "deExample": "Ich rege mich über den Lärm auf.",
+        "translateExample": "Я раздражаюсь из-за шума.",
+        "collocations": [
+          "Lärm"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7a219f92-863f-4f6a-9b4e-0f02b9584874",
+        "deExample": "Regst du dich oft auf?",
+        "translateExample": "Ты часто злишься?",
+        "collocations": [
+          "oft"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ba2b426e-1497-45cc-8f6f-0dc5530d1662",
+        "deExample": "Er regt sich nicht über kleine Fehler auf.",
+        "translateExample": "Он не злится из-за мелких ошибок.",
+        "collocations": [
+          "Fehler"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4be182b0-c87c-4b28-adcb-be40cacdc1bf",
+        "deExample": "Sie hat sich gestern aufgeregt.",
+        "translateExample": "Вчера она разозлилась.",
+        "collocations": [
+          "gestern"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1bdcb4a5-78cd-4938-abf4-04e5914dd41f",
+        "deExample": "Du darfst dich nicht so aufregen.",
+        "translateExample": "Тебе не следует так злиться.",
+        "collocations": [],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "bdb1b9eb-af6c-4acf-945e-91c660970b49",
+        "deExample": "Ich rege mich auf, weil es laut ist.",
+        "translateExample": "Я злюсь, потому что шумно.",
+        "collocations": [
+          "laut"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "91b408a0-860b-4929-975e-0aaa54616493",
+        "deExample": "Ich werde mich aufregen, wenn er das wieder macht.",
+        "translateExample": "Я разозлюсь, если он снова это сделает.",
+        "collocations": [],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e049c2e0-cebe-4213-b106-03ed22e948a4",
+        "deExample": "Es wird sich aufgeregt.",
+        "translateExample": "Проявляется раздражение.",
+        "collocations": [],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9b4db315-6876-418c-87b0-cb3e01538cac",
+        "deExample": "Er versucht, sich nicht aufzuregen.",
+        "translateExample": "Он старается не злиться.",
+        "collocations": [
+          "versuchen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a57d5278-37ff-4552-8a4c-8db0daae7d54",
+        "deExample": "Versuchst du, dich nicht aufzuregen?",
+        "translateExample": "Ты стараешься не злиться?",
+        "collocations": [
+          "versuchen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c01248eb-db1f-4b75-85c7-28e6accbb6c7",
+        "deExample": "Er atmet tief, um sich nicht aufzuregen.",
+        "translateExample": "Он глубоко дышит, чтобы не злиться.",
+        "collocations": [
+          "atmen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

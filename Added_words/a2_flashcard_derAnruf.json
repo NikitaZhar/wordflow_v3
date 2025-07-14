@@ -1,0 +1,206 @@
+[
+  {
+    "id": "4c7e32d5-33c6-4db7-8b40-1bc6111c01a7",
+    "deWord": "der Anruf",
+    "translateWord": "звонок (der Anruf)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "f9dde4b8-8eb5-43e9-a495-038a9a04e2ff",
+        "deExample": "Der Anruf kommt jetzt.",
+        "translateExample": "Звонок сейчас поступает.",
+        "collocations": [
+          "jetzt"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5917d4d3-467a-4853-a9e8-bb2878534237",
+        "deExample": "Ist der Anruf für mich?",
+        "translateExample": "Звонок для меня?",
+        "collocations": [
+          "mich"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ebf4ab7c-8f89-4f7f-b802-fdfe38421285",
+        "deExample": "Der Anruf ist heute nicht wichtig.",
+        "translateExample": "Звонок сегодня не важен.",
+        "collocations": [
+          "wichtig"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2f805528-7bd5-46d0-b432-1e5b6a886fb3",
+        "deExample": "Ich habe gestern einen Anruf bekommen.",
+        "translateExample": "Вчера я получил звонок.",
+        "collocations": [
+          "gestern"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0a749d63-6295-4339-a711-a9e1312477c5",
+        "deExample": "Du kannst den Anruf annehmen.",
+        "translateExample": "Ты можешь принять звонок.",
+        "collocations": [
+          "annehmen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1dea8a2c-cd31-4370-880c-fda04dbaa71f",
+        "deExample": "Ich warte, weil ich einen Anruf erwarte.",
+        "translateExample": "Я жду, потому что ожидаю звонка.",
+        "collocations": [
+          "warten"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7c63d23f-c1cd-4ea0-9fa6-00796e1af4a5",
+        "deExample": "Ich werde den Anruf annehmen, wenn er kommt.",
+        "translateExample": "Я приму звонок, когда он поступит.",
+        "collocations": [
+          "annehmen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1cf0fb3a-5843-490e-a527-c7f68e3925c3",
+        "deExample": "Der Anruf wird entgegengenommen.",
+        "translateExample": "Звонок принимается.",
+        "collocations": [
+          "entgegengenommen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c09bd882-91a9-4105-b781-f1bc834ada96",
+        "deExample": "Er versucht, den Anruf zu beenden.",
+        "translateExample": "Он пытается завершить звонок.",
+        "collocations": [
+          "beenden"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e8041342-5d06-4cf7-bb03-4ef0a15b1687",
+        "deExample": "Willst du lernen, wie man einen Anruf annimmt?",
+        "translateExample": "Ты хочешь узнать, как принимать звонок?",
+        "collocations": [
+          "lernen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "833f127f-4dfe-4351-90b7-408a4cdc445c",
+        "deExample": "Er spart Zeit, um den Anruf schnell zu beenden.",
+        "translateExample": "Он экономит время, чтобы быстро завершить звонок.",
+        "collocations": [
+          "Zeit",
+          "beenden"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

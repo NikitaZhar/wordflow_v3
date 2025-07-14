@@ -1,0 +1,212 @@
+[
+  {
+    "id": "357c55f3-2a3a-4bba-9dd5-4f36247dca85",
+    "deWord": "der Einfluss",
+    "translateWord": "влияние (auf + Akk); воздействие (auf + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "67985930-bb61-4e8c-8320-34e9912f0029",
+        "deExample": "Der Einfluss seiner Eltern ist stark.",
+        "translateExample": "Влияние его родителей сильное.",
+        "collocations": [
+          "stark",
+          "Eltern"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "323d7ca2-8503-47ba-85a9-9409670ee955",
+        "deExample": "Hat der Einfluss einen großen Effekt?",
+        "translateExample": "Имеет ли влияние большой эффект?",
+        "collocations": [
+          "Effekt"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "14a30e9a-f211-4f0d-9f79-d442b01445cf",
+        "deExample": "Der Einfluss ist nicht negativ.",
+        "translateExample": "Влияние не является негативным.",
+        "collocations": [
+          "negativ"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6454d7f4-7a27-43f6-ad89-31112fbb0db4",
+        "deExample": "Ich habe seinen Einfluss bemerkt.",
+        "translateExample": "Я заметил его влияние.",
+        "collocations": [
+          "bemerken"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1302b688-27bc-4ce9-82b4-d1d8752af56d",
+        "deExample": "Du kannst deinen Einfluss nutzen.",
+        "translateExample": "Ты можешь использовать своё влияние.",
+        "collocations": [
+          "nutzen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e479543d-527d-42ae-a98f-f4e4b5c3bc2e",
+        "deExample": "Er bleibt zu Hause, weil der Einfluss schlecht ist.",
+        "translateExample": "Он остаётся дома, потому что влияние плохое.",
+        "collocations": [
+          "zu Hause",
+          "schlecht"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8a91090f-3cb4-402f-b757-bed271f6ff66",
+        "deExample": "Ich werde meinen Einfluss nutzen, wenn es nötig ist.",
+        "translateExample": "Я воспользуюсь своим влиянием, когда это будет нужно.",
+        "collocations": [
+          "nutzen",
+          "nötig"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "585406f2-e9c6-4c49-8a1e-f140dfa48e10",
+        "deExample": "Der Einfluss wird oft überschätzt.",
+        "translateExample": "Влияние часто переоценивается.",
+        "collocations": [
+          "überschätzen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "995f90c6-ab6b-4195-bfc6-3a4ec9eb5bf6",
+        "deExample": "Es ist wichtig, den Einfluss zu verstehen.",
+        "translateExample": "Важно понимать влияние.",
+        "collocations": [
+          "wichtig",
+          "verstehen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "64d520af-eada-45ef-a358-1c94e5915f8d",
+        "deExample": "Willst du lernen, wie man seinen Einfluss steigert?",
+        "translateExample": "Ты хочешь научиться, как увеличить своё влияние?",
+        "collocations": [
+          "lernen",
+          "steigern"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3128a6be-9f6a-42d2-9bcc-5293b1af6e96",
+        "deExample": "Ich lese Bücher, um meinen Einfluss zu erweitern.",
+        "translateExample": "Я читаю книги, чтобы расширить своё влияние.",
+        "collocations": [
+          "lesen",
+          "Bücher",
+          "erweitern"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

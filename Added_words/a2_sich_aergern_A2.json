@@ -1,0 +1,212 @@
+[
+  {
+    "id": "eb22fa90-2339-4e91-9a36-a1e8bad3b8e8",
+    "deWord": "sich ärgern - ärgerte - geärgert",
+    "translateWord": "злиться, раздражаться (на, über + Akk)",
+    "wordProgress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "c93780aa-fb0a-476c-8095-718f1d019e4b",
+        "deExample": "Ich ärgere mich über das schlechte Wetter.",
+        "translateExample": "Я злюсь из-за плохой погоды.",
+        "collocations": [
+          "das Wetter",
+          "schlecht"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f2729bc0-d1ac-41b0-b5ae-b15fa8acf3df",
+        "deExample": "Ärgerst du dich über die Verspätung?",
+        "translateExample": "Ты злишься из-за опоздания?",
+        "collocations": [
+          "die Verspätung"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8ee976b9-b8df-428c-9676-3fabd9f1d7ac",
+        "deExample": "Er ärgert sich nicht über Kritik.",
+        "translateExample": "Он не злится из-за критики.",
+        "collocations": [
+          "die Kritik"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c8aebaef-3c0d-4db9-8bfb-ef219e0c3ade",
+        "deExample": "Wir haben uns über das Ergebnis geärgert.",
+        "translateExample": "Мы разозлились из-за результата.",
+        "collocations": [
+          "das Ergebnis"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "228a74a0-7d86-48ff-8dc0-7e5620f73fff",
+        "deExample": "Du solltest dich nicht über Kleinigkeiten ärgern.",
+        "translateExample": "Тебе не стоит злиться из-за мелочей.",
+        "collocations": [
+          "die Kleinigkeit"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c7b6025d-4aac-492f-aaa4-f6433f44644a",
+        "deExample": "Ich gehe spazieren, weil ich mich über die Rechnung geärgert habe.",
+        "translateExample": "Я иду гулять, потому что разозлился из-за счёта.",
+        "collocations": [
+          "die Rechnung",
+          "spazieren"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d9277940-971f-4d4e-b782-3aba44b681c2",
+        "deExample": "Ich werde mich ärgern, wenn sie wieder zu spät kommt.",
+        "translateExample": "Я разозлюсь, если она снова опоздает.",
+        "collocations": [
+          "zu spät",
+          "kommen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "145e5310-ce64-4d9f-9608-47f0d50fcec1",
+        "deExample": "Über solche Dinge wird oft geärgert.",
+        "translateExample": "Из-за таких вещей часто злятся.",
+        "collocations": [
+          "die Sache",
+          "solche",
+          "oft"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "85c249e3-5cd3-4255-b401-63af31efaf2c",
+        "deExample": "Er versucht, sich nicht über Fehler zu ärgern.",
+        "translateExample": "Он старается не злиться из-за ошибок.",
+        "collocations": [
+          "der Fehler"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e535a8db-0605-430c-9dec-dee639527982",
+        "deExample": "Wie kann man lernen, sich weniger zu ärgern?",
+        "translateExample": "Как можно научиться меньше злиться?",
+        "collocations": [
+          "lernen",
+          "weniger"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ec29ebab-65f3-42c1-8f75-b29b24b7421e",
+        "deExample": "Ich atme tief durch, um mich nicht zu ärgern.",
+        "translateExample": "Я глубоко дышу, чтобы не злиться.",
+        "collocations": [
+          "atmen",
+          "tief"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,215 @@
+[
+  {
+    "id": "7802041c-f97e-42a6-bd9f-57b0711aca24",
+    "deWord": "bitten - bat - gebeten",
+    "translateWord": "просить (кого-л, um + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "1e61c4d7-8cac-42f8-8460-7cb7abaa1189",
+        "deExample": "Ich bitte dich um Hilfe.",
+        "translateExample": "Я прошу тебя о помощи.",
+        "collocations": [
+          "die Hilfe",
+          "du"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "285e1f10-a916-47e1-bd9c-2e9cf6e8df89",
+        "deExample": "Kannst du mich um einen Gefallen bitten?",
+        "translateExample": "Можешь ли ты попросить меня об одолжении?",
+        "collocations": [
+          "der Gefallen",
+          "können"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1ac87df2-d08c-4490-abe0-e44f3be0c30e",
+        "deExample": "Er bittet mich nicht um Rat.",
+        "translateExample": "Он не просит у меня совета.",
+        "collocations": [
+          "der Rat",
+          "er"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "98e352d2-a3f2-47a0-a4b0-f1d437902745",
+        "deExample": "Sie hat ihn um eine Erklärung gebeten.",
+        "translateExample": "Она попросила у него объяснения.",
+        "collocations": [
+          "die Erklärung",
+          "er"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "bbed4fef-dabd-43f0-8066-ac044326742e",
+        "deExample": "Du darfst mich jederzeit um Hilfe bitten.",
+        "translateExample": "Ты можешь в любое время просить у меня помощи.",
+        "collocations": [
+          "die Hilfe",
+          "jederzeit"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4b5543d2-d01a-4281-84d9-35995b6bdfdc",
+        "deExample": "Ich rufe ihn an, weil ich ihn um einen Termin bitten will.",
+        "translateExample": "Я звоню ему, потому что хочу попросить его о встрече.",
+        "collocations": [
+          "der Termin",
+          "anrufen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a009e0de-c2b4-4ffd-9622-3b69e64b8a23",
+        "deExample": "Ich werde dich um deine Meinung bitten, wenn es nötig ist.",
+        "translateExample": "Я попрошу твоего мнения, если это будет нужно.",
+        "collocations": [
+          "die Meinung",
+          "nötig"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a8a719d5-980d-4ff2-8491-336f65deebe2",
+        "deExample": "Er wurde um Geduld gebeten.",
+        "translateExample": "Его попросили о терпении.",
+        "collocations": [
+          "die Geduld"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2667fdac-dae1-4a59-9f9f-8c1c8cc2e80c",
+        "deExample": "Sie versucht, ihn um eine Chance zu bitten.",
+        "translateExample": "Она пытается попросить у него шанс.",
+        "collocations": [
+          "die Chance",
+          "versuchen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "63ae13a3-8b15-4be1-ac23-ec29d15f16e4",
+        "deExample": "Wie kann man lernen, um Hilfe zu bitten?",
+        "translateExample": "Как можно научиться просить о помощи?",
+        "collocations": [
+          "die Hilfe",
+          "lernen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e0dba8f2-5546-489e-9247-424cf33e4162",
+        "deExample": "Ich schreibe ihm, um ihn um Informationen zu bitten.",
+        "translateExample": "Я пишу ему, чтобы попросить у него информацию.",
+        "collocations": [
+          "Informationen",
+          "schreiben"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

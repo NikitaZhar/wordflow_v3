@@ -1,0 +1,205 @@
+[
+  {
+    "id": "6a70786e-aa6d-488e-b99c-4f512610c666",
+    "deWord": "leiden - litt - gelitten",
+    "translateWord": "страдать (от чего-либо, an + Dat / unter + Dat)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "57a2d46c-a558-478c-b44b-f4521badc3d2",
+        "deExample": "Er leidet an einer Krankheit.",
+        "translateExample": "Он страдает от болезни.",
+        "collocations": [
+          "Krankheit"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "eeb7ff28-5603-49d9-b76d-e624cee00918",
+        "deExample": "Leidest du an Kopfschmerzen?",
+        "translateExample": "Ты страдаешь от головной боли?",
+        "collocations": [
+          "Kopfschmerzen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f9630058-3ec4-4118-b9e2-0d3254836704",
+        "deExample": "Er leidet nicht unter Stress.",
+        "translateExample": "Он не страдает от стресса.",
+        "collocations": [
+          "Stress"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "862b837b-9ab0-4027-b7fb-0f2d99fdf4f6",
+        "deExample": "Er hat lange an dieser Krankheit gelitten.",
+        "translateExample": "Он долго страдал этой болезнью.",
+        "collocations": [
+          "Krankheit"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "503b1806-1800-445e-bc12-a80c119e9298",
+        "deExample": "Du musst nicht mehr leiden.",
+        "translateExample": "Тебе больше не нужно страдать.",
+        "collocations": [
+          "du"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "02926fdc-ebd4-4387-9803-0e87b64fcc74",
+        "deExample": "Ich bleibe zu Hause, weil ich an Grippe leide.",
+        "translateExample": "Я остаюсь дома, потому что я болею гриппом.",
+        "collocations": [
+          "Grippe"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "003fce9f-0b67-4662-b3a1-6e4409f7557a",
+        "deExample": "Er wird weniger leiden, wenn er Medizin nimmt.",
+        "translateExample": "Он будет меньше страдать, если будет принимать лекарства.",
+        "collocations": [
+          "Medizin"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ee5cd765-b99e-4942-8ef7-2ff48361ff96",
+        "deExample": "Es wird unter den Bedingungen gelitten.",
+        "translateExample": "При этих условиях страдают.",
+        "collocations": [
+          "Bedingungen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ebfc6de8-07e5-402f-aea0-4db1fdc42c65",
+        "deExample": "Ich versuche, nicht mehr zu leiden.",
+        "translateExample": "Я стараюсь больше не страдать.",
+        "collocations": [
+          "Versuch"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d3435b25-de12-40c4-9b3b-574c0dc86265",
+        "deExample": "Willst du nicht mehr leiden?",
+        "translateExample": "Ты хочешь больше не страдать?",
+        "collocations": [
+          "du"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5a89586a-222c-4164-bbc6-25848181a1e3",
+        "deExample": "Er meditiert, um weniger zu leiden.",
+        "translateExample": "Он медитирует, чтобы меньше страдать.",
+        "collocations": [
+          "Meditation"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "0ed3fe9f-9f74-4216-9d1d-97c2ab3f886f",
+    "deWord": "wirklich",
+    "translateWord": "действительно (усиление значения качества, действия, состояния)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "6c432777-cf75-47d9-a78c-dc00ca5c5d13",
+        "deExample": "Das Essen hier ist wirklich lecker.",
+        "translateExample": "Еда здесь действительно вкусная.",
+        "collocations": [
+          "das Essen",
+          "lecker"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1b21b879-43c2-40dc-812f-f3ed94ae4582",
+        "deExample": "Ist das wirklich dein Auto?",
+        "translateExample": "Это действительно твоя машина?",
+        "collocations": [
+          "das Auto",
+          "dein"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f0b69639-307e-4d92-be5f-35712e77f844",
+        "deExample": "Er ist wirklich nicht nett zu mir.",
+        "translateExample": "Он действительно не ведёт себя со мной дружелюбно.",
+        "collocations": [
+          "nett",
+          "er"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9bd3ba0f-b8ae-463a-99a6-7622c9876dad",
+        "deExample": "Ich habe wirklich viel gelernt.",
+        "translateExample": "Я действительно много выучил.",
+        "collocations": [
+          "viel",
+          "lernen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "161141e4-fbcf-470a-b0ed-bdcd8636014b",
+        "deExample": "Man muss wirklich aufpassen.",
+        "translateExample": "Нужно действительно быть внимательным.",
+        "collocations": [
+          "aufpassen",
+          "müssen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "451f7f8f-851f-4597-b12d-96921461f341",
+        "deExample": "Ich bin glücklich, weil ich wirklich gute Freunde habe.",
+        "translateExample": "Я счастлив, потому что у меня действительно хорошие друзья.",
+        "collocations": [
+          "Freunde",
+          "glücklich",
+          "gut"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4110c588-1c33-48a8-a25d-a2fcd6bda3f6",
+        "deExample": "Ich werde wirklich pünktlich sein, wenn wir rechtzeitig losgehen.",
+        "translateExample": "Я действительно буду вовремя, если мы выйдем вовремя.",
+        "collocations": [
+          "pünktlich",
+          "losgehen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9495b986-19e8-4c2b-85fa-b21bafdf96fc",
+        "deExample": "Der Fehler wurde wirklich schnell bemerkt.",
+        "translateExample": "Ошибка действительно была быстро замечена.",
+        "collocations": [
+          "der Fehler",
+          "schnell",
+          "bemerken"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a424ca4f-77e0-4067-abe8-f55495797901",
+        "deExample": "Er versucht, wirklich besser zu sprechen.",
+        "translateExample": "Он старается говорить действительно лучше.",
+        "collocations": [
+          "sprechen",
+          "besser",
+          "versuchen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "46e97b8d-4813-4ed2-be52-3e3c50bf2233",
+        "deExample": "Wie kann man lernen, wirklich ruhig zu bleiben?",
+        "translateExample": "Как можно научиться действительно оставаться спокойным?",
+        "collocations": [
+          "lernen",
+          "ruhig",
+          "bleiben"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "88e31305-9dde-437e-afdb-8d2c67653ed2",
+        "deExample": "Ich lese jeden Tag, um wirklich gut Deutsch zu lernen.",
+        "translateExample": "Я читаю каждый день, чтобы действительно хорошо выучить немецкий язык.",
+        "collocations": [
+          "lesen",
+          "jeden Tag",
+          "gut",
+          "Deutsch"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

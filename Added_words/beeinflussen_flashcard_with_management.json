@@ -1,0 +1,85 @@
+[{
+  "id": "0b8e9141-863f-4d25-bf61-95c6f89d7c21",
+  "deWord": "beeinflussen - beeinflusste - beeinflusst",
+  "translateWord": "влиять (на + Akk)",
+  "progress": {
+    "successCount": 0,
+    "lastReviewTime": null,
+    "interval": 0
+  },
+  "exerciseType": "VOCAB",
+  "examples": [
+    {
+      "id": "3e86eb5c-fb7e-4e5f-8b44-7c9cf1d2e11e",
+      "deExample": "Eltern beeinflussen oft die Entscheidungen ihrer Kinder.",
+      "translateExample": "Родители часто влияют на решения своих детей.",
+      "collocations": [
+        "Eltern",
+        "Entscheidungen",
+        "Kinder"
+      ],
+      "grammarTags": [
+        "Präsens"
+      ],
+      "progress": {
+        "successCount": 0,
+        "lastReviewTime": null,
+        "interval": 0
+      },
+      "active": false
+    },
+    {
+      "id": "ad61177d-3fae-462b-bb1c-f05e853d3fb5",
+      "deExample": "Die Medien haben die öffentliche Meinung beeinflusst.",
+      "translateExample": "Средства массовой информации повлияли на общественное мнение.",
+      "collocations": [
+        "Medien",
+        "öffentliche Meinung"
+      ],
+      "grammarTags": [
+        "Perfekt"
+      ],
+      "progress": {
+        "successCount": 0,
+        "lastReviewTime": null,
+        "interval": 0
+      },
+      "active": false
+    },
+    {
+      "id": "2e70d42b-1e6b-4f13-9f06-0dcb19d1eb8c",
+      "deExample": "Kannst du ihn positiv beeinflussen?",
+      "translateExample": "Ты можешь повлиять на него положительно?",
+      "collocations": [
+        "positiv"
+      ],
+      "grammarTags": [
+        "Frage",
+        "Modalverb"
+      ],
+      "progress": {
+        "successCount": 0,
+        "lastReviewTime": null,
+        "interval": 0
+      },
+      "active": false
+    },
+    {
+      "id": "441f23b2-d05b-4a4e-98ff-0b449b8d06d3",
+      "deExample": "Seine Worte haben mich stark beeinflusst.",
+      "translateExample": "Его слова сильно на меня повлияли.",
+      "collocations": [
+        "Worte"
+      ],
+      "grammarTags": [
+        "Perfekt"
+      ],
+      "progress": {
+        "successCount": 0,
+        "lastReviewTime": null,
+        "interval": 0
+      },
+      "active": false
+    }
+  ]
+}]

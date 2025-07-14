@@ -1,0 +1,191 @@
+[
+  {
+    "id": "29146f87-2c61-4f7a-82ea-2593dd2703d3",
+    "deWord": "gestresst",
+    "translateWord": "в стрессе",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "adc32ebd-0040-42cd-baba-a4441f8c6c6c",
+        "deExample": "Er ist gestresst.",
+        "translateExample": "Он в стрессе.",
+        "collocations": [],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "493c83b9-ee41-4531-bca8-d5b14c99b99f",
+        "deExample": "Bist du gestresst?",
+        "translateExample": "Ты в стрессе?",
+        "collocations": [],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b1dc64d4-840e-403c-9e9e-b8d7e979b34e",
+        "deExample": "Sie ist heute nicht gestresst.",
+        "translateExample": "Она сегодня не в стрессе.",
+        "collocations": [
+          "heute"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3ee70b17-68d5-4b80-8f4a-a9a21bf1dfa5",
+        "deExample": "Er war gestern gestresst.",
+        "translateExample": "Вчера он был в стрессе.",
+        "collocations": [
+          "gestern"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "37598747-7562-41c3-96e4-576ad423df50",
+        "deExample": "Du kannst gestresst sein.",
+        "translateExample": "Ты можешь быть в стрессе.",
+        "collocations": [],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d5d6419f-8c82-41ab-9328-c20ce435383b",
+        "deExample": "Er bleibt zu Hause, weil er gestresst ist.",
+        "translateExample": "Он остаётся дома, потому что он в стрессе.",
+        "collocations": [
+          "Hause"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2647fb43-ede9-41bf-a49f-633b03f620cd",
+        "deExample": "Es wird schwer sein, wenn er gestresst ist.",
+        "translateExample": "Будет трудно, если он будет в стрессе.",
+        "collocations": [],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c35d86b0-3330-4a72-a986-c2d64585e3d7",
+        "deExample": "Es wird als gestresst wahrgenommen.",
+        "translateExample": "Это воспринимается как стрессовое состояние.",
+        "collocations": [],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8e7502db-238f-4137-ad6c-f1daf8409d0b",
+        "deExample": "Er versucht, nicht gestresst zu sein.",
+        "translateExample": "Он старается не быть в стрессе.",
+        "collocations": [],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "979d279a-e533-4bc3-9445-af1cd0d2b8c9",
+        "deExample": "Ist es schwer, nicht gestresst zu sein?",
+        "translateExample": "Тяжело ли не быть в стрессе?",
+        "collocations": [],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d79374cd-d8e0-49b0-8368-28762a2fcdfb",
+        "deExample": "Er meditiert, um nicht gestresst zu sein.",
+        "translateExample": "Он медитирует, чтобы не быть в стрессе.",
+        "collocations": [
+          "meditieren"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

@@ -4,19 +4,24 @@ import com.wordflow.ui.InteractionHandler;
 
 public class MainMenuDisplay {
 	
-	public void display() {
+	public void displayMainMenu() {
 		String menuItems = """
 				
 				
 				  Main Menu
 			
-				0. Exit
-				1. Start lesson
+				[1] Start lesson
+				[2] Today statistics
+				[3] Dictionary management
+				[4] Add new words
 				
-				5. Add new word and example to Dictionary
-				6. Add words and examples from CSV file to Dictionary
-				7. Today statistics
+				[0] Exit
 				""";
-		System.out.println(InteractionHandler.GREEN + menuItems + InteractionHandler.RESET);
+		InteractionHandler.displayMessage(menuItems);
+//		System.out.println(InteractionHandler.GREEN + menuItems + InteractionHandler.RESET);
 	}
+	
+	
 }
+
+//2. Check Dictionary

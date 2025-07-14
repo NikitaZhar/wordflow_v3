@@ -1,0 +1,205 @@
+[
+  {
+    "id": "3c2f1174-9eec-4e6d-af82-01f2e820243c",
+    "deWord": "ausgeben - gab aus - ausgegeben",
+    "translateWord": "тратить (ausgeben)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "fbbdc393-5524-4566-bafa-431e1a7866c0",
+        "deExample": "Ich gebe Geld aus.",
+        "translateExample": "Я трачу деньги.",
+        "collocations": [
+          "Geld"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "482dd78f-dfea-4553-8afa-fb8aa2a6cb9a",
+        "deExample": "Gibst du viel aus?",
+        "translateExample": "Ты много тратишь?",
+        "collocations": [
+          "viel"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ea3e49ee-215b-4be8-aa97-b212292cc9c1",
+        "deExample": "Er gibt nicht viel aus.",
+        "translateExample": "Он не тратит много.",
+        "collocations": [
+          "viel"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "01b71869-5c3c-48f2-8ec8-39f446176238",
+        "deExample": "Wir haben viel ausgegeben.",
+        "translateExample": "Мы потратили много.",
+        "collocations": [
+          "viel"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "346149d6-10bd-409d-9d21-cabcbb77a88e",
+        "deExample": "Du darfst nicht alles ausgeben.",
+        "translateExample": "Тебе нельзя тратить всё.",
+        "collocations": [
+          "alles"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "58bee2cc-dbeb-4add-9405-0cb4b69e4f00",
+        "deExample": "Ich gebe Geld aus, weil ich neue Kleidung brauche.",
+        "translateExample": "Я трачу деньги, потому что мне нужна новая одежда.",
+        "collocations": [
+          "Kleidung"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b6cfec1c-8f65-4a4a-bece-af9b36f4c0f4",
+        "deExample": "Er wird viel ausgeben, wenn er reist.",
+        "translateExample": "Он потратит много, если поедет в поездку.",
+        "collocations": [
+          "reisen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0ac0d9dc-8a2b-4440-90cb-db17fbcee290",
+        "deExample": "Geld wird hier ausgegeben.",
+        "translateExample": "Здесь тратятся деньги.",
+        "collocations": [
+          "Geld"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "00f0e80f-6067-4ccc-94e1-89537c37c340",
+        "deExample": "Er versucht, weniger auszugeben.",
+        "translateExample": "Он старается тратить меньше.",
+        "collocations": [
+          "weniger"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "58881297-4a95-4d3a-b775-c2b8dcf68340",
+        "deExample": "Willst du lernen, weniger auszugeben?",
+        "translateExample": "Ты хочешь научиться тратить меньше?",
+        "collocations": [
+          "lernen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3366d9a3-b4d8-4bc3-b9f9-24df4478db66",
+        "deExample": "Er spart, um weniger auszugeben.",
+        "translateExample": "Он экономит, чтобы тратить меньше.",
+        "collocations": [
+          "sparen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

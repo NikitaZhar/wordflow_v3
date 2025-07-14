@@ -1,0 +1,218 @@
+[
+  {
+    "id": "8ebf50f2-3b1b-46da-bf06-5a21a2ea8882",
+    "deWord": "fertig",
+    "translateWord": "готовый (с чем, mit + Dativ / к чему, für + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "ab25b2e6-95bc-47f9-96ba-5a27f7a1d5c2",
+        "deExample": "Ich bin fertig mit der Arbeit.",
+        "translateExample": "Я закончил работу.",
+        "collocations": [
+          "die Arbeit"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "450309f8-1e50-470e-b4f7-3900eb5c8646",
+        "deExample": "Bist du schon fertig mit dem Kochen?",
+        "translateExample": "Ты уже закончил готовить?",
+        "collocations": [
+          "das Kochen",
+          "schon"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b6e5e6b2-285d-486f-8a58-09d82eddc55d",
+        "deExample": "Ich bin noch nicht fertig mit dem Bericht.",
+        "translateExample": "Я ещё не закончил отчёт.",
+        "collocations": [
+          "der Bericht",
+          "noch"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5328298f-79f6-4c83-85d1-ce017ba6a1a5",
+        "deExample": "Wir waren gestern spät mit dem Projekt fertig.",
+        "translateExample": "Вчера мы поздно закончили проект.",
+        "collocations": [
+          "das Projekt",
+          "gestern",
+          "spät"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7ea96f1f-72a5-41e9-8802-ac80729fc460",
+        "deExample": "Man muss mit allem fertig sein.",
+        "translateExample": "Нужно со всем закончить.",
+        "collocations": [
+          "alles",
+          "müssen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "11616ce2-c671-48d8-94bc-dd099b50d667",
+        "deExample": "Ich bleibe zu Hause, weil ich noch nicht fertig bin.",
+        "translateExample": "Я остаюсь дома, потому что ещё не готов.",
+        "collocations": [
+          "zu Hause",
+          "noch"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ba928db8-f715-4f96-bf2a-95013c1d21c0",
+        "deExample": "Ich werde mit dem Kurs fertig sein, wenn du zurückkommst.",
+        "translateExample": "Я закончу курс, когда ты вернёшься.",
+        "collocations": [
+          "der Kurs",
+          "zurückkommen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0ece0d68-1605-46e2-b890-8fa19e87131b",
+        "deExample": "Mit der Arbeit ist er bereits fertig gemacht worden.",
+        "translateExample": "Работа уже была завершена им.",
+        "collocations": [
+          "die Arbeit",
+          "bereits"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "78965595-fdda-4a2e-a9e5-84cdfcf010de",
+        "deExample": "Sie versucht, mit dem Projekt rechtzeitig fertig zu werden.",
+        "translateExample": "Она старается вовремя закончить проект.",
+        "collocations": [
+          "das Projekt",
+          "rechtzeitig"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8ef220dc-ec90-46c0-aac9-c52fa197fd02",
+        "deExample": "Wie kann man lernen, mit Stress besser fertig zu werden?",
+        "translateExample": "Как научиться лучше справляться со стрессом?",
+        "collocations": [
+          "der Stress",
+          "lernen",
+          "besser"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "aa7022fd-8c35-48ba-b0db-1188f1a7008c",
+        "deExample": "Ich arbeite hart, um mit allem pünktlich fertig zu sein.",
+        "translateExample": "Я усердно работаю, чтобы всё закончить вовремя.",
+        "collocations": [
+          "hart",
+          "alles",
+          "pünktlich"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

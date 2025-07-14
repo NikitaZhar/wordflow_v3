@@ -1,0 +1,1026 @@
+[
+  {
+    "id": "c740d43f-8563-4bf2-a4dc-0287e4000140",
+    "deWord": "der Fehler",
+    "translateWord": "ошибка",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "636328a3-8226-4e0c-ae4b-ca5ec6434d86",
+        "deExample": "Der Fehler ist klein.",
+        "translateExample": "Ошибка маленькая.",
+        "collocations": [
+          "klein"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "def8b275-1197-441a-a2cd-f271d83f1b5b",
+        "deExample": "Was bedeutet dieser Fehler?",
+        "translateExample": "Что значит эта ошибка?",
+        "collocations": [],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "27d52235-7a94-4bba-830a-7425850ee1f1",
+        "deExample": "Ich sehe keinen Fehler hier.",
+        "translateExample": "Я не вижу здесь ошибки.",
+        "collocations": [
+          "hier"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "88e8f243-c295-4a24-804e-fcc161d6e3e6",
+        "deExample": "Ich habe einen Fehler gemacht.",
+        "translateExample": "Я сделал ошибку.",
+        "collocations": [],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b14b4ced-be4a-4a4e-963c-cadb060a9248",
+        "deExample": "Man kann einen Fehler korrigieren.",
+        "translateExample": "Можно исправить ошибку.",
+        "collocations": [
+          "korrigieren"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b0b668a9-e301-4657-8269-3a95240a768a",
+        "deExample": "Er lernt, weil er einen Fehler gemacht hat.",
+        "translateExample": "Он учится, потому что сделал ошибку.",
+        "collocations": [
+          "lernen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7955f25c-dec3-47ac-9f16-53b130fbe465",
+        "deExample": "Ich werde den Fehler vermeiden, wenn ich vorsichtig bin.",
+        "translateExample": "Я избегу ошибки, если буду осторожным.",
+        "collocations": [
+          "vermeiden",
+          "vorsichtig"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d0e824a9-af98-47ab-b16c-e5a70b1ed89b",
+        "deExample": "Der Fehler wird korrigiert.",
+        "translateExample": "Ошибка исправляется.",
+        "collocations": [
+          "korrigiert"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d43bc290-b60d-4005-9782-6ae7aead6d3f",
+        "deExample": "Es ist wichtig, einen Fehler zu finden.",
+        "translateExample": "Важно найти ошибку.",
+        "collocations": [
+          "wichtig",
+          "finden"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "dd645638-d036-4c73-9a69-b09c3afb98b1",
+        "deExample": "Wie ist es, einen Fehler zu machen?",
+        "translateExample": "Как это — совершить ошибку?",
+        "collocations": [
+          "machen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ca71bf33-d4a7-4be3-bd31-8f1d82ce5e83",
+        "deExample": "Ich übe mehr, um keinen Fehler zu machen.",
+        "translateExample": "Я больше практикуюсь, чтобы не совершать ошибок.",
+        "collocations": [
+          "üben"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "50d53f4e-5f83-4bb0-8aa2-99a956a38ddd",
+    "deWord": "höflich",
+    "translateWord": "вежливый, учтивый",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "f29d3c98-a7de-4d1d-b53b-aec5b1589ab6",
+        "deExample": "Er ist immer höflich.",
+        "translateExample": "Он всегда вежливый.",
+        "collocations": [
+          "immer"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4bba2883-572a-4846-96df-589c8a4b5e71",
+        "deExample": "Bist du immer höflich zu allen?",
+        "translateExample": "Ты всегда вежлив со всеми?",
+        "collocations": [
+          "allen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2699168f-9992-4880-b81e-3247a41a803e",
+        "deExample": "Ich bin nicht immer höflich.",
+        "translateExample": "Я не всегда вежлив.",
+        "collocations": [
+          "immer"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d474fc78-fee9-47fb-85e0-20f6a468c5ae",
+        "deExample": "Gestern war er sehr höflich.",
+        "translateExample": "Вчера он был очень вежлив.",
+        "collocations": [
+          "gestern",
+          "sehr"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6e33751e-84ab-4665-b806-13950b6b82f2",
+        "deExample": "Man soll immer höflich sein.",
+        "translateExample": "Следует всегда быть вежливым.",
+        "collocations": [
+          "sein"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1d19ce3a-0f3b-421b-9c39-54203b40d79e",
+        "deExample": "Ich danke ihm, weil er so höflich ist.",
+        "translateExample": "Я благодарю его, потому что он такой вежливый.",
+        "collocations": [
+          "danke"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "63dd1d95-f70b-4503-a594-515823c7d35d",
+        "deExample": "Ich werde höflich bleiben, wenn er unfreundlich ist.",
+        "translateExample": "Я останусь вежливым, если он будет невежливым.",
+        "collocations": [
+          "unfreundlich"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0e221ea7-532d-4a12-ab55-6fc4dc3419f6",
+        "deExample": "Er wird höflich behandelt.",
+        "translateExample": "С ним обращаются вежливо.",
+        "collocations": [
+          "behandelt"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c2d7a3ef-c039-49af-ba6b-b087678857e5",
+        "deExample": "Es ist wichtig, höflich zu sprechen.",
+        "translateExample": "Важно говорить вежливо.",
+        "collocations": [
+          "wichtig",
+          "sprechen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b413da0d-229d-431b-bf5d-74accb6b4208",
+        "deExample": "Wie ist es, höflich zu bleiben?",
+        "translateExample": "Как это — оставаться вежливым?",
+        "collocations": [
+          "bleiben"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e4b59439-0390-43f1-868f-7a3be1c06f29",
+        "deExample": "Ich übe Deutsch, um höflich zu sprechen.",
+        "translateExample": "Я практикую немецкий, чтобы говорить вежливо.",
+        "collocations": [
+          "Deutsch",
+          "sprechen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "a9612d2a-b3ce-4251-8f5a-43dcc6581da4",
+    "deWord": "sich unterhalten - unterhielt - unterhalten",
+    "translateWord": "разговаривать, беседовать (mit + Dativ, über + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "f77add1e-1cf3-422b-ae99-b8dbfe748528",
+        "deExample": "Wir unterhalten uns jeden Abend.",
+        "translateExample": "Мы разговариваем каждый вечер.",
+        "collocations": [
+          "jeden Abend"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a11dffea-55df-4253-b7b9-b7e7d9288f4d",
+        "deExample": "Mit wem unterhältst du dich?",
+        "translateExample": "С кем ты разговариваешь?",
+        "collocations": [],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "09844c82-2cef-473e-be23-efd199db2a86",
+        "deExample": "Ich unterhalte mich nicht oft über Politik.",
+        "translateExample": "Я не часто беседую о политике.",
+        "collocations": [
+          "Politik"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b7e705cd-5a38-41fd-9ce6-853261238d0b",
+        "deExample": "Gestern habe ich mich lange mit ihm unterhalten.",
+        "translateExample": "Вчера я долго с ним беседовал.",
+        "collocations": [
+          "gestern",
+          "lange"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "699d35de-b230-4289-b596-00337079743a",
+        "deExample": "Wir wollen uns heute unterhalten.",
+        "translateExample": "Мы хотим сегодня поговорить.",
+        "collocations": [
+          "heute"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ecbe004e-2ec5-4e0e-9720-3abd5d7fa1f6",
+        "deExample": "Wir unterhalten uns, weil wir Freunde sind.",
+        "translateExample": "Мы беседуем, потому что мы друзья.",
+        "collocations": [
+          "Freunde"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9669af0a-255f-4ece-94cf-e4a07c682183",
+        "deExample": "Wir werden uns unterhalten, wenn wir Zeit haben.",
+        "translateExample": "Мы поговорим, когда у нас будет время.",
+        "collocations": [
+          "Zeit"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "698a8e5a-3158-4502-aa2c-7bf64cf2a5ac",
+        "deExample": "Es wird sich oft beim Kaffee unterhalten.",
+        "translateExample": "Часто беседуют за кофе.",
+        "collocations": [
+          "Kaffee"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b7679d2d-abf8-465e-9076-dd2d78227c98",
+        "deExample": "Es ist schön, sich mit Freunden zu unterhalten.",
+        "translateExample": "Приятно беседовать с друзьями.",
+        "collocations": [
+          "schön",
+          "Freunden"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0734af2b-d930-4e09-a618-563aaad34ddd",
+        "deExample": "Wie ist es, sich mit ihm zu unterhalten?",
+        "translateExample": "Как это — беседовать с ним?",
+        "collocations": [],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c60ff8a8-9ef7-4030-9e7c-ea0128318a38",
+        "deExample": "Ich rufe ihn an, um mich mit ihm zu unterhalten.",
+        "translateExample": "Я звоню ему, чтобы с ним поговорить.",
+        "collocations": [
+          "anrufen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "bdbbd117-a0fb-4516-a676-bbdf178cf7c7",
+    "deWord": "liefern - lieferte - geliefert",
+    "translateWord": "доставлять, поставлять",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "ba38daf2-176a-4268-827c-f62877242262",
+        "deExample": "Sie liefern das Essen schnell.",
+        "translateExample": "Они быстро доставляют еду.",
+        "collocations": [
+          "Essen",
+          "schnell"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4eb85e98-7f96-48c3-b6b1-b585296527d0",
+        "deExample": "Liefern Sie auch am Sonntag?",
+        "translateExample": "Вы доставляете также в воскресенье?",
+        "collocations": [
+          "Sonntag"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "269ded23-838b-437d-9720-31b9a3562a33",
+        "deExample": "Wir liefern nicht in andere Städte.",
+        "translateExample": "Мы не доставляем в другие города.",
+        "collocations": [
+          "Städte"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2b9d11e2-bcae-4213-a275-e005b9811556",
+        "deExample": "Gestern haben sie die Möbel geliefert.",
+        "translateExample": "Вчера они доставили мебель.",
+        "collocations": [
+          "gestern",
+          "Möbel"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "95d71763-3039-44a2-ac2e-2d7bd4599de4",
+        "deExample": "Wir können die Bestellung morgen liefern.",
+        "translateExample": "Мы можем доставить заказ завтра.",
+        "collocations": [
+          "Bestellung",
+          "morgen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4daf8010-3ced-4c58-8168-30bcc2e46258",
+        "deExample": "Sie liefern heute, weil der Kunde wartet.",
+        "translateExample": "Они доставляют сегодня, потому что клиент ждёт.",
+        "collocations": [
+          "Kunde"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "822a1aeb-c811-4d7b-ba64-7182825ee85f",
+        "deExample": "Wir werden morgen liefern, wenn alles fertig ist.",
+        "translateExample": "Мы доставим завтра, если всё будет готово.",
+        "collocations": [
+          "morgen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f0af8743-a583-42d0-8e21-01369d9ab901",
+        "deExample": "Die Ware wird morgen geliefert.",
+        "translateExample": "Товар будет доставлен завтра.",
+        "collocations": [
+          "Ware",
+          "morgen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "02f4bd07-c264-4562-94f2-6f673de2e824",
+        "deExample": "Es ist wichtig, pünktlich zu liefern.",
+        "translateExample": "Важно доставлять вовремя.",
+        "collocations": [
+          "wichtig",
+          "pünktlich"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1b3a0e61-b167-4697-a685-d2d1f41473cb",
+        "deExample": "Können Sie sagen, wann die Firma zu liefern plant?",
+        "translateExample": "Можете сказать, когда фирма планирует доставить?",
+        "collocations": [
+          "Firma"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b7e2efd6-4e9a-4846-8a7d-b861656b3050",
+        "deExample": "Wir arbeiten schnell, um rechtzeitig zu liefern.",
+        "translateExample": "Мы работаем быстро, чтобы доставить вовремя.",
+        "collocations": [
+          "schnell"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "73286c3d-a5cb-4334-802c-702fceac7e7f",
+    "deWord": "miteinander",
+    "translateWord": "друг с другом, вместе",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "87571ce1-6834-44c2-bc7c-751367b36c40",
+        "deExample": "Sie reden oft miteinander.",
+        "translateExample": "Они часто разговаривают друг с другом.",
+        "collocations": [
+          "oft"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a97cd74a-76f4-4d15-a8dc-21d21a6683c4",
+        "deExample": "Wie sprechen Sie miteinander?",
+        "translateExample": "Как вы разговариваете друг с другом?",
+        "collocations": [
+          "sprechen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f4c292db-9938-466f-8465-c2775f5f477c",
+        "deExample": "Sie arbeiten nicht gut miteinander.",
+        "translateExample": "Они плохо работают друг с другом.",
+        "collocations": [
+          "arbeiten"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3b510c54-8c1b-4642-95a0-fd8e789d6ece",
+        "deExample": "Gestern haben wir miteinander gespielt.",
+        "translateExample": "Вчера мы играли вместе.",
+        "collocations": [
+          "gestern",
+          "spielen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8e894a55-f07a-42f0-8dde-eb51afcc6148",
+        "deExample": "Man muss miteinander reden.",
+        "translateExample": "Нужно разговаривать друг с другом.",
+        "collocations": [
+          "reden"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4d77b4d4-2bd6-4321-be18-9e2c86875a35",
+        "deExample": "Sie lachen, weil sie miteinander glücklich sind.",
+        "translateExample": "Они смеются, потому что они счастливы вместе.",
+        "collocations": [
+          "lachen",
+          "glücklich"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8dd319c0-6278-42ca-a88a-fb91f1d9cee2",
+        "deExample": "Wir werden miteinander sprechen, wenn wir Zeit haben.",
+        "translateExample": "Мы поговорим друг с другом, когда у нас будет время.",
+        "collocations": [
+          "sprechen",
+          "Zeit"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c95ae18b-0dff-4670-bee7-205285a95105",
+        "deExample": "Es wird miteinander gearbeitet.",
+        "translateExample": "Работают вместе.",
+        "collocations": [
+          "arbeiten"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "10b5fc91-cbb1-4cc0-8ee8-95338655c98a",
+        "deExample": "Es ist wichtig, miteinander zu leben.",
+        "translateExample": "Важно жить вместе.",
+        "collocations": [
+          "leben",
+          "wichtig"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "583cbe9a-12d4-465c-b8c6-d25d7110a23a",
+        "deExample": "Wie ist es, miteinander zu arbeiten?",
+        "translateExample": "Как это — работать вместе?",
+        "collocations": [
+          "arbeiten"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b3745fcc-9ba1-4d96-90de-a99a194f347b",
+        "deExample": "Wir treffen uns oft, um miteinander zu lernen.",
+        "translateExample": "Мы часто встречаемся, чтобы учиться вместе.",
+        "collocations": [
+          "lernen",
+          "treffen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

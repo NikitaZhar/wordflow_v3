@@ -1,0 +1,205 @@
+[
+  {
+    "id": "08ba0b3b-9bac-4560-942e-6bf93604d86c",
+    "deWord": "auf keinen Fall",
+    "translateWord": "ни в коем случае",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "a640323f-14e0-4ba5-a6b7-892b203d3075",
+        "deExample": "Ich mache das auf keinen Fall.",
+        "translateExample": "Я этого ни в коем случае не сделаю.",
+        "collocations": [
+          "das"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "80d3ce24-d0ba-448d-b3a9-53b808a0ff83",
+        "deExample": "Machst du das auf keinen Fall?",
+        "translateExample": "Ты это ни в коем случае не сделаешь?",
+        "collocations": [
+          "das"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6259649a-9eb0-4c17-9031-8a713ed8d5f3",
+        "deExample": "Ich gehe heute auf keinen Fall ins Kino.",
+        "translateExample": "Я сегодня ни в коем случае не пойду в кино.",
+        "collocations": [
+          "Kino"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b2c9edab-6571-4ea3-a491-c28758034987",
+        "deExample": "Er hat das auf keinen Fall gemacht.",
+        "translateExample": "Он этого ни в коем случае не сделал.",
+        "collocations": [
+          "das"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "37af5b9a-8281-485f-bb60-1d07345f70b6",
+        "deExample": "Du darfst das auf keinen Fall sagen.",
+        "translateExample": "Ты ни в коем случае не должен это говорить.",
+        "collocations": [
+          "das"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8ec177bd-e8b6-4603-a86b-0e80d0072729",
+        "deExample": "Ich gehe nicht, weil ich auf keinen Fall will.",
+        "translateExample": "Я не иду, потому что я ни в коем случае не хочу.",
+        "collocations": [
+          "Haus"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5c5dc410-1db3-4f71-85c6-fbda1f86afe3",
+        "deExample": "Ich werde auf keinen Fall kommen, wenn es regnet.",
+        "translateExample": "Я ни в коем случае не приду, если будет дождь.",
+        "collocations": [
+          "Regen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "172d2982-345c-413b-938f-280d058add90",
+        "deExample": "Das wird auf keinen Fall gesagt.",
+        "translateExample": "Это ни в коем случае не будет сказано.",
+        "collocations": [
+          "das"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a9825f35-bc16-4fcc-abf0-fd0dc9703b2a",
+        "deExample": "Ich plane, das auf keinen Fall zu tun.",
+        "translateExample": "Я планирую ни в коем случае этого не делать.",
+        "collocations": [
+          "das"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0008a558-4500-4abc-b94b-39d6da88a27b",
+        "deExample": "Willst du das auf keinen Fall tun?",
+        "translateExample": "Ты ни в коем случае не хочешь это делать?",
+        "collocations": [
+          "das"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "326ab718-fc82-43b7-a5d6-2fe30b499e40",
+        "deExample": "Ich lerne, um das auf keinen Fall zu vergessen.",
+        "translateExample": "Я учу, чтобы ни в коем случае это не забыть.",
+        "collocations": [
+          "das"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

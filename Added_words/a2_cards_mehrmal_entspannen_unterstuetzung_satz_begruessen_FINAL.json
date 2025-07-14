@@ -1,0 +1,1062 @@
+[
+  {
+    "id": "a84febea-b5d6-435d-9315-3553badda356",
+    "deWord": "mehrmal",
+    "translateWord": "несколько раз, повторно",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "d2298921-d5a7-44d6-b6f0-be398da7ab62",
+        "deExample": "Ich lese mehrmals spannende Bücher.",
+        "translateExample": "Я несколько раз читаю интересные книги.",
+        "collocations": [
+          "Bücher",
+          "spannend"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2c5449be-7ccb-4838-b875-20702548077f",
+        "deExample": "Hast du das mehrmals gemacht?",
+        "translateExample": "Ты делал это несколько раз?",
+        "collocations": [
+          "machen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "db9e4aab-e92d-47e8-9746-184d069f3271",
+        "deExample": "Er hat die Aufgabe nicht mehrmals wiederholt.",
+        "translateExample": "Он не повторял задание несколько раз.",
+        "collocations": [
+          "Aufgabe",
+          "wiederholen"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9659df50-e9cd-4014-b117-56b6a4cba6fc",
+        "deExample": "Ich habe mehrmals angerufen.",
+        "translateExample": "Я звонил несколько раз.",
+        "collocations": [
+          "anrufen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b1ca005c-2af4-4f30-8319-f5a0e6c2130f",
+        "deExample": "Du kannst den Film mehrmals ansehen.",
+        "translateExample": "Ты можешь посмотреть фильм несколько раз.",
+        "collocations": [
+          "Film",
+          "ansehen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a18c6397-cd3c-423b-8e0a-c3a627533188",
+        "deExample": "Ich bleibe hier, weil ich es mehrmals üben möchte.",
+        "translateExample": "Я остаюсь здесь, потому что хочу несколько раз потренироваться.",
+        "collocations": [
+          "hier",
+          "üben",
+          "möchten"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5eb2afb4-08a5-403a-9bc5-c64658a8e450",
+        "deExample": "Ich werde mehrmals wiederholen, wenn ich Zeit habe.",
+        "translateExample": "Я повторю несколько раз, когда у меня будет время.",
+        "collocations": [
+          "wiederholen",
+          "Zeit",
+          "haben"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9045affe-dd52-4140-875b-19fcc0f42340",
+        "deExample": "Das wird mehrmals erklärt.",
+        "translateExample": "Это объясняется несколько раз.",
+        "collocations": [
+          "erklären"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5eb6a0b0-0a71-401e-a310-1ee13c7f9a3a",
+        "deExample": "Es ist gut, mehrmals zu üben.",
+        "translateExample": "Хорошо тренироваться несколько раз.",
+        "collocations": [
+          "gut",
+          "üben"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "12a11986-924d-4b84-9e6f-f06b02103e0e",
+        "deExample": "Willst du wissen, wie man mehrmals trainieren kann?",
+        "translateExample": "Ты хочешь узнать, как можно тренироваться несколько раз?",
+        "collocations": [
+          "wissen",
+          "trainieren"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8d26073a-051a-4c03-bab2-c6eb07120bfc",
+        "deExample": "Ich stehe früh auf, um mehrmals zu wiederholen.",
+        "translateExample": "Я встаю рано, чтобы повторить несколько раз.",
+        "collocations": [
+          "aufstehen",
+          "wiederholen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "35928e59-1fbe-4c0a-99fd-bd1187b41ae2",
+    "deWord": "sich entspannen - entspannte - entspannt",
+    "translateWord": "расслабляться (nach + Dativ), отдыхать",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "8c7ea4ca-7ee2-4be5-aacf-bd1f5d4a7b7f",
+        "deExample": "Ich entspanne mich nach der langen Arbeit.",
+        "translateExample": "Я расслабляюсь после долгой работы.",
+        "collocations": [
+          "Arbeit",
+          "lang"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a7cffada-939d-464d-875f-5389cfa0abdf",
+        "deExample": "Entspannst du dich am Wochenende?",
+        "translateExample": "Ты расслабляешься на выходных?",
+        "collocations": [
+          "Wochenende"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fdcd51cb-55d4-4421-b653-78f33f53e809",
+        "deExample": "Er kann sich nicht leicht entspannen.",
+        "translateExample": "Он не может легко расслабиться.",
+        "collocations": [
+          "leicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b5fc18b2-c02f-4f54-8647-e3bf073aad4d",
+        "deExample": "Ich habe mich gestern entspannt.",
+        "translateExample": "Я расслабился вчера.",
+        "collocations": [
+          "gestern"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f17566dc-3c2f-4054-8b6e-133b2c92d859",
+        "deExample": "Du kannst dich im Park entspannen.",
+        "translateExample": "Ты можешь расслабиться в парке.",
+        "collocations": [
+          "Park"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "26a8b481-6b41-4810-8dfa-1ebf0588b1ad",
+        "deExample": "Ich bleibe zu Hause, weil ich mich entspannen möchte.",
+        "translateExample": "Я остаюсь дома, потому что хочу расслабиться.",
+        "collocations": [
+          "zu Hause",
+          "möchten"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d702fd8d-cfe5-4cac-87cf-8c91becf6432",
+        "deExample": "Ich werde mich entspannen, wenn ich Zeit habe.",
+        "translateExample": "Я расслаблюсь, когда у меня будет время.",
+        "collocations": [
+          "Zeit",
+          "haben"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "29604bf2-97b4-4c42-97cb-0dc76399d163",
+        "deExample": "Am Abend wird oft entspannt.",
+        "translateExample": "Вечером часто расслабляются.",
+        "collocations": [
+          "Abend"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c3cd2de5-f06c-4ea7-b83f-b723fb1394a3",
+        "deExample": "Es ist wichtig, sich regelmäßig zu entspannen.",
+        "translateExample": "Важно регулярно расслабляться.",
+        "collocations": [
+          "wichtig",
+          "regelmäßig"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fdf4f956-3aa2-4819-a440-a49ad7827ff3",
+        "deExample": "Willst du lernen, wie man sich besser entspannen kann?",
+        "translateExample": "Ты хочешь узнать, как лучше расслабляться?",
+        "collocations": [
+          "lernen",
+          "besser"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ed67c1a2-2c5f-4924-b970-20c27a86bf6b",
+        "deExample": "Ich höre Musik, um mich zu entspannen.",
+        "translateExample": "Я слушаю музыку, чтобы расслабиться.",
+        "collocations": [
+          "Musik",
+          "hören"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "63b81af8-2e6b-4bbf-855d-b7e5921745db",
+    "deWord": "die Unterstützung",
+    "translateWord": "поддержка (von + Dativ), помощь",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "bf5f6e37-ad6e-4f16-877e-ce5fdccc79a1",
+        "deExample": "Die Unterstützung der Familie ist wichtig.",
+        "translateExample": "Поддержка семьи важна.",
+        "collocations": [
+          "Familie",
+          "wichtig"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "db711e14-5f92-47d0-9719-f8bd3a0e5ffe",
+        "deExample": "Bekommst du Unterstützung von deinen Freunden?",
+        "translateExample": "Ты получаешь поддержку от своих друзей?",
+        "collocations": [
+          "Freunde"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4de9cae4-23e3-4a0d-bf2c-ff1345a0a5ae",
+        "deExample": "Er hat keine Unterstützung von Kollegen.",
+        "translateExample": "У него нет поддержки от коллег.",
+        "collocations": [
+          "Kollegen"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d67a4af1-e52b-4669-a6d7-d284cff350d7",
+        "deExample": "Ich habe gestern Unterstützung bekommen.",
+        "translateExample": "Я получил поддержку вчера.",
+        "collocations": [
+          "gestern",
+          "bekommen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d4dae116-c8c3-400d-829b-4f2dcb03eeed",
+        "deExample": "Du kannst Unterstützung bei der Arbeit finden.",
+        "translateExample": "Ты можешь найти поддержку на работе.",
+        "collocations": [
+          "Arbeit",
+          "finden"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "797bd9c3-ed0b-4848-b6a7-9654cf8f1d55",
+        "deExample": "Er bleibt, weil er Unterstützung braucht.",
+        "translateExample": "Он остаётся, потому что ему нужна поддержка.",
+        "collocations": [
+          "brauchen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e48f224d-5ba1-4503-982a-e5b0aac41c2c",
+        "deExample": "Ich werde Unterstützung geben, wenn es nötig ist.",
+        "translateExample": "Я окажу поддержку, если это будет нужно.",
+        "collocations": [
+          "geben",
+          "nötig"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d4be9acf-8e12-4c11-aeb9-2e6934c4a539",
+        "deExample": "Die Unterstützung wird von allen geschätzt.",
+        "translateExample": "Поддержка ценится всеми.",
+        "collocations": [
+          "schätzen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4f443422-7774-4e66-95dd-2fe3a1253590",
+        "deExample": "Es ist gut, Unterstützung zu geben.",
+        "translateExample": "Хорошо оказывать поддержку.",
+        "collocations": [
+          "gut",
+          "geben"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d6929535-d4a9-4790-9abe-88b2f9215cf0",
+        "deExample": "Willst du lernen, wie man Unterstützung anbietet?",
+        "translateExample": "Ты хочешь узнать, как предлагать поддержку?",
+        "collocations": [
+          "lernen",
+          "anbieten"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "73941fa1-9bd3-4d9b-8e11-45dc53854e39",
+        "deExample": "Ich helfe anderen, um Unterstützung zu leisten.",
+        "translateExample": "Я помогаю другим, чтобы оказать поддержку.",
+        "collocations": [
+          "helfen",
+          "leisten"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "6ddc810b-63d4-4282-99e5-8a7755f8dad4",
+    "deWord": "der Satz",
+    "translateWord": "предложение (in + Dativ), фраза",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "0815f6e2-dad9-419a-9be5-6668b9a3f539",
+        "deExample": "Der Satz ist kurz und einfach.",
+        "translateExample": "Предложение короткое и простое.",
+        "collocations": [
+          "kurz",
+          "einfach"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0212c87d-7448-4f40-baff-860535a941a3",
+        "deExample": "Kannst du den Satz wiederholen?",
+        "translateExample": "Ты можешь повторить предложение?",
+        "collocations": [
+          "wiederholen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "20368b86-4834-467b-9491-49f9965de05e",
+        "deExample": "Der Satz ist nicht korrekt.",
+        "translateExample": "Предложение неверное.",
+        "collocations": [
+          "korrekt"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "32f8f2ed-cb8f-42c1-b8be-a183547475a1",
+        "deExample": "Ich habe den Satz gestern gelernt.",
+        "translateExample": "Я выучил предложение вчера.",
+        "collocations": [
+          "gestern",
+          "lernen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e7c4b0a7-499a-4883-bb5e-9f31fc7ad1f8",
+        "deExample": "Du kannst diesen Satz benutzen.",
+        "translateExample": "Ты можешь использовать это предложение.",
+        "collocations": [
+          "benutzen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6ccb62f8-ab62-4293-9838-e1f221f90426",
+        "deExample": "Ich schreibe, weil der Satz wichtig ist.",
+        "translateExample": "Я пишу, потому что предложение важно.",
+        "collocations": [
+          "schreiben",
+          "wichtig"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "df8f8a4c-433c-4f47-8e2f-88158af6e831",
+        "deExample": "Ich werde den Satz üben, wenn ich Zeit habe.",
+        "translateExample": "Я буду тренировать предложение, когда у меня будет время.",
+        "collocations": [
+          "üben",
+          "Zeit",
+          "haben"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e4a0ce66-765f-4493-b45d-3df40ece67ed",
+        "deExample": "Der Satz wird im Unterricht erklärt.",
+        "translateExample": "Предложение объясняется на уроке.",
+        "collocations": [
+          "Unterricht",
+          "erklären"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3f918d1d-66fa-4251-8988-333fb0d48bb5",
+        "deExample": "Es ist gut, den Satz zu verstehen.",
+        "translateExample": "Хорошо понимать предложение.",
+        "collocations": [
+          "gut",
+          "verstehen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f670f9c2-d5f2-4cbf-be57-5e3aa197b9c4",
+        "deExample": "Willst du lernen, wie man einen Satz bildet?",
+        "translateExample": "Ты хочешь узнать, как строить предложение?",
+        "collocations": [
+          "lernen",
+          "bilden"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3683bc76-d195-4937-b4cb-2a0ee70dd298",
+        "deExample": "Ich schreibe Beispiele, um den Satz zu üben.",
+        "translateExample": "Я пишу примеры, чтобы тренировать предложение.",
+        "collocations": [
+          "schreiben",
+          "Beispiele",
+          "üben"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "b5e97bcf-aafb-4c3e-bb99-ed17ddfae19b",
+    "deWord": "begrüßen - begrüßte - begrüßt",
+    "translateWord": "приветствовать (кого, Akk), встречать",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "0cafd314-3af1-4fa9-89f8-219dc4a56cc6",
+        "deExample": "Ich begrüße jeden Tag neue Kollegen.",
+        "translateExample": "Я приветствую новых коллег каждый день.",
+        "collocations": [
+          "Tag",
+          "Kollegen",
+          "neu"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c8dfb1d8-2b0c-4450-862c-c0021337c79e",
+        "deExample": "Begrüßt du die Gäste an der Tür?",
+        "translateExample": "Ты приветствуешь гостей у двери?",
+        "collocations": [
+          "Gäste",
+          "Tür"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8c5869c4-910c-409a-9c2a-242ff6726f79",
+        "deExample": "Er begrüßt die Nachbarn nicht oft.",
+        "translateExample": "Он не часто приветствует соседей.",
+        "collocations": [
+          "Nachbarn",
+          "oft"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0909fbe7-4ad7-4537-9fa8-04083d3a2983",
+        "deExample": "Ich habe meinen Freund herzlich begrüßt.",
+        "translateExample": "Я тепло поприветствовал друга.",
+        "collocations": [
+          "Freund",
+          "herzlich"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a0eabe04-3b38-4378-88cf-a20ba135eba0",
+        "deExample": "Du kannst die neuen Schüler begrüßen.",
+        "translateExample": "Ты можешь поприветствовать новых учеников.",
+        "collocations": [
+          "Schüler",
+          "neu"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a88901b4-1cb9-41b5-8aa0-f9a35b94aca6",
+        "deExample": "Er bleibt, weil er alle begrüßen möchte.",
+        "translateExample": "Он остаётся, потому что хочет всех поприветствовать.",
+        "collocations": [
+          "möchten",
+          "alle"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "08b5b3d5-2cb4-4df2-9400-6bec3e34d84c",
+        "deExample": "Ich werde dich begrüßen, wenn du ankommst.",
+        "translateExample": "Я встречу тебя, когда ты приедешь.",
+        "collocations": [
+          "ankommen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "443e0b0a-7ee5-4864-abe7-442c69c3dc88",
+        "deExample": "Die Gäste werden freundlich begrüßt.",
+        "translateExample": "Гости приветствуются дружелюбно.",
+        "collocations": [
+          "Gäste",
+          "freundlich"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9240fd68-4c78-4421-a661-8f0d253beb68",
+        "deExample": "Es ist wichtig, neue Leute zu begrüßen.",
+        "translateExample": "Важно приветствовать новых людей.",
+        "collocations": [
+          "wichtig",
+          "Leute"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "35d164bc-f7ba-4335-8d6e-88a2e79bae66",
+        "deExample": "Willst du lernen, wie man Gäste freundlich begrüßt?",
+        "translateExample": "Ты хочешь узнать, как приветствовать гостей дружелюбно?",
+        "collocations": [
+          "lernen",
+          "Gäste",
+          "freundlich"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1e81919a-b690-41cc-9875-9c14ec5aaaf9",
+        "deExample": "Ich komme früher, um die Gäste zu begrüßen.",
+        "translateExample": "Я прихожу раньше, чтобы поприветствовать гостей.",
+        "collocations": [
+          "kommen",
+          "Gäste"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

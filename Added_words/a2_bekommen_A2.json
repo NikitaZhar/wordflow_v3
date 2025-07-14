@@ -1,0 +1,216 @@
+[
+  {
+    "id": "741ad4e3-04ee-453e-8950-3815842bcc36",
+    "deWord": "bekommen - bekam - bekommen",
+    "translateWord": "получать (что-либо, etw + Akk))",
+    "wordProgress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "3bd38d19-27e7-4312-bd3f-2b0d89ca7a23",
+        "deExample": "Ich bekomme jeden Monat mein Gehalt.",
+        "translateExample": "Я получаю зарплату каждый месяц.",
+        "collocations": [
+          "das Gehalt",
+          "monatlich"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "02aa5284-c906-4980-b9cf-6833321d4d50",
+        "deExample": "Bekommst du auch eine Einladung zur Party?",
+        "translateExample": "Ты тоже получил приглашение на вечеринку?",
+        "collocations": [
+          "die Einladung",
+          "die Party"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9b228035-a9e5-44b6-9773-d3c45cc3e17f",
+        "deExample": "Er bekommt keine Unterstützung von der Familie.",
+        "translateExample": "Он не получает поддержки от семьи.",
+        "collocations": [
+          "die Unterstützung",
+          "die Familie"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "774e2993-f1f3-4835-bd1b-53d95c20f406",
+        "deExample": "Sie hat ein Geschenk zum Geburtstag bekommen.",
+        "translateExample": "Она получила подарок на день рождения.",
+        "collocations": [
+          "das Geschenk",
+          "der Geburtstag"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "835c550f-8aab-4d15-b8b3-703767a58978",
+        "deExample": "Du solltest mehr Schlaf bekommen.",
+        "translateExample": "Тебе следует больше спать (получать сна).",
+        "collocations": [
+          "der Schlaf",
+          "mehr"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6b73c741-a33e-470f-ba3b-4bdd83c0855a",
+        "deExample": "Ich war glücklich, weil ich gute Nachrichten bekommen habe.",
+        "translateExample": "Я был счастлив, потому что получил хорошие новости.",
+        "collocations": [
+          "die Nachricht",
+          "gut"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8929cd6b-b681-4f24-bd82-04e247c7e5b3",
+        "deExample": "Ich werde ein neues Handy bekommen, wenn mein Vertrag endet.",
+        "translateExample": "Я получу новый телефон, когда закончится мой контракт.",
+        "collocations": [
+          "das Handy",
+          "der Vertrag"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "055cd376-8b83-4a19-a726-21267cbd1af0",
+        "deExample": "Dem Schüler wurde ein Preis verliehen.",
+        "translateExample": "Ученику вручили награду.",
+        "collocations": [
+          "der Schüler",
+          "der Preis"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f9d6bfb5-797e-4397-8c0c-b5db43605791",
+        "deExample": "Er versucht, bessere Noten zu bekommen.",
+        "translateExample": "Он старается получить лучшие оценки.",
+        "collocations": [
+          "die Note",
+          "besser"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c6d4daf6-6b6e-4f62-a137-e7981fdab7af",
+        "deExample": "Wie kann man lernen, Lob besser zu bekommen?",
+        "translateExample": "Как научиться лучше получать похвалу?",
+        "collocations": [
+          "das Lob",
+          "lernen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2dbcc8b5-0678-45ee-9970-dabe641bd930",
+        "deExample": "Ich arbeite hart, um Anerkennung zu bekommen.",
+        "translateExample": "Я усердно работаю, чтобы получить признание.",
+        "collocations": [
+          "arbeiten",
+          "die Anerkennung"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

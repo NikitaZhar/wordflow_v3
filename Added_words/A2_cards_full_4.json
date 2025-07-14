@@ -1,0 +1,1036 @@
+[
+  {
+    "id": "4965d514-d1f0-4f69-b264-23842ea764bc",
+    "deWord": "halten - hielt - gehalten",
+    "translateWord": "держать (в руках), останавливаться",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "4c4e3506-5ee4-4d4a-b466-87f55d0ce1aa",
+        "deExample": "Ich halte ein Buch.",
+        "translateExample": "Я держу книгу.",
+        "collocations": [
+          "ein Buch"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a497d453-f1d8-4426-a127-c262217831ce",
+        "deExample": "Hältst du den Ball?",
+        "translateExample": "Ты держишь мяч?",
+        "collocations": [
+          "der Ball"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d5a8d010-a3f8-49fb-962d-8f101f366324",
+        "deExample": "Er hält das Glas nicht.",
+        "translateExample": "Он не держит стакан.",
+        "collocations": [
+          "das Glas",
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "595c9c64-c078-40cf-9853-ca554405ccc3",
+        "deExample": "Ich habe das Kind gehalten.",
+        "translateExample": "Я держал ребёнка.",
+        "collocations": [
+          "das Kind"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5ff6e5b4-35ad-496f-8cf6-bd2748f1dffc",
+        "deExample": "Ich kann die Tasche halten.",
+        "translateExample": "Я могу подержать сумку.",
+        "collocations": [
+          "die Tasche"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d6b25225-3dfb-433a-a291-34bc8376718f",
+        "deExample": "Ich halte das Glas, weil es voll ist.",
+        "translateExample": "Я держу стакан, потому что он полный.",
+        "collocations": [
+          "das Glas",
+          "voll"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "35f3bed5-8ce8-44b6-b928-c1e9126bf8e8",
+        "deExample": "Ich werde die Tür halten, wenn du kommst.",
+        "translateExample": "Я подержу дверь, когда ты придёшь.",
+        "collocations": [
+          "die Tür",
+          "du"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "68c6af1c-1c38-4fa6-879a-e7f8430e1ccb",
+        "deExample": "Der Bus wird gehalten.",
+        "translateExample": "Автобус останавливается.",
+        "collocations": [
+          "der Bus"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9fa7f168-361e-45e0-bd85-ac4a04d1ab64",
+        "deExample": "Ich vergesse, die Tür zu halten.",
+        "translateExample": "Я забываю держать дверь.",
+        "collocations": [
+          "die Tür",
+          "vergessen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b7659641-1136-4391-b265-093309c56038",
+        "deExample": "Kannst du die Tasche halten?",
+        "translateExample": "Ты можешь подержать сумку?",
+        "collocations": [
+          "die Tasche"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a7e94482-d0ba-4a01-a937-55652b1a5416",
+        "deExample": "Ich helfe, um das Fenster zu halten.",
+        "translateExample": "Я помогаю, чтобы подержать окно.",
+        "collocations": [
+          "helfen",
+          "das Fenster"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "18340ed5-731a-44d1-a0c9-3047fd146987",
+    "deWord": "mitkommen - kam mit - mitgekommen",
+    "translateWord": "идти вместе, сопровождать",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "496d1f89-056e-4d8e-9b79-7b8ca4ff560f",
+        "deExample": "Ich komme mit dir mit.",
+        "translateExample": "Я иду с тобой.",
+        "collocations": [
+          "dir"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7e9caada-336c-4994-a5df-be1ff88ee183",
+        "deExample": "Kommst du mit uns mit?",
+        "translateExample": "Ты идёшь с нами?",
+        "collocations": [
+          "uns"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f79466b6-3d55-48cb-954f-940c05db6f7c",
+        "deExample": "Er kommt nicht mit mir mit.",
+        "translateExample": "Он не идёт со мной.",
+        "collocations": [
+          "mir",
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4a3016aa-918c-4ab8-af77-89ccfc657931",
+        "deExample": "Ich bin gestern mitgekommen.",
+        "translateExample": "Я пошёл вместе вчера.",
+        "collocations": [
+          "gestern"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b51ebf9c-4f89-4d28-95a0-15a7b7748810",
+        "deExample": "Ich will mit dir mitkommen.",
+        "translateExample": "Я хочу пойти с тобой.",
+        "collocations": [
+          "dir"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ff27a50f-44a3-4b6c-a5e5-41602d1515ca",
+        "deExample": "Ich komme mit, weil du mich gerufen hast.",
+        "translateExample": "Я иду с тобой, потому что ты меня позвал.",
+        "collocations": [
+          "du",
+          "mich"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e025eeb4-c7ae-4954-8fc3-44302f61b668",
+        "deExample": "Ich werde mitkommen, wenn du gehst.",
+        "translateExample": "Я пойду с тобой, если ты пойдёшь.",
+        "collocations": [
+          "du"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6af041c2-9b87-49e3-875a-c1a8477ffbde",
+        "deExample": "Ich werde mitgenommen.",
+        "translateExample": "Меня берут с собой.",
+        "collocations": [
+          "ich"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1a7a9158-df8a-433d-848e-e33bc6628344",
+        "deExample": "Ich vergesse oft, mitzukommen.",
+        "translateExample": "Я часто забываю пойти с кем-то.",
+        "collocations": [
+          "vergessen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e041fac5-6eb8-43d7-b48c-4d5f71e54720",
+        "deExample": "Willst du mit uns mitkommen?",
+        "translateExample": "Ты хочешь пойти с нами?",
+        "collocations": [
+          "uns"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "05efea19-3033-4ebd-b694-b4d40e9e4959",
+        "deExample": "Ich stehe auf, um mitzukommen.",
+        "translateExample": "Я встаю, чтобы пойти вместе.",
+        "collocations": [
+          "aufstehen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "d768d72c-7bee-48c5-a41f-8e0e2e97d47d",
+    "deWord": "zustimmen - stimmte zu - zugestimmt",
+    "translateWord": "соглашаться (с кем-либо, Dat)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "40300d27-a17a-4cd0-a11d-df555339976b",
+        "deExample": "Ich stimme dir zu.",
+        "translateExample": "Я с тобой согласен.",
+        "collocations": [
+          "dir"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e631c28c-0dff-4208-bc43-579b6a23168f",
+        "deExample": "Stimmst du mir zu?",
+        "translateExample": "Ты согласен со мной?",
+        "collocations": [
+          "mir"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "17c7d682-90c6-44b9-b6f2-48dc6c521b3f",
+        "deExample": "Er stimmt mir nicht zu.",
+        "translateExample": "Он не согласен со мной.",
+        "collocations": [
+          "mir",
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "98c41fa9-3bc6-451d-b629-f1ef3c0ad383",
+        "deExample": "Ich habe ihm zugestimmt.",
+        "translateExample": "Я согласился с ним.",
+        "collocations": [
+          "ihm"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8c033681-00be-4c93-b307-9c3b68c85026",
+        "deExample": "Ich kann dir zustimmen.",
+        "translateExample": "Я могу с тобой согласиться.",
+        "collocations": [
+          "dir"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "06facf69-f739-4d94-ae62-b9c821fd9dfc",
+        "deExample": "Ich stimme dir zu, weil du recht hast.",
+        "translateExample": "Я согласен с тобой, потому что ты прав.",
+        "collocations": [
+          "dir"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "df4799b7-ef6e-4f5b-94f7-7c924ea8254b",
+        "deExample": "Ich werde dir zustimmen, wenn du das sagst.",
+        "translateExample": "Я соглашусь с тобой, если ты это скажешь.",
+        "collocations": [
+          "dir"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d2462abb-38df-437e-b4fb-dca041c169a6",
+        "deExample": "Dir wird zugestimmt.",
+        "translateExample": "С тобой соглашаются.",
+        "collocations": [
+          "dir"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "806dff63-749a-4b2d-ab59-f88eb0404dbe",
+        "deExample": "Ich vergesse, dir zuzustimmen.",
+        "translateExample": "Я забываю с тобой соглашаться.",
+        "collocations": [
+          "dir",
+          "vergessen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "178ff9f7-dd14-4b4d-999f-86951f96eb41",
+        "deExample": "Willst du mir zustimmen?",
+        "translateExample": "Ты хочешь согласиться со мной?",
+        "collocations": [
+          "mir"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "87da1cc5-26b0-4eed-b436-04bae0281fa8",
+        "deExample": "Ich höre zu, um dir zuzustimmen.",
+        "translateExample": "Я слушаю, чтобы согласиться с тобой.",
+        "collocations": [
+          "zuhören",
+          "dir"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "0488ef0f-ac1b-4c44-8041-06cc14f4c669",
+    "deWord": "ablehnen - lehnte ab - abgelehnt",
+    "translateWord": "отклонять, отказывать",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "90f478c7-3195-4f13-af83-1f012da6fa71",
+        "deExample": "Ich lehne den Vorschlag ab.",
+        "translateExample": "Я отклоняю предложение.",
+        "collocations": [
+          "der Vorschlag"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fff63a71-49eb-4493-8964-a7f4bf4f7c7b",
+        "deExample": "Lehnst du das Angebot ab?",
+        "translateExample": "Ты отклоняешь предложение?",
+        "collocations": [
+          "das Angebot"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6286e35f-fc0f-4033-bdb1-74a8d8a6b08e",
+        "deExample": "Er lehnt meine Idee nicht ab.",
+        "translateExample": "Он не отклоняет мою идею.",
+        "collocations": [
+          "meine Idee",
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8b2224f0-210f-4201-8e36-e11ae2addfc9",
+        "deExample": "Ich habe das Projekt abgelehnt.",
+        "translateExample": "Я отказался от проекта.",
+        "collocations": [
+          "das Projekt"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9c02e4f1-9933-4013-8d55-9955f1f82e58",
+        "deExample": "Ich will die Einladung ablehnen.",
+        "translateExample": "Я хочу отклонить приглашение.",
+        "collocations": [
+          "die Einladung"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b74ef4c8-ea49-41d0-92a3-de969a3ec191",
+        "deExample": "Ich lehne das Angebot ab, weil es teuer ist.",
+        "translateExample": "Я отклоняю предложение, потому что это дорого.",
+        "collocations": [
+          "das Angebot",
+          "teuer"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6282c907-06dd-46ba-8d46-0e15630bbf3b",
+        "deExample": "Ich werde die Einladung ablehnen, wenn ich keine Zeit habe.",
+        "translateExample": "Я отклоню приглашение, если у меня не будет времени.",
+        "collocations": [
+          "die Einladung",
+          "Zeit"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "668e4d37-e58d-483d-9bb2-6b8e60e93790",
+        "deExample": "Die Einladung wird abgelehnt.",
+        "translateExample": "Приглашение отклоняется.",
+        "collocations": [
+          "die Einladung"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a1665100-2a67-4693-ae6c-4579dc7bfefc",
+        "deExample": "Ich vergesse, die Einladung abzulehnen.",
+        "translateExample": "Я забываю отклонить приглашение.",
+        "collocations": [
+          "die Einladung",
+          "vergessen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7e2bf4d0-0b2b-4986-aafe-edb062d0599d",
+        "deExample": "Willst du das Angebot ablehnen?",
+        "translateExample": "Ты хочешь отклонить предложение?",
+        "collocations": [
+          "das Angebot"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b385ff6d-fbec-4269-9c2f-48c11ca29fcc",
+        "deExample": "Ich plane, um das Angebot abzulehnen.",
+        "translateExample": "Я планирую, чтобы отклонить предложение.",
+        "collocations": [
+          "planen",
+          "das Angebot"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "fbb91abb-1445-4045-a740-2cd3bae56b1f",
+    "deWord": "jemand",
+    "translateWord": "кто-то, кто-либо",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "e304ea07-cbcc-497d-824f-e4a4324c5f98",
+        "deExample": "Jemand ruft mich.",
+        "translateExample": "Кто-то меня зовёт.",
+        "collocations": [
+          "rufen"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1733577e-72f3-433e-8d1f-fd0e3f0c091d",
+        "deExample": "Ruft jemand dich?",
+        "translateExample": "Кто-то тебя зовёт?",
+        "collocations": [
+          "rufen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0ffa9793-0520-4453-aef5-d07b4c84d481",
+        "deExample": "Niemand ruft mich.",
+        "translateExample": "Никто меня не зовёт.",
+        "collocations": [
+          "rufen"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "72bf6af8-e1ba-4af9-9d48-191f71cc2b47",
+        "deExample": "Jemand hat dich angerufen.",
+        "translateExample": "Кто-то тебе позвонил.",
+        "collocations": [
+          "anrufen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c4a70c4d-c805-4437-b90a-3417757abbdd",
+        "deExample": "Jemand kann dir helfen.",
+        "translateExample": "Кто-то может тебе помочь.",
+        "collocations": [
+          "helfen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e8108dff-ed87-456e-837f-1ff60a5890da",
+        "deExample": "Jemand ruft, weil er Hilfe braucht.",
+        "translateExample": "Кто-то зовёт, потому что ему нужна помощь.",
+        "collocations": [
+          "rufen",
+          "Hilfe"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d50fe3b7-23f0-4d09-b7ba-72c868c5586b",
+        "deExample": "Jemand wird dir helfen, wenn du fragst.",
+        "translateExample": "Кто-то поможет тебе, если ты попросишь.",
+        "collocations": [
+          "helfen",
+          "fragen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c91ea1da-65c2-4afa-b450-b3120633982a",
+        "deExample": "Jemand wird angerufen.",
+        "translateExample": "Кому-то звонят.",
+        "collocations": [
+          "anrufen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6fd043b6-af24-4f87-a68b-1db0173aa65f",
+        "deExample": "Ich vergesse, jemanden zu rufen.",
+        "translateExample": "Я забываю кого-то позвать.",
+        "collocations": [
+          "vergessen",
+          "rufen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9dc989dc-6421-4176-a933-d31381a7f288",
+        "deExample": "Will jemand dich rufen?",
+        "translateExample": "Кто-то хочет тебя позвать?",
+        "collocations": [
+          "rufen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0455e59b-61a0-4c19-82e4-ff9901b348cf",
+        "deExample": "Ich komme, um jemanden zu sehen.",
+        "translateExample": "Я прихожу, чтобы увидеть кого-то.",
+        "collocations": [
+          "kommen",
+          "sehen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

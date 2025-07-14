@@ -1,0 +1,212 @@
+[
+  {
+    "id": "8057ce9f-925a-4eee-9652-3ec7ebf5c524",
+    "deWord": "sich fühlen - fühlte - gefühlt",
+    "translateWord": "чувствовать себя",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "eb62c30b-7ce3-4cb5-81f6-d5d1194d9c57",
+        "deExample": "Ich fühle mich heute müde.",
+        "translateExample": "Я сегодня чувствую себя уставшим.",
+        "collocations": [
+          "heute",
+          "müde"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d73f5457-de92-45a8-95b5-436cea72ed4f",
+        "deExample": "Wie fühlst du dich jetzt?",
+        "translateExample": "Как ты сейчас себя чувствуешь?",
+        "collocations": [
+          "jetzt"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8b281fc5-b82e-4827-a256-94698a3c6e8c",
+        "deExample": "Ich fühle mich nicht krank.",
+        "translateExample": "Я не чувствую себя больным.",
+        "collocations": [
+          "krank"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3122b687-d68a-4fd8-aa1a-68559049d256",
+        "deExample": "Ich habe mich gestern gut gefühlt.",
+        "translateExample": "Вчера я чувствовал себя хорошо.",
+        "collocations": [
+          "gestern",
+          "gut"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d2543aa6-6af0-454d-a906-0cb6e59b191c",
+        "deExample": "Ich möchte mich besser fühlen.",
+        "translateExample": "Я хочу чувствовать себя лучше.",
+        "collocations": [
+          "besser"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "43ef8dc4-d327-45f2-b8f5-67d2477cb9f6",
+        "deExample": "Ich fühle mich gut, weil ich Sport treibe.",
+        "translateExample": "Я чувствую себя хорошо, потому что занимаюсь спортом.",
+        "collocations": [
+          "gut",
+          "Sport"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "366ad6ff-ebd5-402d-b508-d4d3fc8f506b",
+        "deExample": "Ich werde mich besser fühlen, wenn ich Urlaub mache.",
+        "translateExample": "Я буду чувствовать себя лучше, когда поеду в отпуск.",
+        "collocations": [
+          "besser",
+          "Urlaub"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ced1237b-a5f6-401f-bb7c-15d4182ccf2c",
+        "deExample": "Manchmal wird man traurig gefühlt.",
+        "translateExample": "Иногда чувствуешь себя грустным.",
+        "collocations": [
+          "manchmal",
+          "traurig"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "09cd65b2-7496-4610-922b-440d04a84863",
+        "deExample": "Es ist wichtig, sich wohl zu fühlen.",
+        "translateExample": "Важно чувствовать себя комфортно.",
+        "collocations": [
+          "wichtig",
+          "wohl"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d421b29e-5576-4fdc-ae7c-381d6cce603e",
+        "deExample": "Wie ist es, sich sicher zu fühlen?",
+        "translateExample": "Каково это — чувствовать себя в безопасности?",
+        "collocations": [
+          "sicher"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d28bf01e-dd25-4fb9-a876-a46d01314305",
+        "deExample": "Ich gehe ins Fitnessstudio, um mich besser zu fühlen.",
+        "translateExample": "Я хожу в спортзал, чтобы чувствовать себя лучше.",
+        "collocations": [
+          "Fitnessstudio",
+          "besser"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

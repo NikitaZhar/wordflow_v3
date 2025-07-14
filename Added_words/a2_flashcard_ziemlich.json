@@ -1,0 +1,205 @@
+[
+  {
+    "id": "51353ed3-3371-4f44-8df6-0006e1efa691",
+    "deWord": "ziemlich",
+    "translateWord": "довольно, достаточно",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "0d90e45e-9d14-4d8d-a6b7-0f62d20c796f",
+        "deExample": "Es ist ziemlich kalt heute.",
+        "translateExample": "Сегодня довольно холодно.",
+        "collocations": [
+          "kalt"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "48c1e5b4-e593-4162-ad7f-b7cb710604de",
+        "deExample": "Findest du den Preis ziemlich hoch?",
+        "translateExample": "Ты считаешь цену довольно высокой?",
+        "collocations": [
+          "Preis"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e52043ac-b79c-4886-b520-026ba667c31f",
+        "deExample": "Der Weg ist nicht ziemlich weit.",
+        "translateExample": "Путь не слишком далёк.",
+        "collocations": [
+          "Weg"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "036d7272-c23c-4b39-9197-ccb05e3fe6b1",
+        "deExample": "Das war ziemlich interessant gewesen.",
+        "translateExample": "Это было довольно интересно.",
+        "collocations": [
+          "interessant"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2f5b07fa-0857-460e-9b22-9c5348b5d19e",
+        "deExample": "Du kannst ziemlich gut tanzen.",
+        "translateExample": "Ты можешь довольно хорошо танцевать.",
+        "collocations": [
+          "tanzen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6c54f6ee-49f8-4e3e-989d-bf295716bbbc",
+        "deExample": "Ich bleibe zu Hause, weil es ziemlich regnet.",
+        "translateExample": "Я остаюсь дома, потому что довольно идёт дождь.",
+        "collocations": [
+          "regnen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6b55f797-63c9-4f63-951c-57a6e49fd06c",
+        "deExample": "Es wird ziemlich warm sein, wenn wir dort sind.",
+        "translateExample": "Там будет довольно тепло, когда мы будем там.",
+        "collocations": [
+          "warm"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "10f02943-2022-4919-92cf-ab063e6d08e2",
+        "deExample": "Der Kuchen wird ziemlich schnell gegessen.",
+        "translateExample": "Торт съедается довольно быстро.",
+        "collocations": [
+          "Kuchen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "795288ca-6bb5-40f3-8d80-c30aaca805f3",
+        "deExample": "Er versucht, ziemlich leise zu sprechen.",
+        "translateExample": "Он пытается говорить довольно тихо.",
+        "collocations": [
+          "sprechen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "018b5bfd-4c00-473a-958b-4287448b0fbd",
+        "deExample": "Willst du versuchen, ziemlich früh zu kommen?",
+        "translateExample": "Ты хочешь попробовать прийти довольно рано?",
+        "collocations": [
+          "kommen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "829a9159-5cc7-4a94-8486-daa64ae22e55",
+        "deExample": "Ich spare Geld, um ziemlich bald zu reisen.",
+        "translateExample": "Я коплю деньги, чтобы поехать довольно скоро.",
+        "collocations": [
+          "reisen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

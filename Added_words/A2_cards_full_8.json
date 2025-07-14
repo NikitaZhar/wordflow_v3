@@ -1,0 +1,1036 @@
+[
+  {
+    "id": "e3775084-7d43-4bb6-af17-496806513eda",
+    "deWord": "der Wettkampf",
+    "translateWord": "соревнование",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "2374465c-34f8-4f52-8fac-8ec59bd8641f",
+        "deExample": "Der Wettkampf ist morgen.",
+        "translateExample": "Соревнование завтра.",
+        "collocations": [
+          "morgen"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "92bfd6d4-44cd-437b-8877-bd9372d377cc",
+        "deExample": "Findet der Wettkampf heute statt?",
+        "translateExample": "Соревнование проходит сегодня?",
+        "collocations": [
+          "heute"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1b13c271-8e5f-4cbb-b8e6-717adb1b4c8f",
+        "deExample": "Der Wettkampf ist nicht einfach.",
+        "translateExample": "Соревнование не простое.",
+        "collocations": [
+          "nicht",
+          "einfach"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7ff4b7ef-3475-4677-af92-2794b4d25791",
+        "deExample": "Der Wettkampf hat gestern stattgefunden.",
+        "translateExample": "Соревнование прошло вчера.",
+        "collocations": [
+          "gestern"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4f6b6fd1-b417-4556-9266-7360b24663c5",
+        "deExample": "Man kann am Wettkampf teilnehmen.",
+        "translateExample": "Можно участвовать в соревновании.",
+        "collocations": [
+          "teilnehmen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e5716ec2-72dd-4a82-9cc7-b99119f508b6",
+        "deExample": "Ich mag den Wettkampf, weil er spannend ist.",
+        "translateExample": "Мне нравится соревнование, потому что оно захватывающее.",
+        "collocations": [
+          "spannend"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c8f9af60-1d9a-4089-90f2-e758b1d71d6c",
+        "deExample": "Der Wettkampf wird stattfinden, wenn das Wetter gut ist.",
+        "translateExample": "Соревнование состоится, если погода будет хорошей.",
+        "collocations": [
+          "das Wetter",
+          "gut"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "72b974ec-008a-4a16-932c-9e8e54f7c076",
+        "deExample": "Der Wettkampf wird organisiert.",
+        "translateExample": "Соревнование организовывается.",
+        "collocations": [
+          "organisieren"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "52b5b3dd-a485-42eb-a606-3a2f13ab611b",
+        "deExample": "Ich vergesse oft, mich für den Wettkampf anzumelden.",
+        "translateExample": "Я часто забываю зарегистрироваться на соревнование.",
+        "collocations": [
+          "vergessen",
+          "anmelden"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6bd2fdc3-a8fa-4cc6-adf6-b3c4d5653b3d",
+        "deExample": "Willst du am Wettkampf teilnehmen?",
+        "translateExample": "Ты хочешь участвовать в соревновании?",
+        "collocations": [
+          "teilnehmen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ed39d1b4-a1d3-4524-8259-c9b1d6cd2ec7",
+        "deExample": "Ich trainiere, um den Wettkampf zu gewinnen.",
+        "translateExample": "Я тренируюсь, чтобы выиграть соревнование.",
+        "collocations": [
+          "trainieren",
+          "gewinnen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "e54bb8a4-8e22-4b43-84ef-bcbcbf6daaf9",
+    "deWord": "das Leben",
+    "translateWord": "жизнь",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "89f16e45-9556-4acb-b811-ccbd36202eda",
+        "deExample": "Das Leben ist schön.",
+        "translateExample": "Жизнь прекрасна.",
+        "collocations": [
+          "schön"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f158edcd-26e0-40f0-bd32-d8b02b4dc9f3",
+        "deExample": "Ist das Leben einfach?",
+        "translateExample": "Жизнь простая?",
+        "collocations": [
+          "einfach"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "58f3f72b-85a5-418b-86f1-dfd06cb7ec07",
+        "deExample": "Das Leben ist nicht leicht.",
+        "translateExample": "Жизнь не лёгкая.",
+        "collocations": [
+          "nicht",
+          "leicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "cec0bd56-c174-442f-bd1d-4219dac2616e",
+        "deExample": "Das Leben hat sich verändert.",
+        "translateExample": "Жизнь изменилась.",
+        "collocations": [
+          "verändern"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9a7dad67-520c-4533-9d6c-fccba53b2a21",
+        "deExample": "Man kann das Leben genießen.",
+        "translateExample": "Можно наслаждаться жизнью.",
+        "collocations": [
+          "genießen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e2cfa323-e871-4acf-bb1e-8a824e681790",
+        "deExample": "Ich liebe das Leben, weil es interessant ist.",
+        "translateExample": "Я люблю жизнь, потому что она интересная.",
+        "collocations": [
+          "lieben",
+          "interessant"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3422490e-16e2-44b5-92a5-16514f6404f9",
+        "deExample": "Das Leben wird besser, wenn man positiv denkt.",
+        "translateExample": "Жизнь становится лучше, если мыслить позитивно.",
+        "collocations": [
+          "besser",
+          "denken"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "eaa452d9-0793-4d82-90fa-6cd17f264317",
+        "deExample": "Das Leben wird geschätzt.",
+        "translateExample": "Жизнь ценится.",
+        "collocations": [
+          "schätzen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "22fc23a1-a00e-4022-9134-e11f903653dd",
+        "deExample": "Ich vergesse oft, das Leben zu genießen.",
+        "translateExample": "Я часто забываю наслаждаться жизнью.",
+        "collocations": [
+          "vergessen",
+          "genießen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1ef5a450-230e-45dc-95f0-7b4354a72d62",
+        "deExample": "Willst du das Leben genießen?",
+        "translateExample": "Ты хочешь наслаждаться жизнью?",
+        "collocations": [
+          "genießen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "bb114932-2d95-4cbe-8464-0e006203ed4b",
+        "deExample": "Ich arbeite, um das Leben zu verbessern.",
+        "translateExample": "Я работаю, чтобы улучшить жизнь.",
+        "collocations": [
+          "arbeiten",
+          "verbessern"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "199c0e58-d673-4755-a02e-bdb762712e74",
+    "deWord": "ausgehen - ging aus - ausgegangen",
+    "translateWord": "выходить (гулять), заканчиваться",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "a8d402b7-6734-4dcf-9f10-2bad33569060",
+        "deExample": "Ich gehe heute Abend aus.",
+        "translateExample": "Я сегодня вечером выхожу.",
+        "collocations": [
+          "heute",
+          "Abend"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0de060ff-d883-434a-82eb-7b911b726655",
+        "deExample": "Gehst du oft aus?",
+        "translateExample": "Ты часто выходишь?",
+        "collocations": [
+          "oft"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e4f69b3a-3f1a-4f21-9866-80fd6fd25784",
+        "deExample": "Er geht nicht aus.",
+        "translateExample": "Он не выходит.",
+        "collocations": [
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "255a5264-52ad-42af-b442-d5872fe1a7e0",
+        "deExample": "Wir sind gestern ausgegangen.",
+        "translateExample": "Мы вчера вышли.",
+        "collocations": [
+          "gestern"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "658a4ad5-9cf0-4b4b-9af9-1c2c40d6f19a",
+        "deExample": "Ich will heute ausgehen.",
+        "translateExample": "Я хочу сегодня выйти.",
+        "collocations": [
+          "heute"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7d302c86-55dc-4165-823f-213993f86ef2",
+        "deExample": "Ich gehe aus, weil das Wetter schön ist.",
+        "translateExample": "Я выхожу, потому что погода хорошая.",
+        "collocations": [
+          "das Wetter",
+          "schön"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "628a54c8-2e62-4d5a-9f88-e65183127c98",
+        "deExample": "Ich werde ausgehen, wenn ich Zeit habe.",
+        "translateExample": "Я выйду, когда у меня будет время.",
+        "collocations": [
+          "Zeit"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e96bd9b4-42bd-402a-b98d-f09cba7689da",
+        "deExample": "Das Licht wird ausgegangen.",
+        "translateExample": "Свет выключается.",
+        "collocations": [
+          "das Licht"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9d1d5228-c41c-4e59-a3c0-b49143ae2289",
+        "deExample": "Ich vergesse oft, auszugehen.",
+        "translateExample": "Я часто забываю выйти.",
+        "collocations": [
+          "vergessen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ce130c6f-36ea-4d59-91d6-a721a3de5eaf",
+        "deExample": "Willst du heute ausgehen?",
+        "translateExample": "Ты хочешь сегодня выйти?",
+        "collocations": [
+          "heute"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6f717f2e-c14b-41f7-9352-7896b32d563f",
+        "deExample": "Ich bereite mich vor, um auszugehen.",
+        "translateExample": "Я готовлюсь, чтобы выйти.",
+        "collocations": [
+          "vorbereiten"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "e9a4f914-019d-4c13-b909-ed838a98d413",
+    "deWord": "ausprobieren - probierte aus - ausprobiert",
+    "translateWord": "пробовать, испытывать",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "98899b48-6ca5-4d45-b42b-f4e3bd166652",
+        "deExample": "Ich probiere ein neues Rezept aus.",
+        "translateExample": "Я пробую новый рецепт.",
+        "collocations": [
+          "ein Rezept"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "80f4ea28-a866-4760-8b5a-6e41d04ca4fe",
+        "deExample": "Probierst du das Auto aus?",
+        "translateExample": "Ты пробуешь машину?",
+        "collocations": [
+          "das Auto"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2143676f-f9d7-46e5-ab5e-cfdf9b3acec0",
+        "deExample": "Er probiert das Spiel nicht aus.",
+        "translateExample": "Он не пробует игру.",
+        "collocations": [
+          "das Spiel",
+          "nicht"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ea169f97-600b-48ff-bfda-2f34c6405507",
+        "deExample": "Ich habe die neue Methode ausprobiert.",
+        "translateExample": "Я испробовал новый метод.",
+        "collocations": [
+          "die Methode"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "639a5675-e8ec-4ca1-a127-2cd49d1df949",
+        "deExample": "Ich will eine Idee ausprobieren.",
+        "translateExample": "Я хочу попробовать идею.",
+        "collocations": [
+          "eine Idee"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5c5d5ab9-23e5-4666-86c9-7195f886098d",
+        "deExample": "Ich probiere es aus, weil es interessant ist.",
+        "translateExample": "Я пробую это, потому что это интересно.",
+        "collocations": [
+          "interessant"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4a1cb808-e7fa-4781-823b-8f16648cd374",
+        "deExample": "Ich werde das Programm ausprobieren, wenn ich Zeit habe.",
+        "translateExample": "Я попробую программу, когда у меня будет время.",
+        "collocations": [
+          "das Programm",
+          "Zeit"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c51b9f6e-9ed2-4221-92a4-66179b531ac6",
+        "deExample": "Das Produkt wird ausprobiert.",
+        "translateExample": "Продукт тестируется.",
+        "collocations": [
+          "das Produkt"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "54b79fbe-629e-4c84-8403-e2437a79f24d",
+        "deExample": "Ich vergesse oft, neue Dinge auszuprobieren.",
+        "translateExample": "Я часто забываю пробовать новые вещи.",
+        "collocations": [
+          "vergessen",
+          "neue Dinge"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "991b9178-aa94-44b7-91eb-45bc94c03373",
+        "deExample": "Willst du das ausprobieren?",
+        "translateExample": "Ты хочешь это попробовать?",
+        "collocations": [
+          "das"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8332036c-647f-44fc-8edc-0be5cfd90a57",
+        "deExample": "Ich lerne, um neue Ideen auszuprobieren.",
+        "translateExample": "Я учусь, чтобы пробовать новые идеи.",
+        "collocations": [
+          "lernen",
+          "Ideen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "f9fb57e9-e147-4123-b329-a902c5fd937d",
+    "deWord": "der Bewerber",
+    "translateWord": "кандидат, соискатель",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "b6725dee-adcb-4a76-8847-eb86c9186e8c",
+        "deExample": "Der Bewerber ist pünktlich.",
+        "translateExample": "Кандидат пунктуален.",
+        "collocations": [
+          "pünktlich"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f48e0274-b7a2-43b0-a77f-b811a584e0d5",
+        "deExample": "Kennst du den Bewerber?",
+        "translateExample": "Ты знаешь кандидата?",
+        "collocations": [
+          "kennen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9c98c926-809e-438d-a4c3-aaac415ac82e",
+        "deExample": "Der Bewerber ist nicht vorbereitet.",
+        "translateExample": "Кандидат не подготовлен.",
+        "collocations": [
+          "nicht",
+          "vorbereitet"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "69a854a3-8d2c-4bf7-8b94-c5deb825c7ac",
+        "deExample": "Ich habe den Bewerber gesehen.",
+        "translateExample": "Я видел кандидата.",
+        "collocations": [
+          "sehen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "622b0ed0-4d31-499a-bda9-e349bb40183d",
+        "deExample": "Man kann den Bewerber fragen.",
+        "translateExample": "Можно спросить кандидата.",
+        "collocations": [
+          "fragen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c20c7a6a-5840-4884-872d-606a9950f1d3",
+        "deExample": "Ich mag den Bewerber, weil er freundlich ist.",
+        "translateExample": "Мне нравится кандидат, потому что он дружелюбный.",
+        "collocations": [
+          "freundlich"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4082a55b-95db-4282-a126-66783313a753",
+        "deExample": "Der Bewerber wird eingeladen, wenn er geeignet ist.",
+        "translateExample": "Кандидата приглашают, если он подходит.",
+        "collocations": [
+          "einladen",
+          "geeignet"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "04ddae98-527c-43c5-8386-7d87e2aa3b42",
+        "deExample": "Der Bewerber wird geprüft.",
+        "translateExample": "Кандидат проверяется.",
+        "collocations": [
+          "prüfen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2ed2af2e-92b9-4cde-b9fd-f5fe66010086",
+        "deExample": "Ich vergesse oft, den Bewerber anzurufen.",
+        "translateExample": "Я часто забываю позвонить кандидату.",
+        "collocations": [
+          "vergessen",
+          "anrufen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "493d743c-53c7-4316-9226-da09095494d9",
+        "deExample": "Willst du den Bewerber sehen?",
+        "translateExample": "Ты хочешь увидеть кандидата?",
+        "collocations": [
+          "sehen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "70cb0bbf-8242-426a-a28a-d2c64afbc71c",
+        "deExample": "Ich bereite mich vor, um den Bewerber zu treffen.",
+        "translateExample": "Я готовлюсь, чтобы встретить кандидата.",
+        "collocations": [
+          "vorbereiten",
+          "treffen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

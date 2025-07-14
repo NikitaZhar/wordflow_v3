@@ -1,0 +1,205 @@
+[
+  {
+    "id": "ec5aae5b-9f16-46ad-b302-04ee5ab8c655",
+    "deWord": "verdienen - verdiente - verdient",
+    "translateWord": "зарабатывать (verdienen)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "ea20b25a-5106-4110-b941-3028db9aa2ca",
+        "deExample": "Ich verdiene Geld.",
+        "translateExample": "Я зарабатываю деньги.",
+        "collocations": [
+          "Geld"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5b849b52-108a-4a4c-b177-6b7d29ddb23b",
+        "deExample": "Verdienst du viel?",
+        "translateExample": "Ты много зарабатываешь?",
+        "collocations": [
+          "viel"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a6b04ff8-14b4-4936-bc20-fe634649d92d",
+        "deExample": "Er verdient nicht genug.",
+        "translateExample": "Он зарабатывает недостаточно.",
+        "collocations": [
+          "genug"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "45b8258d-adb8-4629-a528-5808cd68a97f",
+        "deExample": "Sie hat viel verdient.",
+        "translateExample": "Она много заработала.",
+        "collocations": [
+          "viel"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "78937455-699f-4b0a-8907-3bc85e0c7406",
+        "deExample": "Du kannst hier gut verdienen.",
+        "translateExample": "Ты можешь здесь хорошо зарабатывать.",
+        "collocations": [
+          "hier"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f14d2447-85b7-422a-82c3-210bf0389660",
+        "deExample": "Ich arbeite viel, weil ich mehr verdienen möchte.",
+        "translateExample": "Я много работаю, потому что хочу зарабатывать больше.",
+        "collocations": [
+          "arbeiten"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "38682f75-a1c8-46c1-a4cd-915baef273f9",
+        "deExample": "Er wird mehr verdienen, wenn er den Job wechselt.",
+        "translateExample": "Он будет зарабатывать больше, если сменит работу.",
+        "collocations": [
+          "Job"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d9e56e24-2909-4655-a9eb-d017a2407991",
+        "deExample": "Geld wird hier verdient.",
+        "translateExample": "Здесь зарабатываются деньги.",
+        "collocations": [
+          "Geld"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e37bfed6-fcd2-4ad9-950b-a3d7bf65770e",
+        "deExample": "Er versucht, mehr zu verdienen.",
+        "translateExample": "Он пытается зарабатывать больше.",
+        "collocations": [
+          "versuchen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d5faf481-cb75-4c5a-81ff-a59caa9a6262",
+        "deExample": "Willst du lernen, mehr zu verdienen?",
+        "translateExample": "Ты хочешь научиться зарабатывать больше?",
+        "collocations": [
+          "lernen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f30e66bf-9990-4e55-92bc-0f93c16e5930",
+        "deExample": "Er arbeitet viel, um mehr zu verdienen.",
+        "translateExample": "Он много работает, чтобы зарабатывать больше.",
+        "collocations": [
+          "arbeiten"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

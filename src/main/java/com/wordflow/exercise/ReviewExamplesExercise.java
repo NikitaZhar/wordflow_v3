@@ -7,75 +7,110 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
-
+import java.util.stream.Collectors;
 import com.wordflow.model.Dictionary;
+import com.wordflow.model.Example;
 import com.wordflow.model.FlashCard;
 
 public class ReviewExamplesExercise extends BaseExercise {
-	private final List<FlashCard> cards;
-	private int limit;
+
+	private final List<Example> examplesToReview;
+	private final int limit;
+	private Dictionary dictionary;
 
 	public ReviewExamplesExercise(Dictionary dictionary) {
+		this.dictionary = dictionary;
 		this.limit = getLimit();
-
-		this.cards = new ArrayList<>(
-				dictionary.findDueCards(FlashCard.FlashCardType.EXAMPLE).stream()
-				.sorted(Comparator.comparingInt(card -> card.getProgress().getReviewInterval()))
-				.limit(limit)
-				.toList()
-				);
+		this.examplesToReview = selectExamples(dictionary);
+	}
+	
+	@Override
+	public List<FlashCard> getLessonContent() {
+	    return examplesToReview.stream()
+	            .map(example -> dictionary.getAllCards().stream()
+	                    .filter(card -> card.getExamples().contains(example))
+	                    .findFirst()
+	                    .orElse(null))
+	            .filter(card -> card != null)
+	            .collect(Collectors.toList());
 	}
 
-	@Override
-	public void runExercise() {
-		if(cards.isEmpty()) return;
-		Collections.shuffle(cards);
-		clearScreen();
-		waitForEnter("\n Review past examples. Press Enter to begin\n");
-		practice();
+	private List<Example> selectExamples(Dictionary dictionary) {
+		return dictionary.getAllCards().stream()
+				.flatMap(card -> card.getExamples().stream())
+				.filter(example -> Boolean.TRUE.equals(example.getActive()))
+				.filter(example -> example.getProgress() != null && example.getProgress().isDue())
+				.sorted(Comparator.comparingInt(example -> example.getProgress().getSuccessCount()))
+				.limit(limit)
+				.collect(Collectors.toCollection(ArrayList::new));
 	}
 
 	private int getLimit() {
 		int hour = LocalTime.now().getHour();
 		return switch (hour) {
-		case 8 -> 0;
-		case 9 -> 2;
-		case 10 -> 2;
-		case 11 -> 3;
-		case 12 -> 2;
-		case 13 -> 3;
-		case 14 -> 2;
-		case 15 -> 3;
-		case 16 -> 2;
-		case 17 -> 3;
-		case 18, 19, 20 -> 2;
-		default -> 0; 
+		case 8 -> 1;
+		case 9, 10, 12, 14 -> 2;
+		case 11, 13, 15, 16 -> 3;
+		case 17, 18 -> 2;
+		case 19, 20 -> 1;
+		default -> 1;
 		};
 	}
 
+	@Override
+	public void runExercise() {
+		if (examplesToReview.isEmpty()) return;
+		Collections.shuffle(examplesToReview);
+		clearScreen();
+		waitForEnter("\n Review past examples. Press Enter to begin\n");
+		practice();
+	}
+
 	private void practice() {
-		for(FlashCard card : cards) {
+		for(Example example : examplesToReview) {
 			boolean isCorrect;
 			boolean toProgressInterval = true;
 			do {
-				showQuestion(card);
+				showQuestionExample(example);
 				String userAnswer = getUserAnswerWithPrompt();
-				String correctAnswer = card.getCleanAnswer();
-				isCorrect = userAnswer.equals(correctAnswer);
+				String correctAnswer = example.getDeExample().trim();
+				isCorrect = userAnswer.trim().equalsIgnoreCase(correctAnswer);
 				if (isCorrect) {
 					messageCorrectAnswer();
-					isCorrect = true;
 				} else {
 					messageErrorAnswer();
 					clearScreen();
-					displayFullCard(card);
+					displayFullExample(example);
 					clearScreen();
-					isCorrect = false;
 					toProgressInterval = false;
 				}
 			} while (!isCorrect);
+			example.registerExampleProgress(toProgressInterval);
+			activateNextExample(example);
+		}
+	}
 
-			card.toProgress(toProgressInterval);
+	private void activateNextExample(Example currentExample) {
+		if (currentExample.getProgress().getMinsToRepeat() > 400) {
+			currentExample.setActive(false);
+			
+			waitForEnter("\n Passed example : " + currentExample.getDeExample() + " Press Enter to continue ");
+
+			dictionary.getAllCards().stream()
+			.filter(card -> card.getExamples().contains(currentExample))
+			.findFirst()
+			.ifPresent(card -> {
+				List<Example> examples = card.getExamples();
+				int idx = examples.indexOf(currentExample);
+				if (idx >= 0 && idx + 1 < examples.size()) {
+					Example nextExample = examples.get(idx + 1);
+					if (!Boolean.TRUE.equals(nextExample.getActive())) {
+						nextExample.setActive(true);
+						waitForEnter("\n New example : " + currentExample.getDeExample() + " Press Enter to continue ");
+					}
+				}
+			}
+					);
 		}
 	}
 }

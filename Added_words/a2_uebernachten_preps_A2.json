@@ -1,0 +1,220 @@
+[
+  {
+    "id": "1e4e57f1-3898-4498-9eac-4fb5eff7e77d",
+    "deWord": "übernachten - übernachtete - übernachtet",
+    "translateWord": "ночевать (где, in + Dativ / у кого, bei + Dativ)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "b4aab9b3-6263-4d7c-9ff0-4d779fa5de0b",
+        "deExample": "Wir übernachten heute in einem gemütlichen Hotel.",
+        "translateExample": "Сегодня мы ночуем в уютном отеле.",
+        "collocations": [
+          "das Hotel",
+          "gemütlich",
+          "heute"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "89d16fc8-3434-4f86-a32f-75febf2bb4de",
+        "deExample": "Übernachtest du heute bei deiner Tante?",
+        "translateExample": "Ты сегодня ночуешь у своей тёти?",
+        "collocations": [
+          "die Tante",
+          "heute"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "cae883c9-9874-49d3-a1c9-78d9f0d383ee",
+        "deExample": "Ich übernachte nicht gern in einem Zelt.",
+        "translateExample": "Я не люблю ночевать в палатке.",
+        "collocations": [
+          "das Zelt",
+          "gern"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a9707031-0cdf-49fc-a035-4c1af77d30a3",
+        "deExample": "Letztes Wochenende haben wir bei Freunden übernachtet.",
+        "translateExample": "В прошлые выходные мы ночевали у друзей.",
+        "collocations": [
+          "der Freund",
+          "letztes Wochenende"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "37c05022-321e-49d9-beac-9b2ad3978819",
+        "deExample": "Man kann auch in einer Hütte übernachten.",
+        "translateExample": "Можно также переночевать в домике.",
+        "collocations": [
+          "die Hütte",
+          "auch"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1e474823-060e-4007-acc9-5e083ba6c437",
+        "deExample": "Ich nehme den Schlafsack mit, weil ich bei meinem Bruder übernachten will.",
+        "translateExample": "Я беру с собой спальный мешок, потому что хочу переночевать у брата.",
+        "collocations": [
+          "der Schlafsack",
+          "der Bruder"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5b2d4f8c-d68b-4418-b62b-1e970b2a11c9",
+        "deExample": "Ich werde in einem Gästezimmer übernachten, wenn ich spät ankomme.",
+        "translateExample": "Я переночую в гостевой комнате, если приеду поздно.",
+        "collocations": [
+          "das Gästezimmer",
+          "spät",
+          "ankommen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2595f124-ab64-4409-b84e-652b5a0e297a",
+        "deExample": "In Hostels wird oft günstig übernachtet.",
+        "translateExample": "В хостелах часто ночуют недорого.",
+        "collocations": [
+          "das Hostel",
+          "günstig",
+          "oft"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0ce60058-cee4-4e7f-8bbb-1b1b1f7dc8f4",
+        "deExample": "Er versucht, nur bei seinen Großeltern zu übernachten.",
+        "translateExample": "Он старается ночевать только у бабушки с дедушкой.",
+        "collocations": [
+          "die Großeltern",
+          "nur"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4509f4cc-44d0-4ddf-b666-635d6212bcfe",
+        "deExample": "Wie kann man lernen, sicher draußen zu übernachten?",
+        "translateExample": "Как можно научиться безопасно ночевать на улице?",
+        "collocations": [
+          "lernen",
+          "sicher",
+          "draußen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "836ddb97-eda5-4bc0-a859-f5c1c3abedfa",
+        "deExample": "Ich nehme ein Zelt mit, um in der Natur zu übernachten.",
+        "translateExample": "Я беру с собой палатку, чтобы переночевать на природе.",
+        "collocations": [
+          "das Zelt",
+          "die Natur"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

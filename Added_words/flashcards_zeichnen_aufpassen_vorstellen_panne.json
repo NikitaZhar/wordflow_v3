@@ -1,0 +1,997 @@
+[
+  {
+    "id": "501a1c6c-ea58-4aed-ae3d-895cacdd9d2e",
+    "deWord": "zeichnen - zeichnete - gezeichnet",
+    "translateWord": "рисовать (что-л, Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "55e79b20-4020-4267-a1c9-15fa05d1b48c",
+        "deExample": "Ich zeichne ein Bild.",
+        "translateExample": "Я рисую картину.",
+        "collocations": [
+          "Bild"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "73d88373-15f2-4995-a20a-fbabe7b9c433",
+        "deExample": "Zeichnest du oft?",
+        "translateExample": "Ты часто рисуешь?",
+        "collocations": [
+          "oft"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "22a1e1ae-0b0b-4b03-9a8b-a4d5ba3f4f6c",
+        "deExample": "Ich zeichne das nicht.",
+        "translateExample": "Я это не рисую.",
+        "collocations": [],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3cf487df-903a-4aba-8cdf-629365d583e8",
+        "deExample": "Ich habe gestern gezeichnet.",
+        "translateExample": "Я рисовал вчера.",
+        "collocations": [
+          "gestern"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f0153652-efe2-42a6-b8a3-c4d2a1965160",
+        "deExample": "Man kann gut zeichnen lernen.",
+        "translateExample": "Можно хорошо научиться рисовать.",
+        "collocations": [
+          "lernen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ec1f8254-f6f8-45db-ba15-8d947a143e83",
+        "deExample": "Ich bleibe, weil ich zeichnen will.",
+        "translateExample": "Я остаюсь, потому что хочу рисовать.",
+        "collocations": [],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5b89278d-b9e0-48b3-a735-bcc6dcaa7515",
+        "deExample": "Ich werde zeichnen, wenn ich Zeit habe.",
+        "translateExample": "Я буду рисовать, если будет время.",
+        "collocations": [
+          "Zeit"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "cb5a4462-456e-4077-b385-9c617515060d",
+        "deExample": "Das Bild wird gezeichnet.",
+        "translateExample": "Картина рисуется.",
+        "collocations": [
+          "Bild"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9cb4b52a-bc0e-4a18-abe1-0e0d3bf88885",
+        "deExample": "Es ist schön, Bilder zu zeichnen.",
+        "translateExample": "Приятно рисовать картины.",
+        "collocations": [
+          "Bilder",
+          "schön"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "62b7f958-e6eb-47cc-8737-33b6aeb08038",
+        "deExample": "Wie ist es, ein Porträt zu zeichnen?",
+        "translateExample": "Как это — рисовать портрет?",
+        "collocations": [
+          "Porträt"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "85068d55-41da-4e21-b66f-fb3cf220472b",
+        "deExample": "Er bleibt zu Hause, um zu zeichnen.",
+        "translateExample": "Он остаётся дома, чтобы рисовать.",
+        "collocations": [
+          "Haus"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "2368bcfa-078e-4531-87f1-b26449c335c4",
+    "deWord": "aufpassen - passte auf - aufgepasst",
+    "translateWord": "следить, присматривать (за кем-л, auf + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "5ac377f0-79dd-4311-8920-43cb89b0fdde",
+        "deExample": "Ich passe auf die Kinder auf.",
+        "translateExample": "Я присматриваю за детьми.",
+        "collocations": [
+          "Kinder"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e6d64f41-8146-48cd-82e0-34a8f230e595",
+        "deExample": "Passt du gut auf?",
+        "translateExample": "Ты хорошо следишь?",
+        "collocations": [
+          "gut"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "69ccb32e-3c82-4365-8c5a-de1da4e97c26",
+        "deExample": "Ich passe nicht auf.",
+        "translateExample": "Я не слежу.",
+        "collocations": [],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "339a382c-7fe9-415c-9818-9aae48b1bbbf",
+        "deExample": "Ich habe gut aufgepasst.",
+        "translateExample": "Я внимательно следил.",
+        "collocations": [
+          "gut"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "aaf4ebea-712c-4e41-a2c0-c5984fd006b5",
+        "deExample": "Man muss gut aufpassen.",
+        "translateExample": "Нужно хорошо следить.",
+        "collocations": [
+          "müssen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ab3e8cf4-e737-45d2-952d-d51346aaff5a",
+        "deExample": "Ich bleibe, weil ich aufpassen muss.",
+        "translateExample": "Я остаюсь, потому что должен следить.",
+        "collocations": [],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e03b1354-e29e-4ddb-9bc6-b5078cb4b0f3",
+        "deExample": "Ich werde aufpassen, wenn ich Zeit habe.",
+        "translateExample": "Я буду следить, если у меня будет время.",
+        "collocations": [
+          "Zeit"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7345b1c6-5435-4429-a93a-4ba913849bdf",
+        "deExample": "Auf die Kinder wird gut aufgepasst.",
+        "translateExample": "За детьми хорошо присматривают.",
+        "collocations": [
+          "Kinder"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3d553cc9-fdd7-4033-9d77-f7ca6963cbb4",
+        "deExample": "Es ist wichtig, aufzupassen.",
+        "translateExample": "Важно следить.",
+        "collocations": [
+          "wichtig"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1a78c2c1-7d8c-443b-b123-8182ef5a16c7",
+        "deExample": "Wie ist es, auf kleine Kinder aufzupassen?",
+        "translateExample": "Как это — следить за маленькими детьми?",
+        "collocations": [
+          "Kinder"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9ee6f41c-6dc4-4634-96db-6f66ef49d7e1",
+        "deExample": "Er bleibt ruhig, um besser aufzupassen.",
+        "translateExample": "Он остаётся спокойным, чтобы лучше следить.",
+        "collocations": [
+          "ruhig"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "1635a7f6-70e2-44f9-899f-a80f366c02b8",
+    "deWord": "sich vorstellen - stellte vor - vorgestellt",
+    "translateWord": "представляться (кому-л, Dat)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "f612583d-7ffe-4e04-ba62-c14ca83f99ea",
+        "deExample": "Ich stelle mich vor.",
+        "translateExample": "Я представляюсь.",
+        "collocations": [],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5f3813b0-f29d-480a-ab21-830ec7d4d519",
+        "deExample": "Stellst du dich vor?",
+        "translateExample": "Ты представляешься?",
+        "collocations": [],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b2e511a1-7c37-444f-b8ae-6414f07a5185",
+        "deExample": "Ich stelle mich nicht vor.",
+        "translateExample": "Я не представляюсь.",
+        "collocations": [],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "978b4bb9-448d-4dec-909d-f22a06fdb662",
+        "deExample": "Ich habe mich vorgestellt.",
+        "translateExample": "Я представился.",
+        "collocations": [],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "97660cf0-a190-4605-b73b-a4ee5ecb4d35",
+        "deExample": "Man kann sich vorstellen.",
+        "translateExample": "Можно представиться.",
+        "collocations": [],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3c8238d3-8dea-4694-b3d8-89bbda9e659e",
+        "deExample": "Ich bleibe, weil ich mich vorstellen möchte.",
+        "translateExample": "Я остаюсь, потому что хочу представиться.",
+        "collocations": [],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "97c56325-9629-4dcf-b76c-6b55807e8dd3",
+        "deExample": "Ich werde mich vorstellen, wenn es passt.",
+        "translateExample": "Я представлюсь, если будет уместно.",
+        "collocations": [
+          "passen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8e514581-587f-487d-bd69-34d9ce80171a",
+        "deExample": "Er wird sich vorgestellt.",
+        "translateExample": "Он представляется.",
+        "collocations": [],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "77a4fe9d-a190-4cd6-bc7e-abc60b592be5",
+        "deExample": "Es ist gut, sich vorzustellen.",
+        "translateExample": "Хорошо представляться.",
+        "collocations": [
+          "gut"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a5664d90-f7a2-4c56-b32d-209f0589a06c",
+        "deExample": "Wie ist es, sich in einer neuen Gruppe vorzustellen?",
+        "translateExample": "Как это — представляться в новой группе?",
+        "collocations": [
+          "Gruppe"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "565997c6-d90b-4efe-980e-b5cfffe89364",
+        "deExample": "Er geht hin, um sich vorzustellen.",
+        "translateExample": "Он идёт туда, чтобы представиться.",
+        "collocations": [],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "f3ca667c-4989-42ba-932b-6d4aaffa40d8",
+    "deWord": "sich vorstellen - stellte vor - vorgestellt",
+    "translateWord": "представлять себе (что-л, Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "00bcbaed-77cc-43e9-a0be-a67c75d987a6",
+        "deExample": "Ich kann mir das vorstellen.",
+        "translateExample": "Я могу это себе представить.",
+        "collocations": [
+          "das"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "258bc633-49c2-4c1f-96ee-6890fae11fc0",
+        "deExample": "Kannst du dir das vorstellen?",
+        "translateExample": "Ты можешь это себе представить?",
+        "collocations": [
+          "das"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4e595dce-cadc-425c-821a-77d98b7de8e5",
+        "deExample": "Ich kann mir das nicht vorstellen.",
+        "translateExample": "Я не могу это себе представить.",
+        "collocations": [
+          "das"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8c9fb85e-fad3-413f-a7b8-a05af732b9e7",
+        "deExample": "Ich habe mir das vorgestellt.",
+        "translateExample": "Я это себе представил.",
+        "collocations": [
+          "das"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9dc6643a-3ade-4762-8f43-02227b3fbf20",
+        "deExample": "Man kann sich vieles vorstellen.",
+        "translateExample": "Можно многое представить себе.",
+        "collocations": [
+          "vieles"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9592ff7f-b8e7-450c-b2fc-7867580fc5fd",
+        "deExample": "Ich denke nach, weil ich mir etwas vorstellen will.",
+        "translateExample": "Я думаю, потому что хочу что-то представить.",
+        "collocations": [
+          "etwas"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5a8e3daa-726d-40ce-bb9c-6f9f369c3973",
+        "deExample": "Ich werde mir vorstellen, wenn ich Zeit habe.",
+        "translateExample": "Я представлю себе, если будет время.",
+        "collocations": [
+          "Zeit"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "00d7b015-34f5-411d-b299-51f0f011bf92",
+        "deExample": "Etwas wird sich vorgestellt.",
+        "translateExample": "Что-то представляется.",
+        "collocations": [
+          "etwas"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e22135c1-f48b-4608-99d2-eb05d9fd3696",
+        "deExample": "Es ist schwer, sich das vorzustellen.",
+        "translateExample": "Трудно себе это представить.",
+        "collocations": [
+          "schwer",
+          "das"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "397fb1e8-4c12-4706-b7ef-2bc4f004058b",
+        "deExample": "Wie ist es, sich eine andere Welt vorzustellen?",
+        "translateExample": "Как это — представить себе другой мир?",
+        "collocations": [
+          "Welt"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "dd4b3492-4925-4a71-b488-3a6c31a011a7",
+        "deExample": "Er schließt die Augen, um sich alles vorzustellen.",
+        "translateExample": "Он закрывает глаза, чтобы всё представить себе.",
+        "collocations": [
+          "Augen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "4c2410af-fcd2-47cf-b5b5-da5c44136d3d",
+    "deWord": "die Panne",
+    "translateWord": "поломка, неисправность",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "bb2c9e4d-84bb-48e7-8f83-3ba39b6eba85",
+        "deExample": "Die Panne ist ärgerlich.",
+        "translateExample": "Поломка неприятна.",
+        "collocations": [
+          "ärgerlich"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9a825abe-36c5-470b-b44e-8144d11a5cb0",
+        "deExample": "Ist die Panne schlimm?",
+        "translateExample": "Поломка серьёзная?",
+        "collocations": [
+          "schlimm"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ed99d6b0-a084-4f02-a714-e9bee700fc7a",
+        "deExample": "Die Panne ist nicht groß.",
+        "translateExample": "Поломка не большая.",
+        "collocations": [
+          "groß"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "37f24577-9b21-4b0a-90d2-723d8c048e08",
+        "deExample": "Wir hatten eine Panne.",
+        "translateExample": "У нас была поломка.",
+        "collocations": [
+          "wir"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "adb98906-1c5b-4307-ab1f-125bec273c4c",
+        "deExample": "Man kann eine Panne reparieren.",
+        "translateExample": "Можно починить поломку.",
+        "collocations": [
+          "reparieren"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1a2e2dc0-3958-4a0a-9d92-de2e3d70ba01",
+        "deExample": "Ich bleibe, weil wir eine Panne haben.",
+        "translateExample": "Я остаюсь, потому что у нас поломка.",
+        "collocations": [
+          "wir"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "73b9470c-8453-4f35-b3d7-5e65ec850b19",
+        "deExample": "Ich werde anrufen, wenn wir eine Panne haben.",
+        "translateExample": "Я позвоню, если у нас будет поломка.",
+        "collocations": [
+          "anrufen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b35b654d-e6cf-4cb2-a3d3-22723d6d4023",
+        "deExample": "Die Panne wird repariert.",
+        "translateExample": "Поломку ремонтируют.",
+        "collocations": [
+          "reparieren"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5bc460bd-c006-4ffa-8652-86f88ae73266",
+        "deExample": "Es ist wichtig, eine Panne schnell zu beheben.",
+        "translateExample": "Важно быстро устранить поломку.",
+        "collocations": [
+          "wichtig",
+          "beheben"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "dc5e7583-ba13-42dd-8297-9b3628e087ee",
+        "deExample": "Wie ist es, wenn eine Panne passiert?",
+        "translateExample": "Как это, когда случается поломка?",
+        "collocations": [
+          "passieren"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "11df2fa7-5ed0-45c1-acff-a753b0f59c2e",
+        "deExample": "Er ruft den Service, um die Panne zu melden.",
+        "translateExample": "Он звонит в сервис, чтобы сообщить о поломке.",
+        "collocations": [
+          "Service",
+          "melden"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

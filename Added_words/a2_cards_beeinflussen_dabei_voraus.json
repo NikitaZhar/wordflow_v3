@@ -1,0 +1,643 @@
+[
+  {
+    "id": "fc5477a6-5ece-48f4-9368-20b09b9e4fd2",
+    "deWord": "beeinflussen - beeinflusste - beeinflusst",
+    "translateWord": "влиять (auf + Akk); оказывать воздействие (auf + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "e5b1e384-1b9e-4ea9-b086-ceeb48a0c8f7",
+        "deExample": "Eltern beeinflussen oft die Entscheidungen ihrer Kinder.",
+        "translateExample": "Родители часто влияют на решения своих детей.",
+        "collocations": [
+          "Eltern",
+          "Entscheidungen",
+          "Kinder"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "93bcab73-0e7b-4bc1-88df-8937e63f991d",
+        "deExample": "Wie kannst du deine Kollegen positiv beeinflussen?",
+        "translateExample": "Как ты можешь положительно влиять на своих коллег?",
+        "collocations": [
+          "Kollegen",
+          "positiv"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f807fec5-5bc2-40b3-a5c6-aa8970754d66",
+        "deExample": "Ich will sie nicht negativ beeinflussen.",
+        "translateExample": "Я не хочу негативно на неё влиять.",
+        "collocations": [
+          "negativ"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a4bc6f54-750f-4589-a6e8-fd6ad347569e",
+        "deExample": "Seine Rede hat mich stark beeinflusst.",
+        "translateExample": "Его речь сильно на меня повлияла.",
+        "collocations": [
+          "Rede",
+          "stark"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "68327471-d145-4dc9-9558-9c529566d802",
+        "deExample": "Du kannst die Situation beeinflussen.",
+        "translateExample": "Ты можешь повлиять на ситуацию.",
+        "collocations": [
+          "Situation"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "21176ab4-f462-4f8e-9f1b-9c26749b6917",
+        "deExample": "Er blieb ruhig, weil er die Stimmung nicht beeinflussen wollte.",
+        "translateExample": "Он оставался спокойным, потому что не хотел влиять на настроение.",
+        "collocations": [
+          "ruhig",
+          "Stimmung",
+          "wollen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f3b6c5a9-43e5-4973-be61-7e0865c235b6",
+        "deExample": "Ich werde versuchen, das Ergebnis zu beeinflussen, wenn ich kann.",
+        "translateExample": "Я попытаюсь повлиять на результат, если смогу.",
+        "collocations": [
+          "versuchen",
+          "Ergebnis",
+          "können"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7187232d-bce2-4b87-8b37-56edf77aa1eb",
+        "deExample": "Die Entscheidung wurde von vielen Faktoren beeinflusst.",
+        "translateExample": "Решение было под влиянием многих факторов.",
+        "collocations": [
+          "Entscheidung",
+          "Faktoren"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b397d93a-9650-474c-84e4-131a3bfc0904",
+        "deExample": "Es ist wichtig, andere positiv zu beeinflussen.",
+        "translateExample": "Важно оказывать положительное влияние на других.",
+        "collocations": [
+          "wichtig",
+          "positiv"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2187aef4-dfb3-41f1-95ff-740487f7e187",
+        "deExample": "Willst du lernen, wie man andere motiviert beeinflussen kann?",
+        "translateExample": "Ты хочешь научиться, как мотивированно влиять на других?",
+        "collocations": [
+          "lernen",
+          "motivieren"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2c49fb08-f0ff-41d5-83b5-e01943bc4127",
+        "deExample": "Ich lese viel, um meine Meinung zu beeinflussen.",
+        "translateExample": "Я много читаю, чтобы влиять на своё мнение.",
+        "collocations": [
+          "lesen",
+          "Meinung"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "78b045e5-da6f-43ff-b933-63ba9435b93a",
+    "deWord": "dabei",
+    "translateWord": "при этом; в то же время",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "3a4295d9-a83c-4989-8454-c6e061218deb",
+        "deExample": "Ich mache Hausaufgaben und höre dabei Musik.",
+        "translateExample": "Я делаю домашнее задание и при этом слушаю музыку.",
+        "collocations": [
+          "Hausaufgaben",
+          "Musik"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3f07bee8-4be3-4c0c-8379-343ba36b2dda",
+        "deExample": "Bist du dabei, wenn wir ins Kino gehen?",
+        "translateExample": "Ты пойдёшь с нами в кино?",
+        "collocations": [
+          "Kino",
+          "gehen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e37ec891-d69a-4a54-92b6-45823ccc0bb3",
+        "deExample": "Ich bin nicht dabei, wenn sie diskutieren.",
+        "translateExample": "Я не присутствую, когда они обсуждают.",
+        "collocations": [
+          "diskutieren"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "30d6cc46-f0b4-4aa2-9979-825b2f9e6fea",
+        "deExample": "Ich war dabei, als sie das Auto gekauft haben.",
+        "translateExample": "Я был при этом, когда они купили машину.",
+        "collocations": [
+          "Auto",
+          "kaufen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d67d10ee-f322-4461-a788-ad77aa23cae3",
+        "deExample": "Du kannst dabei helfen, das Problem zu lösen.",
+        "translateExample": "Ты можешь помочь при этом решить проблему.",
+        "collocations": [
+          "helfen",
+          "Problem",
+          "lösen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4691105a-1672-46c3-9635-b2640798ca2b",
+        "deExample": "Er bleibt ruhig, weil er dabei nachdenkt.",
+        "translateExample": "Он остаётся спокойным, потому что при этом размышляет.",
+        "collocations": [
+          "ruhig",
+          "nachdenken"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c9aaf940-7146-49d3-a924-5d2a5720015f",
+        "deExample": "Ich werde dabei sein, wenn du Hilfe brauchst.",
+        "translateExample": "Я буду рядом, когда тебе понадобится помощь.",
+        "collocations": [
+          "Hilfe",
+          "brauchen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c2affb40-2b07-4544-998e-b364df48c2f9",
+        "deExample": "Das Lied wird dabei oft gespielt.",
+        "translateExample": "Эта песня часто проигрывается при этом.",
+        "collocations": [
+          "Lied",
+          "spielen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fe81fc52-3eca-46ea-accf-f4591eaae9df",
+        "deExample": "Es ist schön, dabei zu tanzen.",
+        "translateExample": "Приятно танцевать при этом.",
+        "collocations": [
+          "schön",
+          "tanzen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "685a77be-1055-47a0-bb64-40fc701617e2",
+        "deExample": "Willst du wissen, wie man dabei konzentriert bleibt?",
+        "translateExample": "Ты хочешь узнать, как оставаться сосредоточенным при этом?",
+        "collocations": [
+          "wissen",
+          "konzentriert"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3fbd9549-abc5-45fe-b3a8-29147bf516c0",
+        "deExample": "Ich stehe früh auf, um dabei mehr zu schaffen.",
+        "translateExample": "Я встаю рано, чтобы при этом больше успевать.",
+        "collocations": [
+          "aufstehen",
+          "schaffen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "a40ec343-725c-4ea4-b679-7d44b3a214cd",
+    "deWord": "voraus",
+    "translateWord": "вперёд; заранее",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "b997d9ca-04fd-447c-8ab1-c6d2dc9479fe",
+        "deExample": "Ich gehe einen Schritt voraus.",
+        "translateExample": "Я делаю шаг вперёд.",
+        "collocations": [
+          "Schritt"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "34709fc5-7525-4b5a-8cd2-933c87016e4a",
+        "deExample": "Geht er voraus?",
+        "translateExample": "Он идёт вперёд?",
+        "collocations": [
+          "gehen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "876530ef-bdae-469e-8e16-5f8b3a2aa8e9",
+        "deExample": "Ich gehe nicht voraus, wenn es dunkel ist.",
+        "translateExample": "Я не иду вперёд, когда темно.",
+        "collocations": [
+          "gehen",
+          "dunkel"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c1846974-ae76-46d2-9e7e-dcbe2140c0d1",
+        "deExample": "Sie ist gestern vorausgegangen.",
+        "translateExample": "Она пошла вперёд вчера.",
+        "collocations": [
+          "gehen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ef29267d-87cf-47d2-b9a3-e5ea2b7f7361",
+        "deExample": "Du kannst vorausgehen, wenn du willst.",
+        "translateExample": "Ты можешь идти вперёд, если хочешь.",
+        "collocations": [
+          "gehen",
+          "wollen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "46d54d66-a49f-4a71-911a-a5474c75c733",
+        "deExample": "Er bleibt stehen, weil sie vorausgeht.",
+        "translateExample": "Он остаётся стоять, потому что она идёт вперёд.",
+        "collocations": [
+          "stehen",
+          "gehen"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a1335196-aea6-4e9a-ab37-2a0e24432741",
+        "deExample": "Ich werde vorausgehen, wenn der Weg klar ist.",
+        "translateExample": "Я пойду вперёд, когда путь будет ясен.",
+        "collocations": [
+          "gehen",
+          "Weg",
+          "klar"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "49732b0b-f77c-435a-b9ff-78a61d75be08",
+        "deExample": "Der Weg wird von ihm vorausgeplant.",
+        "translateExample": "Путь планируется им заранее.",
+        "collocations": [
+          "Weg",
+          "planen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "83c16de5-badd-4810-88b6-90627c252346",
+        "deExample": "Es ist gut, voraus zu planen.",
+        "translateExample": "Хорошо планировать заранее.",
+        "collocations": [
+          "gut",
+          "planen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "42b9c8ea-3664-4546-a669-1608ae25dfff",
+        "deExample": "Willst du wissen, wie man voraus denkt?",
+        "translateExample": "Ты хочешь узнать, как думать наперёд?",
+        "collocations": [
+          "wissen",
+          "denken"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0365eb7b-077c-424f-a536-f387fbea6db7",
+        "deExample": "Ich stehe früh auf, um voraus zu arbeiten.",
+        "translateExample": "Я встаю рано, чтобы работать заранее.",
+        "collocations": [
+          "aufstehen",
+          "arbeiten"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

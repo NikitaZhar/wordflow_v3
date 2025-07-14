@@ -1,0 +1,206 @@
+
+  {
+    "id": "ae11e1af-b658-4862-b4b0-c2f7b810b0a9",
+    "deWord": "sich beeilen - beeilte sich - sich beeilt",
+    "translateWord": "торопиться",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "f35da9bb-5230-4b0e-8d5e-f68544eba7ca",
+        "deExample": "Ich beeile mich jeden Morgen.",
+        "translateExample": "Я тороплюсь каждое утро.",
+        "collocations": [
+          "Morgen"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "64148722-0bac-42ca-b2fa-23d4bbc1ae80",
+        "deExample": "Beeilst du dich zur Arbeit?",
+        "translateExample": "Ты спешишь на работу?",
+        "collocations": [
+          "Arbeit"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "aa833c29-d50a-475f-a46f-71f70463a4ef",
+        "deExample": "Ich beeile mich heute nicht.",
+        "translateExample": "Сегодня я не спешу.",
+        "collocations": [
+          "heute"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "44105d1c-765a-45d1-a6b3-72bdadf33b7e",
+        "deExample": "Ich habe mich gestern beeilt.",
+        "translateExample": "Вчера я спешил.",
+        "collocations": [
+          "gestern"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "26ef5623-fddd-4925-a466-9a39e621bf4f",
+        "deExample": "Ich möchte mich jetzt beeilen.",
+        "translateExample": "Я хочу сейчас поторопиться.",
+        "collocations": [
+          "jetzt"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "47e2f176-5545-4c39-827c-28660b909212",
+        "deExample": "Ich beeile mich, weil ich spät bin.",
+        "translateExample": "Я спешу, потому что опаздываю.",
+        "collocations": [
+          "spät"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "23a291ab-41e6-41eb-84f4-c167677e1e9b",
+        "deExample": "Ich werde mich beeilen, wenn es nötig ist.",
+        "translateExample": "Я потороплюсь, если это будет нужно.",
+        "collocations": [
+          "nötig"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f0d654f4-ed9a-49b4-81b4-fbf8c0496ed7",
+        "deExample": "Es wird sich oft beeilt.",
+        "translateExample": "Часто спешат.",
+        "collocations": [
+          "oft"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4f175911-fca8-462f-a940-bad57a81acc9",
+        "deExample": "Es ist wichtig, sich morgens zu beeilen.",
+        "translateExample": "Важно спешить по утрам.",
+        "collocations": [
+          "Morgen",
+          "wichtig"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1edd9eb0-5072-46b1-8673-74922df80c3b",
+        "deExample": "Willst du lernen, dich richtig zu beeilen?",
+        "translateExample": "Ты хочешь научиться правильно спешить?",
+        "collocations": [
+          "lernen",
+          "richtig"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e891a576-5759-408f-a097-ae985d0a6487",
+        "deExample": "Ich stehe früh auf, um mich nicht beeilen zu müssen.",
+        "translateExample": "Я встаю рано, чтобы не спешить.",
+        "collocations": [
+          "früh"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }

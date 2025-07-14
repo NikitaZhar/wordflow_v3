@@ -1,0 +1,205 @@
+[
+  {
+    "id": "f17336b0-13f9-4f46-a426-63967d545f23",
+    "deWord": "der Auftrag",
+    "translateWord": "заказ, поручение (на что-либо, für Akk / über Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "8de7c11f-7d4f-4ff5-a97f-aadc82fa2917",
+        "deExample": "Der Auftrag ist wichtig.",
+        "translateExample": "Заказ важен.",
+        "collocations": [
+          "wichtig"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5d633c3e-4303-4cf5-94ed-f6416dd12d9f",
+        "deExample": "Hast du den Auftrag bekommen?",
+        "translateExample": "Ты получил заказ?",
+        "collocations": [
+          "bekommen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4cbbef3c-0427-4e10-99d8-e123fec58ebf",
+        "deExample": "Der Auftrag ist nicht groß.",
+        "translateExample": "Заказ небольшой.",
+        "collocations": [
+          "groß"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "84150eaa-b109-41b7-a0d9-998bd8442946",
+        "deExample": "Ich habe den Auftrag gestern erhalten.",
+        "translateExample": "Я получил заказ вчера.",
+        "collocations": [
+          "gestern"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "30becc67-c4db-4598-873a-8425f75393b5",
+        "deExample": "Du sollst den Auftrag prüfen.",
+        "translateExample": "Тебе следует проверить заказ.",
+        "collocations": [
+          "Prüfung"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0cfde183-65e7-440b-a999-5d2c420d2131",
+        "deExample": "Ich arbeite, weil ich den Auftrag fertigstellen muss.",
+        "translateExample": "Я работаю, потому что должен завершить заказ.",
+        "collocations": [
+          "Arbeit"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2ef9550c-a965-441b-975b-1001baaab1df",
+        "deExample": "Ich werde den Auftrag erfüllen, wenn ich Zeit habe.",
+        "translateExample": "Я выполню заказ, когда у меня будет время.",
+        "collocations": [
+          "Zeit"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "44c94970-c8fb-4fe5-9314-640738c69bc3",
+        "deExample": "Der Auftrag wird ausgeführt.",
+        "translateExample": "Заказ выполняется.",
+        "collocations": [
+          "Ausführung"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "26ea98a0-5078-4ad6-af20-36b411e7d843",
+        "deExample": "Ich plane, den Auftrag anzunehmen.",
+        "translateExample": "Я планирую принять заказ.",
+        "collocations": [
+          "Plan"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f759c64e-584d-40ea-9b24-cbc3bb91d948",
+        "deExample": "Willst du den Auftrag übernehmen?",
+        "translateExample": "Ты хочешь взять заказ?",
+        "collocations": [
+          "Übernahme"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "63be9431-6701-4185-a2b6-bc09f1093a03",
+        "deExample": "Ich arbeite hart, um den Auftrag abzuschließen.",
+        "translateExample": "Я усердно работаю, чтобы завершить заказ.",
+        "collocations": [
+          "Arbeit"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,216 @@
+[
+  {
+    "id": "cb5ace2d-d61c-4ddc-968b-551b41747f91",
+    "deWord": "außerdem",
+    "translateWord": "кроме того",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "85aaf2fa-075f-4269-a309-24161aff1359",
+        "deExample": "Ich bin heute außerdem sehr müde.",
+        "translateExample": "Сегодня я, кроме того, очень устал.",
+        "collocations": [
+          "Wörterbuch",
+          "Kaffee"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3d3f5221-e58b-4174-b1d3-f87a188f1d3e",
+        "deExample": "Benutzt du außerdem ein Wörterbuch?",
+        "translateExample": "Ты, кроме того, используешь словарь?",
+        "collocations": [
+          "Wörterbuch",
+          "Frage"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2388559a-46c5-4855-9e7e-6394fc7516f2",
+        "deExample": "Er hat außerdem keinen Hunger.",
+        "translateExample": "Он, кроме того, не голоден.",
+        "collocations": [
+          "Hunger",
+          "Kaffee"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e31d4d00-865d-4bd1-bf21-05dfd4c13dab",
+        "deExample": "Ich habe außerdem einen Kaffee getrunken.",
+        "translateExample": "Я, кроме того, выпил кофе.",
+        "collocations": [
+          "Kaffee",
+          "Wasser"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fcd8d5e6-2b1b-47f1-a0c9-d0c395680cb5",
+        "deExample": "Wir können außerdem ins Kino gehen.",
+        "translateExample": "Мы, кроме того, можем пойти в кино.",
+        "collocations": [
+          "Kino",
+          "Freund"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "51958aed-88bf-410f-a367-adafcccb49ca",
+        "deExample": "Ich bleibe zu Hause, weil ich außerdem arbeiten muss.",
+        "translateExample": "Я остаюсь дома, потому что мне, кроме того, нужно работать.",
+        "collocations": [
+          "Arbeit",
+          "Haus"
+        ],
+        "grammarTags": [
+          "weil"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c4a187ca-2569-4a5a-92a9-c5ba47b60879",
+        "deExample": "Ich werde außerdem spazieren gehen, wenn es nicht regnet.",
+        "translateExample": "Я также пойду гулять, если не будет дождя.",
+        "collocations": [
+          "Spaziergang",
+          "Regen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "782057a6-389f-4906-91cb-6ba8689eb8c3",
+        "deExample": "Der Brief wird außerdem geschrieben.",
+        "translateExample": "Письмо также будет написано.",
+        "collocations": [
+          "Brief",
+          "Post"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b07a233f-1f3b-4e77-8428-76f6ff6207f3",
+        "deExample": "Ich habe vor, außerdem einkaufen zu gehen.",
+        "translateExample": "Я собираюсь, кроме того, сходить за покупками.",
+        "collocations": [
+          "Einkaufen",
+          "Plan"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9d4d340b-c194-4c4c-a88e-0b84f77be5a4",
+        "deExample": "Willst du außerdem etwas zu essen kaufen?",
+        "translateExample": "Ты хочешь, кроме того, купить что-то поесть?",
+        "collocations": [
+          "Essen",
+          "Kaufen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "35d924b5-14e7-4b78-bc6a-c1b6179995a3",
+        "deExample": "Ich lerne Deutsch, um außerdem einen Job zu finden.",
+        "translateExample": "Я учу немецкий, чтобы, кроме того, найти работу.",
+        "collocations": [
+          "Deutsch",
+          "Job"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]
