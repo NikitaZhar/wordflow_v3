@@ -18,7 +18,7 @@ public class Statistics {
         StatBlock wordStats = calculateFlashCardStats(dictionary);
         StatBlock exampleStats = calculateExampleStats(dictionary);
 
-        displayMessage("\n            * * * Current Statistics * * * \n");
+        displayMessage("\n            * * * Words and Examples Status * * * \n");
 
         displayMessage(formatStatLine(" Words : ", wordStats));
         displayMessage(formatStatLine(" Examples : ", exampleStats));
@@ -36,12 +36,15 @@ public class Statistics {
                 .count();
 
         int toReview = (int) cards.stream()
-                .filter(card -> card.getProgress() != null && card.getProgress().isDue())
+                .filter(card -> card.getProgress() != null && card.getProgress().isDue()
+                && !card.hasActiveExample()
+                )
                 .count();
 
         int notReady = (int) cards.stream()
                 .filter(card -> card.getProgress() != null &&
-                        !card.getProgress().isNew() && !card.getProgress().isDue())
+                        !card.getProgress().isNew() && !card.getProgress().isDue()
+                        && !card.hasActiveExample())
                 .count();
 
         return new StatBlock(toLearn, toReview, notReady);
@@ -50,7 +53,7 @@ public class Statistics {
     private StatBlock calculateExampleStats(Dictionary dictionary) {
         List<Example> examples = dictionary.getAllCards().stream()
                 .flatMap(card -> card.getExamples().stream())
-                .filter(Example::getActive)
+                .filter(Example::isActive)
                 .collect(Collectors.toList());
         
         int toLearn = (int) examples.stream()
@@ -72,7 +75,7 @@ public class Statistics {
     private void displayGroupedTagBlocks(Dictionary dictionary) {
         List<Example> activeExamples = dictionary.getAllCards().stream()
                 .flatMap(card -> card.getExamples().stream())
-                .filter(ex -> Boolean.TRUE.equals(ex.getActive()))
+                .filter(ex -> Boolean.TRUE.equals(ex.isActive()))
                 .collect(Collectors.toList());
 
         // Группируем по уникальным комбинациям тегов

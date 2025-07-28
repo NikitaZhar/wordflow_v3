@@ -1,0 +1,1059 @@
+[
+  {
+    "id": "e0ffce20-388c-4181-aac4-870a583a34db",
+    "deWord": "der Beitrag",
+    "translateWord": "вклад, пост (leisten + Akk, veröffentlichen + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "7a06787e-ae90-4131-a495-6db2bf4aa9a8",
+        "deExample": "Der Beitrag ist interessant.",
+        "translateExample": "Пост интересный.",
+        "collocations": [
+          "interessant"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "976e10eb-ff03-48a5-8b7c-92041ce89bad",
+        "deExample": "Schreibst du den Beitrag heute?",
+        "translateExample": "Ты пишешь пост сегодня?",
+        "collocations": [
+          "schreiben",
+          "heute"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f1abda32-421f-459e-b9d1-7f43e4fe6c97",
+        "deExample": "Der Beitrag ist nicht lang.",
+        "translateExample": "Пост не длинный.",
+        "collocations": [
+          "lang"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c74c22ae-88d4-4b3e-a28e-104be33abe89",
+        "deExample": "Ich habe den Beitrag gestern veröffentlicht.",
+        "translateExample": "Я опубликовал пост вчера.",
+        "collocations": [
+          "gestern",
+          "veröffentlichen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5b4dcf6e-c225-4ba7-b26f-efa09d85e740",
+        "deExample": "Man muss den Beitrag regelmäßig aktualisieren.",
+        "translateExample": "Нужно регулярно обновлять пост.",
+        "collocations": [
+          "aktualisieren",
+          "regelmäßig"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "94666f43-65ce-4cc8-b347-567a7f343892",
+        "deExample": "Ich sehe, dass der Beitrag viele Likes hat.",
+        "translateExample": "Я вижу, что у поста много лайков.",
+        "collocations": [
+          "der Like"
+        ],
+        "grammarTags": [
+          "dass"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3aa948a3-7b7d-4302-b892-7fd4f6cfa1dc",
+        "deExample": "Der Beitrag wird gelesen, wenn er online ist.",
+        "translateExample": "Пост читают, когда он опубликован.",
+        "collocations": [
+          "lesen",
+          "online"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "13c3f8d9-5920-4cdc-a946-efc4560d8613",
+        "deExample": "Der Beitrag wurde letzte Woche veröffentlicht.",
+        "translateExample": "Пост был опубликован на прошлой неделе.",
+        "collocations": [
+          "letzte Woche",
+          "veröffentlichen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4c325dbb-a713-4d23-9ef7-b686d7767287",
+        "deExample": "Es ist wichtig, den Beitrag klar zu schreiben.",
+        "translateExample": "Важно писать пост понятно.",
+        "collocations": [
+          "klar",
+          "schreiben"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "46ce6072-760c-4218-9893-5bc77c04e322",
+        "deExample": "Wie kann man lernen, einen guten Beitrag zu schreiben?",
+        "translateExample": "Как научиться писать хороший пост?",
+        "collocations": [
+          "gut",
+          "schreiben"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "87cc6670-52b9-431e-99f2-da52fdee7749",
+        "deExample": "Ich sammle Ideen, um einen Beitrag zu verfassen.",
+        "translateExample": "Я собираю идеи, чтобы написать пост.",
+        "collocations": [
+          "Idee",
+          "verfassen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "8ee10504-341f-4fca-a851-0c758cffa433",
+    "deWord": "die Gewohnheit",
+    "translateWord": "привычка (haben + Akk, ändern + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "52470676-18ef-4197-8123-e79e5c96ada7",
+        "deExample": "Die Gewohnheit ist alt.",
+        "translateExample": "Привычка старая.",
+        "collocations": [
+          "alt"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "341e9985-3c81-4b56-819e-b5a875bc7441",
+        "deExample": "Hast du diese Gewohnheit auch?",
+        "translateExample": "У тебя тоже есть эта привычка?",
+        "collocations": [
+          "auch",
+          "haben"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "01afbf86-3c40-4e28-88a4-eb8b3bd1982f",
+        "deExample": "Die Gewohnheit ist nicht gesund.",
+        "translateExample": "Привычка нездоровая.",
+        "collocations": [
+          "gesund"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "cce642d3-30a0-46b8-8b54-a779fd91d004",
+        "deExample": "Ich habe meine Gewohnheit geändert.",
+        "translateExample": "Я изменил свою привычку.",
+        "collocations": [
+          "ändern"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e52eefc9-6d37-4413-a70a-c710ceddedc4",
+        "deExample": "Man muss schlechte Gewohnheiten vermeiden.",
+        "translateExample": "Нужно избегать плохих привычек.",
+        "collocations": [
+          "schlecht",
+          "vermeiden"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9ece83a7-1228-4d53-b7b4-ce58d8a54bef",
+        "deExample": "Ich weiß, dass die Gewohnheit schwer zu ändern ist.",
+        "translateExample": "Я знаю, что привычку сложно изменить.",
+        "collocations": [
+          "schwer",
+          "ändern"
+        ],
+        "grammarTags": [
+          "dass"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5ad4969d-ec4b-46ac-916c-ddb4aa592bb2",
+        "deExample": "Die Gewohnheit wird besser, wenn man täglich übt.",
+        "translateExample": "Привычка станет лучше, если тренироваться каждый день.",
+        "collocations": [
+          "besser",
+          "üben",
+          "täglich"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7f6d83c7-c401-4956-987c-8972b7403c52",
+        "deExample": "Die Gewohnheit wurde durch Training verbessert.",
+        "translateExample": "Привычка была улучшена с помощью тренировки.",
+        "collocations": [
+          "Training",
+          "verbessern"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "951fca82-0778-4639-b79e-f71a661f643c",
+        "deExample": "Es ist wichtig, eine gute Gewohnheit zu entwickeln.",
+        "translateExample": "Важно развить хорошую привычку.",
+        "collocations": [
+          "gut",
+          "entwickeln"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "42dcbb5c-26cc-41d2-bef9-49285966f44f",
+        "deExample": "Wie kann man lernen, eine schlechte Gewohnheit zu ändern?",
+        "translateExample": "Как научиться менять плохую привычку?",
+        "collocations": [
+          "schlecht",
+          "ändern"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "bea5baaf-b6a5-42bc-bd81-e0cecca7ff2b",
+        "deExample": "Ich übe täglich, um eine neue Gewohnheit zu schaffen.",
+        "translateExample": "Я тренируюсь каждый день, чтобы создать новую привычку.",
+        "collocations": [
+          "üben",
+          "neu",
+          "schaffen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "26b8380a-110a-42c7-8eb4-b0fca731574b",
+    "deWord": "veröffentlichen - veröffentlichte - veröffentlicht",
+    "translateWord": "публиковать (Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "c9db237e-a34e-4742-85ea-79475973f74f",
+        "deExample": "Ich veröffentliche den Artikel online.",
+        "translateExample": "Я публикую статью в интернете.",
+        "collocations": [
+          "der Artikel",
+          "online"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "304bb083-03e0-47e1-9bd1-bb4df12fa68a",
+        "deExample": "Veröffentlichst du den Beitrag heute?",
+        "translateExample": "Ты публикуешь пост сегодня?",
+        "collocations": [
+          "der Beitrag",
+          "heute"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0672dc74-a406-40ea-9319-2d6757922a9a",
+        "deExample": "Ich veröffentliche den Text nicht sofort.",
+        "translateExample": "Я не публикую текст сразу.",
+        "collocations": [
+          "der Text",
+          "sofort"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "285ee8f9-4190-4608-985f-7f1a9dbde408",
+        "deExample": "Sie hat das Buch veröffentlicht.",
+        "translateExample": "Она опубликовала книгу.",
+        "collocations": [
+          "das Buch"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0b27b639-b4e1-4984-bbd7-1deb47077e37",
+        "deExample": "Man muss den Bericht zuerst prüfen, bevor man ihn veröffentlicht.",
+        "translateExample": "Нужно сначала проверить отчёт, прежде чем публиковать.",
+        "collocations": [
+          "der Bericht",
+          "prüfen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "24b55d80-342a-4644-8a14-8348a5f67872",
+        "deExample": "Ich denke, dass der Verlag das Buch veröffentlicht.",
+        "translateExample": "Я думаю, что издательство публикует книгу.",
+        "collocations": [
+          "der Verlag",
+          "das Buch"
+        ],
+        "grammarTags": [
+          "dass"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4d98bb7b-2e5b-433a-b02a-7aa75395914b",
+        "deExample": "Der Artikel wird veröffentlicht, wenn der Redakteur zustimmt.",
+        "translateExample": "Статья будет опубликована, если редактор согласится.",
+        "collocations": [
+          "der Artikel",
+          "der Redakteur",
+          "zustimmen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d26b237c-d4d0-4442-83a2-e8ca0d6273f9",
+        "deExample": "Der Artikel wurde gestern veröffentlicht.",
+        "translateExample": "Статья была опубликована вчера.",
+        "collocations": [
+          "gestern",
+          "der Artikel"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0053da53-e248-4de6-a97a-b28a54c666ab",
+        "deExample": "Es ist wichtig, den Text fehlerfrei zu veröffentlichen.",
+        "translateExample": "Важно публиковать текст без ошибок.",
+        "collocations": [
+          "fehlerfrei",
+          "der Text"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "df976ce9-d7c1-488e-a38d-b3cba2dd7e29",
+        "deExample": "Wie kann man lernen, regelmäßig zu veröffentlichen?",
+        "translateExample": "Как научиться публиковать регулярно?",
+        "collocations": [
+          "regelmäßig"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "dd3355b8-b6b0-4324-aad5-f49f60c2f5a8",
+        "deExample": "Ich schreibe täglich, um neue Texte zu veröffentlichen.",
+        "translateExample": "Я пишу каждый день, чтобы публиковать новые тексты.",
+        "collocations": [
+          "schreiben",
+          "neu",
+          "der Text"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "3b4e838c-a1f2-4a16-9993-51a711ec0798",
+    "deWord": "zählen - zählte - gezählt",
+    "translateWord": "считать (Akk), иметь значение (für + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "9e2e1389-9b0a-4755-b7f4-2bf635aba41c",
+        "deExample": "Ich zähle die Bücher.",
+        "translateExample": "Я считаю книги.",
+        "collocations": [
+          "das Buch"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "887c029b-37eb-4c4c-8355-0914299e2222",
+        "deExample": "Zählst du die Münzen?",
+        "translateExample": "Ты считаешь монеты?",
+        "collocations": [
+          "die Münze"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "908c2b61-b0f6-4b33-b679-6bfba4c2d87e",
+        "deExample": "Ich zähle die Fehler nicht.",
+        "translateExample": "Я не считаю ошибки.",
+        "collocations": [
+          "der Fehler"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "bdae295d-4e92-41b2-ba9c-adbd8ec4db59",
+        "deExample": "Ich habe die Punkte gezählt.",
+        "translateExample": "Я посчитал очки.",
+        "collocations": [
+          "die Punkte"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f530edb4-d26e-4a80-a49a-21a386d12b70",
+        "deExample": "Man muss das Geld genau zählen.",
+        "translateExample": "Нужно точно считать деньги.",
+        "collocations": [
+          "das Geld",
+          "genau"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b3a0e241-a954-4a52-bafb-17f2f9c723e4",
+        "deExample": "Ich weiß, dass Ehrlichkeit mehr zählt als Geld.",
+        "translateExample": "Я знаю, что честность важнее денег.",
+        "collocations": [
+          "Ehrlichkeit",
+          "das Geld"
+        ],
+        "grammarTags": [
+          "dass"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3aece424-1de0-4999-bcc2-9db99d203c47",
+        "deExample": "Die Stimmen werden gezählt, wenn die Wahl endet.",
+        "translateExample": "Голоса будут посчитаны, когда выборы закончатся.",
+        "collocations": [
+          "die Stimme",
+          "die Wahl",
+          "enden"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e4aaf43b-9e9d-4005-96da-596ecf50ccec",
+        "deExample": "Die Stimmen wurden gestern gezählt.",
+        "translateExample": "Голоса были посчитаны вчера.",
+        "collocations": [
+          "die Stimme",
+          "gestern"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4476d883-2c18-4215-b137-4263b4167534",
+        "deExample": "Es ist wichtig, die Ergebnisse richtig zu zählen.",
+        "translateExample": "Важно правильно считать результаты.",
+        "collocations": [
+          "das Ergebnis",
+          "richtig"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6ea49570-a5c4-44a7-8bfd-43fbcf106704",
+        "deExample": "Wie kann man lernen, schnell zu zählen?",
+        "translateExample": "Как научиться быстро считать?",
+        "collocations": [
+          "schnell"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a362ee5e-5351-4844-b8f6-1adb34256acb",
+        "deExample": "Ich übe jeden Tag, um besser zu zählen.",
+        "translateExample": "Я тренируюсь каждый день, чтобы лучше считать.",
+        "collocations": [
+          "üben",
+          "besser"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "393210ad-23d5-4253-88e5-3dab33fab17b",
+    "deWord": "die Stufe",
+    "translateWord": "ступень (steigen auf + Akk, wechseln + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "f04fa32a-2f7f-4ad2-b01f-f62b48dcdaef",
+        "deExample": "Die Stufe ist hoch.",
+        "translateExample": "Ступень высокая.",
+        "collocations": [
+          "hoch"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7ee7b6f9-4d6a-4730-b1c8-963b81509f0a",
+        "deExample": "Steigst du auf die Stufe?",
+        "translateExample": "Ты встаёшь на ступень?",
+        "collocations": [
+          "steigen",
+          "auf"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9eb768ba-2717-476c-a502-0e24fc44974d",
+        "deExample": "Die Stufe ist nicht stabil.",
+        "translateExample": "Ступень неустойчивая.",
+        "collocations": [
+          "stabil"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f5d7d85d-9718-4ec3-b847-a34eafb9fec9",
+        "deExample": "Ich bin auf die Stufe gestiegen.",
+        "translateExample": "Я встал на ступень.",
+        "collocations": [
+          "steigen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0cc9e879-56b4-4e46-bb23-1d5dcaddebad",
+        "deExample": "Man muss vorsichtig auf die Stufe treten.",
+        "translateExample": "Нужно осторожно наступать на ступень.",
+        "collocations": [
+          "vorsichtig",
+          "treten"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2a9ccb38-8f6c-4635-86e0-ba4a51232311",
+        "deExample": "Ich sehe, dass die Stufe nass ist.",
+        "translateExample": "Я вижу, что ступень мокрая.",
+        "collocations": [
+          "nass"
+        ],
+        "grammarTags": [
+          "dass"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c111ff3b-b75d-4797-9b06-cea5de18bf3a",
+        "deExample": "Die Stufe wird repariert, wenn sie kaputt ist.",
+        "translateExample": "Ступень отремонтируют, если она сломана.",
+        "collocations": [
+          "reparieren",
+          "kaputt"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8c2e65c9-aaa6-4f1a-ab98-f6e7ccee0ce3",
+        "deExample": "Die Stufe wurde neu gebaut.",
+        "translateExample": "Ступень была построена заново.",
+        "collocations": [
+          "neu",
+          "bauen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "49330c96-da54-4c2f-ba4d-e5f436059317",
+        "deExample": "Es ist wichtig, jede Stufe langsam zu nehmen.",
+        "translateExample": "Важно проходить каждую ступень медленно.",
+        "collocations": [
+          "langsam"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1d533d9e-a338-47a8-a918-23de0fcfbc5a",
+        "deExample": "Wie kann man lernen, sicher auf die Stufe zu steigen?",
+        "translateExample": "Как научиться безопасно вставать на ступень?",
+        "collocations": [
+          "sicher",
+          "steigen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "bbf1c2f9-09f4-4e22-a84d-8aafe564976f",
+        "deExample": "Ich trainiere, um die Stufen leichter zu steigen.",
+        "translateExample": "Я тренируюсь, чтобы легче подниматься по ступеням.",
+        "collocations": [
+          "trainieren",
+          "leicht"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

@@ -1,5 +1,10 @@
 package com.wordflow.ui;
 
+import static com.wordflow.ui.InteractionHandler.BRIGHT_BLACK;
+import static com.wordflow.ui.InteractionHandler.GREEN;
+import static com.wordflow.ui.InteractionHandler.RESET;
+import static com.wordflow.ui.InteractionHandler.WHITE;
+
 import java.io.IOException;
 import java.util.Scanner;
 
@@ -11,6 +16,12 @@ public class InteractionHandler {
     public static final String CYAN = "\u001B[36m";
     public static final String WHITE = "\u001B[37m";
     public static final String BRIGHT_BLACK = "\u001B[90m";
+    
+    public static final String FULL_CARD_TEMPLATE =
+			GREEN + " RU : " + RESET + "%s \n" +
+			WHITE + " DE : " + RESET + "%s \n" +  
+			BRIGHT_BLACK + "	Press Enter to continue" +
+			RESET;
     
 	private static final Scanner scanner = new Scanner(System.in);
 	
@@ -36,6 +47,12 @@ public class InteractionHandler {
 	        System.out.print("\n" + RED + " ✘ " + RESET + " Input cannot be empty! \n\n" + prompt + " ");
 	        input = scanner.nextLine().trim();
 	    }
+	    return input;
+	}
+	
+	public static String getAnyStringInput(String prompt) {
+		System.out.print(prompt + " ");
+	    String input = scanner.nextLine().trim();
 	    return input;
 	}
 

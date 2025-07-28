@@ -1,0 +1,465 @@
+[
+  {
+    "id": "33838de9-5897-4843-817a-a98a936ea17d",
+    "deWord": "legen - legte - gelegt",
+    "translateWord": "класть, положить (куда-то, wohin?)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "f1a79d95-ce92-4164-80b9-bd7e626e32ef",
+        "deExample": "Ich lege das Buch auf den Tisch.",
+        "translateExample": "Я кладу книгу на стол.",
+        "collocations": [
+          "das Buch",
+          "der Tisch"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "503364ad-0dd0-4f11-a2dc-90d991036e4b",
+        "deExample": "Legst du den Stift neben das Heft?",
+        "translateExample": "Ты кладёшь ручку рядом с тетрадью?",
+        "collocations": [
+          "der Stift",
+          "das Heft"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "970d615e-5633-49d9-adb9-0bc60149dac4",
+        "deExample": "Ich lege das Handy nicht auf den Boden.",
+        "translateExample": "Я не кладу телефон на пол.",
+        "collocations": [
+          "das Handy",
+          "der Boden"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "58ef4aa3-64f9-4a52-be5b-5a34761e63f7",
+        "deExample": "Ich habe die Schlüssel auf den Tisch gelegt.",
+        "translateExample": "Я положил ключи на стол.",
+        "collocations": [
+          "die Schlüssel",
+          "der Tisch"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "64f05b02-2712-4f5b-8b56-8e17405fa997",
+        "deExample": "Man muss das Messer richtig legen.",
+        "translateExample": "Нужно правильно положить нож.",
+        "collocations": [
+          "das Messer",
+          "richtig"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4e61b012-e854-4ee7-a88e-92e4a2544a4d",
+        "deExample": "Ich weiß, dass du das Buch auf den Tisch legst.",
+        "translateExample": "Я знаю, что ты кладёшь книгу на стол.",
+        "collocations": [
+          "das Buch",
+          "der Tisch"
+        ],
+        "grammarTags": [
+          "dass"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "95a99aac-196c-44d6-b748-bca41d7a8ede",
+        "deExample": "Ich werde das Dokument auf den Schreibtisch legen, wenn ich es finde.",
+        "translateExample": "Я положу документ на письменный стол, когда его найду.",
+        "collocations": [
+          "das Dokument",
+          "der Schreibtisch",
+          "finden"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f41c53f8-921a-4e45-9733-40852092e975",
+        "deExample": "Das Paket wird auf den Boden gelegt.",
+        "translateExample": "Пакет кладут на пол.",
+        "collocations": [
+          "das Paket",
+          "der Boden"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "628871b1-21dc-418c-b54a-3ecc0e31e930",
+        "deExample": "Es ist wichtig, das Geld sicher zu legen.",
+        "translateExample": "Важно положить деньги в надёжное место.",
+        "collocations": [
+          "das Geld",
+          "sicher"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c3ed285d-e72b-4d3c-90cc-b7dbe7fb3d33",
+        "deExample": "Wie kann man lernen, den Teppich richtig zu legen?",
+        "translateExample": "Как научиться правильно класть ковёр?",
+        "collocations": [
+          "der Teppich",
+          "richtig"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "93c87c01-b9de-4923-ab0d-9eee2677da81",
+        "deExample": "Ich helfe dir, um die Kleidung ordentlich zu legen.",
+        "translateExample": "Я помогу тебе, чтобы аккуратно разложить одежду.",
+        "collocations": [
+          "die Kleidung",
+          "ordentlich"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "6d476ce1-8b61-4cb0-a4ef-88f0a6afcc8f",
+    "deWord": "liegen - lag - gelegen",
+    "translateWord": "лежать (где-то, wo?)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "d815a262-5a7f-40f9-b211-123f33cef105",
+        "deExample": "Das Buch liegt auf dem Tisch.",
+        "translateExample": "Книга лежит на столе.",
+        "collocations": [
+          "das Buch",
+          "der Tisch"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c2be65a6-7723-4904-b229-2218eed1075d",
+        "deExample": "Liegt der Schlüssel auf dem Boden?",
+        "translateExample": "Ключ лежит на полу?",
+        "collocations": [
+          "der Schlüssel",
+          "der Boden"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a3234ef2-da28-4e36-9d1e-7b3d568f5c63",
+        "deExample": "Das Handy liegt nicht auf dem Tisch.",
+        "translateExample": "Телефон не лежит на столе.",
+        "collocations": [
+          "das Handy",
+          "der Tisch"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2b5f0887-b442-42b4-afff-1d629277baa2",
+        "deExample": "Die Zeitung hat gestern auf dem Sofa gelegen.",
+        "translateExample": "Газета вчера лежала на диване.",
+        "collocations": [
+          "die Zeitung",
+          "das Sofa",
+          "gestern"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5a1dfea8-dc4e-4012-81cb-6b7ab20d239c",
+        "deExample": "Man kann das Buch auf dem Tisch liegen lassen.",
+        "translateExample": "Можно оставить книгу лежать на столе.",
+        "collocations": [
+          "das Buch",
+          "der Tisch"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2501fbda-1a9f-4ca8-9a3c-137e6e3db2b5",
+        "deExample": "Ich sehe, dass der Hund auf dem Teppich liegt.",
+        "translateExample": "Я вижу, что собака лежит на ковре.",
+        "collocations": [
+          "der Hund",
+          "der Teppich"
+        ],
+        "grammarTags": [
+          "dass"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ca86c83d-3f28-4b0e-a657-8f2e2ae5d11a",
+        "deExample": "Das Buch wird auf dem Tisch liegen, wenn du zurückkommst.",
+        "translateExample": "Книга будет лежать на столе, когда ты вернёшься.",
+        "collocations": [
+          "das Buch",
+          "der Tisch",
+          "zurückkommen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0388853d-760a-4e73-90cf-589c7ad2bd7e",
+        "deExample": "Das Geld ist auf dem Boden liegen gelassen worden.",
+        "translateExample": "Деньги были оставлены лежать на полу.",
+        "collocations": [
+          "das Geld",
+          "der Boden"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "18b06365-cf39-406a-8c50-0f699151bc36",
+        "deExample": "Es ist wichtig, das Buch richtig liegen zu lassen.",
+        "translateExample": "Важно правильно оставить книгу лежать.",
+        "collocations": [
+          "das Buch",
+          "richtig"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6ea6b37f-c679-49ba-94bf-363ca1318120",
+        "deExample": "Wie kann man lernen, den Teppich glatt liegen zu lassen?",
+        "translateExample": "Как научиться оставлять ковёр ровно лежать?",
+        "collocations": [
+          "der Teppich",
+          "glatt"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a3dc4b67-c49a-428c-8563-2c9af4694060",
+        "deExample": "Ich helfe dir, um das Handtuch ordentlich liegen zu lassen.",
+        "translateExample": "Я помогу тебе, чтобы полотенце лежало аккуратно.",
+        "collocations": [
+          "das Handtuch",
+          "ordentlich"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "df1e3810-db95-4da1-9db7-dc66bbb45d19",
+    "deWord": "stellen - stellte - gestellt",
+    "translateWord": "ставить (куда-то, wohin?)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "919343a7-096c-4827-83a1-09127e022a7e",
+        "deExample": "Ich stelle die Tasse auf den Tisch.",
+        "translateExample": "Я ставлю чашку на стол.",
+        "collocations": [
+          "die Tasse",
+          "der Tisch"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

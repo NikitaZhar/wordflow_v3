@@ -4,9 +4,6 @@ import com.wordflow.model.FlashCard;
 import com.wordflow.model.Dictionary;
 import com.wordflow.repository.DictionaryRepository;
 import com.wordflow.ui.InteractionHandler;
-import com.wordflow.ui.menu.EditorMenuController;
-import com.wordflow.ui.menu.EditorMenuDisplay;
-
 import java.util.List;
 
 public class Editor {
@@ -18,7 +15,7 @@ public class Editor {
 		this.flashCards = new Dictionary(repository).getCards();
 	}
 
-	public void runEditor() {
+	public void showDictionary() {
 	    while (continueEdit) {
 	        InteractionHandler.clearScreen();
 	        displayHeader();

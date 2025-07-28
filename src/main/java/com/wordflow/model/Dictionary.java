@@ -7,6 +7,7 @@ import static com.wordflow.ui.InteractionHandler.RED;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Locale;
 import java.util.Optional;
 import java.util.UUID;
 import java.util.function.Predicate;
@@ -104,7 +105,7 @@ public class Dictionary {
 	            }
 	        }
 	        newCard.setId(UUID.randomUUID().toString());
-	        newCard.setProgress(new Progress(30));
+	        newCard.setProgress(new Progress(0));
 	        cardsToAdd.add(newCard);
 	    }
 
@@ -117,65 +118,53 @@ public class Dictionary {
 	    }
 	}
 
-	
-//	public void addNewWordsToDictionary() {
-//		List<FlashCard> newCards = repository.readNewWords();
-//		List<FlashCard> uniqueCards = newCards.stream()
-//				.filter(card -> !isDuplicate(card))
-//				.collect(Collectors.toList());
-//		
-//		uniqueCards.forEach(card -> {
-//			card.setId(UUID.randomUUID().toString());
-//			card.setProgress(new Progress(30));
-//		});
-//		if (!uniqueCards.isEmpty()) {
-//			flashCards.addAll(uniqueCards);
-//			uploadCards();
-//			InteractionHandler.waitForEnter("\n Successfully imported " + uniqueCards.size() + " new cards. Press Enter to continue ... ");
-//		} else {
-//			InteractionHandler.waitForEnter("\n No new unique cards found to import. Press Enter to continue ... ");
-//		}
+//	public void editWordInDictionary() {
+//	    Optional<FlashCard> updatedCardOpt = repository.manageEditWord();
+//
+//	    if (updatedCardOpt.isPresent()) {
+//	        FlashCard updatedCard = updatedCardOpt.get();
+//	        String cardId = updatedCard.getId();
+//
+//	        Optional<FlashCard> existingCardOpt = flashCards.stream()
+//	                .filter(card -> card.getId().equals(cardId))
+//	                .findFirst();
+//
+//	        if (existingCardOpt.isPresent()) {
+//	            FlashCard existingCard = existingCardOpt.get();
+//	            existingCard.setDeWord(updatedCard.getDeWord());
+//	            existingCard.setTranslateWord(updatedCard.getTranslateWord());
+//	            existingCard.setExamples(updatedCard.getExamples());
+//	            uploadCards();
+//	            InteractionHandler.waitForEnter(
+//	                "\n Successfully updated the card with ID: " + cardId + ". Press Enter to continue ..."
+//	            );
+//	        } else {
+//	            InteractionHandler.waitForEnter(
+//	                "\n No card found with ID: " + cardId + ". Press Enter to continue ..."
+//	            );
+//	        }
+//	    } else {
+//	        InteractionHandler.waitForEnter(
+//	            "\n Edit cancelled or no file provided. Press Enter to continue ..."
+//	        );
+//	    }
 //	}
-
-	public void editWordInDictionary() {
-	    Optional<FlashCard> updatedCardOpt = repository.manageEditWord();
-
-	    if (updatedCardOpt.isPresent()) {
-	        FlashCard updatedCard = updatedCardOpt.get();
-	        String cardId = updatedCard.getId();
-
-	        Optional<FlashCard> existingCardOpt = flashCards.stream()
-	                .filter(card -> card.getId().equals(cardId))
-	                .findFirst();
-
-	        if (existingCardOpt.isPresent()) {
-	            FlashCard existingCard = existingCardOpt.get();
-	            existingCard.setDeWord(updatedCard.getDeWord());
-	            existingCard.setTranslateWord(updatedCard.getTranslateWord());
-	            existingCard.setExamples(updatedCard.getExamples());
-	            uploadCards();
-	            InteractionHandler.waitForEnter(
-	                "\n Successfully updated the card with ID: " + cardId + ". Press Enter to continue ..."
-	            );
-	        } else {
-	            InteractionHandler.waitForEnter(
-	                "\n No card found with ID: " + cardId + ". Press Enter to continue ..."
-	            );
-	        }
-	    } else {
-	        InteractionHandler.waitForEnter(
-	            "\n Edit cancelled or no file provided. Press Enter to continue ..."
-	        );
-	    }
-	}
-
-
 	
 	public FlashCard findFlashCardById(String id) {
 	    return flashCards.stream()
 	            .filter(card -> card.getId().equals(id))
 	            .findFirst()
 	            .orElse(null);
+	}
+	
+	public List<FlashCard> findFlashCardByWord(String word) {
+		if (word == null) return List.of();
+		return flashCards.stream()
+	            .filter(card -> {
+	                String deWord = card.getDeWord();
+	                return deWord != null && deWord.toLowerCase(Locale.ROOT).contains(word);
+	            })
+	            .toList();
 	}
 
 	public void checkDictionary() {

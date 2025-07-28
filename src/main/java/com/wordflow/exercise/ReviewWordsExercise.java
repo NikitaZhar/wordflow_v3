@@ -7,26 +7,37 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
+import java.util.stream.Collectors;
+
 import com.wordflow.model.Dictionary;
 import com.wordflow.model.FlashCard;
 
 public class ReviewWordsExercise extends BaseExercise {
 	private final List<FlashCard> cards;
+	private Dictionary dictionary;
 	private int limit;
 
 	public ReviewWordsExercise(Dictionary dictionary) {
 		this.limit = getLimit();
-
-		this.cards = new ArrayList<>(
-				dictionary.findDueCards().stream()
-				.sorted(Comparator.comparingInt(card -> card.getProgress().getMinsToRepeat()))
-				.limit(limit)
-				.toList()
-				);
+		this.dictionary = dictionary;
+		this.cards = getLessonContent();
 	}
 	
 	public List<FlashCard> getLessonContent() {
-    	return cards;
+		List<FlashCard> allCards = dictionary.getAllCards();
+		
+//		Выбрать карточки:
+//		- для которых нет активных примеров
+//		- достдупные для повторения
+//		- отсортированные по времени повторения
+//		- ограниченные по количеству
+		
+		return allCards.stream()
+				.filter(card -> !card.hasActiveExample())
+				.filter(card -> card.getProgress().isDue())
+				.sorted(Comparator.comparingInt(card -> card.getProgress().getMinsToRepeat()))
+				.limit(limit)
+				.collect(Collectors.toCollection(ArrayList::new));
     }
 
 	@Override
@@ -42,10 +53,14 @@ public class ReviewWordsExercise extends BaseExercise {
 		int hour = LocalTime.now().getHour();
 		return switch (hour) {
 		case 8 -> 3;
-		case 9, 10, 12, 14 -> 5;
-		case 11, 13, 15, 16 -> 8;
-		case 17, 18 -> 5;
-		case 19, 20 -> 5;
+		case 9, 10, 12, 14 -> 10;
+//		5;
+		case 11, 13, 15, 16 -> 10;
+//		8;
+		case 17, 18 -> 10;
+//		5;
+		case 19, 20 -> 10;
+//		5;
 		default -> 0; 
 		};
 	}

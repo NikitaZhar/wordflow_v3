@@ -1,0 +1,1058 @@
+[
+  {
+    "id": "289f7cbd-68f1-4658-94f5-c8bfd8ee9317",
+    "deWord": "die Wand",
+    "translateWord": "стена (an + Akk/Dativ)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "c0c007bf-9196-4e4f-9b01-86117a327688",
+        "deExample": "Die Wand ist weiß.",
+        "translateExample": "Стена белая.",
+        "collocations": [
+          "weiß"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "eb1ea9ed-7adb-4813-bd35-9361ea474f1b",
+        "deExample": "Hängt das Bild an der Wand?",
+        "translateExample": "Картина висит на стене?",
+        "collocations": [
+          "das Bild"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "11f61863-3a29-4625-9a59-4bd7d52926f3",
+        "deExample": "Die Wand ist nicht grau.",
+        "translateExample": "Стена не серая.",
+        "collocations": [
+          "grau"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "589b848d-00bc-4c9a-ac40-6df01463c862",
+        "deExample": "Ich habe die Wand gestrichen.",
+        "translateExample": "Я покрасил стену.",
+        "collocations": [
+          "streichen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5461f1e9-e6c7-42cf-b223-e8baff3c5da6",
+        "deExample": "Man kann das Poster an die Wand hängen.",
+        "translateExample": "Можно повесить постер на стену.",
+        "collocations": [
+          "das Poster",
+          "hängen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ce96c3fa-a636-4d53-8a06-7186cbae1358",
+        "deExample": "Ich sehe, dass die Wand sauber ist.",
+        "translateExample": "Я вижу, что стена чистая.",
+        "collocations": [
+          "sauber"
+        ],
+        "grammarTags": [
+          "dass"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "bf421576-66ba-4976-9e43-f60c46482d1b",
+        "deExample": "Die Wand wird neu gestrichen, wenn es nötig ist.",
+        "translateExample": "Стена будет покрашена заново, если это нужно.",
+        "collocations": [
+          "neu",
+          "nötig"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d00438e6-eac4-423e-9453-0fae117e2df9",
+        "deExample": "Die Wand wurde gestern gestrichen.",
+        "translateExample": "Стена была покрашена вчера.",
+        "collocations": [
+          "gestern",
+          "streichen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "da5ff1ac-a60e-4c5e-9b92-9131130b0798",
+        "deExample": "Es ist wichtig, die Wand regelmäßig zu reinigen.",
+        "translateExample": "Важно регулярно чистить стену.",
+        "collocations": [
+          "regelmäßig",
+          "reinigen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "95ca48fb-174c-4b95-955c-d5b4963eafa1",
+        "deExample": "Wie kann man lernen, die Wand richtig zu tapezieren?",
+        "translateExample": "Как научиться правильно оклеивать стену обоями?",
+        "collocations": [
+          "tapezieren",
+          "richtig"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3b068003-ceb6-4f31-9362-c6aa2709dd38",
+        "deExample": "Ich kaufe Farbe, um die Wand zu streichen.",
+        "translateExample": "Я покупаю краску, чтобы покрасить стену.",
+        "collocations": [
+          "kaufen",
+          "Farbe",
+          "streichen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "3cb6731a-a982-49ff-8273-daaccb3d85b7",
+    "deWord": "werfen - warf - geworfen",
+    "translateWord": "бросать (in + Akk, nach + Dat)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "c0e2f31a-718c-49db-ab40-11054087d865",
+        "deExample": "Er wirft den Ball hoch.",
+        "translateExample": "Он бросает мяч высоко.",
+        "collocations": [
+          "der Ball",
+          "hoch"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "89900aef-0866-4829-9bc4-7d5f9bd8ff3a",
+        "deExample": "Wirfst du den Müll in den Eimer?",
+        "translateExample": "Ты бросаешь мусор в ведро?",
+        "collocations": [
+          "der Müll",
+          "der Eimer"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8a8b1d32-d302-4bc3-b076-05d888698b2c",
+        "deExample": "Ich werfe das Papier nicht weg.",
+        "translateExample": "Я не выбрасываю бумагу.",
+        "collocations": [
+          "das Papier"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2aef10ce-e2f8-486f-bbae-983dbf42f2c5",
+        "deExample": "Er hat den Ball ins Tor geworfen.",
+        "translateExample": "Он бросил мяч в ворота.",
+        "collocations": [
+          "der Ball",
+          "das Tor"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b9b5053c-3a60-4615-8436-e3a36c9a7a8c",
+        "deExample": "Man muss den Abfall in den Container werfen.",
+        "translateExample": "Нужно бросать отходы в контейнер.",
+        "collocations": [
+          "der Abfall",
+          "der Container"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "003e7b6d-36b8-4a7b-b220-a7c5ebcf6842",
+        "deExample": "Ich sehe, dass er den Ball wirft.",
+        "translateExample": "Я вижу, что он бросает мяч.",
+        "collocations": [
+          "der Ball"
+        ],
+        "grammarTags": [
+          "dass"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "59b78db9-e10c-4473-a562-83fa6f73df17",
+        "deExample": "Er wird den Schlüssel ins Wasser werfen, wenn er wütend ist.",
+        "translateExample": "Он бросит ключ в воду, если будет злиться.",
+        "collocations": [
+          "der Schlüssel",
+          "das Wasser",
+          "wütend"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "55efa97e-498e-44fa-aed0-58961a513c92",
+        "deExample": "Der Ball wurde ins Fenster geworfen.",
+        "translateExample": "Мяч был брошен в окно.",
+        "collocations": [
+          "der Ball",
+          "das Fenster"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3a6556ca-bb9c-47b7-bfff-5df056466aa5",
+        "deExample": "Es ist wichtig, den Müll richtig zu werfen.",
+        "translateExample": "Важно правильно выбрасывать мусор.",
+        "collocations": [
+          "der Müll",
+          "richtig"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "71627c9c-8bf0-4c1d-87fc-2949a6f648c2",
+        "deExample": "Wohin soll man den Abfall werfen?",
+        "translateExample": "Куда нужно выбрасывать отходы?",
+        "collocations": [
+          "der Abfall"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "08529163-dc77-4c0d-8b80-d51336bac17e",
+        "deExample": "Ich bringe den Müll raus, um ihn nicht auf die Straße zu werfen.",
+        "translateExample": "Я выношу мусор, чтобы не бросать его на улицу.",
+        "collocations": [
+          "der Müll",
+          "die Straße"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "f77326ca-dfed-42ea-82e2-f40637892def",
+    "deWord": "üblich",
+    "translateWord": "принято, обычно",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "be761b0a-1da0-4390-8bba-12bacfe0d709",
+        "deExample": "Es ist üblich, Trinkgeld zu geben.",
+        "translateExample": "Принято давать чаевые.",
+        "collocations": [
+          "Trinkgeld geben"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6c5945c6-cf5d-42a8-ac91-816400fac737",
+        "deExample": "Ist es üblich, das so zu machen?",
+        "translateExample": "Это принято так делать?",
+        "collocations": [
+          "machen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "695d61c0-aedb-4517-8c9e-771f3fdb5b35",
+        "deExample": "Es ist nicht üblich, das zu sagen.",
+        "translateExample": "Это не принято говорить.",
+        "collocations": [
+          "sagen"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "12c234d0-2774-49c8-8688-dfa2134e1177",
+        "deExample": "Es war schon immer üblich.",
+        "translateExample": "Это всегда было принято.",
+        "collocations": [
+          "immer"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "69f89cbd-fe42-4532-8ed9-5ce28fdae5e0",
+        "deExample": "Man muss sich an übliche Regeln halten.",
+        "translateExample": "Нужно придерживаться обычных правил.",
+        "collocations": [
+          "die Regel",
+          "halten"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ffd1f2b5-7953-43a2-9db2-cba2923c3568",
+        "deExample": "Ich glaube, dass das hier üblich ist.",
+        "translateExample": "Я думаю, что здесь это принято.",
+        "collocations": [
+          "glauben",
+          "hier"
+        ],
+        "grammarTags": [
+          "dass"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b1ea56ac-b504-4b80-982c-31c72a2c14fc",
+        "deExample": "Das wird auch in Zukunft üblich sein, wenn sich nichts ändert.",
+        "translateExample": "Это будет принято и в будущем, если ничего не изменится.",
+        "collocations": [
+          "die Zukunft",
+          "ändern"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5ea5e36e-330c-408b-ab11-bba027d8a587",
+        "deExample": "Das ist überall üblich geworden.",
+        "translateExample": "Это стало принятым везде.",
+        "collocations": [
+          "überall"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "36d8c89a-3ce4-4697-a84b-40dcae46c01e",
+        "deExample": "Es ist wichtig, sich an übliche Traditionen zu halten.",
+        "translateExample": "Важно соблюдать обычные традиции.",
+        "collocations": [
+          "die Tradition",
+          "halten"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d7a14de2-a1bb-4888-8c7c-78d16ba35082",
+        "deExample": "Warum ist es üblich, so früh zu essen?",
+        "translateExample": "Почему принято так рано есть?",
+        "collocations": [
+          "essen",
+          "früh"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "48a44f60-2c8c-4cd6-9935-db3a1ec10e5c",
+        "deExample": "Ich lerne viel, um die üblichen Regeln zu verstehen.",
+        "translateExample": "Я много учусь, чтобы понять обычные правила.",
+        "collocations": [
+          "lernen",
+          "die Regel",
+          "verstehen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "73890b2b-310f-4d70-80dc-f87d5a3ef880",
+    "deWord": "das Heft",
+    "translateWord": "тетрадь (in + Akk schreiben)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "18428d01-fee2-42b4-9c01-3038b39d2f04",
+        "deExample": "Das Heft ist neu.",
+        "translateExample": "Тетрадь новая.",
+        "collocations": [
+          "neu"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "17267d96-5858-475b-b832-23fbb71664bf",
+        "deExample": "Schreibst du die Übung ins Heft?",
+        "translateExample": "Ты пишешь упражнение в тетрадь?",
+        "collocations": [
+          "die Übung"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "11db9502-313a-4a11-be55-11f2aea07764",
+        "deExample": "Das Heft ist nicht voll.",
+        "translateExample": "Тетрадь не полная.",
+        "collocations": [
+          "voll"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e5ad8469-1ce1-4d67-ae78-81d00fd781f7",
+        "deExample": "Ich habe das Heft gestern gekauft.",
+        "translateExample": "Я купил тетрадь вчера.",
+        "collocations": [
+          "gestern",
+          "kaufen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ff8da4c3-7833-4d85-b12f-6c088a63ddc5",
+        "deExample": "Man muss in das Heft sauber schreiben.",
+        "translateExample": "Нужно аккуратно писать в тетрадь.",
+        "collocations": [
+          "sauber",
+          "schreiben"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "905c49d2-0a3f-4e45-b2c1-233ead24ff00",
+        "deExample": "Ich sehe, dass das Heft auf dem Tisch liegt.",
+        "translateExample": "Я вижу, что тетрадь лежит на столе.",
+        "collocations": [
+          "der Tisch",
+          "liegen"
+        ],
+        "grammarTags": [
+          "dass"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e4886b79-f154-4f26-96ea-1fe1e36cc16f",
+        "deExample": "Das Heft wird auf den Tisch gelegt, wenn der Unterricht beginnt.",
+        "translateExample": "Тетрадь кладут на стол, когда начинается урок.",
+        "collocations": [
+          "der Tisch",
+          "der Unterricht",
+          "beginnen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ed1d5ae4-5681-4508-b853-09b35b5e9e1e",
+        "deExample": "Das Heft wurde verloren.",
+        "translateExample": "Тетрадь была потеряна.",
+        "collocations": [
+          "verlieren"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9bdfc35a-350c-4ab7-9db5-5a7a387f166f",
+        "deExample": "Es ist wichtig, das Heft ordentlich zu führen.",
+        "translateExample": "Важно аккуратно вести тетрадь.",
+        "collocations": [
+          "ordentlich",
+          "führen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "92e3538e-60d8-474b-85ca-a2725f77982f",
+        "deExample": "Wie kann man lernen, in das Heft richtig zu schreiben?",
+        "translateExample": "Как научиться правильно писать в тетрадь?",
+        "collocations": [
+          "schreiben",
+          "richtig"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "57f6c283-04fc-41d3-9757-19baf15e9f3e",
+        "deExample": "Ich kaufe ein neues, um sauber in das Heft zu schreiben.",
+        "translateExample": "Я покупаю новую тетрадь, чтобы аккуратно писать в ней.",
+        "collocations": [
+          "kaufen",
+          "sauber",
+          "schreiben"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "cab75368-e961-4a8d-9155-dce759f3f661",
+    "deWord": "die Pflanze",
+    "translateWord": "растение (gießen + Akk, pflegen + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "e2e0acad-e146-4a4d-a049-2824cf731797",
+        "deExample": "Die Pflanze ist grün.",
+        "translateExample": "Растение зелёное.",
+        "collocations": [
+          "grün"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "86c55137-c433-46b1-8c2d-ea9f6a858f4e",
+        "deExample": "Gießt du die Pflanze jeden Tag?",
+        "translateExample": "Ты поливаешь растение каждый день?",
+        "collocations": [
+          "gießen",
+          "jeden Tag"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1e352a02-e120-41a9-88d5-b70f9dbb7648",
+        "deExample": "Die Pflanze ist nicht trocken.",
+        "translateExample": "Растение не сухое.",
+        "collocations": [
+          "trocken"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "87238530-c5c4-4034-ad50-52e82c3b8b1d",
+        "deExample": "Ich habe die Pflanze gestern gegossen.",
+        "translateExample": "Я полил растение вчера.",
+        "collocations": [
+          "gestern",
+          "gießen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "62ef33f1-4f4c-425e-818a-fbe98c7edaa4",
+        "deExample": "Man muss die Pflanze regelmäßig pflegen.",
+        "translateExample": "Нужно регулярно ухаживать за растением.",
+        "collocations": [
+          "pflegen",
+          "regelmäßig"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "22d18e38-5741-4901-b851-29342eaca5f7",
+        "deExample": "Ich sehe, dass die Pflanze wächst.",
+        "translateExample": "Я вижу, что растение растёт.",
+        "collocations": [
+          "wachsen"
+        ],
+        "grammarTags": [
+          "dass"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b1cbe94c-9bb0-48ef-a0fe-30ca8f9eae23",
+        "deExample": "Die Pflanze wird größer, wenn man sie gut pflegt.",
+        "translateExample": "Растение вырастет, если за ним хорошо ухаживать.",
+        "collocations": [
+          "größer",
+          "pflegen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "77f9c677-209d-465a-b795-77b3d81ead64",
+        "deExample": "Die Pflanze wurde in den Topf gesetzt.",
+        "translateExample": "Растение было посажено в горшок.",
+        "collocations": [
+          "der Topf",
+          "setzen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "528b428a-e828-4346-8276-bf319f476bd0",
+        "deExample": "Es ist wichtig, die Pflanze im Winter zu schützen.",
+        "translateExample": "Важно защищать растение зимой.",
+        "collocations": [
+          "der Winter",
+          "schützen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "194dbe7d-9984-4134-b222-06503f0db407",
+        "deExample": "Wie kann man lernen, Pflanzen richtig zu pflegen?",
+        "translateExample": "Как научиться правильно ухаживать за растениями?",
+        "collocations": [
+          "pflegen",
+          "richtig"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "362ad2d2-5bb7-487b-904f-1d02c80a8619",
+        "deExample": "Ich gieße die Pflanze jeden Morgen, um sie gesund zu halten.",
+        "translateExample": "Я поливаю растение каждое утро, чтобы оно оставалось здоровым.",
+        "collocations": [
+          "gießen",
+          "jeden Morgen",
+          "gesund"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

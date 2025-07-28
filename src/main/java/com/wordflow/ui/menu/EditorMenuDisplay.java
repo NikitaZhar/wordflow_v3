@@ -2,27 +2,32 @@ package com.wordflow.ui.menu;
 import com.wordflow.ui.InteractionHandler;
 
 public class EditorMenuDisplay {
-//	public void displayEditorMenuOld() {
-//		String menuItems = """
-//				
-//				
-//				  Editor
-//			
-//				[1] View list of words
-//				[2] Edit words
-//				[3] Add new words
-//				[0] Exit
-//				""";
-//		InteractionHandler.displayMessage(menuItems);
-//	}
 	
 	public void displayMenuEditor() {
 		String menuItems = """
 				
 				
-				[🔻🔺] Up, Down     [1] Edit word     [2] Add new words     [3] Delete word 
+				   Editor
 				
+				[1] Show all words
+				[2] Add new words
+				[3] Edit word
+				[4] Delete word
+				
+				[0] Exit
 				""";
 		InteractionHandler.displayMessage(menuItems);
 	}
 }
+
+
+//[1] Show all words
+//[2] Search DE word
+//[3] Edit DE word
+//[4] Edit translated word
+//[5] 
+//[6] Edit DE example
+//[7] Edit translated example
+//[] Delete whole word
+//
+//[0] Exit

@@ -1,0 +1,418 @@
+[
+  {
+    "id": "39e1d126-687f-4c69-adf8-8c57b4c270c1",
+    "deWord": "die Frist",
+    "translateWord": "срок (для чего-то, für + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "cc74e3ee-3a6f-45ec-aa61-62ce186c833c",
+        "deExample": "Die Frist ist kurz.",
+        "translateExample": "Срок короткий.",
+        "collocations": [
+          "kurz"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e7d7fa25-0623-48cd-9e56-02ff4672fde9",
+        "deExample": "Gilt die Frist für alle?",
+        "translateExample": "Срок действует для всех?",
+        "collocations": [
+          "gelten",
+          "alle"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "75247a09-e135-4b0b-ae4c-7b49a672eb0f",
+        "deExample": "Die Frist ist nicht lang.",
+        "translateExample": "Срок не длинный.",
+        "collocations": [
+          "lang"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a52faa3b-b80e-4535-963e-3eb188dbcfa4",
+        "deExample": "Die Frist ist gestern abgelaufen.",
+        "translateExample": "Срок истёк вчера.",
+        "collocations": [
+          "gestern",
+          "ablaufen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "65cc0416-0398-4260-b1d1-70cee3947193",
+        "deExample": "Man muss die Frist beachten.",
+        "translateExample": "Нужно соблюдать срок.",
+        "collocations": [
+          "beachten"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2964e18f-bf4b-487a-a1b5-c2fbbeb1d679",
+        "deExample": "Ich denke, dass die Frist reicht.",
+        "translateExample": "Я думаю, что срока достаточно.",
+        "collocations": [
+          "denken",
+          "reichen"
+        ],
+        "grammarTags": [
+          "dass"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2a5b33be-a7c9-40e2-82c3-d3d1d4229e74",
+        "deExample": "Die Frist wird verlängert, wenn nötig.",
+        "translateExample": "Срок будет продлён, если нужно.",
+        "collocations": [
+          "verlängern",
+          "nötig sein"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ac567a44-6441-470d-9201-8fdcbe899b22",
+        "deExample": "Die Frist wurde vom Gericht gesetzt.",
+        "translateExample": "Срок был установлен судом.",
+        "collocations": [
+          "das Gericht",
+          "setzen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4052b61e-6eac-4c84-b134-cfcdbecdb141",
+        "deExample": "Es ist wichtig, die Frist einzuhalten.",
+        "translateExample": "Важно соблюдать срок.",
+        "collocations": [
+          "einhalten"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e33316bf-6d36-44ae-a11f-286460b41ffa",
+        "deExample": "Wie kann man lernen, die Frist einzuhalten?",
+        "translateExample": "Как можно научиться соблюдать срок?",
+        "collocations": [
+          "lernen",
+          "einhalten"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "75d36954-ed20-45db-a76d-060d8f2f1ec4",
+        "deExample": "Ich erinnere dich, um die Frist nicht zu verpassen.",
+        "translateExample": "Я напоминаю тебе, чтобы не пропустить срок.",
+        "collocations": [
+          "erinnern",
+          "verpassen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "82a8213b-f682-4460-b6b3-c5f4ccab4f49",
+    "deWord": "selbst",
+    "translateWord": "сам, самостоятельно",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "0ade9d14-4643-4a58-8204-c0f5359dac0f",
+        "deExample": "Ich mache das selbst.",
+        "translateExample": "Я делаю это сам.",
+        "collocations": [
+          "machen"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "29bc7d6b-771c-4e98-8fb9-b6494be8ef22",
+        "deExample": "Machst du das selbst?",
+        "translateExample": "Ты делаешь это сам?",
+        "collocations": [
+          "machen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c4db19a2-b472-4c69-907a-3538c19174b2",
+        "deExample": "Ich mache das nicht selbst.",
+        "translateExample": "Я не делаю это сам.",
+        "collocations": [
+          "machen"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b0635444-c12a-4661-bedb-259fb397d69d",
+        "deExample": "Ich habe das selbst gemacht.",
+        "translateExample": "Я сделал это сам.",
+        "collocations": [
+          "machen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "211c69c8-ec10-4504-854e-9af4f3f06427",
+        "deExample": "Man kann das selbst entscheiden.",
+        "translateExample": "Можно решить это самостоятельно.",
+        "collocations": [
+          "entscheiden"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1648da1f-09ff-48b5-a025-e236e7577d7c",
+        "deExample": "Ich weiß, dass ich es selbst tun kann.",
+        "translateExample": "Я знаю, что могу сделать это сам.",
+        "collocations": [
+          "wissen",
+          "tun"
+        ],
+        "grammarTags": [
+          "dass"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b9e6567b-c9c9-4c8c-b709-3786a6386ab9",
+        "deExample": "Ich werde es selbst machen, wenn ich Zeit habe.",
+        "translateExample": "Я сделаю это сам, если у меня будет время.",
+        "collocations": [
+          "machen",
+          "Zeit haben"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "63ae22db-236a-4404-87e6-a7540dc1b6dd",
+        "deExample": "Das wird selbst gemacht.",
+        "translateExample": "Это делается самостоятельно.",
+        "collocations": [
+          "machen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ba3b745d-3c8a-460c-84cd-f2fef42d8874",
+        "deExample": "Es ist gut, selbst zu lernen.",
+        "translateExample": "Хорошо учиться самостоятельно.",
+        "collocations": [
+          "lernen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4dfdb251-be0e-4d1e-8b7e-8010f8ed4701",
+        "deExample": "Wie kann ich lernen, selbst zu kochen?",
+        "translateExample": "Как я могу научиться готовить сам?",
+        "collocations": [
+          "kochen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "78c4c8a3-d49f-48c6-a81f-d12cc7f5f04a",
+        "deExample": "Ich übe jeden Tag, um selbst besser zu werden.",
+        "translateExample": "Я тренируюсь каждый день, чтобы самому стать лучше.",
+        "collocations": [
+          "üben",
+          "besser werden"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

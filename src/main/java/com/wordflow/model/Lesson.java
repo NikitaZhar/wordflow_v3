@@ -2,6 +2,7 @@ package com.wordflow.model;
 
 import static com.wordflow.ui.InteractionHandler.*;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import com.wordflow.exercise.Exercise;
@@ -24,16 +25,15 @@ public class Lesson {
 	
 	private List<Exercise> generateExercises() {
 		return List.of(
-				new NewWordsExercise(dictionary),
-				new ReviewWordsExercise(dictionary),
 				new NewExamplesExercise(dictionary),
-				new ReviewExamplesExercise(dictionary)
+				new ReviewExamplesExercise(dictionary),
+				new NewWordsExercise(dictionary),
+				new ReviewWordsExercise(dictionary)
 ////				new AdjectiveDeclensionExercise(dictionary)
 				);
 	}
 
 	public void runLesson() {
-//		lessonContent();
 		takeSnapshot();
 		for(Exercise exercise : exercises) {
 			exercise.runExercise();
@@ -43,8 +43,7 @@ public class Lesson {
 	}
 	
 	private void takeSnapshot() {
-	    snapShots = new java.util.ArrayList<>();
-
+	    snapShots = new ArrayList<>();
 	    for (Exercise exercise : exercises) {
 	        List<FlashCard> cards = exercise.getLessonContent();
 	        for (FlashCard card : cards) {
@@ -54,20 +53,22 @@ public class Lesson {
 	                        card.getDeWord(),
 	                        card.getProgress().getSuccessCount(),
 	                        card.getProgress().getMinsToRepeat(),
-	                        card
+	                        card,
+	                        null
 	                ));
 	            } else if (exercise instanceof NewExamplesExercise || exercise instanceof ReviewExamplesExercise) {
-	                Example activeExample = card.getExamples().stream()
-	                        .filter(ex -> Boolean.TRUE.equals(ex.getActive()))
+	                Example lessonExample = card.getExamples().stream()
+	                        .filter(ex -> Boolean.TRUE.equals(ex.isActive()))
 	                        .findFirst()
 	                        .orElse(null);
-	                if (activeExample != null) {
+	                if (lessonExample != null) {
 	                    snapShots.add(new CardSnapshot(
-	                            activeExample.getTranslateExample(),
-	                            activeExample.getDeExample(),
-	                            activeExample.getProgress().getSuccessCount(),
-	                            activeExample.getProgress().getMinsToRepeat(),
-	                            card
+	                            lessonExample.getTranslateExample(),
+	                            lessonExample.getDeExample(),
+	                            lessonExample.getProgress().getSuccessCount(),
+	                            lessonExample.getProgress().getMinsToRepeat(),
+	                            card,
+	                            lessonExample
 	                    ));
 	                }
 	            }
@@ -76,102 +77,55 @@ public class Lesson {
 	}
 
 	private void lessonResults() {
-		int deLength = 0;
-		int translateLength = 0;
+	    int deLength = 0;
+	    int ruLength = 0;
 
-	    for(CardSnapshot snapShot : snapShots) {
-	    	if(snapShot.de.length() > deLength) deLength = snapShot.de.length();
-	    	if(snapShot.ru.length() > translateLength) translateLength = snapShot.ru.length();
+	    for (CardSnapshot snapShot : snapShots) {
+	        deLength = Math.max(deLength, snapShot.de.length());
+	        ruLength = Math.max(ruLength, snapShot.ru.length());
 	    }
 	    
+//	    заплатка
+	    if(deLength == 0) deLength = 20;
+	    if(ruLength == 0) ruLength = 20;
+	    
 	    displayMessage("\n                          * * * Lesson Results * * * \n");
-	    
-	    String format = "%-" + translateLength + "s   %-" + deLength + "s   %-12s   %-12s";
+	    String line = new String(new char[deLength + ruLength + 30]).replace('\0', '-');
+	    displayMessage(line);
+	    String format = "%-" + ruLength + "s   %-" + deLength + "s   %-12s   %-12s";
 	    displayMessage(String.format(format, "RU", "DE", "Success", "Interval"));
-	    displayMessage("-".repeat(deLength + translateLength + 29));
-	    
-	    for(CardSnapshot snapShot : snapShots) {
+	    line = new String(new char[deLength + ruLength + 30]).replace('\0', '-');
+	    displayMessage(line);
+
+	    for (CardSnapshot snapShot : snapShots) {
+	        String ruAfter;
+	        String deAfter;
 	        int successAfter;
 	        int intervalAfter;
 
-	        if (snapShot.card.getExamples().isEmpty() || snapShot.ru.equals(snapShot.card.getTranslateWord())) {
-	            // Word case
+	        if (snapShot.example != null) {
+	            Example currentExample = snapShot.card.getExamples().stream()
+	                    .filter(ex -> Boolean.TRUE.equals(ex.isActive()))
+	                    .findFirst()
+	                    .orElse(snapShot.example); // если нет активного — показываем старый
+
+	            ruAfter = currentExample.getTranslateExample();
+	            deAfter = currentExample.getDeExample();
+	            successAfter = currentExample.getProgress().getSuccessCount();
+	            intervalAfter = currentExample.getProgress().getMinsToRepeat();
+	        } else {
+	            ruAfter = snapShot.card.getTranslateWord();
+	            deAfter = snapShot.card.getDeWord();
 	            successAfter = snapShot.card.getProgress().getSuccessCount();
 	            intervalAfter = snapShot.card.getProgress().getMinsToRepeat();
-	        } else {
-	            // Example case
-	            Example activeExample = snapShot.card.getExamples().stream()
-	                    .filter(ex -> Boolean.TRUE.equals(ex.getActive()))
-	                    .findFirst()
-	                    .orElse(null);
-	            if (activeExample != null) {
-	                successAfter = activeExample.getProgress().getSuccessCount();
-	                intervalAfter = activeExample.getProgress().getMinsToRepeat();
-	            } else {
-	                successAfter = -1;
-	                intervalAfter = -1;
-	            }
 	        }
-
-	        String successStr = snapShot.successBefore + " → " + successAfter;
-	        String intervalStr = snapShot.intervalBefore + " → " + intervalAfter;
-
 	        displayMessage(String.format(format,
-	        		snapShot.ru,
-	        		snapShot.de,
-	                successStr,
-	                intervalStr
+	                ruAfter,
+	                deAfter,
+	                snapShot.success + " → " + successAfter,
+	                snapShot.interval + " → " + intervalAfter
 	        ));
 	    }
 	    waitForEnter("\nPress Enter to finish lesson ");
 	}
-
-//	private String getPrintableExerciseName(String className) {
-//		return switch (className) {
-//		case "NewWordsExercise" -> "New words to learn";
-//		case "ReviewWordsExercise" -> "Words to review";
-//		case "NewExamplesExercise" -> "New examples to learn";
-//		case "ReviewExamplesExercise" -> "Examples to review";
-//		default -> "Unknown exercise";
-//		};
-//	}
-//	
-//	private void lessonContent() {
-//	    displayMessage("\n            * * * Lesson Content * * * \n");
-//	    for (Exercise exercise : exercises) {
-//	        List<FlashCard> cards = exercise.getLessonContent();
-//	        if(cards.size() != 0) {
-//	        	displayMessage("  " + getPrintableExerciseName(exercise.getClass().getSimpleName()) + " (" + cards.size() + "):");
-//	        	for (FlashCard card : cards) {
-//	        		if (exercise instanceof NewWordsExercise || exercise instanceof ReviewWordsExercise) {
-//	        			displayMessage("   RU: " + card.getTranslateWord() + " | DE: " + card.getDeWord()
-//	        			+ "  До урока : " + card.getProgress().getSuccessCount()
-//	        			+ "  Интервал до урока : " + card.getProgress().getMinsToRepeat()
-//	        					);
-//	        		} else if (exercise instanceof NewExamplesExercise || exercise instanceof ReviewExamplesExercise) {
-//	        			Example activeExample = card.getExamples().stream()
-//	        					.filter(ex -> Boolean.TRUE.equals(ex.getActive()))
-//	        					.findFirst()
-//	        					.orElse(null);
-//	        			if (activeExample != null) {
-//	        				displayMessage("   RU: " + activeExample.getTranslateExample() +
-//	        						" | DE: " + activeExample.getDeExample()
-//	        						+ "  До урока : " + activeExample.getProgress().getSuccessCount()
-//	        	        			+ "  Интервал до урока : " + activeExample.getProgress().getMinsToRepeat()
-//	        						);
-//	        			} else {
-//	        				displayMessage("  ️ Нет активного примера у слова: " + card.getTranslateWord() +
-//	        						" | " + card.getDeWord());
-//	        			}
-//	        		} else {
-//	        			displayMessage("  ️ Неизвестный тип упражнения для: " + card.getTranslateWord() +
-//	        					" | " + card.getDeWord());
-//	        		}
-//	        	}
-//	        	displayMessage("");
-//	        }
-//	    }
-//	    waitForEnter("Press Enter to start lesson ");
-//	    clearScreen();
-//	}
 }

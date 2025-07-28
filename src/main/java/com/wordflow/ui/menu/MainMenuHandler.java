@@ -34,10 +34,10 @@ public class MainMenuHandler {
 			InteractionHandler.clearScreen();
 			
 			DictionaryRepository repository = new DictionaryRepository("dictionary.json");
-			new Editor(repository).runEditor();
+//			new Editor(repository).runEditor();
 			
 			
-//			new EditorMenuController().runEditorMenu();
+			new EditorMenuController().runEditorMenu();
 			
 //			Dictionary dictionary = new Dictionary(new DictionaryRepository("dictionary.json"));
 //			dictionary.editWordInDictionary();

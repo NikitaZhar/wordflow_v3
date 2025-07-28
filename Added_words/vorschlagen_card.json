@@ -1,0 +1,208 @@
+[
+  {
+    "id": "c16c8ad4-4100-4390-90df-df149eaab12b",
+    "deWord": "vorschlagen - schlug vor - vorgeschlagen",
+    "translateWord": "предлагать (что-то, etwas)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "aebddf37-1072-4d30-9e8c-393072b4c300",
+        "deExample": "Ich schlage einen Film vor.",
+        "translateExample": "Я предлагаю фильм.",
+        "collocations": [
+          "ein Film"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "fe2cc570-67c4-4df6-a358-4d40781ffdbc",
+        "deExample": "Schlägst du etwas anderes vor?",
+        "translateExample": "Ты предлагаешь что-то другое?",
+        "collocations": [
+          "etwas anderes"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4c848b85-946d-4b29-940d-ee3d58f07c81",
+        "deExample": "Ich schlage keinen Ausflug vor.",
+        "translateExample": "Я не предлагаю поездку.",
+        "collocations": [
+          "kein Ausflug"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "efa19fcf-5ed8-48e6-8518-74a129d85496",
+        "deExample": "Er hat eine Lösung vorgeschlagen.",
+        "translateExample": "Он предложил решение.",
+        "collocations": [
+          "eine Lösung"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8a28adc5-c047-4c0a-8230-30a40a536139",
+        "deExample": "Wir müssen einen Plan vorschlagen.",
+        "translateExample": "Нам нужно предложить план.",
+        "collocations": [
+          "ein Plan"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f6998d20-5ad6-4578-945a-4588d71d1a7c",
+        "deExample": "Ich schlage vor, dass wir morgen starten.",
+        "translateExample": "Я предлагаю, чтобы мы начали завтра.",
+        "collocations": [
+          "morgen starten"
+        ],
+        "grammarTags": [
+          "dass"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c5552d65-cb3c-4a93-b399-491a7d4f954a",
+        "deExample": "Ich werde vorschlagen, wenn es nötig ist.",
+        "translateExample": "Я предложу, если это будет нужно.",
+        "collocations": [
+          "nötig sein"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2a2a357b-f0ee-4e75-b182-50451727c73f",
+        "deExample": "Ein neuer Plan wird vorgeschlagen.",
+        "translateExample": "Новый план предлагается.",
+        "collocations": [
+          "ein neuer Plan"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1c398dcb-b55b-4b34-baaa-9a30f9def0da",
+        "deExample": "Es ist wichtig, einen Vorschlag zu machen.",
+        "translateExample": "Важно сделать предложение.",
+        "collocations": [
+          "wichtig sein",
+          "ein Vorschlag"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d4ac19f5-1ad8-4165-bd38-7ac333b6f633",
+        "deExample": "Kannst du versuchen, einen Plan vorzuschlagen?",
+        "translateExample": "Ты можешь попытаться предложить план?",
+        "collocations": [
+          "versuchen",
+          "ein Plan"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "7caf8f8e-1374-42c8-9860-ce1a17ea4b88",
+        "deExample": "Ich spreche mit ihm, um einen Vorschlag zu machen.",
+        "translateExample": "Я разговариваю с ним, чтобы сделать предложение.",
+        "collocations": [
+          "sprechen",
+          "ein Vorschlag"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

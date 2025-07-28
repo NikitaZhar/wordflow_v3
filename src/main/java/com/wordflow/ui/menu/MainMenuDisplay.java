@@ -8,7 +8,7 @@ public class MainMenuDisplay {
 		String menuItems = """
 				
 				
-				  Main Menu
+				   Main Menu
 			
 				[1] Start lesson
 				[2] Today statistics

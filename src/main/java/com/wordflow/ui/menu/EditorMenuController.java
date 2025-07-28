@@ -5,13 +5,12 @@ import com.wordflow.ui.InteractionHandler;
 public class EditorMenuController {
 
     private final EditorMenuDisplay editorMenu = new EditorMenuDisplay();
-//    private EditorMenuDisplay editMenu  = new EditorMenuDisplay();
     private final EditorMenuHandler editorMenuHandler = new EditorMenuHandler();
 
     public void runEditorMenu() {
         boolean continueViewMenu = true;
         while (continueViewMenu) {
-//            InteractionHandler.clearScreen();
+            InteractionHandler.clearScreen();
             editorMenu.displayMenuEditor();
             int choice = InteractionHandler.getIntInputConsole(
                     InteractionHandler.BRIGHT_BLACK +

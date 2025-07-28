@@ -1,0 +1,829 @@
+[
+  {
+    "id": "85801565-965a-485a-849a-0d0849ad91d4",
+    "deWord": "ungewöhnlich",
+    "translateWord": "необычный, непривычный",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "e51a2c33-6cac-4546-bec6-65b4b12529f7",
+        "deExample": "Das Wetter ist heute ungewöhnlich.",
+        "translateExample": "Погода сегодня необычная.",
+        "collocations": [
+          "das Wetter",
+          "heute"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5f57b738-5186-4c27-9d1c-520a05dc9b5e",
+        "deExample": "Ist das nicht ungewöhnlich?",
+        "translateExample": "Разве это не необычно?",
+        "collocations": [
+          "das"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "bda3bd5d-fc2d-4002-bfe7-e3f5ca5a8df6",
+        "deExample": "Diese Situation ist nicht ungewöhnlich.",
+        "translateExample": "Эта ситуация не необычна.",
+        "collocations": [
+          "diese Situation"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "01a6da50-4b3d-4a8e-813d-8dc53bef0ddf",
+        "deExample": "Es war ungewöhnlich kalt gestern.",
+        "translateExample": "Вчера было необычно холодно.",
+        "collocations": [
+          "kalt",
+          "gestern"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "918f5384-0e80-462b-8a74-79c8f371f79f",
+        "deExample": "Man kann sagen, das ist ungewöhnlich.",
+        "translateExample": "Можно сказать, что это необычно.",
+        "collocations": [
+          "sagen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "76e4d40a-9f5e-4a93-86f6-31cbd2061ff2",
+        "deExample": "Ich finde, dass sein Verhalten ungewöhnlich ist.",
+        "translateExample": "Я считаю, что его поведение необычное.",
+        "collocations": [
+          "sein Verhalten",
+          "finden"
+        ],
+        "grammarTags": [
+          "dass"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "d5d78568-3bf0-4af4-986d-513d759b653b",
+        "deExample": "Es wird ungewöhnlich sein, wenn es im Mai schneit.",
+        "translateExample": "Будет необычно, если в мае пойдет снег.",
+        "collocations": [
+          "im Mai schneien"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "16c6a914-40fb-4ab2-a3f5-b4b5bb1a4f75",
+        "deExample": "Ein ungewöhnlicher Fall wurde gemeldet.",
+        "translateExample": "Был сообщен необычный случай.",
+        "collocations": [
+          "ein Fall",
+          "melden"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "669eb990-8ad7-4123-b9cb-fd3080cb1a83",
+        "deExample": "Es ist schwer, etwas Ungewöhnliches zu finden.",
+        "translateExample": "Трудно найти что-то необычное.",
+        "collocations": [
+          "etwas finden"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6f54be5b-e5f1-4abe-b906-73d818633e26",
+        "deExample": "Warum ist es so schwer, etwas Ungewöhnliches zu sehen?",
+        "translateExample": "Почему так трудно увидеть что-то необычное?",
+        "collocations": [
+          "etwas sehen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e2924257-b2a3-485b-8792-70122d9c4bc3",
+        "deExample": "Ich reise viel, um ungewöhnliche Orte zu entdecken.",
+        "translateExample": "Я много путешествую, чтобы открыть необычные места.",
+        "collocations": [
+          "reisen",
+          "Orte entdecken"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "58f9913a-7346-40fc-8e6a-caa495c2c1f2",
+    "deWord": "fix und fertig",
+    "translateWord": "совершенно измотанный, полностью готовый (в зависимости от контекста)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "8f9cede7-2320-4357-a24b-582ef3dd2f6f",
+        "deExample": "Ich bin fix und fertig.",
+        "translateExample": "Я совершенно измотан.",
+        "collocations": [
+          "sein"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6a8a800e-5b73-4c1a-bc80-6f36e02a884a",
+        "deExample": "Bist du fix und fertig?",
+        "translateExample": "Ты полностью готов? / Ты совсем устал?",
+        "collocations": [
+          "sein"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ec84ee3d-7039-4b44-b554-64f23e4d31e9",
+        "deExample": "Ich bin heute nicht fix und fertig.",
+        "translateExample": "Я сегодня не измотан.",
+        "collocations": [
+          "sein"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "678c1e40-f75b-4499-b6ac-a9993c18007d",
+        "deExample": "Nach dem Umzug war ich fix und fertig.",
+        "translateExample": "После переезда я был совершенно измотан.",
+        "collocations": [
+          "der Umzug"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "812ba208-67fa-40bb-b044-39eb93abed16",
+        "deExample": "Man muss nicht immer fix und fertig sein.",
+        "translateExample": "Не обязательно всегда быть измотанным.",
+        "collocations": [
+          "sein"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0b7e2530-2fd7-49a7-999f-e96a006fd842",
+        "deExample": "Ich weiß, dass du fix und fertig bist.",
+        "translateExample": "Я знаю, что ты измотан.",
+        "collocations": [
+          "sein",
+          "wissen"
+        ],
+        "grammarTags": [
+          "dass"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "1266320e-97d8-4a1e-929d-380dba9bbcbc",
+        "deExample": "Du wirst fix und fertig sein, wenn du weiterarbeitest.",
+        "translateExample": "Ты будешь измотан, если продолжишь работать.",
+        "collocations": [
+          "weiterarbeiten"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8f55eb7d-1e76-4182-b6e1-0b3954243945",
+        "deExample": "Das Projekt ist fix und fertig abgeschlossen.",
+        "translateExample": "Проект полностью завершён.",
+        "collocations": [
+          "das Projekt",
+          "abschließen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b87b4a24-5127-4298-8df5-06214ad52aa1",
+        "deExample": "Es ist schwer, fix und fertig zu sein.",
+        "translateExample": "Трудно быть полностью готовым / измотанным.",
+        "collocations": [
+          "schwer sein"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2c2cbf4d-6110-473f-a30e-f6dd2d977812",
+        "deExample": "Warum ist es so schwer, fix und fertig zu sein?",
+        "translateExample": "Почему так трудно быть полностью готовым / измотанным?",
+        "collocations": [
+          "schwer sein"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f48f87c1-0d11-4f72-8a20-029ed9f0c21d",
+        "deExample": "Ich arbeite viel, um das Projekt fix und fertig zu bekommen.",
+        "translateExample": "Я много работаю, чтобы полностью завершить проект.",
+        "collocations": [
+          "das Projekt",
+          "bekommen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "8110ce86-b3fe-4a9e-836b-db12a6b7fa49",
+    "deWord": "einreichen - reichte ein - eingereicht",
+    "translateWord": "подать (документы, Antrag)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "c0fd5778-45fe-4a47-a395-18142a324c98",
+        "deExample": "Ich reiche einen Antrag ein.",
+        "translateExample": "Я подаю заявление.",
+        "collocations": [
+          "ein Antrag"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f46234a6-3cdd-4131-bc25-c04a84ca595a",
+        "deExample": "Reichst du die Unterlagen ein?",
+        "translateExample": "Ты подаёшь документы?",
+        "collocations": [
+          "die Unterlagen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4d86e97b-48fc-4859-a4f5-33fec1f96206",
+        "deExample": "Ich reiche keine Beschwerde ein.",
+        "translateExample": "Я не подаю жалобу.",
+        "collocations": [
+          "eine Beschwerde"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b54bf623-8803-41da-89ee-89ff8cec4606",
+        "deExample": "Er hat die Bewerbung eingereicht.",
+        "translateExample": "Он подал заявку.",
+        "collocations": [
+          "die Bewerbung"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "dd10311d-7400-4ee8-9989-bea70c9e1797",
+        "deExample": "Man muss den Antrag rechtzeitig einreichen.",
+        "translateExample": "Нужно подать заявление вовремя.",
+        "collocations": [
+          "der Antrag",
+          "rechtzeitig"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "02d05ddd-0fcd-4296-9cb2-1b85273b7822",
+        "deExample": "Ich hoffe, dass du alle Papiere einreichst.",
+        "translateExample": "Я надеюсь, что ты подашь все бумаги.",
+        "collocations": [
+          "alle Papiere"
+        ],
+        "grammarTags": [
+          "dass"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0afa1c97-4b1d-4454-89d0-45b9e9ac91b0",
+        "deExample": "Ich werde den Vertrag einreichen, wenn er fertig ist.",
+        "translateExample": "Я подам договор, когда он будет готов.",
+        "collocations": [
+          "der Vertrag",
+          "fertig sein"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f229e13f-cf7b-43fa-b3c3-7f0c66509a17",
+        "deExample": "Der Antrag wurde gestern eingereicht.",
+        "translateExample": "Заявление было подано вчера.",
+        "collocations": [
+          "der Antrag"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "20be968d-836a-4f5c-84d8-0f007b46dbec",
+        "deExample": "Es ist wichtig, alle Dokumente einzureichen.",
+        "translateExample": "Важно подать все документы.",
+        "collocations": [
+          "alle Dokumente"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "99de3a81-87ad-4cf0-bc15-2bbf16b68d52",
+        "deExample": "Kannst du versuchen, die Bewerbung einzureichen?",
+        "translateExample": "Ты можешь попытаться подать заявку?",
+        "collocations": [
+          "die Bewerbung"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f77677ec-65f7-4db4-a3c7-12be713b1d7f",
+        "deExample": "Ich sammle die Unterlagen, um sie morgen einzureichen.",
+        "translateExample": "Я собираю документы, чтобы подать их завтра.",
+        "collocations": [
+          "die Unterlagen",
+          "sammeln"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "4777b488-0325-4655-9028-921cc5d64c0e",
+    "deWord": "bitte nicht schon wieder",
+    "translateWord": "только не снова, пожалуйста",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "752187e5-616d-4cf2-9235-abd46992c7ab",
+        "deExample": "Bitte nicht schon wieder Regen!",
+        "translateExample": "Только не снова дождь!",
+        "collocations": [
+          "der Regen"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "81330470-cc03-4899-9cba-59a3525ce011",
+        "deExample": "Sagst du wirklich: 'Bitte nicht schon wieder'?",
+        "translateExample": "Ты правда говоришь: 'Только не снова'?",
+        "collocations": [
+          "sagen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "935fdf01-abe8-4ed9-8bdb-53bb24208571",
+        "deExample": "Ich sage nicht 'Bitte nicht schon wieder'.",
+        "translateExample": "Я не говорю 'Только не снова'.",
+        "collocations": [
+          "sagen"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8a7d6454-ed84-42ab-b979-57a322d121fb",
+        "deExample": "Gestern habe ich 'Bitte nicht schon wieder' gesagt.",
+        "translateExample": "Вчера я сказал: 'Только не снова'.",
+        "collocations": [
+          "gestern",
+          "sagen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0e0aefb6-9467-45f8-8a1a-6ea7fe861568",
+        "deExample": "Man kann 'Bitte nicht schon wieder' denken.",
+        "translateExample": "Можно подумать: 'Только не снова'.",
+        "collocations": [
+          "denken"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5c6b1855-3244-4345-9dc2-5d518489865a",
+        "deExample": "Ich hoffe, dass ich nicht 'Bitte nicht schon wieder' sagen muss.",
+        "translateExample": "Я надеюсь, что мне не придётся говорить 'Только не снова'.",
+        "collocations": [
+          "hoffen",
+          "sagen müssen"
+        ],
+        "grammarTags": [
+          "dass"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2521fda3-1216-4c5f-9558-5e887c325e92",
+        "deExample": "Ich werde es sagen, wenn es wieder passiert.",
+        "translateExample": "Я скажу это, если это снова случится.",
+        "collocations": [
+          "sagen",
+          "passieren"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3e717691-6418-40dd-9929-68e371a405b6",
+        "deExample": "'Bitte nicht schon wieder' wurde oft gesagt.",
+        "translateExample": "'Только не снова' часто говорили.",
+        "collocations": [
+          "sagen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "486a1282-25e6-46f4-b5f2-e4742253f437",
+        "deExample": "Es ist normal, 'Bitte nicht schon wieder' zu denken.",
+        "translateExample": "Это нормально — думать 'Только не снова'.",
+        "collocations": [
+          "denken"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a311fa51-01f2-41d3-9181-5a6077207f25",
+        "deExample": "Warum ist es so schwer, 'Bitte nicht schon wieder' zu ignorieren?",
+        "translateExample": "Почему так трудно игнорировать 'Только не снова'?",
+        "collocations": [
+          "ignorieren"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "a1ed535e-0ca8-4a42-b894-f3db5114272a",
+        "deExample": "Ich wiederhole es, um meinen Ärger auszudrücken.",
+        "translateExample": "Я повторяю это, чтобы выразить своё раздражение.",
+        "collocations": [
+          "wiederholen",
+          "Ärger ausdrücken"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,1064 @@
+[
+  {
+    "id": "28f921ca-17b1-4288-bd75-1ea3a2ddfc25",
+    "deWord": "der Radiergummi",
+    "translateWord": "ластик (löschen + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "d18262c0-7d29-477e-962c-37ffa550a6fb",
+        "deExample": "Der Radiergummi ist neu.",
+        "translateExample": "Ластик новый.",
+        "collocations": [
+          "neu"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "c1dbe4bc-f936-42d7-b7d9-3e351fa154ae",
+        "deExample": "Benutzt du den Radiergummi oft?",
+        "translateExample": "Ты часто используешь ластик?",
+        "collocations": [
+          "oft",
+          "benutzen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "98573707-8327-453e-b24f-1190d76180b8",
+        "deExample": "Der Radiergummi ist nicht alt.",
+        "translateExample": "Ластик не старый.",
+        "collocations": [
+          "alt"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6cdac1c6-c08d-4db1-8285-c0b9de96fb91",
+        "deExample": "Ich habe den Radiergummi verloren.",
+        "translateExample": "Я потерял ластик.",
+        "collocations": [
+          "verlieren"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ec0af085-0464-4148-869e-3986689926d2",
+        "deExample": "Man muss den Radiergummi vorsichtig benutzen.",
+        "translateExample": "Нужно аккуратно пользоваться ластиком.",
+        "collocations": [
+          "vorsichtig",
+          "benutzen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b9f90fa3-247a-46a9-b759-ab5d720a1aaa",
+        "deExample": "Ich sehe, dass der Radiergummi auf dem Tisch liegt.",
+        "translateExample": "Я вижу, что ластик лежит на столе.",
+        "collocations": [
+          "der Tisch",
+          "liegen"
+        ],
+        "grammarTags": [
+          "dass"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4f4b79be-0c3d-4d20-8719-59dd5df153e1",
+        "deExample": "Der Radiergummi wird dort liegen, wenn du ihn brauchst.",
+        "translateExample": "Ластик будет лежать там, когда он тебе понадобится.",
+        "collocations": [
+          "liegen",
+          "brauchen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "cf5cdb51-4387-44bc-88aa-72b308651d8c",
+        "deExample": "Der Radiergummi wurde vom Schüler benutzt.",
+        "translateExample": "Ластик был использован учеником.",
+        "collocations": [
+          "der Schüler",
+          "benutzen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ac229b58-fe2c-4ffa-98ea-7a8e99ee189d",
+        "deExample": "Es ist wichtig, den Radiergummi richtig zu benutzen.",
+        "translateExample": "Важно правильно пользоваться ластиком.",
+        "collocations": [
+          "richtig",
+          "benutzen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "07923bfd-d3f4-4091-8487-9ffa8a92f9cb",
+        "deExample": "Wie kann man lernen, den Radiergummi effektiv zu nutzen?",
+        "translateExample": "Как научиться эффективно использовать ластик?",
+        "collocations": [
+          "effektiv",
+          "nutzen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6f974acf-877b-42f0-ab88-1e42e8c3dc2f",
+        "deExample": "Ich kaufe einen neuen, um sauber mit dem Radiergummi zu löschen.",
+        "translateExample": "Я покупаю новый, чтобы аккуратно стирать ластиком.",
+        "collocations": [
+          "kaufen",
+          "sauber",
+          "löschen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "ebdc3186-1611-40fa-bb4d-712f92b8398c",
+    "deWord": "die Schachtel",
+    "translateWord": "коробка (legen in + Akk, aufmachen + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "cc6388b1-5d87-4059-a36f-8317058943a3",
+        "deExample": "Die Schachtel ist klein.",
+        "translateExample": "Коробка маленькая.",
+        "collocations": [
+          "klein"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3904dca3-7ab9-4cba-b6cf-0877c1b9474e",
+        "deExample": "Öffnest du die Schachtel jetzt?",
+        "translateExample": "Ты открываешь коробку сейчас?",
+        "collocations": [
+          "öffnen",
+          "jetzt"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9441eab7-cf0f-4ae3-abf0-d79c4f559e5e",
+        "deExample": "Die Schachtel ist nicht leer.",
+        "translateExample": "Коробка не пустая.",
+        "collocations": [
+          "leer"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "72016e65-d4dd-4345-98ce-a95046759357",
+        "deExample": "Ich habe die Schachtel aufgemacht.",
+        "translateExample": "Я открыл коробку.",
+        "collocations": [
+          "aufmachen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "668d8b0c-4d1b-453e-92dc-493071b5d0e9",
+        "deExample": "Man muss die Schachtel vorsichtig öffnen.",
+        "translateExample": "Нужно осторожно открывать коробку.",
+        "collocations": [
+          "vorsichtig",
+          "öffnen"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "060c45be-6c9e-42e2-ad34-eafab48b1bba",
+        "deExample": "Ich sehe, dass die Schachtel auf dem Tisch steht.",
+        "translateExample": "Я вижу, что коробка стоит на столе.",
+        "collocations": [
+          "der Tisch",
+          "stehen"
+        ],
+        "grammarTags": [
+          "dass"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e463b817-2aaa-473e-9ba5-f865f7cd4930",
+        "deExample": "Die Schachtel wird aufgemacht, wenn das Geschenk kommt.",
+        "translateExample": "Коробку откроют, когда придёт подарок.",
+        "collocations": [
+          "das Geschenk",
+          "kommen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8b290649-be4f-45b4-8302-18af81c660f2",
+        "deExample": "Die Schachtel wurde von dem Kind geöffnet.",
+        "translateExample": "Коробка была открыта ребёнком.",
+        "collocations": [
+          "das Kind",
+          "öffnen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "40424f36-8edd-4686-8d6c-0df806fec152",
+        "deExample": "Es ist wichtig, die Schachtel ordentlich zu schließen.",
+        "translateExample": "Важно аккуратно закрывать коробку.",
+        "collocations": [
+          "ordentlich",
+          "schließen"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b00ac132-c6ef-4574-919c-3e6aa5ba6bbb",
+        "deExample": "Wie kann man lernen, die Schachtel schnell zu öffnen?",
+        "translateExample": "Как научиться быстро открывать коробку?",
+        "collocations": [
+          "schnell",
+          "öffnen"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "f50d6399-464e-4483-9a1e-d523d9761241",
+        "deExample": "Ich kaufe eine neue, um darin Geschenke zu legen.",
+        "translateExample": "Я покупаю новую, чтобы класть туда подарки.",
+        "collocations": [
+          "kaufen",
+          "das Geschenk",
+          "legen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "f32084d5-7d63-4dfa-b60c-af1c62a0cfa8",
+    "deWord": "der Zettel",
+    "translateWord": "листок бумаги (schreiben auf + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "83c74b9d-6b9a-42ad-ad41-c45d03d2d3ce",
+        "deExample": "Der Zettel ist weiß.",
+        "translateExample": "Листок бумаги белый.",
+        "collocations": [
+          "weiß"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "5d6b7e9c-022d-47a5-aa17-ff26d6405921",
+        "deExample": "Schreibst du die Nummer auf den Zettel?",
+        "translateExample": "Ты записываешь номер на листок?",
+        "collocations": [
+          "die Nummer",
+          "schreiben"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "aed873b9-9d2e-442e-bb38-8cb951ca88c9",
+        "deExample": "Der Zettel ist nicht sauber.",
+        "translateExample": "Листок не чистый.",
+        "collocations": [
+          "sauber"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "67de337d-75e3-4619-91fc-c6b0e6c93467",
+        "deExample": "Ich habe den Zettel verloren.",
+        "translateExample": "Я потерял листок бумаги.",
+        "collocations": [
+          "verlieren"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "44e9887a-65ad-4439-81a7-5cb988d267e2",
+        "deExample": "Man muss die Information auf den Zettel schreiben.",
+        "translateExample": "Нужно записывать информацию на листок.",
+        "collocations": [
+          "die Information",
+          "schreiben"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3dc1a5c4-c3df-4fcc-8bc7-9fd411816644",
+        "deExample": "Ich sehe, dass der Zettel auf dem Tisch liegt.",
+        "translateExample": "Я вижу, что листок лежит на столе.",
+        "collocations": [
+          "der Tisch",
+          "liegen"
+        ],
+        "grammarTags": [
+          "dass"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "20bc48a7-2a0f-4afe-9a9d-c76cd56ae01c",
+        "deExample": "Der Zettel wird geschrieben, wenn der Lehrer etwas sagt.",
+        "translateExample": "Листок будет заполнен, когда учитель что-то скажет.",
+        "collocations": [
+          "der Lehrer",
+          "sagen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9022b4cc-2c3d-4493-bd0b-8a83a705d102",
+        "deExample": "Der Zettel wurde an die Wand geklebt.",
+        "translateExample": "Листок был приклеен к стене.",
+        "collocations": [
+          "die Wand",
+          "kleben"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "ab38be26-37f5-4a80-aa1e-55476d5d53d5",
+        "deExample": "Es ist wichtig, den Zettel ordentlich zu schreiben.",
+        "translateExample": "Важно аккуратно писать на листке.",
+        "collocations": [
+          "ordentlich",
+          "schreiben"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0753cf75-e207-4983-807c-8544b224748e",
+        "deExample": "Wie kann man lernen, wichtige Dinge auf den Zettel zu schreiben?",
+        "translateExample": "Как научиться записывать важные вещи на листок?",
+        "collocations": [
+          "wichtig",
+          "schreiben"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "97686dce-45e4-4aba-87b8-19be4f37dbef",
+        "deExample": "Ich benutze den Zettel, um mir etwas zu merken.",
+        "translateExample": "Я использую листок, чтобы что-то запомнить.",
+        "collocations": [
+          "benutzen",
+          "merken"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "21a9edd5-6e9d-4e8b-bed9-cdfbead34d96",
+    "deWord": "der Ordner",
+    "translateWord": "папка (ablegen + Akk, sortieren + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "bc8daa69-9662-4604-ae3b-20472207b89d",
+        "deExample": "Der Ordner ist blau.",
+        "translateExample": "Папка синяя.",
+        "collocations": [
+          "blau"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "355b9119-7c3a-4fca-bbfd-94821e54071a",
+        "deExample": "Legst du das Dokument in den Ordner?",
+        "translateExample": "Ты кладёшь документ в папку?",
+        "collocations": [
+          "das Dokument",
+          "legen"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "e96abe18-76b5-4d3d-9f3f-1bfe736e92b3",
+        "deExample": "Der Ordner ist nicht leer.",
+        "translateExample": "Папка не пустая.",
+        "collocations": [
+          "leer"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "38773300-2276-4066-a6c3-2040867d02f2",
+        "deExample": "Ich habe den Ordner gestern gekauft.",
+        "translateExample": "Я купил папку вчера.",
+        "collocations": [
+          "gestern",
+          "kaufen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "0b9e4aa9-a74f-4bc0-80d3-72c7ba31c710",
+        "deExample": "Man muss die Papiere im Ordner ordentlich sortieren.",
+        "translateExample": "Нужно аккуратно сортировать бумаги в папке.",
+        "collocations": [
+          "die Papiere",
+          "ordentlich",
+          "sortieren"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b6c6aac4-3b20-4767-baf7-e0501cc60e1d",
+        "deExample": "Ich sehe, dass der Ordner auf dem Regal steht.",
+        "translateExample": "Я вижу, что папка стоит на полке.",
+        "collocations": [
+          "das Regal",
+          "stehen"
+        ],
+        "grammarTags": [
+          "dass"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "367187ff-d104-4875-8e86-3c6ef2930959",
+        "deExample": "Der Ordner wird geöffnet, wenn der Unterricht beginnt.",
+        "translateExample": "Папку откроют, когда начнётся урок.",
+        "collocations": [
+          "der Unterricht",
+          "beginnen"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "6854913f-e103-45d4-b96a-79376c1cf0f0",
+        "deExample": "Der Ordner wurde für die Dokumente benutzt.",
+        "translateExample": "Папка была использована для документов.",
+        "collocations": [
+          "die Dokumente",
+          "benutzen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "728c0dc9-2a6e-4c61-867c-a46769b4b5e7",
+        "deExample": "Es ist wichtig, den Ordner regelmäßig zu kontrollieren.",
+        "translateExample": "Важно регулярно проверять папку.",
+        "collocations": [
+          "regelmäßig",
+          "kontrollieren"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3442bf4d-46fe-4a5e-920c-9342cea07df1",
+        "deExample": "Wie kann man lernen, den Ordner besser zu organisieren?",
+        "translateExample": "Как научиться лучше организовывать папку?",
+        "collocations": [
+          "besser",
+          "organisieren"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "4f6113de-1d51-4d3f-a8da-d0b0b4891735",
+        "deExample": "Ich kaufe einen neuen, um die Dokumente sauber zu ordnen.",
+        "translateExample": "Я покупаю новый, чтобы аккуратно упорядочить документы.",
+        "collocations": [
+          "kaufen",
+          "die Dokumente",
+          "ordnen"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "9b41c99d-1761-4920-8567-7a59e15e60f1",
+    "deWord": "die Schere",
+    "translateWord": "ножницы (schneiden + Akk)",
+    "progress": {
+      "successCount": 0,
+      "lastReviewTime": null,
+      "interval": 0
+    },
+    "exerciseType": "VOCAB",
+    "examples": [
+      {
+        "id": "cc56c1d7-d014-43e1-9ae4-06908ecf6182",
+        "deExample": "Die Schere ist scharf.",
+        "translateExample": "Ножницы острые.",
+        "collocations": [
+          "scharf"
+        ],
+        "grammarTags": [
+          "Präsens",
+          "Adjektiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "8f7d9f09-f63a-4d6f-bbad-6daa97affe4c",
+        "deExample": "Schneidest du das Papier mit der Schere?",
+        "translateExample": "Ты режешь бумагу ножницами?",
+        "collocations": [
+          "das Papier",
+          "schneiden"
+        ],
+        "grammarTags": [
+          "Frage"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "55bc93f9-c84e-40f7-aa01-d23c86392741",
+        "deExample": "Die Schere ist nicht stumpf.",
+        "translateExample": "Ножницы не тупые.",
+        "collocations": [
+          "stumpf"
+        ],
+        "grammarTags": [
+          "Negation"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b7afdbdc-c237-45e2-923e-ee5d383d50ac",
+        "deExample": "Ich habe die Schere gestern benutzt.",
+        "translateExample": "Я вчера использовал ножницы.",
+        "collocations": [
+          "gestern",
+          "benutzen"
+        ],
+        "grammarTags": [
+          "Perfekt"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3e708259-fa94-4e87-9182-ef3780709868",
+        "deExample": "Man muss vorsichtig mit der Schere schneiden.",
+        "translateExample": "Нужно осторожно резать ножницами.",
+        "collocations": [
+          "vorsichtig",
+          "schneiden"
+        ],
+        "grammarTags": [
+          "Modalverb"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "2e3f8628-8081-40e2-a88f-ac7adb414718",
+        "deExample": "Ich sehe, dass die Schere auf dem Tisch liegt.",
+        "translateExample": "Я вижу, что ножницы лежат на столе.",
+        "collocations": [
+          "der Tisch",
+          "liegen"
+        ],
+        "grammarTags": [
+          "dass"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3a76cdf6-c675-4ed1-bcc5-ea3c9b7bcc4a",
+        "deExample": "Die Schere wird benutzt, wenn der Karton geschnitten werden muss.",
+        "translateExample": "Ножницы будут использоваться, когда нужно будет разрезать картон.",
+        "collocations": [
+          "der Karton",
+          "schneiden"
+        ],
+        "grammarTags": [
+          "Futur I",
+          "wenn"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "88cf6b75-2aa9-4ed2-b849-825d9a959954",
+        "deExample": "Die Schere wurde von dem Kind benutzt.",
+        "translateExample": "Ножницы были использованы ребёнком.",
+        "collocations": [
+          "das Kind",
+          "benutzen"
+        ],
+        "grammarTags": [
+          "Passiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "9530c457-f7ad-4572-b3ba-da49a34077c3",
+        "deExample": "Es ist wichtig, mit der Schere sauber zu schneiden.",
+        "translateExample": "Важно аккуратно резать ножницами.",
+        "collocations": [
+          "sauber",
+          "schneiden"
+        ],
+        "grammarTags": [
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "3a1b3669-0600-4843-909c-a1641973e75a",
+        "deExample": "Wie kann man lernen, besser mit der Schere zu schneiden?",
+        "translateExample": "Как научиться лучше резать ножницами?",
+        "collocations": [
+          "besser",
+          "schneiden"
+        ],
+        "grammarTags": [
+          "Frage",
+          "zu + Infinitiv"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      },
+      {
+        "id": "b5b41bf9-cbfc-4b69-86a8-e48cfc5d953a",
+        "deExample": "Ich kaufe eine neue, um Papier einfacher zu schneiden.",
+        "translateExample": "Я покупаю новые, чтобы легче резать бумагу.",
+        "collocations": [
+          "kaufen",
+          "das Papier",
+          "einfach"
+        ],
+        "grammarTags": [
+          "um...zu"
+        ],
+        "progress": {
+          "successCount": 0,
+          "lastReviewTime": null,
+          "interval": 0
+        },
+        "active": false
+      }
+    ]
+  }
+]

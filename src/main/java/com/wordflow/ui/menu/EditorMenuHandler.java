@@ -1,5 +1,7 @@
 package com.wordflow.ui.menu;
+import com.wordflow.editor.EditWord;
 import com.wordflow.editor.Editor;
+import com.wordflow.model.Dictionary;
 import com.wordflow.repository.DictionaryRepository;
 import com.wordflow.ui.InteractionHandler;
 
@@ -10,23 +12,29 @@ public class EditorMenuHandler {
 //			View list of words
 			InteractionHandler.clearScreen();
 			DictionaryRepository repository = new DictionaryRepository("dictionary.json");
-			new Editor(repository).runEditor();
+			new Editor(repository).showDictionary();
 			return true;
 		}
 		case 2 -> {
-//			Edit words
+//			Add words
 			InteractionHandler.clearScreen();
-//                    dictionary.viewWordList();
-			InteractionHandler.waitForEnter("Press Enter to return to View Menu");
+			new Dictionary(new DictionaryRepository("dictionary.json")).addNewWordsToDictionary();
 			return true;
 		}
 		case 3 -> {
-//			Add new words
+//			Edit word
 			InteractionHandler.clearScreen();
-//                    dictionary.handleWordEditing();
+            DictionaryRepository repository = new DictionaryRepository("dictionary.json");
+            new EditWord(repository).runFlashCardEditor();
+			return true;
+		}
+		case 4 -> {
+//			Delete word
+			InteractionHandler.clearScreen();
 			InteractionHandler.waitForEnter("Press Enter to return to View Menu");
 			return true;
 		}
+
 		case 0 -> {
 			return false;
 		}

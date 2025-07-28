@@ -1,5 +1,7 @@
 package com.wordflow.model;
 
+import static com.wordflow.ui.InteractionHandler.waitForEnter;
+
 import java.util.List;
 
 public class Example {
@@ -17,7 +19,7 @@ public class Example {
 //    public Progress getExampleProgress() { return progress; }
     public void setProgress(Progress progress) { this.progress = progress; }
 
-    public Boolean getActive() { return active; }
+    public Boolean isActive() { return active; }
     public void setActive(Boolean active) { this.active = active; }
 
     public String getDeExample() { return deExample; }
@@ -44,8 +46,6 @@ public class Example {
         progress.setIntervalToRepeat();
     }
     
-    
-
     @Override
     public String toString() {
         return "\n * Examples * " +

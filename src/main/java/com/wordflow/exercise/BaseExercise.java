@@ -20,10 +20,10 @@ public abstract class BaseExercise implements Exercise {
 			WHITE + " DE : " + RESET + "%s" + " >";
 	
 	private static final String FULL_CARD_TEMPLATE =
-			QUESTION + "\n" +
-					WHITE + " DE : " + RESET + "%s\n" +  
-					BRIGHT_BLACK + "	Press Enter to continue" +
-					RESET;
+			GREEN + " RU : " + RESET + "%s \n" +
+			WHITE + " DE : " + RESET + "%s \n" +  
+			BRIGHT_BLACK + "	Press Enter to continue" +
+			RESET;
 
 	public void showQuestion(FlashCard card) {
 		displayMessage(String.format(QUESTION, card.getTranslateWord()));

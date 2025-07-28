@@ -5,6 +5,7 @@ com/wordflow/DatabaseConnector.class
 com/wordflow/exercise/ReviewWordsExercise.class
 com/wordflow/ui/menu/MainMenuDisplay.class
 com/wordflow/model/FlashCard.class
+com/wordflow/editor/EditWord.class
 com/wordflow/config/AppDefaults.class
 com/wordflow/ui/statistics/Statistics.class
 com/wordflow/exercise/BaseExercise.class
